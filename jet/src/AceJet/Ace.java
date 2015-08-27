@@ -309,7 +309,7 @@ public class Ace {
 			PerfectAce.buildEntityMentionMap (doc, keyDoc);
 			JetTest.nameTagger = new PerfectNameTagger(keyDoc, realNameTagger);
 		}
-		doc.setAllTags(true);
+		doc.setAllTags(true);// if true, all tags should be converted to annotations
 		// doc.setEmptyTags(new String[] {"W", "TURN"});
 		doc.open();
 		AceDocument aceDoc = processDocument (doc, currentDocId, currentDocFileName, currentDocPathBase);
@@ -379,7 +379,7 @@ public class Ace {
 				}
 			}
 		}
-		tagReciprocalRelations(doc);
+		tagReciprocalRelations(doc); // assigns reciprocal relations subject-1 and object-1
 		String docId = getDocId(doc);
 		if (docId == null)
 			docId = sourceId;
@@ -468,10 +468,11 @@ public class Ace {
 		Vector<Annotation> textSegments = doc.annotationsOfType ("TEXT");
 		Span span;
 		if (textSegments != null && textSegments.size() > 0)
-			span = textSegments.get(0).span();
+			span = textSegments.get(0).span();	//@di ? the span of doc = text to be processed
 		else
-			span = doc.fullSpan();		
-		return allLowerCase (doc, span);
+			span = doc.fullSpan();
+		return allLowerCase (doc, span);  //span may indicate the scope of the text to be processed in the document
+		//in AFP_ENG_20030304.0250, span is 145-1322
 	}
 
 	static float MAX_UPPER = 0.50f;
@@ -570,7 +571,7 @@ public class Ace {
 
 	private static AceEntity buildEntity (Annotation entity, int ientity,
 			Document doc, String docId, String docText) {
-		Vector mentions = (Vector) entity.get("mentions");
+		Vector mentions = (Vector) entity.get("mentions"); //entity mention
 		Annotation firstMention = (Annotation) mentions.get(0);
 		String aceTypeSubtype;
 		aceTypeSubtype = EDTtype.getTypeSubtype (doc, entity, firstMention);
