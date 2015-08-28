@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=ISO-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>AnnotationTool</title>
+  <meta content="Ralph Grishman" name="author">
+  <meta content="Jet Utility" name="description">
+</head>
+<body style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);"
+ alink="#0000ff" link="#ff0000" vlink="#800080">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">AnnotationTool</font></font></h1>
+<font color="#000000">The AnnotationTool provides the ability to
+examine and modify annotations on individual documents.&nbsp;
+It is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+Jet.Tipster.AnnotationTool</span></font></big><font color="#000000">&nbsp;
+<span style="font-style: italic;">document colorFile</span></font><br>
+</div>
+<font color="#000000"><br>
+where <span style="font-style: italic;">document</span> is the name of
+the file containing the document, and <span
+ style="font-style: italic;">colorFile</span></font> is a list of the 
+annotation types to be examined and added, and the key associated with adding that
+annotation;&nbsp; it consists of a sequence of lines of the form<br>
+<br>
+<div style="margin-left: 40px;">type color key</div>
+or
+<div style="margin-left: 40px;">type feature feature-value color key<br>
+</div>
+<br>
+where<br>
+<dl style="margin-left: 40px;">
+  <dt>type</dt>
+  <dd>is the annotation type</dd>
+  <dt>feature</dt>
+  <dd>if present, is a feature of the annotation</dd>
+  <dt>feature-value</dt>
+  <dd>is the value of that feature</dd>
+  <dt>color</dt>
+  <dd>is a 24-bit integer specifying the highlighting color (RGB
+encoding) for highlighting instances of that annotation in the text</dd>
+  <dt>key</dt>
+  <dd>is a single character specifying the key binding for assigning an
+annotation of that type in the tool</dd>
+</dl>
+<p>
+For example, a color file to annotate a document with <tt>ENAMEX</tt>
+tags for people, organizations, and locations would be
+<br><br><div style="margin-left: 40px;"><tt>
+ENAMEX TYPE PERSON 0xff0000 p <br>
+ENAMEX TYPE ORGANIZATION 0xff o <br>
+ENAMEX TYPE GPE 0xff00 g
+</div></tt><br><br>
+The document to be annotated must have &lt;TEXT&gt; ... &lt;/TEXT&gt;
+tags;&nbsp; only text between these tags can be annotated.&nbsp; The
+tool recognizes the following keystrokes<br>
+<table
+ style="text-align: left; width: 80%; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 255);"
+ border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">right arrow<br>
+      </td>
+      <td style="vertical-align: top;">move selection one token to the
+right<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">left arrow<br>
+      </td>
+      <td style="vertical-align: top;">move selection one token to the
+left<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">shift - right arrow<br>
+      </td>
+      <td style="vertical-align: top;">extend the selection one token
+to the right<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">shift - left arrow<br>
+      </td>
+      <td style="vertical-align: top;">extend the selection one token
+to the left<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">u<br>
+      </td>
+      <td style="vertical-align: top;">remove the annotation on the
+selected tokens ('unannotate')<br>
+(the selection must exactly correspond to the span of an annotation<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">q or Q<br>
+      </td>
+      <td style="vertical-align: top;">save file and quit<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">blank<br>
+      </td>
+      <td style="vertical-align: top;">scroll to end of region to be
+annotated<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+In addition, the tool recognizes the keys which are paired with
+annotation types in the color file.&nbsp; The selection point may also
+be repositioned by selecting a token with the mouse.&nbsp; To modify an
+annotation, one must first remove the annotation and then add a
+corrected annotation.<br>
+</body>
+</html>

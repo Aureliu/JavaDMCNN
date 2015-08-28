@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030404.0439.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030404.0439">
+  <entity ID="APW_ENG_20030404.0439-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="113" END="118">MOSCOW</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="118">MOSCOW</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MOSCOW">
+        <charseq START="113" END="118">MOSCOW</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-2-0">
+      <extent>
+        <charseq START="121" END="122">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="122">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="121" END="122">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="126" END="131">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="131">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="420" END="425">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="425">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="671" END="676">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="671" END="676">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030404.0439-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="881" END="882">It</charseq>
+      </extent>
+      <head>
+        <charseq START="881" END="882">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1111" END="1116">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1111" END="1116">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="1431" END="1436">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1431" END="1436">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="126" END="131">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="420" END="425">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="671" END="676">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="1111" END="1116">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="1431" END="1436">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-0">
+      <extent>
+        <charseq START="163" END="172">World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="172">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-1">
+      <extent>
+        <charseq START="279" END="288">World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="279" END="288">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-2">
+      <extent>
+        <charseq START="314" END="327">The World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="327">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-3">
+      <extent>
+        <charseq START="439" END="448">World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="448">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-4">
+      <extent>
+        <charseq START="515" END="528">the
+World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="528">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-5">
+      <extent>
+        <charseq START="647" END="660">the World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="651" END="660">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-4-6">
+      <extent>
+        <charseq START="727" END="735">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="731" END="735">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-4-7">
+      <extent>
+        <charseq START="848" END="857">World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="848" END="857">World Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="World Bank">
+        <charseq START="163" END="172">World Bank</charseq>
+      </name>
+      <name NAME="World Bank">
+        <charseq START="279" END="288">World Bank</charseq>
+      </name>
+      <name NAME="World Bank">
+        <charseq START="318" END="327">World Bank</charseq>
+      </name>
+      <name NAME="World Bank">
+        <charseq START="439" END="448">World Bank</charseq>
+      </name>
+      <name NAME="World Bank">
+        <charseq START="519" END="528">World Bank</charseq>
+      </name>
+      <name NAME="World Bank">
+        <charseq START="651" END="660">World Bank</charseq>
+      </name>
+      <name NAME="World Bank">
+        <charseq START="848" END="857">World Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-5-0">
+      <extent>
+        <charseq START="279" END="298">World Bank officials</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="298">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-6-0">
+      <extent>
+        <charseq START="484" END="512">patients receiving medication</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="491">patients</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-7-0">
+      <extent>
+        <charseq START="564" END="587">President Vladimir Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="587">Vladimir Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-7-1">
+      <extent>
+        <charseq START="564" END="572">President</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="572">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vladimir Putin">
+        <charseq START="574" END="587">Vladimir Putin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030404.0439-8-0">
+      <extent>
+        <charseq START="831" END="843">Olesoji Adeyi</charseq>
+      </extent>
+      <head>
+        <charseq START="831" END="843">Olesoji Adeyi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030404.0439-8-1">
+      <extent>
+        <charseq START="915" END="916">he</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="916">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Olesoji Adeyi">
+        <charseq START="831" END="843">Olesoji Adeyi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-9-0">
+      <extent>
+        <charseq START="846" END="875">a World Bank health
+specialist</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="875">specialist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-10-0">
+      <extent>
+        <charseq START="936" END="941">people</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="941">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030404.0439-10-1">
+      <extent>
+        <charseq START="1041" END="1042">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1041" END="1042">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-11-0">
+      <extent>
+        <charseq START="1214" END="1222">Officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1214" END="1222">Officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-12-0">
+      <extent>
+        <charseq START="1279" END="1292">health experts</charseq>
+      </extent>
+      <head>
+        <charseq START="1286" END="1292">experts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030404.0439-13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030404.0439-13-0">
+      <extent>
+        <charseq START="1431" END="1458">Russia&apos;s overcrowded prisons</charseq>
+      </extent>
+      <head>
+        <charseq START="1452" END="1458">prisons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20030404.0439-T0" VAL="2003-04-04">
+    <timex2_mention ID="APW_ENG_20030404.0439-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030404</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030404.0439-T1" VAL="P4Y">
+    <timex2_mention ID="APW_ENG_20030404.0439-T1-1">
+      <extent>
+        <charseq START="267" END="276">four years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030404.0439-T2" VAL="2003-04-04">
+    <timex2_mention ID="APW_ENG_20030404.0439-T2-1">
+      <extent>
+        <charseq START="305" END="310">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030404.0439-T3" VAL="1999">
+    <timex2_mention ID="APW_ENG_20030404.0439-T3-1">
+      <extent>
+        <charseq START="355" END="358">1999</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030404.0439-T4" VAL="2003">
+    <timex2_mention ID="APW_ENG_20030404.0439-T4-1">
+      <extent>
+        <charseq START="636" END="644">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030404.0439-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030404.0439-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030404.0439-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030404.0439-R1-1">
+      <extent>
+        <charseq START="279" END="298">World Bank officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="279" END="298">World Bank officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="279" END="288">World Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030404.0439-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030404.0439-6" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030404.0439-3" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030404.0439-R2-1">
+      <extent>
+        <charseq START="420" END="512">Russia objected to World Bank
+rules that required monitoring of patients receiving medication</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="484" END="512">patients receiving medication</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="420" END="425">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030404.0439-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030404.0439-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030404.0439-3" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030404.0439-R3-1">
+      <extent>
+        <charseq START="671" END="735">Russia has one of the fastest growing AIDS epidemics in the world</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-4-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="727" END="735">the world</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-3-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="671" END="676">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030404.0439-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030404.0439-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030404.0439-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030404.0439-R4-1">
+      <extent>
+        <charseq START="846" END="875">a World Bank health
+specialist</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="846" END="875">a World Bank health
+specialist</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-4-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="848" END="857">World Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030404.0439-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030404.0439-3" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030404.0439-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030404.0439-R5-1">
+      <extent>
+        <charseq START="1431" END="1458">Russia&apos;s overcrowded prisons</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-3-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="1431" END="1436">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030404.0439-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1431" END="1458">Russia&apos;s overcrowded prisons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030404.0439-EV1" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030404.0439-T3" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030404.0439-4" ROLE="Recipient"/>
+    <event_argument REFID="APW_ENG_20030404.0439-4" ROLE="Giver"/>
+    <event_argument REFID="APW_ENG_20030404.0439-3" ROLE="Recipient"/>
+    <event_mention ID="APW_ENG_20030404.0439-EV1-1">
+      <extent>
+        <charseq START="126" END="177">Russia has accepted a US$150 million World Bank loan</charseq>
+      </extent>
+      <anchor>
+        <charseq START="174" END="177">loan</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-4-0" ROLE="Giver"/>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-3-0" ROLE="Recipient"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030404.0439-EV1-2">
+      <extent>
+        <charseq START="347" END="358">loan in 1999</charseq>
+      </extent>
+      <anchor>
+        <charseq START="347" END="350">loan</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-4-2" ROLE="Recipient"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030404.0439-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030404.0439-7" ROLE="Entity"/>
+    <event_mention ID="APW_ENG_20030404.0439-EV3-1">
+      <extent>
+        <charseq START="557" END="572">talks, President</charseq>
+      </extent>
+      <anchor>
+        <charseq START="557" END="561">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-7-1" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030404.0439-EV4" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030404.0439-T4" ROLE="Time-Starting"/>
+    <event_argument REFID="APW_ENG_20030404.0439-4" ROLE="Recipient"/>
+    <event_mention ID="APW_ENG_20030404.0439-EV4-1">
+      <extent>
+        <charseq START="607" END="610">loan</charseq>
+      </extent>
+      <anchor>
+        <charseq START="607" END="610">loan</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-T4-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="APW_ENG_20030404.0439-4-5" ROLE="Recipient"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030404.0439-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030404.0439-EV5-1">
+      <extent>
+        <charseq START="1173" END="1177">abuse</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1173" END="1177">abuse</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

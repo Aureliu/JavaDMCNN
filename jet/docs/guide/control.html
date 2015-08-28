@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Controlling Jet</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Controlling Your
+Jet</font></font></h1>
+The operation of Jet is controlled through a <i>parameter file</i>, as
+well as through the <a href="console.html">Jet console</a>.&nbsp; This
+file specifies the file names for the various linguistic resources
+(lexicon,
+patterns, etc.) as well as the sequence of tools to be applied to the
+text.
+The name of the parameter file is given as an argument when Jet is
+invoked;&nbsp; if no argument is specified, you will be prompted for
+the parameter file (if the program is connected to a terminal).
+<p>The parameter file consists of lines with the format
+</p>
+<blockquote>parameter = value</blockquote>
+The equal sign may be preceded or followed by whitespace
+characters.&nbsp;
+If a value is very long, it may be continued on the next line by
+placing
+a backslash ("\") at the end of the line.&nbsp; Comments -- lines
+beginning
+with a "#" -- may be included.
+<br>
+&nbsp;
+<center>
+<table border="3" cellspacing="3" cellpadding="8" bgcolor="#ccffff">
+  <tbody>
+    <tr>
+      <td>EnglishLex.fileName*</td>
+      <td>file(s) containing English lexicons (relative to Jet.dataPath)</td>
+    </tr>
+    <tr>
+      <td>Pattern.fileName*</td>
+      <td>file(s) containing patterns (relative to Jet.dataPath)</td>
+    </tr>
+    <tr>
+      <td>Grammar.fileName</td>
+      <td>file containing grammar (relative to Jet.dataPath)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">Gazetteer.fileName<br>
+      </td>
+      <td style="vertical-align: top;">file containing gazetteer
+(relative to Jet.dataPath) ... file of location names (countries,
+states, etc.) used by reference resolution and for ACE<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Concepts.fileName</td>
+      <td>file containing concept hierarchy (relative to Jet.dataPath)</td>
+    </tr>
+    <tr>
+      <td>WriteSGML.type</td>
+      <td>annotation type to be included when document is written in
+SGML format</td>
+    </tr>
+    <tr>
+      <td>JetTest.fileName*</td>
+      <td>file(s) containing documents to be processed (relative to
+Jet.dataPath)</td>
+    </tr>
+    <tr>
+      <td>Jet.dataPath</td>
+      <td>directory containing data files</td>
+    </tr>
+    <tr>
+      <td><a href="scripts.html">processDocument</a></td>
+      <td>sequence of actions to be performed on document</td>
+    </tr>
+    <tr>
+      <td><a href="scripts.html">processTextZone</a></td>
+      <td>sequence of actions to be performed on text zone</td>
+    </tr>
+    <tr>
+      <td><a href="scripts.html">processSentence</a></td>
+      <td>sequence of actions to be performed on each sentence</td>
+    </tr>
+    <tr>
+      <td>Jet.batch</td>
+      <td>if assigned any value, run in batch mode:&nbsp; process
+documents given
+by JetTest.fileName, <br>
+do not display console, and send all console messages to standard output</td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<p>An * indicates that multiple values of the parameter may be given,
+each
+beginning with the parameter name;&nbsp; all the specified files will
+be
+read.&nbsp; For example,
+</p>
+<blockquote><tt>EnglishLex.fileName1 = bigDict.txt</tt> <br>
+  <tt>EnglishLex.fileName2 = smallDict.txt</tt></blockquote>
+will cause both <tt>bigDict.txt</tt> and <tt>smallDict.txt</tt> to be
+loaded
+and used.
+</body>
+</html>

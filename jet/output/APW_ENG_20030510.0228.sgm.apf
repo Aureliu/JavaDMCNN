@@ -1,0 +1,1192 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030510.0228.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030510.0228">
+  <entity ID="APW_ENG_20030510.0228-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="141" END="148">KHARTOUM</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="148">KHARTOUM</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="KHARTOUM">
+        <charseq START="141" END="148">KHARTOUM</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="151" END="155">Sudan</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="155">Sudan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="427" END="434">Sudanese</charseq>
+      </extent>
+      <head>
+        <charseq START="427" END="434">Sudanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="704" END="708">Sudan</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="708">Sudan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1723" END="1727">Sudan</charseq>
+      </extent>
+      <head>
+        <charseq START="1723" END="1727">Sudan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1998" END="2005">Sudanese</charseq>
+      </extent>
+      <head>
+        <charseq START="1998" END="2005">Sudanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="2272" END="2285">southern
+Sudan</charseq>
+      </extent>
+      <head>
+        <charseq START="2281" END="2285">Sudan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sudan">
+        <charseq START="151" END="155">Sudan</charseq>
+      </name>
+      <name NAME="Sudanese">
+        <charseq START="427" END="434">Sudanese</charseq>
+      </name>
+      <name NAME="Sudan">
+        <charseq START="704" END="708">Sudan</charseq>
+      </name>
+      <name NAME="Sudan">
+        <charseq START="1723" END="1727">Sudan</charseq>
+      </name>
+      <name NAME="Sudanese">
+        <charseq START="1998" END="2005">Sudanese</charseq>
+      </name>
+      <name NAME="Sudan">
+        <charseq START="2281" END="2285">Sudan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-3-0">
+      <extent>
+        <charseq START="158" END="159">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="159">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-3-1">
+      <extent>
+        <charseq START="491" END="506">Associated Press</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="506">Associated Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="158" END="159">AP</charseq>
+      </name>
+      <name NAME="Associated Press">
+        <charseq START="491" END="506">Associated Press</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-4-0">
+      <extent>
+        <charseq START="163" END="184">A state security court</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="184">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-5-0">
+      <extent>
+        <charseq START="196" END="206">a newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="206">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-5-1">
+      <extent>
+        <charseq START="313" END="325">the newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="325">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="220" END="233">the
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="233">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="261" END="262">it</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="262">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="1006" END="1015">government</charseq>
+      </extent>
+      <head>
+        <charseq START="1006" END="1015">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="1733" END="1764">an Islamic-orientated government</charseq>
+      </extent>
+      <head>
+        <charseq START="1755" END="1764">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="2210" END="2223">the
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="2214" END="2223">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-7-0">
+      <extent>
+        <charseq START="313" END="334">the newspaper&apos;s lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="334">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-8-0">
+      <extent>
+        <charseq START="343" END="362">The Khartoum Monitor</charseq>
+      </extent>
+      <head>
+        <charseq START="347" END="362">Khartoum Monitor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-8-1">
+      <extent>
+        <charseq START="656" END="666">the
+Monitor</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="666">Monitor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-8-2">
+      <extent>
+        <charseq START="1573" END="1583">the Monitor</charseq>
+      </extent>
+      <head>
+        <charseq START="1577" END="1583">Monitor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-8-3">
+      <extent>
+        <charseq START="1834" END="1844">the Monitor</charseq>
+      </extent>
+      <head>
+        <charseq START="1838" END="1844">Monitor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-8-4">
+      <extent>
+        <charseq START="1874" END="1876">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1874" END="1876">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-8-5">
+      <extent>
+        <charseq START="2088" END="2098">The Monitor</charseq>
+      </extent>
+      <head>
+        <charseq START="2092" END="2098">Monitor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-8-6">
+      <extent>
+        <charseq START="2126" END="2128">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2126" END="2128">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Khartoum Monitor">
+        <charseq START="347" END="362">Khartoum Monitor</charseq>
+      </name>
+      <name NAME="Monitor">
+        <charseq START="660" END="666">Monitor</charseq>
+      </name>
+      <name NAME="Monitor">
+        <charseq START="1577" END="1583">Monitor</charseq>
+      </name>
+      <name NAME="Monitor">
+        <charseq START="1838" END="1844">Monitor</charseq>
+      </name>
+      <name NAME="Monitor">
+        <charseq START="2092" END="2098">Monitor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-9-0">
+      <extent>
+        <charseq START="459" END="480">lawyer Ngor Olang
+Ngor</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="480">Ngor Olang
+Ngor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-9-1">
+      <extent>
+        <charseq START="459" END="464">lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="459" END="464">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-9-2">
+      <extent>
+        <charseq START="822" END="825">Ngor</charseq>
+      </extent>
+      <head>
+        <charseq START="822" END="825">Ngor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-9-3">
+      <extent>
+        <charseq START="1047" END="1050">Ngor</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1050">Ngor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ngor Olang Ngor">
+        <charseq START="466" END="480">Ngor Olang
+Ngor</charseq>
+      </name>
+      <name NAME="Ngor">
+        <charseq START="822" END="825">Ngor</charseq>
+      </name>
+      <name NAME="Ngor">
+        <charseq START="1047" END="1050">Ngor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-10-0">
+      <extent>
+        <charseq START="714" END="743">a leading
+critic of conditions</charseq>
+      </extent>
+      <head>
+        <charseq START="724" END="729">critic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="761" END="771">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="765" END="771">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-12-0">
+      <extent>
+        <charseq START="904" END="908">court</charseq>
+      </extent>
+      <head>
+        <charseq START="904" END="908">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-12-1">
+      <extent>
+        <charseq START="2059" END="2063">court</charseq>
+      </extent>
+      <head>
+        <charseq START="2059" END="2063">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-13-0">
+      <extent>
+        <charseq START="976" END="1001">the National Press Council</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="1001">National Press Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-13-1">
+      <extent>
+        <charseq START="1084" END="1109">the National Press Council</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1109">National Press Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="National Press Council">
+        <charseq START="980" END="1001">National Press Council</charseq>
+      </name>
+      <name NAME="National Press Council">
+        <charseq START="1088" END="1109">National Press Council</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-14-0">
+      <extent>
+        <charseq START="1004" END="1030">a government-appointed body</charseq>
+      </extent>
+      <head>
+        <charseq START="1027" END="1030">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-15-0">
+      <extent>
+        <charseq START="1059" END="1109">The secretary general of the National Press Council</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1079">general</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-16-0">
+      <extent>
+        <charseq START="1063" END="1071">secretary</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1071">secretary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-17-0">
+      <extent>
+        <charseq START="1112" END="1125">Hashim el-Jazz</charseq>
+      </extent>
+      <head>
+        <charseq START="1112" END="1125">Hashim el-Jazz</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-17-1">
+      <extent>
+        <charseq START="1161" END="1163">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1161" END="1163">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hashim el-Jazz">
+        <charseq START="1112" END="1125">Hashim el-Jazz</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-18-0">
+      <extent>
+        <charseq START="1190" END="1198">The court</charseq>
+      </extent>
+      <head>
+        <charseq START="1194" END="1198">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-19" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-19-0">
+      <extent>
+        <charseq START="1241" END="1304">25 of the Press
+Law, which prohibits the publication of material</charseq>
+      </extent>
+      <head>
+        <charseq START="1241" END="1242">25</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-20-0">
+      <extent>
+        <charseq START="1247" END="1259">the Press
+Law</charseq>
+      </extent>
+      <head>
+        <charseq START="1251" END="1259">Press
+Law</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Press Law">
+        <charseq START="1251" END="1259">Press
+Law</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-21-0">
+      <extent>
+        <charseq START="1409" END="1428">the-editor published</charseq>
+      </extent>
+      <head>
+        <charseq START="1413" END="1418">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-22-0">
+      <extent>
+        <charseq START="1548" END="1562">security police</charseq>
+      </extent>
+      <head>
+        <charseq START="1557" END="1562">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-23-0">
+      <extent>
+        <charseq START="1573" END="1601">the Monitor&apos;s managing
+editor</charseq>
+      </extent>
+      <head>
+        <charseq START="1596" END="1601">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-23-1">
+      <extent>
+        <charseq START="1632" END="1634">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1632" END="1634">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030510.0228-23-2">
+      <extent>
+        <charseq START="1645" END="1646">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1645" END="1646">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030510.0228-24-0">
+      <extent>
+        <charseq START="1604" END="1612">Nhial Bol</charseq>
+      </extent>
+      <head>
+        <charseq START="1604" END="1612">Nhial Bol</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nhial Bol">
+        <charseq START="1604" END="1612">Nhial Bol</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-25-0">
+      <extent>
+        <charseq START="1770" END="1801">a substantial
+Christian minority</charseq>
+      </extent>
+      <head>
+        <charseq START="1794" END="1801">minority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-26-0">
+      <extent>
+        <charseq START="1847" END="1864">security officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1856" END="1864">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-27" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-27-0">
+      <extent>
+        <charseq START="1874" END="1894">its editorial offices</charseq>
+      </extent>
+      <head>
+        <charseq START="1888" END="1894">offices</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-28" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-28-0">
+      <extent>
+        <charseq START="2126" END="2136">its offices</charseq>
+      </extent>
+      <head>
+        <charseq START="2130" END="2136">offices</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030510.0228-29" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030510.0228-29-0">
+      <extent>
+        <charseq START="2310" END="2323">abducted women</charseq>
+      </extent>
+      <head>
+        <charseq START="2319" END="2323">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030510.0228-V2" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="APW_ENG_20030510.0228-V2-1">
+      <extent>
+        <charseq START="417" END="441">1 million Sudanese pounds</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030510.0228-V8" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030510.0228-V8-1">
+      <extent>
+        <charseq START="1375" END="1385">The charges</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030510.0228-V10" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030510.0228-V10-1">
+      <extent>
+        <charseq START="1665" END="1692">incitement of public discord</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030510.0228-V12" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="APW_ENG_20030510.0228-V12-1">
+      <extent>
+        <charseq START="1987" END="2012">15 million Sudanese
+pounds</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030510.0228-T0" VAL="2003-05-10">
+    <timex2_mention ID="APW_ENG_20030510.0228-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030510</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T1" VAL="2003-05-10">
+    <timex2_mention ID="APW_ENG_20030510.0228-T1-1">
+      <extent>
+        <charseq START="235" END="242">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T2" VAL="P2M">
+    <timex2_mention ID="APW_ENG_20030510.0228-T2-1">
+      <extent>
+        <charseq START="383" END="392">two months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T3" VAL="P20Y">
+    <timex2_mention ID="APW_ENG_20030510.0228-T3-1">
+      <extent>
+        <charseq START="811" END="818">20 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T4" VAL="2003-05-10">
+    <timex2_mention ID="APW_ENG_20030510.0228-T4-1">
+      <extent>
+        <charseq START="1179" END="1186">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T5" VAL="2003-04">
+    <timex2_mention ID="APW_ENG_20030510.0228-T5-1">
+      <extent>
+        <charseq START="1430" END="1439">last month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T6" VAL="2003-W19">
+    <timex2_mention ID="APW_ENG_20030510.0228-T6-1">
+      <extent>
+        <charseq START="1537" END="1545">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T7" VAL="PT24H">
+    <timex2_mention ID="APW_ENG_20030510.0228-T7-1">
+      <extent>
+        <charseq START="1619" END="1626">24 hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T8" VAL="2003-05-08">
+    <timex2_mention ID="APW_ENG_20030510.0228-T8-1">
+      <extent>
+        <charseq START="1899" END="1906">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T9" VAL="6000">
+    <timex2_mention ID="APW_ENG_20030510.0228-T9-1">
+      <extent>
+        <charseq START="2024" END="2028">6,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T10" VAL="2002">
+    <timex2_mention ID="APW_ENG_20030510.0228-T10-1">
+      <extent>
+        <charseq START="2076" END="2084">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T11" VAL="2003-05-09">
+    <timex2_mention ID="APW_ENG_20030510.0228-T11-1">
+      <extent>
+        <charseq START="2115" END="2120">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030510.0228-T12" VAL="2002">
+    <timex2_mention ID="APW_ENG_20030510.0228-T12-1">
+      <extent>
+        <charseq START="2155" END="2163">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030510.0228-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030510.0228-7" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R1-1">
+      <extent>
+        <charseq START="313" END="334">the newspaper&apos;s lawyer</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="313" END="334">the newspaper&apos;s lawyer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="313" END="325">the newspaper</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030510.0228-14" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R2-1">
+      <extent>
+        <charseq START="1004" END="1030">a government-appointed body</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1004" END="1030">a government-appointed body</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-6-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1006" END="1015">government</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R3" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030510.0228-16" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R3-1">
+      <extent>
+        <charseq START="1059" END="1109">The secretary general of the National Press Council</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1063" END="1071">secretary</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1059" END="1109">The secretary general of the National Press Council</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030510.0228-15" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R4-1">
+      <extent>
+        <charseq START="1059" END="1109">The secretary general of the National Press Council</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1059" END="1109">The secretary general of the National Press Council</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-13-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1084" END="1109">the National Press Council</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030510.0228-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R5-1">
+      <extent>
+        <charseq START="1573" END="1601">the Monitor&apos;s managing
+editor</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1573" END="1601">the Monitor&apos;s managing
+editor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1573" END="1583">the Monitor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030510.0228-25" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R6-1">
+      <extent>
+        <charseq START="1723" END="1801">Sudan has an Islamic-orientated government and a substantial
+Christian minority</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1770" END="1801">a substantial
+Christian minority</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-2-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1723" END="1727">Sudan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R7" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030510.0228-26" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-27" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R7-1">
+      <extent>
+        <charseq START="1847" END="1894">security officials went to
+its editorial offices</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1847" END="1864">security officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1874" END="1894">its editorial offices</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030510.0228-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-27" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R8-1">
+      <extent>
+        <charseq START="1874" END="1894">its editorial offices</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-8-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="1874" END="1876">its</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1874" END="1894">its editorial offices</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030510.0228-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-28" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R9-1">
+      <extent>
+        <charseq START="2126" END="2136">its offices</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-8-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="2126" END="2128">its</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-28-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2126" END="2136">its offices</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030510.0228-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030510.0228-6" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030510.0228-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030510.0228-R10-1">
+      <extent>
+        <charseq START="1723" END="1764">Sudan has an Islamic-orientated government</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-6-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="1733" END="1764">an Islamic-orientated government</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030510.0228-2-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1723" END="1727">Sudan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030510.0228-EV1" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-V12" ROLE="Money"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T8" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030510.0228-27" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030510.0228-9" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030510.0228-V2" ROLE="Money"/>
+    <event_argument REFID="APW_ENG_20030510.0228-8" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T2" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV1-1">
+      <extent>
+        <charseq START="409" END="441">fine of 1 million Sudanese pounds</charseq>
+      </extent>
+      <anchor>
+        <charseq START="409" END="412">fine</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-V2-1" ROLE="Money"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-8-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030510.0228-EV1-2">
+      <extent>
+        <charseq START="528" END="531">fine</charseq>
+      </extent>
+      <anchor>
+        <charseq START="528" END="531">fine</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030510.0228-EV1-3">
+      <extent>
+        <charseq START="856" END="859">fine</charseq>
+      </extent>
+      <anchor>
+        <charseq START="856" END="859">fine</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-9-2" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030510.0228-EV1-4">
+      <extent>
+        <charseq START="1979" END="2012">fine of 15 million Sudanese
+pounds</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1979" END="1982">fine</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-V12-1" ROLE="Money"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-27-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV3" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-8" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T8" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030510.0228-27" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV3-1">
+      <extent>
+        <charseq START="640" END="666">actions against the
+Monitor</charseq>
+      </extent>
+      <anchor>
+        <charseq START="640" END="646">actions</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-8-1" ROLE="Defendant"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030510.0228-EV3-2">
+      <extent>
+        <charseq START="1819" END="1844">action against the Monitor</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1819" END="1824">action</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-8-3" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-27-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030510.0228-EV4-1">
+      <extent>
+        <charseq START="788" END="790">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="788" END="790">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV6" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-14" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030510.0228-6" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV6-1">
+      <extent>
+        <charseq START="1017" END="1025">appointed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1017" END="1025">appointed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-14-0" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-6-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV7" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-17" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T4" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV7-1">
+      <extent>
+        <charseq START="1152" END="1163">calls to his</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1152" END="1156">calls</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-17-1" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV8" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-V8" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV8-1">
+      <extent>
+        <charseq START="1379" END="1385">charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1379" END="1385">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-V8-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV9" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030510.0228-EV9-1">
+      <extent>
+        <charseq START="1398" END="1404">letters</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1398" END="1404">letters</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030510.0228-EV9-2">
+      <extent>
+        <charseq START="1471" END="1476">letter</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1471" END="1476">letter</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV11" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-22" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030510.0228-23" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T6" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV11-1">
+      <extent>
+        <charseq START="1548" END="1601">security police detained the Monitor&apos;s managing
+editor</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1564" END="1571">detained</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-22-0" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-23-0" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T6-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV12" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-23" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030510.0228-V10" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV12-1">
+      <extent>
+        <charseq START="1632" END="1642">his release</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1636" END="1642">release</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-23-1" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-V10-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV13" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030510.0228-EV13-1">
+      <extent>
+        <charseq START="1713" END="1719">letters</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1713" END="1719">letters</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV15" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-27" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T8" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030510.0228-26" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV15-1">
+      <extent>
+        <charseq START="1866" END="1906">went to
+its editorial offices on Thursday</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1866" END="1869">went</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-27-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-26-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV17" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-T10" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030510.0228-12" ROLE="Adjudicator"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV17-1">
+      <extent>
+        <charseq START="2065" END="2074">conviction</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2065" END="2074">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T10-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-12-1" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV18" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-T12" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV18-1">
+      <extent>
+        <charseq START="2155" END="2171">last year&apos;s trial</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2167" END="2171">trial</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T12-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030510.0228-EV19" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030510.0228-29" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030510.0228-2" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030510.0228-T12" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030510.0228-EV19-1">
+      <extent>
+        <charseq START="2300" END="2323">transport abducted women</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2300" END="2308">transport</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-29-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-2-5" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030510.0228-T12-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

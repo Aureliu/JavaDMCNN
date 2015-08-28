@@ -1,0 +1,858 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030324.0768.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030324.0768">
+  <entity ID="APW_ENG_20030324.0768-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="117" END="123">LAHAINA</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="123">LAHAINA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LAHAINA">
+        <charseq START="117" END="123">LAHAINA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="126" END="131">Hawaii</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="131">Hawaii</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hawaii">
+        <charseq START="126" END="131">Hawaii</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-3-0">
+      <extent>
+        <charseq START="134" END="135">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="135">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="134" END="135">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-4-0">
+      <extent>
+        <charseq START="139" END="202">The premier of the western Canadian province of British Columbia</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="149">premier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="166" END="173">Canadian</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="173">Canadian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="182">the western Canadian province</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="182">province</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="788" END="793">Canada</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="793">Canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Canadian">
+        <charseq START="166" END="173">Canadian</charseq>
+      </name>
+      <name NAME="Canada">
+        <charseq START="788" END="793">Canada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="187" END="202">British Columbia</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="202">British Columbia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British Columbia">
+        <charseq START="187" END="202">British Columbia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="249" END="256">Hawaiian</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="256">Hawaiian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hawaiian">
+        <charseq START="249" END="256">Hawaiian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-0">
+      <extent>
+        <charseq START="280" END="294">Gordon Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="280" END="294">Gordon Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-1">
+      <extent>
+        <charseq START="539" END="550">Mr. Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="550">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-8-2">
+      <extent>
+        <charseq START="539" END="541">Mr.</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="541">Mr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-3">
+      <extent>
+        <charseq START="678" END="685">Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="678" END="685">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-8-4">
+      <extent>
+        <charseq START="730" END="732">his</charseq>
+      </extent>
+      <head>
+        <charseq START="730" END="732">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-8-5">
+      <extent>
+        <charseq START="796" END="797">He</charseq>
+      </extent>
+      <head>
+        <charseq START="796" END="797">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-6">
+      <extent>
+        <charseq START="825" END="832">Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="832">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-7">
+      <extent>
+        <charseq START="901" END="908">Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="901" END="908">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-8-8">
+      <extent>
+        <charseq START="915" END="916">he</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="916">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-9">
+      <extent>
+        <charseq START="968" END="975">Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="968" END="975">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-8-10">
+      <extent>
+        <charseq START="1028" END="1030">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1028" END="1030">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-11">
+      <extent>
+        <charseq START="1087" END="1094">Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="1087" END="1094">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-8-12">
+      <extent>
+        <charseq START="1276" END="1283">Campbell</charseq>
+      </extent>
+      <head>
+        <charseq START="1276" END="1283">Campbell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-8-13">
+      <extent>
+        <charseq START="1353" END="1354">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1353" END="1354">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-8-14">
+      <extent>
+        <charseq START="1361" END="1362">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1361" END="1362">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gordon Campbell">
+        <charseq START="280" END="294">Gordon Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="543" END="550">Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="678" END="685">Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="825" END="832">Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="901" END="908">Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="968" END="975">Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="1087" END="1094">Campbell</charseq>
+      </name>
+      <name NAME="Campbell">
+        <charseq START="1276" END="1283">Campbell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-9-0">
+      <extent>
+        <charseq START="455" END="467">the defendant</charseq>
+      </extent>
+      <head>
+        <charseq START="459" END="467">defendant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-9-1">
+      <extent>
+        <charseq START="601" END="602">he</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="602">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030324.0768-9-2">
+      <extent>
+        <charseq START="617" END="618">he</charseq>
+      </extent>
+      <head>
+        <charseq START="617" END="618">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-10-0">
+      <extent>
+        <charseq START="633" END="662">District Judge Reinette Cooper</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="662">Reinette Cooper</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-10-1">
+      <extent>
+        <charseq START="642" END="646">Judge</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="646">Judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Reinette Cooper">
+        <charseq START="648" END="662">Reinette Cooper</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-11-0">
+      <extent>
+        <charseq START="698" END="702">court</charseq>
+      </extent>
+      <head>
+        <charseq START="698" END="702">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-12-0">
+      <extent>
+        <charseq START="705" END="723">Lawyer Steven Barta</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="723">Steven Barta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-12-1">
+      <extent>
+        <charseq START="705" END="710">Lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="705" END="710">Lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Steven Barta">
+        <charseq START="712" END="723">Steven Barta</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-13-0">
+      <extent>
+        <charseq START="730" END="739">his client</charseq>
+      </extent>
+      <head>
+        <charseq START="734" END="739">client</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="865" END="898">the provincial capital of Victoria</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="886">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="891" END="898">Victoria</charseq>
+      </extent>
+      <head>
+        <charseq START="891" END="898">Victoria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Victoria">
+        <charseq START="891" END="898">Victoria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-16-0">
+      <extent>
+        <charseq START="1012" END="1017">police</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1017">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-17" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-17-0">
+      <extent>
+        <charseq START="1055" END="1084">a rented sport-utility vehicle</charseq>
+      </extent>
+      <head>
+        <charseq START="1078" END="1084">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-18-0">
+      <extent>
+        <charseq START="1070" END="1076">utility</charseq>
+      </extent>
+      <head>
+        <charseq START="1070" END="1076">utility</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1250" END="1258">Vancouver</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1258">Vancouver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vancouver">
+        <charseq START="1250" END="1258">Vancouver</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030324.0768-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1299" END="1316">British Columbians</charseq>
+      </extent>
+      <head>
+        <charseq START="1299" END="1316">British Columbians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British Columbians">
+        <charseq START="1299" END="1316">British Columbians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030324.0768-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030324.0768-21-0">
+      <extent>
+        <charseq START="1344" END="1350">premier</charseq>
+      </extent>
+      <head>
+        <charseq START="1344" END="1350">premier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030324.0768-V3" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030324.0768-V3-1">
+      <extent>
+        <charseq START="495" END="504">the charge</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030324.0768-V5" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="APW_ENG_20030324.0768-V5-1">
+      <extent>
+        <charseq START="1124" END="1136">0.161 percent</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030324.0768-V6" TYPE="Job-Title">
+    <value_mention ID="APW_ENG_20030324.0768-V6-1">
+      <extent>
+        <charseq START="1344" END="1350">premier</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030324.0768-T0" VAL="2003-03-24">
+    <timex2_mention ID="APW_ENG_20030324.0768-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030324</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030324.0768-T1" VAL="2003-01">
+    <timex2_mention ID="APW_ENG_20030324.0768-T1-1">
+      <extent>
+        <charseq START="270" END="276">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030324.0768-T2" VAL="2003-03-24">
+    <timex2_mention ID="APW_ENG_20030324.0768-T2-1">
+      <extent>
+        <charseq START="669" END="674">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030324.0768-T3" VAL="P2D">
+    <timex2_mention ID="APW_ENG_20030324.0768-T3-1">
+      <extent>
+        <charseq START="1260" END="1267">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030324.0768-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030324.0768-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R1-1">
+      <extent>
+        <charseq START="117" END="131">LAHAINA, Hawaii</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="117" END="123">LAHAINA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="126" END="131">Hawaii</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030324.0768-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R2-1">
+      <extent>
+        <charseq START="139" END="202">The premier of the western Canadian province of British Columbia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="139" END="202">The premier of the western Canadian province of British Columbia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="154" END="182">the western Canadian province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030324.0768-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R3-1">
+      <extent>
+        <charseq START="139" END="202">The premier of the western Canadian province of British Columbia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="139" END="202">The premier of the western Canadian province of British Columbia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="187" END="202">British Columbia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030324.0768-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R4-1">
+      <extent>
+        <charseq START="139" END="256">The premier of the western Canadian province of British Columbia
+pleaded no contest to driving drunk during a Hawaiian</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="139" END="202">The premier of the western Canadian province of British Columbia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="249" END="256">Hawaiian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R5" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030324.0768-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R5-1">
+      <extent>
+        <charseq START="730" END="739">his client</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-8-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="730" END="732">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="730" END="739">his client</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030324.0768-14" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R6-1">
+      <extent>
+        <charseq START="865" END="898">the provincial capital of Victoria</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="865" END="898">the provincial capital of Victoria</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="891" END="898">Victoria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R7" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030324.0768-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-14" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R7-1">
+      <extent>
+        <charseq START="865" END="908">the provincial capital of Victoria, Campbell</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-8-7" ROLE="Arg-1">
+          <extent>
+            <charseq START="901" END="908">Campbell</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="865" END="898">the provincial capital of Victoria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R8" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030324.0768-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R8-1">
+      <extent>
+        <charseq START="891" END="908">Victoria, Campbell</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-8-7" ROLE="Arg-1">
+          <extent>
+            <charseq START="901" END="908">Campbell</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="891" END="898">Victoria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030324.0768-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R9-1">
+      <extent>
+        <charseq START="1028" END="1084">him
+driving erratically in a rented sport-utility vehicle</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-8-10" ROLE="Arg-1">
+          <extent>
+            <charseq START="1028" END="1030">him</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1055" END="1084">a rented sport-utility vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030324.0768-18" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R10-1">
+      <extent>
+        <charseq START="1055" END="1084">a rented sport-utility vehicle</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1070" END="1076">utility</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1055" END="1084">a rented sport-utility vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030324.0768-R11" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030324.0768-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030324.0768-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030324.0768-R11-1">
+      <extent>
+        <charseq START="1250" END="1283">Vancouver two days
+later, Campbell</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-8-12" ROLE="Arg-1">
+          <extent>
+            <charseq START="1276" END="1283">Campbell</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030324.0768-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1250" END="1258">Vancouver</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030324.0768-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-7" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030324.0768-T1" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030324.0768-4" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV1-1">
+      <extent>
+        <charseq START="249" END="265">Hawaiian vacation</charseq>
+      </extent>
+      <anchor>
+        <charseq START="258" END="265">vacation</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-7-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-4-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-8" ROLE="Giver"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV2-1">
+      <extent>
+        <charseq START="280" END="313">Gordon Campbell was ordered to pay</charseq>
+      </extent>
+      <anchor>
+        <charseq START="311" END="313">pay</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-8-0" ROLE="Giver"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV3" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-8" ROLE="Entity"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV3-1">
+      <extent>
+        <charseq START="280" END="319">Gordon Campbell was ordered to pay fines</charseq>
+      </extent>
+      <anchor>
+        <charseq START="315" END="319">fines</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-8-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030324.0768-EV3-2">
+      <extent>
+        <charseq START="845" END="849">fines</charseq>
+      </extent>
+      <anchor>
+        <charseq START="845" END="849">fines</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-8-5" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030324.0768-EV4-1">
+      <extent>
+        <charseq START="412" END="416">abuse</charseq>
+      </extent>
+      <anchor>
+        <charseq START="412" END="416">abuse</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV5" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-V3" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV5-1">
+      <extent>
+        <charseq START="499" END="504">charge</charseq>
+      </extent>
+      <anchor>
+        <charseq START="499" END="504">charge</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-V3-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV6" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-8" ROLE="Giver"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV6-1">
+      <extent>
+        <charseq START="825" END="839">Campbell to pay</charseq>
+      </extent>
+      <anchor>
+        <charseq START="837" END="839">pay</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-8-6" ROLE="Giver"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-19" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030324.0768-T3" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030324.0768-8" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV8-1">
+      <extent>
+        <charseq START="1237" END="1258">returning to Vancouver</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1237" END="1245">returning</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-19-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-8-12" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030324.0768-EV9" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030324.0768-20" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030324.0768-8" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030324.0768-T3" ROLE="Time-At-End"/>
+    <event_argument REFID="APW_ENG_20030324.0768-V6" ROLE="Position"/>
+    <event_mention ID="APW_ENG_20030324.0768-EV9-1">
+      <extent>
+        <charseq START="1260" END="1350">two days
+later, Campbell apologized to British Columbians, but refused to
+resign as premier</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1334" END="1339">resign</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-20-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-8-12" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-T3-1" ROLE="Time-At-End"/>
+      <event_mention_argument REFID="APW_ENG_20030324.0768-V6-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

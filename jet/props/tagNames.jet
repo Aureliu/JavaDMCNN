@@ -1,0 +1,4 @@
+# JET properties file for name tagging
+Jet.dataPath      = data
+NameTags.fileName = MUCnameHMM.txt
+processSentence   = tagNames

@@ -1,0 +1,1430 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030304.0555.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030304.0555">
+  <entity ID="APW_ENG_20030304.0555-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="156" END="165">WASHINGTON</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="165">WASHINGTON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="WASHINGTON">
+        <charseq START="156" END="165">WASHINGTON</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-2-0">
+      <extent>
+        <charseq START="168" END="169">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="169">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="168" END="169">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-3-0">
+      <extent>
+        <charseq START="200" END="214">the White House</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="214">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-3-1">
+      <extent>
+        <charseq START="800" END="810">White House</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="810">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-3-2">
+      <extent>
+        <charseq START="2288" END="2298">White House</charseq>
+      </extent>
+      <head>
+        <charseq START="2288" END="2298">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-3-3">
+      <extent>
+        <charseq START="3866" END="3876">White House</charseq>
+      </extent>
+      <head>
+        <charseq START="3866" END="3876">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="204" END="214">White House</charseq>
+      </name>
+      <name NAME="White House">
+        <charseq START="800" END="810">White House</charseq>
+      </name>
+      <name NAME="White House">
+        <charseq START="2288" END="2298">White House</charseq>
+      </name>
+      <name NAME="White House">
+        <charseq START="3866" END="3876">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-4-0">
+      <extent>
+        <charseq START="275" END="288">United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="288">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-4-1">
+      <extent>
+        <charseq START="2556" END="2573">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="2560" END="2573">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-4-2">
+      <extent>
+        <charseq START="3034" END="3037">U.N.</charseq>
+      </extent>
+      <head>
+        <charseq START="3034" END="3037">U.N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-4-3">
+      <extent>
+        <charseq START="3139" END="3152">United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="3139" END="3152">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United Nations">
+        <charseq START="275" END="288">United Nations</charseq>
+      </name>
+      <name NAME="United Nations">
+        <charseq START="2560" END="2573">United Nations</charseq>
+      </name>
+      <name NAME="U.N.">
+        <charseq START="3034" END="3037">U.N.</charseq>
+      </name>
+      <name NAME="United Nations">
+        <charseq START="3139" END="3152">United Nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-5-0">
+      <extent>
+        <charseq START="411" END="446">presidential
+spokesman Ari Fleischer</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="446">Ari Fleischer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-5-1">
+      <extent>
+        <charseq START="424" END="432">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="432">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-5-2">
+      <extent>
+        <charseq START="1801" END="1809">Fleischer</charseq>
+      </extent>
+      <head>
+        <charseq START="1801" END="1809">Fleischer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-5-3">
+      <extent>
+        <charseq START="2106" END="2114">Fleischer</charseq>
+      </extent>
+      <head>
+        <charseq START="2106" END="2114">Fleischer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-5-4">
+      <extent>
+        <charseq START="2138" END="2150">the spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="2142" END="2150">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-5-5">
+      <extent>
+        <charseq START="3248" END="3256">Fleischer</charseq>
+      </extent>
+      <head>
+        <charseq START="3248" END="3256">Fleischer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-5-6">
+      <extent>
+        <charseq START="3505" END="3513">Fleischer</charseq>
+      </extent>
+      <head>
+        <charseq START="3505" END="3513">Fleischer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030304.0555-5-7">
+      <extent>
+        <charseq START="3697" END="3698">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3697" END="3698">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030304.0555-5-8">
+      <extent>
+        <charseq START="3853" END="3854">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3853" END="3854">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ari Fleischer">
+        <charseq START="434" END="446">Ari Fleischer</charseq>
+      </name>
+      <name NAME="Fleischer">
+        <charseq START="1801" END="1809">Fleischer</charseq>
+      </name>
+      <name NAME="Fleischer">
+        <charseq START="2106" END="2114">Fleischer</charseq>
+      </name>
+      <name NAME="Fleischer">
+        <charseq START="3248" END="3256">Fleischer</charseq>
+      </name>
+      <name NAME="Fleischer">
+        <charseq START="3505" END="3513">Fleischer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-6-0">
+      <extent>
+        <charseq START="476" END="499">President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="499">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-6-1">
+      <extent>
+        <charseq START="476" END="484">President</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="484">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-6-2">
+      <extent>
+        <charseq START="3088" END="3100">The president</charseq>
+      </extent>
+      <head>
+        <charseq START="3092" END="3100">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="486" END="499">George W. Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-7-0">
+      <extent>
+        <charseq START="505" END="516">his advisers</charseq>
+      </extent>
+      <head>
+        <charseq START="509" END="516">advisers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="676" END="680">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="676" END="680">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="1933" END="1936">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1933" END="1936">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="2098" END="2101">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2098" END="2101">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqi">
+        <charseq START="676" END="680">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1933" END="1936">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2098" END="2101">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-9-0">
+      <extent>
+        <charseq START="676" END="702">Iraqi leader
+Saddam Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="689" END="702">Saddam Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-9-1">
+      <extent>
+        <charseq START="682" END="687">leader</charseq>
+      </extent>
+      <head>
+        <charseq START="682" END="687">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-9-2">
+      <extent>
+        <charseq START="1519" END="1524">Saddam</charseq>
+      </extent>
+      <head>
+        <charseq START="1519" END="1524">Saddam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-9-3">
+      <extent>
+        <charseq START="3198" END="3211">Saddam Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="3198" END="3211">Saddam Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="689" END="702">Saddam Hussein</charseq>
+      </name>
+      <name NAME="Saddam">
+        <charseq START="1519" END="1524">Saddam</charseq>
+      </name>
+      <name NAME="Saddam Hussein">
+        <charseq START="3198" END="3211">Saddam Hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-10-0">
+      <extent>
+        <charseq START="789" END="820">two senior White House officials</charseq>
+      </extent>
+      <head>
+        <charseq START="812" END="820">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-11-0">
+      <extent>
+        <charseq START="829" END="852">The officials, who spoke</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="841">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-11-1">
+      <extent>
+        <charseq START="1469" END="1477">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1469" END="1477">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030304.0555-11-2">
+      <extent>
+        <charseq START="1602" END="1605">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1602" END="1605">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-11-3">
+      <extent>
+        <charseq START="2288" END="2308">White House officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2300" END="2308">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030304.0555-11-4">
+      <extent>
+        <charseq START="2315" END="2318">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2315" END="2318">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-11-5">
+      <extent>
+        <charseq START="2441" END="2449">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2441" END="2449">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-11-6">
+      <extent>
+        <charseq START="3860" END="3886">other White House officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3878" END="3886">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-12-0">
+      <extent>
+        <charseq START="973" END="993">U.N. Security Council</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="993">U.N. Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.N. Security Council">
+        <charseq START="973" END="993">U.N. Security Council</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="1009" END="1012">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1009" END="1012">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-1" ROLE="GPE">
+      <extent>
+        <charseq START="1038" END="1054">The United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1042" END="1054">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-2" ROLE="GPE">
+      <extent>
+        <charseq START="2244" END="2251">American</charseq>
+      </extent>
+      <head>
+        <charseq START="2244" END="2251">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-3" ROLE="GPE">
+      <extent>
+        <charseq START="2400" END="2403">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2400" END="2403">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-4" ROLE="GPE">
+      <extent>
+        <charseq START="2855" END="2858">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2855" END="2858">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-5" ROLE="GPE">
+      <extent>
+        <charseq START="3070" END="3073">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3070" END="3073">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-6" ROLE="GPE">
+      <extent>
+        <charseq START="3522" END="3525">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3522" END="3525">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-13-7" ROLE="GPE">
+      <extent>
+        <charseq START="3572" END="3588">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="3576" END="3588">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="1009" END="1012">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="1042" END="1054">United States</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="2244" END="2251">American</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2400" END="2403">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2855" END="2858">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3070" END="3073">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3522" END="3525">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="3576" END="3588">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-14-0">
+      <extent>
+        <charseq START="1145" END="1154">supporters</charseq>
+      </extent>
+      <head>
+        <charseq START="1145" END="1154">supporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-15-0">
+      <extent>
+        <charseq START="1160" END="1168">opponents</charseq>
+      </extent>
+      <head>
+        <charseq START="1160" END="1168">opponents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-16-0">
+      <extent>
+        <charseq START="1175" END="1204">many undecided council members</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1204">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-17-0">
+      <extent>
+        <charseq START="1190" END="1196">council</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1196">council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1303" END="1308">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1308">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-18-1" ROLE="GPE">
+      <extent>
+        <charseq START="2714" END="2719">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="2714" END="2719">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-18-2" ROLE="GPE">
+      <extent>
+        <charseq START="2819" END="2824">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="2819" END="2824">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030304.0555-18-3" ROLE="GPE">
+      <extent>
+        <charseq START="2834" END="2836">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2834" END="2836">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="1303" END="1308">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="2714" END="2719">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="2819" END="2824">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1311" END="1316">France</charseq>
+      </extent>
+      <head>
+        <charseq START="1311" END="1316">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France">
+        <charseq START="1311" END="1316">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1321" END="1325">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1321" END="1325">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="1321" END="1325">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-21-0">
+      <extent>
+        <charseq START="1659" END="1665">Cabinet</charseq>
+      </extent>
+      <head>
+        <charseq START="1659" END="1665">Cabinet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cabinet">
+        <charseq START="1659" END="1665">Cabinet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1720" END="1729">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="1724" END="1729">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-23-0">
+      <extent>
+        <charseq START="1816" END="1824">reporters</charseq>
+      </extent>
+      <head>
+        <charseq START="1816" END="1824">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1831" END="1836">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="1831" END="1836">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-24-1" ROLE="GPE">
+      <extent>
+        <charseq START="2208" END="2213">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="2208" END="2213">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-24-2" ROLE="GPE">
+      <extent>
+        <charseq START="2348" END="2353">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="2348" END="2353">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-24-3" ROLE="GPE">
+      <extent>
+        <charseq START="2471" END="2476">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="2471" END="2476">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turkey">
+        <charseq START="1831" END="1836">Turkey</charseq>
+      </name>
+      <name NAME="Turkey">
+        <charseq START="2208" END="2213">Turkey</charseq>
+      </name>
+      <name NAME="Turkey">
+        <charseq START="2348" END="2353">Turkey</charseq>
+      </name>
+      <name NAME="Turkey">
+        <charseq START="2471" END="2476">Turkey</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-25-0">
+      <extent>
+        <charseq START="1901" END="1906">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1901" END="1906">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1913" END="1923">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1917" END="1923">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-26-1" ROLE="GPE">
+      <extent>
+        <charseq START="2275" END="2285">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="2279" END="2285">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-27-0">
+      <extent>
+        <charseq START="2237" END="2258">62,000 American troops</charseq>
+      </extent>
+      <head>
+        <charseq START="2253" END="2258">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-28-0">
+      <extent>
+        <charseq START="2369" END="2382">the parliament</charseq>
+      </extent>
+      <head>
+        <charseq START="2373" END="2382">parliament</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="parliament">
+        <charseq START="2373" END="2382">parliament</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-29-0">
+      <extent>
+        <charseq START="2576" END="2603">Secretary-General Kofi Annan</charseq>
+      </extent>
+      <head>
+        <charseq START="2594" END="2603">Kofi Annan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030304.0555-29-1">
+      <extent>
+        <charseq START="2678" END="2680">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2678" END="2680">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kofi Annan">
+        <charseq START="2594" END="2603">Kofi Annan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-30-0">
+      <extent>
+        <charseq START="2586" END="2592">General</charseq>
+      </extent>
+      <head>
+        <charseq START="2586" END="2592">General</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="2612" END="2618">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="2612" END="2618">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baghdad">
+        <charseq START="2612" END="2618">Baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-32" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-32-0">
+      <extent>
+        <charseq START="2622" END="2628">missile</charseq>
+      </extent>
+      <head>
+        <charseq START="2622" END="2628">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-33-0">
+      <extent>
+        <charseq START="2714" END="2750">Russia&apos;s Foreign Minister Igor Ivanov</charseq>
+      </extent>
+      <head>
+        <charseq START="2740" END="2750">Igor Ivanov</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Igor Ivanov">
+        <charseq START="2740" END="2750">Igor Ivanov</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2763" END="2768">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="2763" END="2768">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Moscow">
+        <charseq START="2763" END="2768">Moscow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-35-0">
+      <extent>
+        <charseq START="3003" END="3020">the
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="3007" END="3020">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="3218" END="3228">a
+coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="3220" END="3228">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-37" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-37-0">
+      <extent>
+        <charseq START="3382" END="3390">the
+world</charseq>
+      </extent>
+      <head>
+        <charseq START="3386" END="3390">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030304.0555-38-0">
+      <extent>
+        <charseq START="3522" END="3552">U.S. Ambassador John Negroponte</charseq>
+      </extent>
+      <head>
+        <charseq START="3538" END="3552">John Negroponte</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-38-1">
+      <extent>
+        <charseq START="3527" END="3536">Ambassador</charseq>
+      </extent>
+      <head>
+        <charseq START="3527" END="3536">Ambassador</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Negroponte">
+        <charseq START="3538" END="3552">John Negroponte</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-39" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-39-0">
+      <extent>
+        <charseq START="3687" END="3692">bridge</charseq>
+      </extent>
+      <head>
+        <charseq START="3687" END="3692">bridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030304.0555-40" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030304.0555-40-0">
+      <extent>
+        <charseq START="3808" END="3817">the bridge</charseq>
+      </extent>
+      <head>
+        <charseq START="3812" END="3817">bridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20030304.0555-T0" VAL="2003-03-04">
+    <timex2_mention ID="APW_ENG_20030304.0555-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030304</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T1" VAL="2003-03-04">
+    <timex2_mention ID="APW_ENG_20030304.0555-T1-1">
+      <extent>
+        <charseq START="242" END="248">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T2" VAL="2003-W11">
+    <timex2_mention ID="APW_ENG_20030304.0555-T2-1">
+      <extent>
+        <charseq START="778" END="786">next week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T3" VAL="2003-07">
+    <timex2_mention ID="APW_ENG_20030304.0555-T3-1">
+      <extent>
+        <charseq START="1378" END="1381">July</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T4" VAL="2003-W11">
+    <timex2_mention ID="APW_ENG_20030304.0555-T4-1">
+      <extent>
+        <charseq START="1731" END="1739">next week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T5" VAL="2003-03-04">
+    <timex2_mention ID="APW_ENG_20030304.0555-T5-1">
+      <extent>
+        <charseq START="2129" END="2135">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T6" VAL="2003-03-04">
+    <timex2_mention ID="APW_ENG_20030304.0555-T6-1">
+      <extent>
+        <charseq START="2547" END="2549">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030304.0555-T7" VAL="2003-03-04">
+    <timex2_mention ID="APW_ENG_20030304.0555-T7-1">
+      <extent>
+        <charseq START="3322" END="3324">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030304.0555-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030304.0555-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R1-1">
+      <extent>
+        <charseq START="676" END="687">Iraqi leader</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="682" END="687">leader</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="676" END="680">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030304.0555-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-3" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R2-1">
+      <extent>
+        <charseq START="789" END="820">two senior White House officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="789" END="820">two senior White House officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="800" END="810">White House</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R3" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030304.0555-16" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R3-1">
+      <extent>
+        <charseq START="1175" END="1204">many undecided council members</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1175" END="1204">many undecided council members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1190" END="1196">council</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030304.0555-25" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-26" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R4-1">
+      <extent>
+        <charseq START="1901" END="1923">troops into the country</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1901" END="1906">troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1913" END="1923">the country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R5" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030304.0555-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-24" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R5-1">
+      <extent>
+        <charseq START="2208" END="2258">Turkey regardless of whether 62,000 American troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-27-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2237" END="2258">62,000 American troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2208" END="2213">Turkey</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R6" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030304.0555-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R6-1">
+      <extent>
+        <charseq START="2237" END="2258">62,000 American troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-27-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2237" END="2258">62,000 American troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-13-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="2244" END="2251">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R7" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030304.0555-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-26" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R7-1">
+      <extent>
+        <charseq START="2237" END="2285">62,000 American troops
+are allowed in the country</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-27-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2237" END="2258">62,000 American troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-26-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2275" END="2285">the country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R8" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030304.0555-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-3" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R8-1">
+      <extent>
+        <charseq START="2288" END="2308">White House officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-11-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="2288" END="2308">White House officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-3-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="2288" END="2298">White House</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030304.0555-R8-2">
+      <extent>
+        <charseq START="3860" END="3886">other White House officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-11-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="3860" END="3886">other White House officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-3-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="3866" END="3876">White House</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R9" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030304.0555-33" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R9-1">
+      <extent>
+        <charseq START="2714" END="2750">Russia&apos;s Foreign Minister Igor Ivanov</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-33-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2714" END="2750">Russia&apos;s Foreign Minister Igor Ivanov</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2714" END="2719">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030304.0555-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030304.0555-38" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030304.0555-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030304.0555-R10-1">
+      <extent>
+        <charseq START="3522" END="3536">U.S. Ambassador</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3527" END="3536">Ambassador</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030304.0555-13-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="3522" END="3525">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030304.0555-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-3" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030304.0555-T1" ROLE="Time-Starting"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV1-1">
+      <extent>
+        <charseq START="200" END="304">the White House left open the possibility
+Tuesday that it would not seek a United Nations vote on its
+war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="302" END="304">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-3-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-T1-1" ROLE="Time-Starting"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030304.0555-EV2-1">
+      <extent>
+        <charseq START="343" END="348">headed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="343" END="348">headed</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030304.0555-EV3-1">
+      <extent>
+        <charseq START="615" END="617">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="615" END="617">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-12" ROLE="Entity"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV4-1">
+      <extent>
+        <charseq START="973" END="1023">U.N. Security Council debate on the U.S.-backed war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1021" END="1023">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-12-0" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030304.0555-EV5-1">
+      <extent>
+        <charseq START="1464" END="1466">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1464" END="1466">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV6" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-11" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030304.0555-T4" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030304.0555-22" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV6-1">
+      <extent>
+        <charseq START="1602" END="1620">they have discussed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1612" END="1620">discussed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-11-2" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-22-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV7" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-21" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030304.0555-T4" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030304.0555-22" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV7-1">
+      <extent>
+        <charseq START="1659" END="1673">Cabinet meeting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1667" END="1673">meeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-21-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-22-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-24" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030304.0555-25" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV8-1">
+      <extent>
+        <charseq START="1831" END="1899">Turkey would lose a proposed $15 billion aid
+package unless it admits</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1894" END="1899">admits</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-24-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-25-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-8" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV9-1">
+      <extent>
+        <charseq START="1933" END="1945">Iraq
+conflict</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1938" END="1945">conflict</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-8-1" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-8" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV10-1">
+      <extent>
+        <charseq START="2084" END="2101">force against Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2084" END="2088">force</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-8-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV11" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-29" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030304.0555-4" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030304.0555-32" ROLE="Instrument"/>
+    <event_argument REFID="APW_ENG_20030304.0555-31" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV11-1">
+      <extent>
+        <charseq START="2670" END="2680">putting him</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2670" END="2676">putting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-29-1" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-4-1" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-32-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-31-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV12" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030304.0555-EV12-1">
+      <extent>
+        <charseq START="2940" END="2946">passage</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2940" END="2946">passage</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV13" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030304.0555-EV13-1">
+      <extent>
+        <charseq START="3392" END="3399">crumbles</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3392" END="3399">crumbles</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV14" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-5" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV14-1">
+      <extent>
+        <charseq START="3674" END="3680">crossed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3674" END="3680">crossed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-5-7" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030304.0555-EV15" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030304.0555-40" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030304.0555-EV15-1">
+      <extent>
+        <charseq START="3802" END="3806">cross</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3802" END="3806">cross</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030304.0555-40-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

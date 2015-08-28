@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Installing and Running Jet</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Installing and
+Running Jet</font></font></h2>
+You need Java 1.5 or later in order to run Jet.&nbsp; It runs under
+Linux, Apple Mac OS X, and Windows through terminal windows.<br>
+    <br>
+    Download the latest Jet distribution tar file and extract all the
+    files with <tt>tar -xzvf</tt>.<br>
+    <br>
+    The expanded directory will include<br>
+    <ul>
+      <li><tt>jet-all.jar</tt>, the Jet 'executable' (including all libraries)</li>
+      <li><tt>bin</tt>, a directory with simple scripts for invoking Jet
+                        under Linux and Mac OS</li>
+      <li><tt>win</tt>, a directory with simple scripts for invoking Jet
+                        under Windows</li>
+      <li><tt>docs</tt>, a directory of user documentation files</li>
+      <li><tt>props</tt>, a directory of configuration files</li>
+      <li><tt>data</tt>, a directory of data files used by Jet</li>
+      <li><tt>acedata</tt>, a directory of additional data files used by Jet
+          for Ace information extraction</li>
+      <li><tt>example</tt>, a directory of files giving an example for
+          running Jet for Ace information extraction</li>
+      <li><tt>runAceExample</tt>, a script to run this example</li>
+      <li><tt>NOTICE</tt>, a copyright / license notice</li>
+    </ul>
+    <p>In addition, the directory will contain the following files and
+      directories for those who wish to recompile or modify Jet<br>
+    </p>
+    <ul>
+      <li><tt>src</tt>, a directory with the Jet source files</li>
+      <li><tt>test</tt>, a directory with source files of Jet unit tests</li>
+      <li><tt>parser-stub-src</tt>, stub sources for a statistical
+        parser</li>
+      <li><tt>lib</tt>, a directory containing other jar files required
+        by Jet</li>
+      <li><tt>build.xml</tt>, scripts for building Jet using <tt>ant</tt></li>
+    </ul>
+    To use Jet,<br>
+    <ul>
+      <li>for Linux and Mac OS, add the <tt>bin</tt> directory to your path;
+          for Windows, add <tt>win</tt> to your path</li>
+      <li>set the environment variable <tt>JET_HOME</tt> to point to
+        the top directory into which the Jet files have been unpacked<br> </li>
+      <li>invoke Jet using the <tt>jet</tt>, <tt>xjet</tt>, and <tt>ace</tt>
+        commands</li>
+    </ul>
+<font color="#000000">The operation of Jet is controlled by the <tt><a
+ href="control.html">Jet.properties</a></tt>
+file and through the <a href="console.html">console</a>.</font>
+<p>Jet can also be <a href="usingAPI.html">used as part of another
+application</a> through the JET API.
+</p>
+</body>
+</html>

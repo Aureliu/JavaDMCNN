@@ -1,0 +1,7 @@
+# JET properties file to run reference resolution on file article.txt
+Jet.dataPath         = data
+JetTest.fileName1    = ./article.txt
+Tags.fileName        = pos_hmm.txt
+NameTags.fileName    = MUCnameHMM.txt
+Pattern.fileName1    = ../../../jetdemo/chunkPatterns.txt
+processSentence      = tokenize, tagJet, tagNames, pat(chunks), resolve

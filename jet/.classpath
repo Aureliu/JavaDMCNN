@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="jet-all.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/fanseparser-0.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jwnl12.jar"/>
+	<classpathentry kind="lib" path="lib/jyaml-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/mallet-crf.jar"/>
+	<classpathentry kind="lib" path="lib/mallet.jar"/>
+	<classpathentry kind="lib" path="lib/opennlp-yh-maxent-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/parser-stub.jar"/>
+	<classpathentry kind="lib" path="lib/pnuts.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/trove.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

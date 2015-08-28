@@ -1,0 +1,25 @@
+# JET properties file to run ACE 2004 with chunker
+# (using nearest-neighbor relation tagger)
+#
+Jet.batch                        = t
+Jet.dataPath                     = data
+EnglishLex.fileName1             = Jet4.dict
+EnglishLex.fileName2             = titles.dict
+Gazetteer.fileName               = loc.dict
+NameTags.fileName                = ../acedata/AceName04HMM.txt
+Tags.fileName                    = pos_hmm.txt
+Chunker.fileName                 = chunkModel.txt
+Pattern.fileName1                = MEchunkPatterns.txt
+Pattern.fileName2	         = NPpatterns.txt
+NameGender.fileName              = gender.dict
+Ace.Year                         = 2004
+Ace.EDTtype.fileName             = ../acedata/EDT type dict 04.txt
+Ace.generic.fileName             = ../acedata/generic dict 04.txt
+Ace.NameSubtypeModel.fileName    = ../acedata/ACEnameSubtypeModel 04.txt
+Ace.RelationPatterns.fileName    = ../acedata/relationPatterns 04.txt
+
+processSentence      = tokenize, lexLookup, pruneTags, tagNames, chunk, \
+                       pat(names), pat(othernames), ng:processNG, pat(fusePossessive), \
+                       pat(vgroups), pat(particles), pat(np), pat(np), pat(conj), \
+                       pat(vp), pat(rnv), pat(s), resolve
+processNG            = pat(ng-chunks)

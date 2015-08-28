@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <title>Onomasticon (Name Dictionary)</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080" alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Onomasticon (Name Dictionary)</font></font></h2>
+<br>
+<table style="text-align: left; width: 500px;" border="1"
+ cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">action
+name<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">tagNamesFromOnoma</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">resources
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-style: italic;">onomasticon (name dictionary)
+</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">properties<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">Onoma.fileName</span>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">annotations
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">token</span>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">annotations
+added<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">ENAMEX</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+Jet provides two meams of tagging names: a statistical name model, implemented as an
+HMM or MEMM, and a name dictionary, formally called an onomasticon.  Each line in the
+onomasticon defines a single name and should consist of one or more tokens separated by spaces,
+a tab character, and a name type;  a second tab and an entitiy subtype are optional.
+For example, the line 
+<br><br><tt>New York</tt> (tab) <tt>GPE</tt><br><br> 
+defines "New York" as a geo-political entity name;  the line
+<br><br><tt>New York</tt> (tab) <tt>GPE</tt> (tab) <tt>Population-Center</tt><br><br> 
+further specifies it as being of subtype <i>Population-Ceenter</i>.
+Matches must be exact, including case.
+In case of ambiguity, the longest match is preferred.  Nested matches are not recognized;
+after a name is matched, the matcher advances to the first token following the matched name.
+</p>
+<p>
+It is possible to use both a name dictionary and a statistical name tagger.  In this
+case the statistical tagger is applied first, followed by the onoma tagger:
+<br><br>
+<tt>processSentence = ..., tagNames, tagNamesFromOnoma, ...</tt>
+<br><br>
+A token sequence in the text which matches an onoma entry will be tagged by the onoma
+tagger <i>unless</i> some name tagged by the statistical tagger is partially but not
+wholely contained in the sequence.  In particular this means that if a sequence
+<i>X Y Z</i> has been tagged by the statistical tagger, shorter sequences such as <i>Y
+Z</i> or partially overlapping seqences such as <i>W X</i> will not be retagged by the 
+onoma tagger.  
+</p>
+</body>
+</html>

@@ -1,0 +1,3841 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030412.0531.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030412.0531">
+  <entity ID="APW_ENG_20030412.0531-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="123" END="129">JAKARTA</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="129">JAKARTA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="602" END="608">Jakarta</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="608">Jakarta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="2385" END="2391">Jakarta</charseq>
+      </extent>
+      <head>
+        <charseq START="2385" END="2391">Jakarta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="2425" END="2431">Jakarta</charseq>
+      </extent>
+      <head>
+        <charseq START="2425" END="2431">Jakarta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="3311" END="3317">Jakarta</charseq>
+      </extent>
+      <head>
+        <charseq START="3311" END="3317">Jakarta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-1-5" ROLE="GPE">
+      <extent>
+        <charseq START="3886" END="3892">Jakarta</charseq>
+      </extent>
+      <head>
+        <charseq START="3886" END="3892">Jakarta</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="JAKARTA">
+        <charseq START="123" END="129">JAKARTA</charseq>
+      </name>
+      <name NAME="Jakarta">
+        <charseq START="602" END="608">Jakarta</charseq>
+      </name>
+      <name NAME="Jakarta">
+        <charseq START="2385" END="2391">Jakarta</charseq>
+      </name>
+      <name NAME="Jakarta">
+        <charseq START="2425" END="2431">Jakarta</charseq>
+      </name>
+      <name NAME="Jakarta">
+        <charseq START="3311" END="3317">Jakarta</charseq>
+      </name>
+      <name NAME="Jakarta">
+        <charseq START="3886" END="3892">Jakarta</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="132" END="140">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="140">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="308" END="316">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="316">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="693" END="702">Indonesian</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="702">Indonesian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1057" END="1065">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="1057" END="1065">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1483" END="1491">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="1483" END="1491">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="1806" END="1814">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="1806" END="1814">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="1846" END="1847">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1846" END="1847">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="2051" END="2059">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="2051" END="2059">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-8" ROLE="GPE">
+      <extent>
+        <charseq START="2193" END="2201">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="2193" END="2201">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-9" ROLE="GPE">
+      <extent>
+        <charseq START="2457" END="2465">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="2457" END="2465">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-10" ROLE="GPE">
+      <extent>
+        <charseq START="2859" END="2868">Indonesian</charseq>
+      </extent>
+      <head>
+        <charseq START="2859" END="2868">Indonesian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-11" ROLE="GPE">
+      <extent>
+        <charseq START="2970" END="2979">Indonesian</charseq>
+      </extent>
+      <head>
+        <charseq START="2970" END="2979">Indonesian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-12" ROLE="GPE">
+      <extent>
+        <charseq START="3175" END="3183">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="3175" END="3183">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-13" ROLE="GPE">
+      <extent>
+        <charseq START="3513" END="3521">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="3513" END="3521">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-14" ROLE="GPE">
+      <extent>
+        <charseq START="3550" END="3559">Indonesian</charseq>
+      </extent>
+      <head>
+        <charseq START="3550" END="3559">Indonesian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-15" ROLE="GPE">
+      <extent>
+        <charseq START="3860" END="3868">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="3860" END="3868">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-16" ROLE="GPE">
+      <extent>
+        <charseq START="4091" END="4099">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="4091" END="4099">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-2-17" ROLE="GPE">
+      <extent>
+        <charseq START="4168" END="4170">its</charseq>
+      </extent>
+      <head>
+        <charseq START="4168" END="4170">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-2-18" ROLE="GPE">
+      <extent>
+        <charseq START="4267" END="4270">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4267" END="4270">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-19" ROLE="GPE">
+      <extent>
+        <charseq START="4651" END="4660">Indonesian</charseq>
+      </extent>
+      <head>
+        <charseq START="4651" END="4660">Indonesian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-20" ROLE="GPE">
+      <extent>
+        <charseq START="4782" END="4791">Indonesian</charseq>
+      </extent>
+      <head>
+        <charseq START="4782" END="4791">Indonesian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-21" ROLE="GPE">
+      <extent>
+        <charseq START="5096" END="5104">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="5096" END="5104">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-22" ROLE="GPE">
+      <extent>
+        <charseq START="5320" END="5328">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="5320" END="5328">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-2-23" ROLE="GPE">
+      <extent>
+        <charseq START="5637" END="5645">Indonesia</charseq>
+      </extent>
+      <head>
+        <charseq START="5637" END="5645">Indonesia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Indonesia">
+        <charseq START="132" END="140">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="308" END="316">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesian">
+        <charseq START="693" END="702">Indonesian</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="1057" END="1065">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="1483" END="1491">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="1806" END="1814">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="2051" END="2059">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="2193" END="2201">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="2457" END="2465">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesian">
+        <charseq START="2859" END="2868">Indonesian</charseq>
+      </name>
+      <name NAME="Indonesian">
+        <charseq START="2970" END="2979">Indonesian</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="3175" END="3183">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="3513" END="3521">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesian">
+        <charseq START="3550" END="3559">Indonesian</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="3860" END="3868">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="4091" END="4099">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesian">
+        <charseq START="4651" END="4660">Indonesian</charseq>
+      </name>
+      <name NAME="Indonesian">
+        <charseq START="4782" END="4791">Indonesian</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="5096" END="5104">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="5320" END="5328">Indonesia</charseq>
+      </name>
+      <name NAME="Indonesia">
+        <charseq START="5637" END="5645">Indonesia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-3-0">
+      <extent>
+        <charseq START="143" END="144">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="144">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="143" END="144">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-4-0">
+      <extent>
+        <charseq START="148" END="167">The dictator Suharto</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="167">Suharto</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-4-1">
+      <extent>
+        <charseq START="152" END="159">dictator</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="159">dictator</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-4-2">
+      <extent>
+        <charseq START="2602" END="2632">the anti-communist Gen. Suharto</charseq>
+      </extent>
+      <head>
+        <charseq START="2626" END="2632">Suharto</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-4-3">
+      <extent>
+        <charseq START="2621" END="2624">Gen.</charseq>
+      </extent>
+      <head>
+        <charseq START="2621" END="2624">Gen.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Suharto">
+        <charseq START="161" END="167">Suharto</charseq>
+      </name>
+      <name NAME="Suharto">
+        <charseq START="2626" END="2632">Suharto</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-5-0">
+      <extent>
+        <charseq START="211" END="219">the
+media</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="219">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-5-1">
+      <extent>
+        <charseq START="225" END="234">unshackled</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="234">unshackled</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="268" END="277">East Timor</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="277">East Timor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="2909" END="2918">East Timor</charseq>
+      </extent>
+      <head>
+        <charseq START="2909" END="2918">East Timor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="2931" END="2940">East Timor</charseq>
+      </extent>
+      <head>
+        <charseq START="2931" END="2940">East Timor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="East Timor">
+        <charseq START="268" END="277">East Timor</charseq>
+      </name>
+      <name NAME="East Timor">
+        <charseq START="2909" END="2918">East Timor</charseq>
+      </name>
+      <name NAME="East Timor">
+        <charseq START="2931" END="2940">East Timor</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="341" END="344">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="344">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="981" END="988">American</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="988">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-2" ROLE="GPE">
+      <extent>
+        <charseq START="1455" END="1462">the U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1459" END="1462">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-3" ROLE="GPE">
+      <extent>
+        <charseq START="2091" END="2094">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2091" END="2094">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-4" ROLE="GPE">
+      <extent>
+        <charseq START="2293" END="2296">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2293" END="2296">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-5" ROLE="GPE">
+      <extent>
+        <charseq START="2657" END="2673">The United States</charseq>
+      </extent>
+      <head>
+        <charseq START="2661" END="2673">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-6" ROLE="GPE">
+      <extent>
+        <charseq START="2775" END="2776">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2775" END="2776">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-7" ROLE="GPE">
+      <extent>
+        <charseq START="2827" END="2830">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2827" END="2830">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-8" ROLE="GPE">
+      <extent>
+        <charseq START="3103" END="3106">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3103" END="3106">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-9" ROLE="GPE">
+      <extent>
+        <charseq START="3410" END="3413">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3410" END="3413">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-10" ROLE="GPE">
+      <extent>
+        <charseq START="4736" END="4739">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="4736" END="4739">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-11" ROLE="GPE">
+      <extent>
+        <charseq START="4874" END="4881">American</charseq>
+      </extent>
+      <head>
+        <charseq START="4874" END="4881">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-12" ROLE="GPE">
+      <extent>
+        <charseq START="4968" END="4984">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="4972" END="4984">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-7-13" ROLE="GPE">
+      <extent>
+        <charseq START="5689" END="5696">American</charseq>
+      </extent>
+      <head>
+        <charseq START="5689" END="5696">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="341" END="344">U.S.</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="981" END="988">American</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="1459" END="1462">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2091" END="2094">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2293" END="2296">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="2661" END="2673">United States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="2775" END="2776">US</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2827" END="2830">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3103" END="3106">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3410" END="3413">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="4736" END="4739">U.S.</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="4874" END="4881">American</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="4972" END="4984">United States</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="5689" END="5696">American</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-8-0">
+      <extent>
+        <charseq START="341" END="369">U.S.
+President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="356" END="369">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-8-1">
+      <extent>
+        <charseq START="346" END="354">President</charseq>
+      </extent>
+      <head>
+        <charseq START="346" END="354">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-8-2">
+      <extent>
+        <charseq START="3210" END="3213">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="3210" END="3213">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="356" END="369">George W. Bush</charseq>
+      </name>
+      <name NAME="Bush">
+        <charseq START="3210" END="3213">Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="401" END="410">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="410">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="3634" END="3643">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="3634" END="3643">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-9-2" ROLE="GPE">
+      <extent>
+        <charseq START="3664" END="3665">it</charseq>
+      </extent>
+      <head>
+        <charseq START="3664" END="3665">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-9-3" ROLE="GPE">
+      <extent>
+        <charseq START="5038" END="5047">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="5038" END="5047">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-9-4" ROLE="GPE">
+      <extent>
+        <charseq START="5262" END="5271">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="5262" END="5271">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-9-5" ROLE="GPE">
+      <extent>
+        <charseq START="5276" END="5302">Russia&apos;s economic
+ambitions</charseq>
+      </extent>
+      <head>
+        <charseq START="5294" END="5302">ambitions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="401" END="410">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="3634" END="3643">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="5038" END="5047">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="5262" END="5271">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-10" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-10-0">
+      <extent>
+        <charseq START="439" END="442">arms</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="442">arms</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-10-1">
+      <extent>
+        <charseq START="1773" END="1776">arms</charseq>
+      </extent>
+      <head>
+        <charseq START="1773" END="1776">arms</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-10-2">
+      <extent>
+        <charseq START="2754" END="2757">arms</charseq>
+      </extent>
+      <head>
+        <charseq START="2754" END="2757">arms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-11" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-11-0">
+      <extent>
+        <charseq START="453" END="461">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="461">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-11-1">
+      <extent>
+        <charseq START="4605" END="4613">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="4609" END="4613">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="453" END="491">the world&apos;s
+most populous Muslim nation</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="491">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-13-0">
+      <extent>
+        <charseq START="602" END="619">Jakarta&apos;s generals</charseq>
+      </extent>
+      <head>
+        <charseq START="612" END="619">generals</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-13-1">
+      <extent>
+        <charseq START="3513" END="3532">Indonesia&apos;s
+generals</charseq>
+      </extent>
+      <head>
+        <charseq START="3525" END="3532">generals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-14-0">
+      <extent>
+        <charseq START="682" END="734">this month Indonesian President Megawati Sukarnoputri</charseq>
+      </extent>
+      <head>
+        <charseq START="714" END="734">Megawati Sukarnoputri</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-14-1">
+      <extent>
+        <charseq START="704" END="712">President</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="712">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-14-2">
+      <extent>
+        <charseq START="1544" END="1551">Megawati</charseq>
+      </extent>
+      <head>
+        <charseq START="1544" END="1551">Megawati</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-14-3">
+      <extent>
+        <charseq START="2523" END="2530">Megawati</charseq>
+      </extent>
+      <head>
+        <charseq START="2523" END="2530">Megawati</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-14-4">
+      <extent>
+        <charseq START="4944" END="4951">Megawati</charseq>
+      </extent>
+      <head>
+        <charseq START="4944" END="4951">Megawati</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-14-5">
+      <extent>
+        <charseq START="5547" END="5554">Megawati</charseq>
+      </extent>
+      <head>
+        <charseq START="5547" END="5554">Megawati</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Megawati Sukarnoputri">
+        <charseq START="714" END="734">Megawati Sukarnoputri</charseq>
+      </name>
+      <name NAME="Megawati">
+        <charseq START="1544" END="1551">Megawati</charseq>
+      </name>
+      <name NAME="Megawati">
+        <charseq START="2523" END="2530">Megawati</charseq>
+      </name>
+      <name NAME="Megawati">
+        <charseq START="4944" END="4951">Megawati</charseq>
+      </name>
+      <name NAME="Megawati">
+        <charseq START="5547" END="5554">Megawati</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="747" END="752">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="752">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="2414" END="2419">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="2414" END="2419">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-15-2" ROLE="GPE">
+      <extent>
+        <charseq START="3814" END="3819">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="3814" END="3819">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Moscow">
+        <charseq START="747" END="752">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="2414" END="2419">Moscow</charseq>
+      </name>
+      <name NAME="Moscow">
+        <charseq START="3814" END="3819">Moscow</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-16-0">
+      <extent>
+        <charseq START="762" END="772">the Kremlin</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="772">Kremlin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kremlin">
+        <charseq START="766" END="772">Kremlin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-17-0">
+      <extent>
+        <charseq START="813" END="848">obsolete 300,000-member armed forces</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="848">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-18-0">
+      <extent>
+        <charseq START="830" END="835">member</charseq>
+      </extent>
+      <head>
+        <charseq START="830" END="835">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="891" END="897">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="891" END="897">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-1" ROLE="GPE">
+      <extent>
+        <charseq START="1071" END="1076">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1071" END="1076">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-2" ROLE="GPE">
+      <extent>
+        <charseq START="1568" END="1574">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="1568" END="1574">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-3" ROLE="GPE">
+      <extent>
+        <charseq START="3922" END="3928">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="3922" END="3928">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-4" ROLE="GPE">
+      <extent>
+        <charseq START="4371" END="4376">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="4371" END="4376">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-5" ROLE="GPE">
+      <extent>
+        <charseq START="4854" END="4860">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="4854" END="4860">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-6" ROLE="GPE">
+      <extent>
+        <charseq START="5276" END="5281">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="5276" END="5281">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-7" ROLE="GPE">
+      <extent>
+        <charseq START="5334" END="5339">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="5334" END="5339">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-19-8" ROLE="GPE">
+      <extent>
+        <charseq START="5606" END="5612">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="5606" END="5612">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russian">
+        <charseq START="891" END="897">Russian</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="1071" END="1076">Russia</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="1568" END="1574">Russian</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="3922" END="3928">Russian</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="4371" END="4376">Russia</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="4854" END="4860">Russian</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="5276" END="5281">Russia</charseq>
+      </name>
+      <name NAME="Russia">
+        <charseq START="5334" END="5339">Russia</charseq>
+      </name>
+      <name NAME="Russian">
+        <charseq START="5606" END="5612">Russian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-20-0">
+      <extent>
+        <charseq START="891" END="907">Russian companies</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="907">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-21-0">
+      <extent>
+        <charseq START="939" END="960">the oil and gas sector</charseq>
+      </extent>
+      <head>
+        <charseq START="955" END="960">sector</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-22-0">
+      <extent>
+        <charseq START="981" END="1016">American
+and British resource giants</charseq>
+      </extent>
+      <head>
+        <charseq START="1011" END="1016">giants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="994" END="1000">British</charseq>
+      </extent>
+      <head>
+        <charseq START="994" END="1000">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-23-1" ROLE="GPE">
+      <extent>
+        <charseq START="5702" END="5708">British</charseq>
+      </extent>
+      <head>
+        <charseq START="5702" END="5708">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="994" END="1000">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="5702" END="5708">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-24" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-24-0">
+      <extent>
+        <charseq START="1046" END="1054">the Earth</charseq>
+      </extent>
+      <head>
+        <charseq START="1050" END="1054">Earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Earth">
+        <charseq START="1050" END="1054">Earth</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1152" END="1182">massive multiethnic
+populations</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1182">populations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-25-1" ROLE="GPE">
+      <extent>
+        <charseq START="1235" END="1238">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1235" END="1238">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1476" END="1479">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1476" END="1479">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-26-1" ROLE="GPE">
+      <extent>
+        <charseq START="1630" END="1633">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1630" END="1633">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-26-2" ROLE="GPE">
+      <extent>
+        <charseq START="2110" END="2113">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2110" END="2113">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-26-3" ROLE="GPE">
+      <extent>
+        <charseq START="2213" END="2216">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2213" END="2216">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-26-4" ROLE="GPE">
+      <extent>
+        <charseq START="3348" END="3351">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3348" END="3351">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="1476" END="1479">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1630" END="1633">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2110" END="2113">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2213" END="2216">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3348" END="3351">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-27-0">
+      <extent>
+        <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+      </extent>
+      <head>
+        <charseq START="1522" END="1537">Marty Natalegawa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marty Natalegawa">
+        <charseq START="1522" END="1537">Marty Natalegawa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-28-0">
+      <extent>
+        <charseq START="1495" END="1510">Foreign Ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="1495" END="1510">Foreign Ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Foreign Ministry">
+        <charseq START="1495" END="1510">Foreign Ministry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-29-0">
+      <extent>
+        <charseq START="1512" END="1520">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="1512" END="1520">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-30-0">
+      <extent>
+        <charseq START="1568" END="1590">Russian President Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="1586" END="1590">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-30-1">
+      <extent>
+        <charseq START="1576" END="1584">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1576" END="1584">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-30-2">
+      <extent>
+        <charseq START="5560" END="5564">Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="5560" END="5564">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Putin">
+        <charseq START="1586" END="1590">Putin</charseq>
+      </name>
+      <name NAME="Putin">
+        <charseq START="5560" END="5564">Putin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-31-0">
+      <extent>
+        <charseq START="1648" END="1662">other diplomats</charseq>
+      </extent>
+      <head>
+        <charseq START="1654" END="1662">diplomats</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-32-0">
+      <extent>
+        <charseq START="1786" END="1793">Analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="1786" END="1793">Analysts</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-32-1">
+      <extent>
+        <charseq START="5456" END="5463">Analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="5456" END="5463">Analysts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-33-0">
+      <extent>
+        <charseq START="1806" END="1825">Indonesia&apos;s military</charseq>
+      </extent>
+      <head>
+        <charseq START="1818" END="1825">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-34" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-34-0">
+      <extent>
+        <charseq START="1871" END="1910">the borders of the far-flung archipelago</charseq>
+      </extent>
+      <head>
+        <charseq START="1875" END="1881">borders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-35-0" ROLE="GPE">
+      <extent>
+        <charseq START="1886" END="1910">the far-flung archipelago</charseq>
+      </extent>
+      <head>
+        <charseq START="1900" END="1910">archipelago</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-36-0">
+      <extent>
+        <charseq START="1947" END="1956">extremists</charseq>
+      </extent>
+      <head>
+        <charseq START="1947" END="1956">extremists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-37-0" ROLE="GPE">
+      <extent>
+        <charseq START="1972" END="1975">Bali</charseq>
+      </extent>
+      <head>
+        <charseq START="1972" END="1975">Bali</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bali">
+        <charseq START="1972" END="1975">Bali</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-38-0">
+      <extent>
+        <charseq START="2000" END="2009">202 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2004" END="2009">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-39-0">
+      <extent>
+        <charseq START="2315" END="2380">Jusuf Wanadi of the Center for Strategic and
+International Studies</charseq>
+      </extent>
+      <head>
+        <charseq START="2315" END="2326">Jusuf Wanadi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jusuf Wanadi">
+        <charseq START="2315" END="2326">Jusuf Wanadi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-40" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-40-0">
+      <extent>
+        <charseq START="2331" END="2380">the Center for Strategic and
+International Studies</charseq>
+      </extent>
+      <head>
+        <charseq START="2335" END="2380">Center for Strategic and
+International Studies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Center for Strategic and International Studies">
+        <charseq START="2335" END="2380">Center for Strategic and
+International Studies</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-41" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-41-0" ROLE="GPE">
+      <extent>
+        <charseq START="2477" END="2482">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="2477" END="2482">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Soviet">
+        <charseq START="2477" END="2482">Soviet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-42-0">
+      <extent>
+        <charseq START="2523" END="2539">Megawati&apos;s father</charseq>
+      </extent>
+      <head>
+        <charseq START="2534" END="2539">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-43-0">
+      <extent>
+        <charseq START="2554" END="2570">President Sukarno</charseq>
+      </extent>
+      <head>
+        <charseq START="2564" END="2570">Sukarno</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-43-1">
+      <extent>
+        <charseq START="2554" END="2562">President</charseq>
+      </extent>
+      <head>
+        <charseq START="2554" END="2562">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sukarno">
+        <charseq START="2564" END="2570">Sukarno</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-44-0" ROLE="GPE">
+      <extent>
+        <charseq START="2690" END="2716">the Southeast Asian country</charseq>
+      </extent>
+      <head>
+        <charseq START="2710" END="2716">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="2690" END="2740">the Southeast Asian country&apos;s main
+weapons supplier</charseq>
+      </extent>
+      <head>
+        <charseq START="2733" END="2740">supplier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-46" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-46-0">
+      <extent>
+        <charseq START="2694" END="2708">Southeast Asian</charseq>
+      </extent>
+      <head>
+        <charseq START="2694" END="2708">Southeast Asian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Southeast Asian">
+        <charseq START="2694" END="2708">Southeast Asian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-47" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-47-0">
+      <extent>
+        <charseq START="2725" END="2731">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="2725" END="2731">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-47-1">
+      <extent>
+        <charseq START="4993" END="4999">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="4993" END="4999">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-48" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-48-0">
+      <extent>
+        <charseq START="2823" END="2839">the U.S. Congress</charseq>
+      </extent>
+      <head>
+        <charseq START="2832" END="2839">Congress</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Congress">
+        <charseq START="2832" END="2839">Congress</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-49-0">
+      <extent>
+        <charseq START="2859" END="2882">Indonesian
+troops killed</charseq>
+      </extent>
+      <head>
+        <charseq START="2870" END="2875">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-50-0">
+      <extent>
+        <charseq START="2896" END="2904">civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="2896" END="2904">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-51-0">
+      <extent>
+        <charseq START="2970" END="2991">Indonesian forces
+laid</charseq>
+      </extent>
+      <head>
+        <charseq START="2981" END="2986">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-51-1">
+      <extent>
+        <charseq START="3008" END="3011">they</charseq>
+      </extent>
+      <head>
+        <charseq START="3008" END="3011">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-52-0">
+      <extent>
+        <charseq START="3103" END="3116">U.S. lawmakers</charseq>
+      </extent>
+      <head>
+        <charseq START="3108" END="3116">lawmakers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-53" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-53-0">
+      <extent>
+        <charseq START="3206" END="3228">the Bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="3215" END="3228">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-54-0">
+      <extent>
+        <charseq START="3247" END="3285">Deputy
+Defense Secretary Paul Wolfowitz</charseq>
+      </extent>
+      <head>
+        <charseq START="3272" END="3285">Paul Wolfowitz</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paul Wolfowitz">
+        <charseq START="3272" END="3285">Paul Wolfowitz</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-55" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-55-0">
+      <extent>
+        <charseq START="3254" END="3260">Defense</charseq>
+      </extent>
+      <head>
+        <charseq START="3254" END="3260">Defense</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Defense">
+        <charseq START="3254" END="3260">Defense</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-56-0">
+      <extent>
+        <charseq START="3288" END="3306">a former ambassador</charseq>
+      </extent>
+      <head>
+        <charseq START="3297" END="3306">ambassador</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-57-0">
+      <extent>
+        <charseq START="3323" END="3355">a prime architect of the Iraq war</charseq>
+      </extent>
+      <head>
+        <charseq START="3331" END="3339">architect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-58-0">
+      <extent>
+        <charseq START="3410" END="3423">U.S. lawmakers</charseq>
+      </extent>
+      <head>
+        <charseq START="3415" END="3423">lawmakers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-59-0">
+      <extent>
+        <charseq START="3456" END="3462">officer</charseq>
+      </extent>
+      <head>
+        <charseq START="3456" END="3462">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-60" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-60-0">
+      <extent>
+        <charseq START="3546" END="3568">the Indonesian military</charseq>
+      </extent>
+      <head>
+        <charseq START="3561" END="3568">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-61-0">
+      <extent>
+        <charseq START="3675" END="3690">Juwono Sudarsono</charseq>
+      </extent>
+      <head>
+        <charseq START="3675" END="3690">Juwono Sudarsono</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-61-1">
+      <extent>
+        <charseq START="4298" END="4306">Sudarsono</charseq>
+      </extent>
+      <head>
+        <charseq START="4298" END="4306">Sudarsono</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-61-2">
+      <extent>
+        <charseq START="4924" END="4932">Sudarsono</charseq>
+      </extent>
+      <head>
+        <charseq START="4924" END="4932">Sudarsono</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Juwono Sudarsono">
+        <charseq START="3675" END="3690">Juwono Sudarsono</charseq>
+      </name>
+      <name NAME="Sudarsono">
+        <charseq START="4298" END="4306">Sudarsono</charseq>
+      </name>
+      <name NAME="Sudarsono">
+        <charseq START="4924" END="4932">Sudarsono</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-62-0">
+      <extent>
+        <charseq START="3693" END="3717">a former defense minister</charseq>
+      </extent>
+      <head>
+        <charseq START="3710" END="3717">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-63-0">
+      <extent>
+        <charseq START="3747" END="3765">alternative sources</charseq>
+      </extent>
+      <head>
+        <charseq START="3759" END="3765">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-64" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-64-0">
+      <extent>
+        <charseq START="3771" END="3776">planes</charseq>
+      </extent>
+      <head>
+        <charseq START="3771" END="3776">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-65" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-65-0">
+      <extent>
+        <charseq START="3779" END="3789">helicopters</charseq>
+      </extent>
+      <head>
+        <charseq START="3779" END="3789">helicopters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-66-0">
+      <extent>
+        <charseq START="3873" END="3882">a
+customer</charseq>
+      </extent>
+      <head>
+        <charseq START="3875" END="3882">customer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-67" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-67-0">
+      <extent>
+        <charseq START="3917" END="3936">some Russian weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="3930" END="3936">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-68" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-68-0">
+      <extent>
+        <charseq START="3949" END="3981">10,000
+Kalashnikov assault rifles</charseq>
+      </extent>
+      <head>
+        <charseq START="3976" END="3981">rifles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-69" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-69-0">
+      <extent>
+        <charseq START="3998" END="4020">naval Mil-2 helicopters</charseq>
+      </extent>
+      <head>
+        <charseq START="4010" END="4020">helicopters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-70" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-70-0">
+      <extent>
+        <charseq START="4004" END="4008">Mil-2</charseq>
+      </extent>
+      <head>
+        <charseq START="4004" END="4008">Mil-2</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mil-2">
+        <charseq START="4004" END="4008">Mil-2</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-71" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-71-0">
+      <extent>
+        <charseq START="4026" END="4060">a dozen BTR-80A amphibious carriers</charseq>
+      </extent>
+      <head>
+        <charseq START="4053" END="4060">carriers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-72" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-72-0">
+      <extent>
+        <charseq START="4034" END="4040">BTR-80A</charseq>
+      </extent>
+      <head>
+        <charseq START="4034" END="4040">BTR-80A</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BTR-80A">
+        <charseq START="4034" END="4040">BTR-80A</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-73" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-73-0">
+      <extent>
+        <charseq START="4066" END="4076">its marines</charseq>
+      </extent>
+      <head>
+        <charseq START="4070" END="4076">marines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-74" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-74-0">
+      <extent>
+        <charseq START="4106" END="4132">short-range Rapier missiles</charseq>
+      </extent>
+      <head>
+        <charseq START="4125" END="4132">missiles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-75" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-75-0">
+      <extent>
+        <charseq START="4118" END="4123">Rapier</charseq>
+      </extent>
+      <head>
+        <charseq START="4118" END="4123">Rapier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rapier">
+        <charseq START="4118" END="4123">Rapier</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-76" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-76-0">
+      <extent>
+        <charseq START="4168" END="4203">its vital oil and natural gas fields</charseq>
+      </extent>
+      <head>
+        <charseq START="4198" END="4203">fields</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-77" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-77-0" ROLE="GPE">
+      <extent>
+        <charseq START="4208" END="4214">Sumatra</charseq>
+      </extent>
+      <head>
+        <charseq START="4208" END="4214">Sumatra</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sumatra">
+        <charseq START="4208" END="4214">Sumatra</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-78" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-78-0" ROLE="GPE">
+      <extent>
+        <charseq START="4217" END="4222">Borneo</charseq>
+      </extent>
+      <head>
+        <charseq START="4217" END="4222">Borneo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Borneo">
+        <charseq START="4217" END="4222">Borneo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-79" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-79-0" ROLE="GPE">
+      <extent>
+        <charseq START="4228" END="4232">Papua</charseq>
+      </extent>
+      <head>
+        <charseq START="4228" END="4232">Papua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Papua">
+        <charseq START="4228" END="4232">Papua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-80-0">
+      <extent>
+        <charseq START="4315" END="4336">Air defense commanders</charseq>
+      </extent>
+      <head>
+        <charseq START="4327" END="4336">commanders</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-80-1">
+      <extent>
+        <charseq START="4672" END="4681">commanders</charseq>
+      </extent>
+      <head>
+        <charseq START="4672" END="4681">commanders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-81" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-81-0">
+      <extent>
+        <charseq START="4371" END="4415">Russia&apos;s
+impressive long-range S-300 missiles</charseq>
+      </extent>
+      <head>
+        <charseq START="4408" END="4415">missiles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-82" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-82-0">
+      <extent>
+        <charseq START="4402" END="4406">S-300</charseq>
+      </extent>
+      <head>
+        <charseq START="4402" END="4406">S-300</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="S-300">
+        <charseq START="4402" END="4406">S-300</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-83" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-83-0">
+      <extent>
+        <charseq START="4451" END="4468">the SA-15 Gauntlet</charseq>
+      </extent>
+      <head>
+        <charseq START="4455" END="4468">SA-15 Gauntlet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="SA-15 Gauntlet">
+        <charseq START="4455" END="4468">SA-15 Gauntlet</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-84" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-84-0">
+      <extent>
+        <charseq START="4473" END="4491">shoulder-fired Igla</charseq>
+      </extent>
+      <head>
+        <charseq START="4488" END="4491">Igla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Igla">
+        <charseq START="4488" END="4491">Igla</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-85" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-85-0">
+      <extent>
+        <charseq START="4495" END="4507">The Air Force</charseq>
+      </extent>
+      <head>
+        <charseq START="4499" END="4507">Air Force</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-85-1">
+      <extent>
+        <charseq START="4651" END="4670">Indonesian Air Force</charseq>
+      </extent>
+      <head>
+        <charseq START="4662" END="4670">Air Force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Air Force">
+        <charseq START="4499" END="4507">Air Force</charseq>
+      </name>
+      <name NAME="Air Force">
+        <charseq START="4662" END="4670">Air Force</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-86" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-86-0">
+      <extent>
+        <charseq START="4567" END="4578">Sukhoi Su-27</charseq>
+      </extent>
+      <head>
+        <charseq START="4567" END="4578">Sukhoi Su-27</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sukhoi Su-27">
+        <charseq START="4567" END="4578">Sukhoi Su-27</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-87" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-87-0">
+      <extent>
+        <charseq START="4567" END="4591">Sukhoi Su-27 interceptors</charseq>
+      </extent>
+      <head>
+        <charseq START="4580" END="4591">interceptors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-88" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-88-0">
+      <extent>
+        <charseq START="4605" END="4635">the world&apos;s premier
+dogfighters</charseq>
+      </extent>
+      <head>
+        <charseq START="4625" END="4635">dogfighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-89" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-89-0">
+      <extent>
+        <charseq START="4683" END="4714">preferred Western jets
+that were</charseq>
+      </extent>
+      <head>
+        <charseq START="4701" END="4704">jets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-90" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-90-0" ROLE="GPE">
+      <extent>
+        <charseq START="4693" END="4699">Western</charseq>
+      </extent>
+      <head>
+        <charseq START="4693" END="4699">Western</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Western">
+        <charseq START="4693" END="4699">Western</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-91" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-91-0">
+      <extent>
+        <charseq START="4732" END="4765">the U.S.-made F-16 fighter-bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="4759" END="4765">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-92" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-92-0">
+      <extent>
+        <charseq START="4746" END="4749">F-16</charseq>
+      </extent>
+      <head>
+        <charseq START="4746" END="4749">F-16</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="F-16">
+        <charseq START="4746" END="4749">F-16</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-93" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-93-0">
+      <extent>
+        <charseq START="4751" END="4757">fighter</charseq>
+      </extent>
+      <head>
+        <charseq START="4751" END="4757">fighter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-94" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-94-0" ROLE="GPE">
+      <extent>
+        <charseq START="4820" END="4827">Malaysia</charseq>
+      </extent>
+      <head>
+        <charseq START="4820" END="4827">Malaysia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030412.0531-94-1" ROLE="GPE">
+      <extent>
+        <charseq START="4908" END="4911">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4908" END="4911">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Malaysia">
+        <charseq START="4820" END="4827">Malaysia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-95" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-95-0">
+      <extent>
+        <charseq START="4854" END="4864">Russian MiG</charseq>
+      </extent>
+      <head>
+        <charseq START="4862" END="4864">MiG</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-96" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-96-0">
+      <extent>
+        <charseq START="4883" END="4888">F/A-18</charseq>
+      </extent>
+      <head>
+        <charseq START="4883" END="4888">F/A-18</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="F/A-18">
+        <charseq START="4883" END="4888">F/A-18</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-97" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-97-0" ROLE="GPE">
+      <extent>
+        <charseq START="5157" END="5168">natural ally</charseq>
+      </extent>
+      <head>
+        <charseq START="5165" END="5168">ally</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-98" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-98-0">
+      <extent>
+        <charseq START="5524" END="5543">the petroleum sector</charseq>
+      </extent>
+      <head>
+        <charseq START="5538" END="5543">sector</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-99" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-99-0">
+      <extent>
+        <charseq START="5606" END="5622">Russian
+companies</charseq>
+      </extent>
+      <head>
+        <charseq START="5614" END="5622">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-100" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-100-0">
+      <extent>
+        <charseq START="5637" END="5668">Indonesia&apos;s oil and gas industry</charseq>
+      </extent>
+      <head>
+        <charseq START="5661" END="5668">industry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-101" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030412.0531-101-0">
+      <extent>
+        <charseq START="5689" END="5715">American and British giants</charseq>
+      </extent>
+      <head>
+        <charseq START="5710" END="5715">giants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-102" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-102-0">
+      <extent>
+        <charseq START="5725" END="5735">Exxon Mobil</charseq>
+      </extent>
+      <head>
+        <charseq START="5725" END="5735">Exxon Mobil</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Exxon Mobil">
+        <charseq START="5725" END="5735">Exxon Mobil</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030412.0531-103" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030412.0531-103-0">
+      <extent>
+        <charseq START="5741" END="5742">BP</charseq>
+      </extent>
+      <head>
+        <charseq START="5741" END="5742">BP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BP">
+        <charseq START="5741" END="5742">BP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030412.0531-V15" TYPE="Job-Title">
+    <value_mention ID="APW_ENG_20030412.0531-V15-1">
+      <extent>
+        <charseq START="3693" END="3717">a former defense minister</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030412.0531-T0" VAL="2003-04-12">
+    <timex2_mention ID="APW_ENG_20030412.0531-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030412</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T1" VAL="2001">
+    <timex2_mention ID="APW_ENG_20030412.0531-T1-1">
+      <extent>
+        <charseq START="302" END="305">2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T2" VAL="2003-04">
+    <timex2_mention ID="APW_ENG_20030412.0531-T2-1">
+      <extent>
+        <charseq START="682" END="691">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T3" VAL="2003-04-21">
+    <timex2_mention ID="APW_ENG_20030412.0531-T3-1">
+      <extent>
+        <charseq START="1603" END="1610">April 21</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T4" VAL="2003-04-12">
+    <timex2_mention ID="APW_ENG_20030412.0531-T4-1">
+      <extent>
+        <charseq START="1830" END="1832">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T5" VAL="1965">
+    <timex2_mention ID="APW_ENG_20030412.0531-T5-1">
+      <extent>
+        <charseq START="2650" END="2653">1965</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T6" VAL="1991">
+    <timex2_mention ID="APW_ENG_20030412.0531-T6-1">
+      <extent>
+        <charseq START="2808" END="2811">1991</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T7" VAL="1999">
+    <timex2_mention ID="APW_ENG_20030412.0531-T7-1">
+      <extent>
+        <charseq START="2925" END="2928">1999</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T8" VAL="1973">
+    <timex2_mention ID="APW_ENG_20030412.0531-T8-1">
+      <extent>
+        <charseq START="4144" END="4155">30
+years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T9" VAL="2001">
+    <timex2_mention ID="APW_ENG_20030412.0531-T9-1">
+      <extent>
+        <charseq START="5397" END="5400">2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030412.0531-T10" VAL="2002">
+    <timex2_mention ID="APW_ENG_20030412.0531-T10-1">
+      <extent>
+        <charseq START="5410" END="5418">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030412.0531-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R1-1">
+      <extent>
+        <charseq START="123" END="140">JAKARTA, Indonesia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="123" END="129">JAKARTA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="132" END="140">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R2-1">
+      <extent>
+        <charseq START="341" END="354">U.S.
+President</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="346" END="354">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="341" END="344">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R3-1">
+      <extent>
+        <charseq START="602" END="619">Jakarta&apos;s generals</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="602" END="619">Jakarta&apos;s generals</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="602" END="608">Jakarta</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-14" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R4-1">
+      <extent>
+        <charseq START="693" END="712">Indonesian President</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="704" END="712">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="693" END="702">Indonesian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R5" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030412.0531-14" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R5-1">
+      <extent>
+        <charseq START="682" END="752">this month Indonesian President Megawati Sukarnoputri travels
+to Moscow</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="682" END="734">this month Indonesian President Megawati Sukarnoputri</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="747" END="752">Moscow</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-20" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R6-1">
+      <extent>
+        <charseq START="891" END="907">Russian companies</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="891" END="907">Russian companies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="891" END="897">Russian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R7" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R7-1">
+      <extent>
+        <charseq START="981" END="1016">American
+and British resource giants</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="981" END="1016">American
+and British resource giants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="981" END="988">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-23" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R8-1">
+      <extent>
+        <charseq START="981" END="1016">American
+and British resource giants</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="981" END="1016">American
+and British resource giants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="994" END="1000">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-24" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R9-1">
+      <extent>
+        <charseq START="1046" END="1065">the Earth, Indonesia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1046" END="1054">the Earth</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1057" END="1065">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R10-1">
+      <extent>
+        <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-27-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1483" END="1491">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R11" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030412.0531-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-28" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R11-1">
+      <extent>
+        <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-27-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-28-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1495" END="1510">Foreign Ministry</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R12" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030412.0531-29" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-27" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R12-1">
+      <extent>
+        <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-29-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1512" END="1520">spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1483" END="1537">Indonesia&apos;s Foreign Ministry spokesman Marty Natalegawa</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R13-1">
+      <extent>
+        <charseq START="1568" END="1584">Russian President</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-30-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1576" END="1584">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1568" END="1574">Russian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R14" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-33" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R14-1">
+      <extent>
+        <charseq START="1806" END="1825">Indonesia&apos;s military</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-33-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1806" END="1825">Indonesia&apos;s military</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1806" END="1814">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R15" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-34" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-35" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R15-1">
+      <extent>
+        <charseq START="1871" END="1910">the borders of the far-flung archipelago</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-34-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1871" END="1910">the borders of the far-flung archipelago</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-35-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1886" END="1910">the far-flung archipelago</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R16" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030412.0531-36" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-34" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R16-1">
+      <extent>
+        <charseq START="1871" END="1956">the borders of the far-flung archipelago, allowing for
+easy infiltration by extremists</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-36-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1947" END="1956">extremists</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-34-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1871" END="1910">the borders of the far-flung archipelago</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R17" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030412.0531-36" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-35" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R17-1">
+      <extent>
+        <charseq START="1886" END="1956">the far-flung archipelago, allowing for
+easy infiltration by extremists</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-36-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1947" END="1956">extremists</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-35-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1886" END="1910">the far-flung archipelago</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R18" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-39" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-40" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R18-1">
+      <extent>
+        <charseq START="2315" END="2380">Jusuf Wanadi of the Center for Strategic and
+International Studies</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-39-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2315" END="2380">Jusuf Wanadi of the Center for Strategic and
+International Studies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-40-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2331" END="2380">the Center for Strategic and
+International Studies</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R19" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-40" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R19-1">
+      <extent>
+        <charseq START="2331" END="2391">the Center for Strategic and
+International Studies in Jakarta</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-40-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2331" END="2380">the Center for Strategic and
+International Studies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-1-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="2385" END="2391">Jakarta</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R20" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="APW_ENG_20030412.0531-42" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-14" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R20-1">
+      <extent>
+        <charseq START="2523" END="2539">Megawati&apos;s father</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-42-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2523" END="2539">Megawati&apos;s father</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-14-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="2523" END="2530">Megawati</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R21" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-44" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-46" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R21-1">
+      <extent>
+        <charseq START="2690" END="2716">the Southeast Asian country</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-44-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2690" END="2716">the Southeast Asian country</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-46-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2694" END="2708">Southeast Asian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R22" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-44" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-47" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R22-1">
+      <extent>
+        <charseq START="2690" END="2731">the Southeast Asian country&apos;s main
+weapons</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-44-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2690" END="2716">the Southeast Asian country</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-47-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2725" END="2731">weapons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R23" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-45" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-44" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R23-1">
+      <extent>
+        <charseq START="2690" END="2740">the Southeast Asian country&apos;s main
+weapons supplier</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2690" END="2740">the Southeast Asian country&apos;s main
+weapons supplier</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-44-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2690" END="2716">the Southeast Asian country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R24" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-48" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R24-1">
+      <extent>
+        <charseq START="2823" END="2839">the U.S. Congress</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2823" END="2839">the U.S. Congress</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="2827" END="2830">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R25" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-49" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R25-1">
+      <extent>
+        <charseq START="2859" END="2882">Indonesian
+troops killed</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-49-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2859" END="2882">Indonesian
+troops killed</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-10" ROLE="Arg-2">
+          <extent>
+            <charseq START="2859" END="2868">Indonesian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R26" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030412.0531-49" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R26-1">
+      <extent>
+        <charseq START="2859" END="2918">Indonesian
+troops killed hundreds of civilians in East Timor</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-49-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2859" END="2882">Indonesian
+troops killed</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2909" END="2918">East Timor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R27" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030412.0531-50" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R27-1">
+      <extent>
+        <charseq START="2896" END="2918">civilians in East Timor</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-50-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2896" END="2904">civilians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2909" END="2918">East Timor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R28" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-51" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R28-1">
+      <extent>
+        <charseq START="2970" END="2991">Indonesian forces
+laid</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-51-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2970" END="2991">Indonesian forces
+laid</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-11" ROLE="Arg-2">
+          <extent>
+            <charseq START="2970" END="2979">Indonesian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R29" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-52" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R29-1">
+      <extent>
+        <charseq START="3103" END="3116">U.S. lawmakers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-52-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3103" END="3116">U.S. lawmakers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="3103" END="3106">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R30" TYPE="ORG-AFF" SUBTYPE="Founder">
+    <relation_argument REFID="APW_ENG_20030412.0531-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-53" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R30-1">
+      <extent>
+        <charseq START="3206" END="3228">the Bush administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-8-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="3210" END="3213">Bush</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-53-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3206" END="3228">the Bush administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R31" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030412.0531-56" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R31-1">
+      <extent>
+        <charseq START="3288" END="3317">a former ambassador to Jakarta</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-56-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3288" END="3306">a former ambassador</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-1-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="3311" END="3317">Jakarta</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R32" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-58" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R32-1">
+      <extent>
+        <charseq START="3410" END="3423">U.S. lawmakers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-58-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3410" END="3423">U.S. lawmakers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="3410" END="3413">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R33" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R33-1">
+      <extent>
+        <charseq START="3513" END="3532">Indonesia&apos;s
+generals</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3513" END="3532">Indonesia&apos;s
+generals</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-13" ROLE="Arg-2">
+          <extent>
+            <charseq START="3513" END="3521">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R34" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-60" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R34-1">
+      <extent>
+        <charseq START="3546" END="3568">the Indonesian military</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-60-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3546" END="3568">the Indonesian military</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-14" ROLE="Arg-2">
+          <extent>
+            <charseq START="3550" END="3559">Indonesian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R35" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-67" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R35-1">
+      <extent>
+        <charseq START="3886" END="3936">Jakarta has recently purchased some Russian weapons</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-1-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="3886" END="3892">Jakarta</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-67-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3917" END="3936">some Russian weapons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R36" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-67" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R36-1">
+      <extent>
+        <charseq START="3917" END="3936">some Russian weapons</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="3922" END="3928">Russian</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-67-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3917" END="3936">some Russian weapons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R37" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-73" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-71" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R37-1">
+      <extent>
+        <charseq START="4026" END="4076">a dozen BTR-80A amphibious carriers for its marines</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-73-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4066" END="4076">its marines</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-71-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4026" END="4060">a dozen BTR-80A amphibious carriers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R38" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-74" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R38-1">
+      <extent>
+        <charseq START="4091" END="4132">Indonesia uses short-range Rapier missiles</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-16" ROLE="Arg-1">
+          <extent>
+            <charseq START="4091" END="4099">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-74-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4106" END="4132">short-range Rapier missiles</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R39" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-76" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R39-1">
+      <extent>
+        <charseq START="4168" END="4203">its vital oil and natural gas fields</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-17" ROLE="Arg-1">
+          <extent>
+            <charseq START="4168" END="4170">its</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-76-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4168" END="4203">its vital oil and natural gas fields</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R40" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-77" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R40-1">
+      <extent>
+        <charseq START="4168" END="4214">its vital oil and natural gas fields in Sumatra</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4168" END="4203">its vital oil and natural gas fields</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-77-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4208" END="4214">Sumatra</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R41" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-78" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R41-1">
+      <extent>
+        <charseq START="4168" END="4222">its vital oil and natural gas fields in Sumatra,
+Borneo</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4168" END="4203">its vital oil and natural gas fields</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-78-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4217" END="4222">Borneo</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R42" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-79" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R42-1">
+      <extent>
+        <charseq START="4168" END="4232">its vital oil and natural gas fields in Sumatra,
+Borneo and Papua</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4168" END="4203">its vital oil and natural gas fields</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-79-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4228" END="4232">Papua</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R43" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-81" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R43-1">
+      <extent>
+        <charseq START="4371" END="4415">Russia&apos;s
+impressive long-range S-300 missiles</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="4371" END="4376">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-81-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4371" END="4415">Russia&apos;s
+impressive long-range S-300 missiles</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R44" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-85" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R44-1">
+      <extent>
+        <charseq START="4651" END="4670">Indonesian Air Force</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-85-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4651" END="4670">Indonesian Air Force</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-19" ROLE="Arg-2">
+          <extent>
+            <charseq START="4651" END="4660">Indonesian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R45" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-85" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-89" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R45-1">
+      <extent>
+        <charseq START="4651" END="4714">Indonesian Air Force commanders preferred Western jets
+that were</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-85-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4651" END="4670">Indonesian Air Force</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-89-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4683" END="4714">preferred Western jets
+that were</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R46" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-90" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-89" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R46-1">
+      <extent>
+        <charseq START="4683" END="4714">preferred Western jets
+that were</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-90-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4693" END="4699">Western</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-89-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4683" END="4714">preferred Western jets
+that were</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R47" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030412.0531-91" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R47-1">
+      <extent>
+        <charseq START="4732" END="4765">the U.S.-made F-16 fighter-bombers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-91-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4732" END="4765">the U.S.-made F-16 fighter-bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-10" ROLE="Arg-2">
+          <extent>
+            <charseq START="4736" END="4739">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R48" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-91" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-92" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R48-1">
+      <extent>
+        <charseq START="4732" END="4765">the U.S.-made F-16 fighter-bombers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-91-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4732" END="4765">the U.S.-made F-16 fighter-bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-92-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4746" END="4749">F-16</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R49" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030412.0531-91" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R49-1">
+      <extent>
+        <charseq START="4732" END="4791">the U.S.-made F-16 fighter-bombers already
+in the Indonesian</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-91-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4732" END="4765">the U.S.-made F-16 fighter-bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-20" ROLE="Arg-2">
+          <extent>
+            <charseq START="4782" END="4791">Indonesian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R50" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-95" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R50-1">
+      <extent>
+        <charseq START="4854" END="4864">Russian MiG</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="4854" END="4860">Russian</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-95-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4854" END="4864">Russian MiG</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R51" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030412.0531-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R51-1">
+      <extent>
+        <charseq START="5276" END="5302">Russia&apos;s economic
+ambitions</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-9-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="5276" END="5302">Russia&apos;s economic
+ambitions</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="5276" END="5281">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R52" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-99" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R52-1">
+      <extent>
+        <charseq START="5606" END="5622">Russian
+companies</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-99-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5606" END="5622">Russian
+companies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-19-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="5606" END="5612">Russian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R53" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-100" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R53-1">
+      <extent>
+        <charseq START="5637" END="5668">Indonesia&apos;s oil and gas industry</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-100-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5637" END="5668">Indonesia&apos;s oil and gas industry</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-2-23" ROLE="Arg-2">
+          <extent>
+            <charseq START="5637" END="5645">Indonesia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R54" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030412.0531-101" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R54-1">
+      <extent>
+        <charseq START="5689" END="5715">American and British giants</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-101-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5689" END="5715">American and British giants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-7-13" ROLE="Arg-2">
+          <extent>
+            <charseq START="5689" END="5696">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030412.0531-R55" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030412.0531-101" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030412.0531-23" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030412.0531-R55-1">
+      <extent>
+        <charseq START="5689" END="5715">American and British giants</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-101-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5689" END="5715">American and British giants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030412.0531-23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5702" END="5708">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030412.0531-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-4" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030412.0531-6" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV1-1">
+      <extent>
+        <charseq START="152" END="277">dictator Suharto has fallen, the constitution has changed, the
+media was unshackled, democratic elections held, and East Timor</charseq>
+      </extent>
+      <anchor>
+        <charseq START="173" END="178">fallen</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-4-1" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-6-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV2" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-6" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV2-1">
+      <extent>
+        <charseq START="248" END="256">elections</charseq>
+      </extent>
+      <anchor>
+        <charseq START="248" END="256">elections</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-6-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-8" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T1" ROLE="Time-Starting"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV3-1">
+      <extent>
+        <charseq START="302" END="382">2001, Indonesia was quick to sign onto U.S.
+President George W. Bush&apos;s global war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="380" END="382">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-8-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T1-1" ROLE="Time-Starting"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV4" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-12" ROLE="Buyer"/>
+    <event_argument REFID="APW_ENG_20030412.0531-9" ROLE="Seller"/>
+    <event_argument REFID="APW_ENG_20030412.0531-10" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV4-1">
+      <extent>
+        <charseq START="444" END="491">sales to the world&apos;s
+most populous Muslim nation</charseq>
+      </extent>
+      <anchor>
+        <charseq START="444" END="448">sales</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-12-0" ROLE="Buyer"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-9-0" ROLE="Seller"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-10-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030412.0531-EV5-1">
+      <extent>
+        <charseq START="530" END="535">abuses</charseq>
+      </extent>
+      <anchor>
+        <charseq START="530" END="535">abuses</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-14" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030412.0531-15" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T2" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV6-1">
+      <extent>
+        <charseq START="682" END="742">this month Indonesian President Megawati Sukarnoputri travels</charseq>
+      </extent>
+      <anchor>
+        <charseq START="736" END="742">travels</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-14-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-15-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-26" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030412.0531-53" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV7-1">
+      <extent>
+        <charseq START="1469" END="1479">war on Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1469" END="1471">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-26-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030412.0531-EV7-2">
+      <extent>
+        <charseq START="2213" END="2220">Iraq war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2218" END="2220">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-26-3" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030412.0531-EV7-3">
+      <extent>
+        <charseq START="3348" END="3355">Iraq war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3353" END="3355">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-26-4" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-53-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV8" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-14" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030412.0531-19" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T3" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV8-1">
+      <extent>
+        <charseq START="1544" END="1574">Megawati&apos;s meeting with Russian</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1555" END="1561">meeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-14-2" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-19-2" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-38" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030412.0531-37" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV9-1">
+      <extent>
+        <charseq START="1972" END="2009">Bali bombings, which killed 202 people</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1993" END="1998">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-38-0" ROLE="Victim"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-37-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-37" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030412.0531-38" ROLE="Target"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV10-1">
+      <extent>
+        <charseq START="1972" END="1984">Bali bombings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1977" END="1984">bombings</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-37-0" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-38-0" ROLE="Target"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-7" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV11-1">
+      <extent>
+        <charseq START="2091" END="2105">U.S.-led attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2100" END="2105">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-7-3" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV13" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-4" ROLE="Buyer"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T5" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030412.0531-43" ROLE="Seller"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV13-1">
+      <extent>
+        <charseq START="2602" END="2639">the anti-communist Gen. Suharto seized</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2634" END="2639">seized</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-4-2" ROLE="Buyer"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-43-0" ROLE="Seller"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV14" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-49" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T6" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030412.0531-6" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030412.0531-50" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV14-1">
+      <extent>
+        <charseq START="2859" END="2882">Indonesian
+troops killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2877" END="2882">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-49-0" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-6-1" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-50-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-2" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030412.0531-52" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030412.0531-7" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV15-1">
+      <extent>
+        <charseq START="3082" END="3183">destruction prompted U.S. lawmakers to expand
+the ban to cover almost all military ties with Indonesia</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3082" END="3092">destruction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-2-12" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-52-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-7-8" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV16" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-53" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030412.0531-56" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030412.0531-26" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV16-1">
+      <extent>
+        <charseq START="3290" END="3295">former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3290" END="3295">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-53-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-56-0" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-26-4" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV18" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-V15" ROLE="Position"/>
+    <event_argument REFID="APW_ENG_20030412.0531-62" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV18-1">
+      <extent>
+        <charseq START="3695" END="3700">former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3695" END="3700">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-V15-1" ROLE="Position"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-62-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV19" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-1" ROLE="Buyer"/>
+    <event_argument REFID="APW_ENG_20030412.0531-67" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV19-1">
+      <extent>
+        <charseq START="3886" END="3936">Jakarta has recently purchased some Russian weapons</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3907" END="3915">purchased</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-1-5" ROLE="Buyer"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-67-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV20" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-68" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030412.0531-73" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030412.0531-67" ROLE="Instrument"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV20-1">
+      <extent>
+        <charseq START="3968" END="3974">assault</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3968" END="3974">assault</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-68-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-73-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-67-0" ROLE="Instrument"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV21" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-74" ROLE="Instrument"/>
+    <event_argument REFID="APW_ENG_20030412.0531-2" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T8" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030412.0531-77" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV21-1">
+      <extent>
+        <charseq START="4101" END="4132">uses short-range Rapier missiles</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4101" END="4104">uses</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-74-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-2-16" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-77-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV22" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-T8" ROLE="Time-At-Beginning"/>
+    <event_argument REFID="APW_ENG_20030412.0531-2" ROLE="Buyer"/>
+    <event_argument REFID="APW_ENG_20030412.0531-74" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV22-1">
+      <extent>
+        <charseq START="4134" END="4142">purchased</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4134" END="4142">purchased</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T8-1" ROLE="Time-At-Beginning"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-2-16" ROLE="Buyer"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-74-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV23" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-79" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030412.0531-T8" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030412.0531-74" ROLE="Instrument"/>
+    <event_argument REFID="APW_ENG_20030412.0531-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV23-1">
+      <extent>
+        <charseq START="4243" END="4248">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4243" END="4248">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-79-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-74-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-2-16" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030412.0531-EV24" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030412.0531-87" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030412.0531-85" ROLE="Buyer"/>
+    <event_mention ID="APW_ENG_20030412.0531-EV24-1">
+      <extent>
+        <charseq START="4535" END="4591">purchasing several squadrons
+of Sukhoi Su-27 interceptors</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4535" END="4544">purchasing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-87-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030412.0531-85-0" ROLE="Buyer"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

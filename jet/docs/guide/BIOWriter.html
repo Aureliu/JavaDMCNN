@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>BIOWriter</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">BIOWriter</font></font></h1>
+<font color="#000000">The BIOWriter utility converts a tagged name
+corpus from XML tags to BIO tags.&nbsp; It is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">jet -BIOWriter</span></font></big><font
+ color="#000000">&nbsp; <span style="font-style: italic;">XML-collection
+BIO-file</span></font><br>
+</div>
+<font color="#000000"><br>
+where <span style="font-style: italic;">XML-collection </span>is the
+name of the input file -- a collection of XML-annotated files -- and <span
+ style="font-style: italic;">BIO-file</span> is the name of the output
+file.&nbsp; <span style="font-style: italic;">XML-collection</span>
+should contain a list of the file names of the XML-annotated document
+files, one file name per line.&nbsp; File names may either be absolute
+paths or relative paths;&nbsp; relative paths are interpreted relative
+to the directory containing <span style="font-style: italic;">XML-collection.</span><br>
+<br>
+Each XML-annotated document file is annotated in MUC format.&nbsp; Only
+data between </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;TEXT&gt;</span></font><font
+ color="#000000"> and </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;/TEXT&gt;</span></font><font
+ color="#000000"> is processed.&nbsp; Names should be marked with </font><font
+ color="#000000"><span style="font-family: monospace;">&lt;ENAMEX TYPE=</span></font><font
+ color="#000000"><span style="font-style: italic;">type</span></font><font
+ color="#000000"><span style="font-family: monospace;">&gt;</span></font><font
+ color="#000000"> ... </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;/ENAMEX&gt;</span></font><font
+ color="#000000">;&nbsp; tags of the form </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;TIMEX&gt;</span></font><font
+ color="#000000"> ... </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;/TIMEX&gt;</span></font><font
+ color="#000000"> and </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;NUMEX&gt;</span></font><font
+ color="#000000"> ... </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;/NUMEX&gt;</span></font><font
+ color="#000000"> are also allowed but are ignored.<br>
+<br>
+The output file (<span style="font-style: italic;">BIO-file</span>)
+consists of one token per line, with a blank line between
+sentences.&nbsp; Each line consists of the token, a blank, and a BIO
+tag.&nbsp; Tokens outside a name are tagged "O".&nbsp; A sequence of
+the form </font><font color="#000000"><span
+ style="font-family: monospace;">&lt;ENAMEX TYPE=</span></font><font
+ color="#000000"><span style="font-style: italic;">type</span></font><font
+ color="#000000"><span style="font-family: monospace;">&gt;</span></font><font
+ color="#000000"> token1 token2 token3</font><font color="#000000"><span
+ style="font-family: monospace;">&lt;/ENAMEX&gt;</span></font><font
+ color="#000000"> will be rendered<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><font color="#000000">token1 B-<span
+ style="font-style: italic;">type</span></font><br>
+<font color="#000000">token2 I-<span style="font-style: italic;">type</span></font><br>
+<font color="#000000">token3 I-<span style="font-style: italic;">type</span></font><br>
+<font color="#000000"><span style="font-style: italic;"></span></font></div>
+<font color="#000000"><span style="font-style: italic;"><br>
+</span></font>The single <span style="font-style: italic;">BIO-file</span>
+contains information from all the documents in the input collection.<br>
+<br>
+Note:&nbsp; if input is available as a single file with <span
+ style="font-family: monospace;">&lt;DOC&gt;</span> ... <span
+ style="font-family: monospace;">&lt;/DOC&gt;</span> surrounding each
+document, it can be converted to the required (one document per file)
+form with the <span style="font-family: monospace;">MakeCollection</span>
+utility.<br>
+</body>
+</html>

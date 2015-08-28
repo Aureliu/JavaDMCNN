@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>CorefView</title>
+</head>
+<body style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);"
+ link="#ff0000" vlink="#800080" alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">CorefView</font></font></h1>
+<font color="#000000">The CorefView utility displays all the entities
+(co-referring mentions) in a document.&nbsp; It is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">jet -CorefView</span></font></big><font
+ color="#000000">&nbsp; <span style="font-style: italic;">document</span></font><br>
+</div>
+<font color="#000000"><br>
+where <span style="font-style: italic;">document</span> is the name of
+a file containing an XML-annotated document.&nbsp; <span
+ style="font-style: italic;"></span></font><font color="#000000">&nbsp;
+The document is marked for coreference with the tags </font><font
+ color="#000000"><span style="font-family: monospace;">&lt;mention
+entity=</span></font><font style="font-style: italic;" color="#000000"><span
+ style="font-family: monospace;"></span>n</font><font color="#000000"><span
+ style="font-family: monospace;">&gt; ... &lt;/mention&gt;</span></font><font
+ color="#000000"><span style="font-family: monospace;"></span>, where <span
+ style="font-style: italic;">n</span> is an integer.&nbsp; Sequences
+enclosed in tags with the same value of <span
+ style="font-style: italic;">n</span> are coreferential.&nbsp; A
+character encoding <span style="font-style: italic;">charset </span>(other
+than the default, ISO-LATIN-1) can be
+specified </font><font color="#000000">by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">jet -CorefView
+-encoding</span></font></big><font color="#000000"> <span
+ style="font-style: italic;">charset</span>&nbsp; <span
+ style="font-style: italic;">document</span></font><br>
+</div>
+<font color="#000000"><br>
+</font><font color="#000000">CorefView displays a menu of entities on
+the left side and the document
+on the right side (each entity is listed using the text of its first
+mention).&nbsp; When an entity is selected, the mentions are
+highlighted on the right side, and connected with a line.&nbsp; (The
+bottom pane is used to display details of the annotations when this
+display is used as part of the Jet system.)<br>
+</font><font color="#000000"><br>
+</font><br>
+</body>
+</html>

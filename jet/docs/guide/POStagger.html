@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Part of Speech Tagger</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Part of Speech
+Tagger</font></font></h1>
+<div style="margin-left: 40px;"><br>
+</div>
+<table style="text-align: left; width: 400px;" border="1"
+ cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">action
+names<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;"><span
+ style="font-family: monospace;">tagPOS<br>
+tagJet<br>
+pruneTags</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">resources
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">HMM
+part-of-speech model<br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">properties<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;"><span
+ style="font-family: monospace;">Tags.fileName</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);">annotations
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);"><span
+ style="font-family: monospace;">token</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);">annotations
+added<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);"><span
+ style="font-family: monospace;">constit<br>
+tagger<br>
+      </span> </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+The part-of-speech tagger assigns parts of speech to tokens based on
+lexical statistics (the frequency with which a word is assigned a given
+part of speech) and POS bigram statistics (the frequency with
+which part of speech X is followed by part of speech Y).&nbsp; Jet
+provides a tagger file trained on a portion of the part-of-speech
+tagged Penn TreeBank, although other tagger files can be used.&nbsp;
+For previously unseen tokens, statistics for upper-case, lower-case and
+numeric tokens are used, but no additional morphology information is
+used.<br>
+<br>
+The part-of-speech taggers are trained from <a
+ href="http://www.ldc.upenn.edu/doc/treebank2/cl93.html">Version
+II of the Penn Tree Bank</a>, and therefore are based on <a
+ href="PennPOS.html">the tag set used
+by the tree bank</a>.&nbsp; However, the patterns and lexicons in Jet
+generally
+use a more standard set of word categories and attributes, in which,
+for
+example, NN and NNS are represented by [cat=noun number=singular] and
+[cat=noun
+number=plural].&nbsp; The annotation actions provided in Jet allow you
+to use either the Penn categories or <a href="JetPOS.html">Jet
+categories</a>:
+<br>
+&nbsp;
+<table border="3" cellspacing="3" cellpadding="8" bgcolor="#ccffff">
+  <tbody>
+    <tr>
+      <td><tt>tagPOS</tt></td>
+      <td>Assigns annotations of type <b>constit</b> to each token,
+with feature
+      <b>cat</b>
+corresponding to the <a href="PennPOS.html">Penn part-of-speech tag</a>.</td>
+    </tr>
+    <tr>
+      <td><tt>tagJet</tt></td>
+      <td>First assigns annotations of type <b>tagger</b> to each
+token, with
+feature <b>cat</b> corresponding to the Penn part-of-speech tag. <i>Then</i>
+(using the <b>tagger</b> annotations) assigns annotations of type <b>constit</b>
+to each token, with features <b>cat</b> and <b>number</b>
+corresponding
+to the <a href="JetPOS.html">Jet part-of-speech encoding</a>.</td>
+    </tr>
+    <tr>
+      <td><tt>pruneTags</tt></td>
+      <td>This action assumes that the tokens have already been
+assigned <b>constit</b>
+annotations by dictionary look-up, using the Jet part-of-speech;&nbsp;
+words with several parts of speech will have been assigned several such
+annotations.&nbsp; pruneTags uses the HMM tagger to select the
+determine
+the most likely part-of-speech <i>P</i> of the word in context, and
+removes
+all constit annotations except those corresponding to <i>P</i>.&nbsp;
+This
+makes it possible to use the additional information provided by the
+lexicon
+(base word forms, syntactic and semantic features, predicate-argument
+structures)
+while still retaining the benefit (one part-of-speech per word) of the
+tagger.&nbsp; It also provides more accurate tagging of words in the
+lexicon but not known to the statistical tagger.<br>
+      <p>Like tagJet, pruneTags first assigns annotations of type <b>tagger</b>
+to each token, with feature <b>cat</b> corresponding to the Penn
+part-of-speech
+tag;&nbsp; it then uses these annotations to guide the pruning of the <b>constit</b>
+annotations.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+&nbsp;
+</body>
+</html>

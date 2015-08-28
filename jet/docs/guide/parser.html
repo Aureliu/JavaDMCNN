@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Parsers and Grammar</title>
+</head>
+<body style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);"
+ link="#ff0000" vlink="#800080" alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Parsers and Grammar</font></font></h2>
+<br>
+<table style="text-align: left; width: 500px;" border="1"
+ cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">action
+name<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">parse</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">resources
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-style: italic;">grammar</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">properties<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">Grammar.fileName</span><span
+ style="font-family: monospace;"></span><span
+ style="font-style: italic;"><br>
+      </span> </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">annotations
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">constit </span><span
+ style="font-style: italic;">(for lexical items)</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">annotations
+added<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">constit</span><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+The Jet parser, in combination with a grammar, can be used to generate
+a syntactic analysis of input sentences.&nbsp; The parser supports only
+context-free grammars without feature constraints or probabilities, and
+so is intended for relatively simple grammars.&nbsp; For broad-coverage
+analysis of arbitrary sentence input, the statistical parser
+(statParser) should be used.<br>
+<br>
+If a parse is obtained, parse adds an annotation of the form <span
+ style="font-family: monospace; font-weight: bold;">&lt;constit cat=</span><span
+ style="font-family: monospace;"></span><span
+ style="font-style: italic;">category</span><span
+ style="font-family: monospace; font-weight: bold;"> children=[</span><span
+ style="font-family: monospace; font-style: italic;"></span><span
+ style="font-style: italic;">child</span><sub
+ style="font-style: italic;">1</sub><span style="font-style: italic;">
+child</span><sub style="font-style: italic;">2</sub><span
+ style="font-style: italic;"> ...</span><span
+ style="font-family: monospace; font-weight: bold;">]&gt;</span> for
+each non-terminal constituent in the parse tree.&nbsp; Here <span
+ style="font-style: italic;">category </span>is the non-terminal
+grammar category and <span
+ style="font-family: monospace; font-weight: bold;"></span><span
+ style="font-family: monospace; font-style: italic;"></span><span
+ style="font-style: italic;">child</span><sub
+ style="font-style: italic;">1</sub><span style="font-style: italic;">
+child</span><sub style="font-style: italic;">2</sub><span
+ style="font-style: italic;"> ...</span> are the annotations of the
+immediate constituent nodes.&nbsp; (If multple parses are obtained,
+separate sets of annotations are added for each parse.)<br>
+<br>
+<h3>
+Format of the grammar:</h3>
+The grammar consists of a set of definitions, where each definition has
+the form
+<p>&nbsp;&nbsp;&nbsp;&nbsp; symbol := element element ... | element
+element
+... | ... ;
+</p>
+<p>and each element is either a non-terminal symbol (defined elsewhere
+in the grammar), a pre-terminal symbol (defined in the lexicon), or a
+string
+<br>
+(enclose in double quotes).&nbsp; For example,
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: monospace;">
+sentence :=&nbsp; np vp;
+</span><br style="font-family: monospace;">
+<span style="font-family: monospace;">&nbsp;&nbsp;
+np&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :=&nbsp; n | art n | art adj n;
+</span><br style="font-family: monospace;">
+<span style="font-family: monospace;">&nbsp;&nbsp;
+vp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :=&nbsp; v | v np | v np "to" np;</span>
+</p>
+<p>The grammar file is free format:&nbsp; spaces, tabs, and newlines
+may
+be used freely.&nbsp; Definitions in the grammar and lexicon must end
+with
+semicolons (;).&nbsp; Java-style comments (both // and /* ... */) are
+allowed.
+</p>
+<h3>Types of parsers</h3>
+The Parser menu on the Jet console allows you to select the parser to
+be used:
+<ul>
+  <li>a top-down, backtracking recognizer (which does not produce a
+parse tree)</li>
+  <li>a top-down, backtracking parser</li>
+  <li>a bottom-up ('immediate-constituent analyzer') parser</li>
+  <li>a chart parser</li>
+</ul>
+This menu allows you to turn a parser trace on or off (the trace is
+displayed
+in the console).&nbsp; It also allows you to display a parse as a tree
+diagram.
+<h3>Parser traces</h3>
+The top-down parser operates with a goal stack.&nbsp; It produces the
+message
+"looking for x" when it removes x (a symbol or string) from the goal
+stack (and then tries to satisfy this goal, by either looking for an
+instance of x as the next word in the sentence, or by expanding x using
+its
+definition), and the message "found x" when it is has succeeded in
+building a node of type x.&nbsp; The bottom-up parser produces the
+message
+"adding
+node x" when it has succeeded in building a node of type x.
+</body>
+</html>

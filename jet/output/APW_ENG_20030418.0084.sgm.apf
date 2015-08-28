@@ -1,0 +1,1607 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030418.0084.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030418.0084">
+  <entity ID="APW_ENG_20030418.0084-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="129">KUALA LUMPUR</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="129">KUALA LUMPUR</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="KUALA LUMPUR">
+        <charseq START="118" END="129">KUALA LUMPUR</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="132" END="139">Malaysia</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="139">Malaysia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="147" END="154">Malaysia</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="154">Malaysia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="650" END="657">Malaysia</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="657">Malaysia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="2390" END="2398">Malaysian</charseq>
+      </extent>
+      <head>
+        <charseq START="2390" END="2398">Malaysian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Malaysia">
+        <charseq START="132" END="139">Malaysia</charseq>
+      </name>
+      <name NAME="Malaysia">
+        <charseq START="147" END="154">Malaysia</charseq>
+      </name>
+      <name NAME="Malaysia">
+        <charseq START="650" END="657">Malaysia</charseq>
+      </name>
+      <name NAME="Malaysian">
+        <charseq START="2390" END="2398">Malaysian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-3-0">
+      <extent>
+        <charseq START="142" END="143">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="143">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="142" END="143">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-4-0">
+      <extent>
+        <charseq START="147" END="177">Malaysia&apos;s second highest court</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="177">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-4-1">
+      <extent>
+        <charseq START="650" END="673">Malaysia&apos;s
+highest court</charseq>
+      </extent>
+      <head>
+        <charseq START="669" END="673">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-0">
+      <extent>
+        <charseq START="218" END="259">former Deputy Prime Minister Anwar Ibrahim</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="259">Anwar Ibrahim</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-5-1">
+      <extent>
+        <charseq START="232" END="245">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="245">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-2">
+      <extent>
+        <charseq START="466" END="470">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="470">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-3">
+      <extent>
+        <charseq START="493" END="495">his</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="495">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-4">
+      <extent>
+        <charseq START="592" END="596">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="592" END="596">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-5">
+      <extent>
+        <charseq START="718" END="722">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="718" END="722">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-6">
+      <extent>
+        <charseq START="810" END="812">his</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="812">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-7">
+      <extent>
+        <charseq START="855" END="859">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="855" END="859">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-8">
+      <extent>
+        <charseq START="946" END="950">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="950">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-9">
+      <extent>
+        <charseq START="980" END="984">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="984">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-10">
+      <extent>
+        <charseq START="1081" END="1085">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="1081" END="1085">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-11">
+      <extent>
+        <charseq START="1097" END="1099">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1099">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-12">
+      <extent>
+        <charseq START="1231" END="1232">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1231" END="1232">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-13">
+      <extent>
+        <charseq START="1295" END="1297">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1295" END="1297">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-14">
+      <extent>
+        <charseq START="1352" END="1356">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="1352" END="1356">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-15">
+      <extent>
+        <charseq START="1359" END="1361">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1359" END="1361">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-16">
+      <extent>
+        <charseq START="1429" END="1433">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="1429" END="1433">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-17">
+      <extent>
+        <charseq START="1552" END="1556">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="1552" END="1556">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-5-18">
+      <extent>
+        <charseq START="1601" END="1603">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1601" END="1603">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-19">
+      <extent>
+        <charseq START="2469" END="2473">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="2469" END="2473">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-20">
+      <extent>
+        <charseq START="2635" END="2639">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="2635" END="2639">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-5-21">
+      <extent>
+        <charseq START="2708" END="2712">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="2708" END="2712">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anwar Ibrahim">
+        <charseq START="247" END="259">Anwar Ibrahim</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="466" END="470">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="592" END="596">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="718" END="722">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="855" END="859">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="946" END="950">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="980" END="984">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="1081" END="1085">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="1352" END="1356">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="1429" END="1433">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="1552" END="1556">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="2469" END="2473">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="2635" END="2639">Anwar</charseq>
+      </name>
+      <name NAME="Anwar">
+        <charseq START="2708" END="2712">Anwar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-6-0">
+      <extent>
+        <charseq START="327" END="369">A three-judge panel of the Court of Appeals</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="345">panel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-7-0">
+      <extent>
+        <charseq START="335" END="339">judge</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="339">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-8-0">
+      <extent>
+        <charseq START="350" END="369">the Court of Appeals</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="369">Court of Appeals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Court of Appeals">
+        <charseq START="354" END="369">Court of Appeals</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-9-0">
+      <extent>
+        <charseq START="403" END="412">High Court</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="412">High Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="High Court">
+        <charseq START="403" END="412">High Court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-10-0">
+      <extent>
+        <charseq START="403" END="430">High Court Judge Arifin Jaka</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="430">Arifin Jaka</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-10-1">
+      <extent>
+        <charseq START="414" END="418">Judge</charseq>
+      </extent>
+      <head>
+        <charseq START="414" END="418">Judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arifin Jaka">
+        <charseq START="420" END="430">Arifin Jaka</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-11-0">
+      <extent>
+        <charseq START="493" END="500">his wife</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="500">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-12-0">
+      <extent>
+        <charseq START="493" END="516">his wife&apos;s former driver</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="516">driver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="540" END="588">this predominantly Muslim Southeast Asian country</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="588">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="576" END="580">Asian</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="580">Asian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asian">
+        <charseq START="576" END="580">Asian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-15-0">
+      <extent>
+        <charseq START="631" END="647">the Federal Court</charseq>
+      </extent>
+      <head>
+        <charseq START="635" END="647">Federal Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-15-1">
+      <extent>
+        <charseq START="2451" END="2459">the court</charseq>
+      </extent>
+      <head>
+        <charseq START="2455" END="2459">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-15-2">
+      <extent>
+        <charseq START="2592" END="2600">The court</charseq>
+      </extent>
+      <head>
+        <charseq START="2596" END="2600">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Federal Court">
+        <charseq START="635" END="647">Federal Court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-16-0">
+      <extent>
+        <charseq START="689" END="697">reporters</charseq>
+      </extent>
+      <head>
+        <charseq START="689" END="697">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-17-0">
+      <extent>
+        <charseq START="734" END="743">the judges</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="743">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-17-1">
+      <extent>
+        <charseq START="753" END="756">they</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="756">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-17-2">
+      <extent>
+        <charseq START="835" END="850">spineless judges</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="850">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-17-3">
+      <extent>
+        <charseq START="903" END="912">The judges</charseq>
+      </extent>
+      <head>
+        <charseq START="907" END="912">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-17-4">
+      <extent>
+        <charseq START="2155" END="2160">judges</charseq>
+      </extent>
+      <head>
+        <charseq START="2155" END="2160">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-17-5">
+      <extent>
+        <charseq START="2219" END="2224">judges</charseq>
+      </extent>
+      <head>
+        <charseq START="2219" END="2224">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-17-6">
+      <extent>
+        <charseq START="2838" END="2847">the judges</charseq>
+      </extent>
+      <head>
+        <charseq START="2842" END="2847">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="786" END="799">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="799">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-19-0">
+      <extent>
+        <charseq START="980" END="994">Anwar&apos;s lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="994">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-19-1">
+      <extent>
+        <charseq START="1001" END="1004">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1001" END="1004">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-19-2">
+      <extent>
+        <charseq START="2166" END="2172">lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="2166" END="2172">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-20-0">
+      <extent>
+        <charseq START="1295" END="1305">his lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="1299" END="1305">lawyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-21-0">
+      <extent>
+        <charseq START="1314" END="1344">Prime Minister Mahathir Mohamad</charseq>
+      </extent>
+      <head>
+        <charseq START="1329" END="1344">Mahathir Mohamad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-21-1">
+      <extent>
+        <charseq START="1314" END="1327">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1314" END="1327">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-21-2">
+      <extent>
+        <charseq START="1462" END="1469">Mahathir</charseq>
+      </extent>
+      <head>
+        <charseq START="1462" END="1469">Mahathir</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-21-3">
+      <extent>
+        <charseq START="1478" END="1479">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1478" END="1479">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-21-4">
+      <extent>
+        <charseq START="1622" END="1629">Mahathir</charseq>
+      </extent>
+      <head>
+        <charseq START="1622" END="1629">Mahathir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mahathir Mohamad">
+        <charseq START="1329" END="1344">Mahathir Mohamad</charseq>
+      </name>
+      <name NAME="Mahathir">
+        <charseq START="1462" END="1469">Mahathir</charseq>
+      </name>
+      <name NAME="Mahathir">
+        <charseq START="1622" END="1629">Mahathir</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-22-0">
+      <extent>
+        <charseq START="1359" END="1376">his former protege</charseq>
+      </extent>
+      <head>
+        <charseq START="1370" END="1376">protege</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1642" END="1655">The government</charseq>
+      </extent>
+      <head>
+        <charseq START="1646" END="1655">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-24-0">
+      <extent>
+        <charseq START="1671" END="1688">Human rights group</charseq>
+      </extent>
+      <head>
+        <charseq START="1684" END="1688">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-25-0">
+      <extent>
+        <charseq START="1690" END="1710">Amnesty International</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1710">Amnesty International</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Amnesty International">
+        <charseq START="1690" END="1710">Amnesty International</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1822" END="1832">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1826" END="1832">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-27-0">
+      <extent>
+        <charseq START="1953" END="1965">the judiciary</charseq>
+      </extent>
+      <head>
+        <charseq START="1957" END="1965">judiciary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-28-0">
+      <extent>
+        <charseq START="1998" END="2019">the London-based group</charseq>
+      </extent>
+      <head>
+        <charseq START="2002" END="2019">London-based group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London-based group">
+        <charseq START="2002" END="2019">London-based group</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-29-0">
+      <extent>
+        <charseq START="2088" END="2104">Param Cumaraswamy</charseq>
+      </extent>
+      <head>
+        <charseq START="2088" END="2104">Param Cumaraswamy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Param Cumaraswamy">
+        <charseq START="2088" END="2104">Param Cumaraswamy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-30-0">
+      <extent>
+        <charseq START="2107" END="2135">the U.N. special investigator</charseq>
+      </extent>
+      <head>
+        <charseq START="2124" END="2135">investigator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-31" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-31-0">
+      <extent>
+        <charseq START="2111" END="2114">U.N.</charseq>
+      </extent>
+      <head>
+        <charseq START="2111" END="2114">U.N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.N.">
+        <charseq START="2111" END="2114">U.N.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-32-0">
+      <extent>
+        <charseq START="2425" END="2441">200 demonstrators</charseq>
+      </extent>
+      <head>
+        <charseq START="2429" END="2441">demonstrators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-33-0">
+      <extent>
+        <charseq START="2524" END="2535">Police armed</charseq>
+      </extent>
+      <head>
+        <charseq START="2524" END="2529">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-34" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-34-0">
+      <extent>
+        <charseq START="2542" END="2558">automatic
+weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="2552" END="2558">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-35-0">
+      <extent>
+        <charseq START="2635" END="2657">Anwar&apos;s adopted brother</charseq>
+      </extent>
+      <head>
+        <charseq START="2651" END="2657">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-36-0">
+      <extent>
+        <charseq START="2660" END="2673">Sukma Darmawan</charseq>
+      </extent>
+      <head>
+        <charseq START="2660" END="2673">Sukma Darmawan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030418.0084-36-1">
+      <extent>
+        <charseq START="2790" END="2794">Sukma</charseq>
+      </extent>
+      <head>
+        <charseq START="2790" END="2794">Sukma</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-36-2">
+      <extent>
+        <charseq START="2867" END="2869">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2867" END="2869">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030418.0084-36-3">
+      <extent>
+        <charseq START="2880" END="2882">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2880" END="2882">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sukma Darmawan">
+        <charseq START="2660" END="2673">Sukma Darmawan</charseq>
+      </name>
+      <name NAME="Sukma">
+        <charseq START="2790" END="2794">Sukma</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030418.0084-37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030418.0084-37-0">
+      <extent>
+        <charseq START="2770" END="2773">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="2770" END="2773">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030418.0084-V7" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V7-1">
+      <extent>
+        <charseq START="318" END="323">sodomy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V10" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V10-1">
+      <extent>
+        <charseq START="1287" END="1292">sodomy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V11" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V11-1">
+      <extent>
+        <charseq START="1535" END="1540">sodomy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V12" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V12-1">
+      <extent>
+        <charseq START="2718" END="2723">sodomy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V24" TYPE="Sentence ">
+    <value_mention ID="APW_ENG_20030418.0084-V24-1">
+      <extent>
+        <charseq START="1253" END="1281">the nine-year
+prison sentence</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V25" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V25-1">
+      <extent>
+        <charseq START="1139" END="1148">corruption</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V26" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V26-1">
+      <extent>
+        <charseq START="1520" END="1529">corruption</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V28" TYPE="Job-Title">
+    <value_mention ID="APW_ENG_20030418.0084-V28-1">
+      <extent>
+        <charseq START="1359" END="1376">his former protege</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V30" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030418.0084-V30-1">
+      <extent>
+        <charseq START="1565" END="1575">the charges</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030418.0084-V32" TYPE="Sentence ">
+    <value_mention ID="APW_ENG_20030418.0084-V32-1">
+      <extent>
+        <charseq START="2757" END="2765">six years</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030418.0084-T0" VAL="2003-04-18">
+    <timex2_mention ID="APW_ENG_20030418.0084-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030418</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T1" VAL="2003-04-18">
+    <timex2_mention ID="APW_ENG_20030418.0084-T1-1">
+      <extent>
+        <charseq START="182" END="187">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T2" VAL="2000">
+    <timex2_mention ID="APW_ENG_20030418.0084-T2-1">
+      <extent>
+        <charseq START="439" END="453">three years ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T3" VAL="2003-04-14">
+    <timex2_mention ID="APW_ENG_20030418.0084-T3-1">
+      <extent>
+        <charseq START="1073" END="1078">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T4" VAL="1998">
+    <timex2_mention ID="APW_ENG_20030418.0084-T4-1">
+      <extent>
+        <charseq START="1382" END="1385">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T5" VAL="2003-04-18">
+    <timex2_mention ID="APW_ENG_20030418.0084-T5-1">
+      <extent>
+        <charseq START="1717" END="1722">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T6" VAL="2003-04-18">
+    <timex2_mention ID="APW_ENG_20030418.0084-T6-1">
+      <extent>
+        <charseq START="2044" END="2048">Today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T7" VAL="2000-08">
+    <timex2_mention ID="APW_ENG_20030418.0084-T7-1">
+      <extent>
+        <charseq START="2728" END="2738">August 2000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T8" VAL="P6Y">
+    <timex2_mention ID="APW_ENG_20030418.0084-T8-1">
+      <extent>
+        <charseq START="2757" END="2765">six years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030418.0084-T9" VAL="2003-04-18">
+    <timex2_mention ID="APW_ENG_20030418.0084-T9-1">
+      <extent>
+        <charseq START="2852" END="2857">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030418.0084-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030418.0084-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R1-1">
+      <extent>
+        <charseq START="118" END="139">KUALA LUMPUR, Malaysia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="118" END="129">KUALA LUMPUR</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="132" END="139">Malaysia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030418.0084-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R2-1">
+      <extent>
+        <charseq START="147" END="177">Malaysia&apos;s second highest court</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="147" END="177">Malaysia&apos;s second highest court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="147" END="154">Malaysia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030418.0084-R2-2">
+      <extent>
+        <charseq START="650" END="673">Malaysia&apos;s
+highest court</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="650" END="673">Malaysia&apos;s
+highest court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-2-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="650" END="657">Malaysia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R3" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030418.0084-6" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R3-1">
+      <extent>
+        <charseq START="327" END="369">A three-judge panel of the Court of Appeals</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="327" END="369">A three-judge panel of the Court of Appeals</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="350" END="369">the Court of Appeals</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030418.0084-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-9" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R4-1">
+      <extent>
+        <charseq START="403" END="430">High Court Judge Arifin Jaka</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="403" END="430">High Court Judge Arifin Jaka</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="403" END="412">High Court</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R5" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="APW_ENG_20030418.0084-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R5-1">
+      <extent>
+        <charseq START="493" END="500">his wife</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-5-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="493" END="495">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="493" END="500">his wife</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R6" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="APW_ENG_20030418.0084-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R6-1">
+      <extent>
+        <charseq START="493" END="516">his wife&apos;s former driver</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="493" END="500">his wife</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="493" END="516">his wife&apos;s former driver</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R7" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030418.0084-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R7-1">
+      <extent>
+        <charseq START="980" END="994">Anwar&apos;s lawyers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-5-9" ROLE="Arg-1">
+          <extent>
+            <charseq START="980" END="984">Anwar</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="980" END="994">Anwar&apos;s lawyers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R8" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030418.0084-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-20" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R8-1">
+      <extent>
+        <charseq START="1295" END="1305">his lawyers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-5-13" ROLE="Arg-1">
+          <extent>
+            <charseq START="1295" END="1297">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1295" END="1305">his lawyers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R9" TYPE="PER-SOC" SUBTYPE="Lasting-Personal">
+    <relation_argument REFID="APW_ENG_20030418.0084-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-22" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R9-1">
+      <extent>
+        <charseq START="1359" END="1376">his former protege</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-5-15" ROLE="Arg-1">
+          <extent>
+            <charseq START="1359" END="1361">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1359" END="1376">his former protege</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030418.0084-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-31" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R10-1">
+      <extent>
+        <charseq START="2107" END="2135">the U.N. special investigator</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2107" END="2135">the U.N. special investigator</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-31-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2111" END="2114">U.N.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R11" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030418.0084-32" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R11-1">
+      <extent>
+        <charseq START="2425" END="2459">200 demonstrators outside the court</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-32-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2425" END="2441">200 demonstrators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2451" END="2459">the court</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030418.0084-33" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-34" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R12-1">
+      <extent>
+        <charseq START="2524" END="2558">Police armed with automatic
+weapons</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-33-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2524" END="2535">Police armed</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-34-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2542" END="2558">automatic
+weapons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030418.0084-R13" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="APW_ENG_20030418.0084-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030418.0084-35" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030418.0084-R13-1">
+      <extent>
+        <charseq START="2635" END="2657">Anwar&apos;s adopted brother</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-5-20" ROLE="Arg-1">
+          <extent>
+            <charseq START="2635" END="2639">Anwar</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030418.0084-35-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2635" END="2657">Anwar&apos;s adopted brother</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030418.0084-EV1" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-T1" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V7" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-4" ROLE="Adjudicator"/>
+    <event_argument REFID="APW_ENG_20030418.0084-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV1-1">
+      <extent>
+        <charseq START="201" END="206">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="201" END="206">appeal</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V7-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-4-0" ROLE="Adjudicator"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-2-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030418.0084-T1" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V7" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV2-1">
+      <extent>
+        <charseq START="211" END="259">jailed former Deputy Prime Minister Anwar Ibrahim</charseq>
+      </extent>
+      <anchor>
+        <charseq START="211" END="216">jailed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-0" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V7-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-2-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV3" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-T1" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV3-1">
+      <extent>
+        <charseq START="218" END="223">former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="218" END="223">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV4" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-V7" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030418.0084-4" ROLE="Adjudicator"/>
+    <event_argument REFID="APW_ENG_20030418.0084-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV4-1">
+      <extent>
+        <charseq START="273" END="323">conviction and nine-year prison sentence for sodomy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="273" END="282">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V7-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-4-0" ROLE="Adjudicator"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-2-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV5" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-T2" ROLE="Time-At-Beginning"/>
+    <event_argument REFID="APW_ENG_20030418.0084-6" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030418.0084-10" ROLE="Adjudicator"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV5-1">
+      <extent>
+        <charseq START="392" END="453">verdict by High Court Judge Arifin Jaka nearly three years ago</charseq>
+      </extent>
+      <anchor>
+        <charseq START="392" END="398">verdict</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T2-1" ROLE="Time-At-Beginning"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-6-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-10-0" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV6" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-11" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV6-1">
+      <extent>
+        <charseq START="504" END="509">former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="504" END="509">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-11-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV7" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-18" ROLE="Prosecutor"/>
+    <event_argument REFID="APW_ENG_20030418.0084-17" ROLE="Adjudicator"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV7-1">
+      <extent>
+        <charseq START="814" END="819">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="814" END="819">appeal</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-18-0" ROLE="Prosecutor"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-17-0" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV8" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030418.0084-EV8-1">
+      <extent>
+        <charseq START="958" END="965">released</charseq>
+      </extent>
+      <anchor>
+        <charseq START="958" END="965">released</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV9" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030418.0084-EV9-1">
+      <extent>
+        <charseq START="1061" END="1066">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1061" END="1066">appeal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV10" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-V25" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-T3" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV10-1">
+      <extent>
+        <charseq START="1125" END="1148">conviction on
+corruption</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1125" END="1134">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V25-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV11" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-T3" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V25" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV11-1">
+      <extent>
+        <charseq START="1150" END="1156">charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1150" END="1156">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V25-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV12" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-V10" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V24" ROLE="Sentence"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV12-1">
+      <extent>
+        <charseq START="1245" END="1292">serving the nine-year
+prison sentence for sodomy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1245" END="1251">serving</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V10-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-12" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V24-1" ROLE="Sentence"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV13" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-T4" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V28" ROLE="Position"/>
+    <event_argument REFID="APW_ENG_20030418.0084-22" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV13-1">
+      <extent>
+        <charseq START="1363" END="1368">former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1363" END="1368">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V28-1" ROLE="Position"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-22-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV14" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Entity"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV14-1">
+      <extent>
+        <charseq START="1429" END="1452">Anwar led large
+protests</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1445" END="1452">protests</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-16" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV15" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-21" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V26" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V11" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV15-1">
+      <extent>
+        <charseq START="1478" END="1540">he was arrested, charged and
+convicted on corruption and sodomy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1485" END="1492">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-21-3" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V26-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V11-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV16" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-5" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V30" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V11" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-21" ROLE="Adjudicator"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV16-1">
+      <extent>
+        <charseq START="1542" END="1548">charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1542" END="1548">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V11-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-21-3" ROLE="Adjudicator"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030418.0084-EV16-2">
+      <extent>
+        <charseq START="1569" END="1575">charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1569" END="1575">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-5-17" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V30-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV18" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-V12" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-15" ROLE="Adjudicator"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV18-1">
+      <extent>
+        <charseq START="2625" END="2630">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2625" END="2630">appeal</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V12-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-15-2" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV19" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-V12" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030418.0084-35" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030418.0084-V32" ROLE="Sentence"/>
+    <event_argument REFID="APW_ENG_20030418.0084-T7" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-15" ROLE="Adjudicator"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV19-1">
+      <extent>
+        <charseq START="2635" END="2765">Anwar&apos;s adopted brother,
+Sukma Darmawan, who was convicted together with Anwar for sodomy in
+August 2000 and sentenced to six years</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2744" END="2752">sentenced</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V12-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-35-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-V32-1" ROLE="Sentence"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T7-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-15-2" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030418.0084-EV20" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030418.0084-17" ROLE="Adjudicator"/>
+    <event_argument REFID="APW_ENG_20030418.0084-T9" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030418.0084-36" ROLE="Defendant"/>
+    <event_mention ID="APW_ENG_20030418.0084-EV20-1">
+      <extent>
+        <charseq START="2826" END="2847">appeal, but the judges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2826" END="2831">appeal</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-17-6" ROLE="Adjudicator"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-T9-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030418.0084-36-2" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

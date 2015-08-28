@@ -1,0 +1,1948 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NYT_ENG_20030630.0075.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="NYT_ENG_20030630.0075">
+  <entity ID="NYT_ENG_20030630.0075-1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-0">
+      <extent>
+        <charseq START="122" END="144">The Bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="144">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-1">
+      <extent>
+        <charseq START="326" END="339">administration</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="339">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-2">
+      <extent>
+        <charseq START="656" END="673">the administration</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="673">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-3">
+      <extent>
+        <charseq START="1079" END="1092">administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1092">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-4">
+      <extent>
+        <charseq START="1459" END="1472">Administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1459" END="1472">Administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-5">
+      <extent>
+        <charseq START="2734" END="2751">the administration</charseq>
+      </extent>
+      <head>
+        <charseq START="2738" END="2751">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-1-6">
+      <extent>
+        <charseq START="3826" END="3843">the
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="3830" END="3843">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-2-0">
+      <extent>
+        <charseq START="126" END="129">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="129">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bush">
+        <charseq START="126" END="129">Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-3" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-3-0">
+      <extent>
+        <charseq START="187" END="201">the
+Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="201">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-3-1">
+      <extent>
+        <charseq START="1877" END="1891">the Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="1881" END="1891">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-3-2">
+      <extent>
+        <charseq START="2580" END="2594">the Middle
+East</charseq>
+      </extent>
+      <head>
+        <charseq START="2584" END="2594">Middle
+East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Middle East">
+        <charseq START="191" END="201">Middle East</charseq>
+      </name>
+      <name NAME="Middle East">
+        <charseq START="1881" END="1891">Middle East</charseq>
+      </name>
+      <name NAME="Middle East">
+        <charseq START="2584" END="2594">Middle
+East</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-4-0">
+      <extent>
+        <charseq START="237" END="252">the Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="252">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-4-1">
+      <extent>
+        <charseq START="1513" END="1528">the
+Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="1517" END="1528">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-4-2">
+      <extent>
+        <charseq START="3186" END="3201">the Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="3190" END="3201">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-4-3">
+      <extent>
+        <charseq START="4066" END="4081">the Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="4070" END="4081">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-4-4">
+      <extent>
+        <charseq START="4218" END="4233">the
+Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="4222" END="4233">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinians">
+        <charseq START="241" END="252">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="1517" END="1528">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="3190" END="3201">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="4070" END="4081">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="4222" END="4233">Palestinians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-0">
+      <extent>
+        <charseq START="299" END="323">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="323">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-5-1">
+      <extent>
+        <charseq START="409" END="421">the authority</charseq>
+      </extent>
+      <head>
+        <charseq START="413" END="421">authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-2">
+      <extent>
+        <charseq START="744" END="768">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="748" END="768">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-3">
+      <extent>
+        <charseq START="949" END="973">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="953" END="973">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-5-4">
+      <extent>
+        <charseq START="1023" END="1027">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1023" END="1027">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-5">
+      <extent>
+        <charseq START="1182" END="1192">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1182" END="1192">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-6">
+      <extent>
+        <charseq START="1377" END="1387">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1377" END="1387">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-7">
+      <extent>
+        <charseq START="1744" END="1754">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1744" END="1754">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-8">
+      <extent>
+        <charseq START="2032" END="2052">Palestinian
+Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="2032" END="2052">Palestinian
+Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-9">
+      <extent>
+        <charseq START="2413" END="2437">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="2417" END="2437">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-10">
+      <extent>
+        <charseq START="2514" END="2524">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2514" END="2524">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-11">
+      <extent>
+        <charseq START="2764" END="2788">the Palestinian
+Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="2768" END="2788">Palestinian
+Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-5-12">
+      <extent>
+        <charseq START="2891" END="2903">the authority</charseq>
+      </extent>
+      <head>
+        <charseq START="2895" END="2903">authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-13">
+      <extent>
+        <charseq START="2918" END="2942">The Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="2922" END="2942">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-5-14">
+      <extent>
+        <charseq START="3217" END="3221">their</charseq>
+      </extent>
+      <head>
+        <charseq START="3217" END="3221">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-15">
+      <extent>
+        <charseq START="3671" END="3681">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3671" END="3681">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-16">
+      <extent>
+        <charseq START="3912" END="3922">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3912" END="3922">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-5-17">
+      <extent>
+        <charseq START="3910" END="3928">a Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="3924" END="3928">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-5-18">
+      <extent>
+        <charseq START="4454" END="4478">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="4458" END="4478">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-5-19">
+      <extent>
+        <charseq START="4530" END="4533">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4530" END="4533">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian Authority">
+        <charseq START="303" END="323">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="748" END="768">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="953" END="973">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1182" END="1192">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1377" END="1387">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1744" END="1754">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="2032" END="2052">Palestinian
+Authority</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="2417" END="2437">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2514" END="2524">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="2768" END="2788">Palestinian
+Authority</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="2922" END="2942">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3671" END="3681">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3912" END="3922">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="4458" END="4478">Palestinian Authority</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-6-0">
+      <extent>
+        <charseq START="326" END="349">administration officials</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="349">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-7-0">
+      <extent>
+        <charseq START="409" END="459">the authority&apos;s
+intelligence and security apparatus</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="459">apparatus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-8-0">
+      <extent>
+        <charseq START="493" END="505">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="505">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-8-1">
+      <extent>
+        <charseq START="3630" END="3642">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="3634" END="3642">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="West Bank">
+        <charseq START="497" END="505">West Bank</charseq>
+      </name>
+      <name NAME="West Bank">
+        <charseq START="3634" END="3642">West Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-9-0">
+      <extent>
+        <charseq START="511" END="514">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="514">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-9-1">
+      <extent>
+        <charseq START="1686" END="1699">the Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1699">Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-9-2">
+      <extent>
+        <charseq START="3435" END="3438">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="3435" END="3438">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gaza">
+        <charseq START="511" END="514">Gaza</charseq>
+      </name>
+      <name NAME="Gaza Strip">
+        <charseq START="1690" END="1699">Gaza Strip</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="3435" END="3438">Gaza</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-10-0">
+      <extent>
+        <charseq START="580" END="586">the
+CIA</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="586">CIA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CIA">
+        <charseq START="584" END="586">CIA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-11-0">
+      <extent>
+        <charseq START="627" END="634">Israelis</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="634">Israelis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israelis">
+        <charseq START="627" END="634">Israelis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="791" END="798">American</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="798">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="1352" END="1359">American</charseq>
+      </extent>
+      <head>
+        <charseq START="1352" END="1359">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-2" ROLE="GPE">
+      <extent>
+        <charseq START="3120" END="3127">American</charseq>
+      </extent>
+      <head>
+        <charseq START="3120" END="3127">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-3" ROLE="GPE">
+      <extent>
+        <charseq START="3779" END="3786">American</charseq>
+      </extent>
+      <head>
+        <charseq START="3779" END="3786">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-4" ROLE="GPE">
+      <extent>
+        <charseq START="4017" END="4024">American</charseq>
+      </extent>
+      <head>
+        <charseq START="4017" END="4024">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-5" ROLE="GPE">
+      <extent>
+        <charseq START="4319" END="4324">United</charseq>
+      </extent>
+      <head>
+        <charseq START="4319" END="4324">United</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-12-6" ROLE="GPE">
+      <extent>
+        <charseq START="4536" END="4543">American</charseq>
+      </extent>
+      <head>
+        <charseq START="4536" END="4543">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="American">
+        <charseq START="791" END="798">American</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="1352" END="1359">American</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="3120" END="3127">American</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="3779" END="3786">American</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="4017" END="4024">American</charseq>
+      </name>
+      <name NAME="United">
+        <charseq START="4319" END="4324">United</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="4536" END="4543">American</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-13" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-13-0">
+      <extent>
+        <charseq START="860" END="877">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="864" END="877">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United Nations">
+        <charseq START="864" END="877">United Nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-14-0">
+      <extent>
+        <charseq START="883" END="914">independent relief
+organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="902" END="914">organizations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-15-0">
+      <extent>
+        <charseq START="1076" END="1101">an administration official</charseq>
+      </extent>
+      <head>
+        <charseq START="1094" END="1101">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-15-1">
+      <extent>
+        <charseq START="1219" END="1231">this official</charseq>
+      </extent>
+      <head>
+        <charseq START="1224" END="1231">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-15-2">
+      <extent>
+        <charseq START="3506" END="3516">an official</charseq>
+      </extent>
+      <head>
+        <charseq START="3509" END="3516">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-16-0">
+      <extent>
+        <charseq START="1156" END="1161">others</charseq>
+      </extent>
+      <head>
+        <charseq START="1156" END="1161">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-17-0">
+      <extent>
+        <charseq START="1178" END="1203">the
+Palestinian leadership</charseq>
+      </extent>
+      <head>
+        <charseq START="1194" END="1203">leadership</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-17-1">
+      <extent>
+        <charseq START="1238" END="1247">leadership</charseq>
+      </extent>
+      <head>
+        <charseq START="1238" END="1247">leadership</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-18-0">
+      <extent>
+        <charseq START="1312" END="1324">Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="1312" END="1324">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yasser Arafat">
+        <charseq START="1312" END="1324">Yasser Arafat</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-19-0">
+      <extent>
+        <charseq START="1375" END="1402">a Palestinian prime
+minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1395" END="1402">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-20-0">
+      <extent>
+        <charseq START="1405" END="1417">Mahmoud Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="1405" END="1417">Mahmoud Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-20-1">
+      <extent>
+        <charseq START="3166" END="3170">Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="3166" END="3170">Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-20-2">
+      <extent>
+        <charseq START="3383" END="3387">Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="3383" END="3387">Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mahmoud Abbas">
+        <charseq START="1405" END="1417">Mahmoud Abbas</charseq>
+      </name>
+      <name NAME="Abbas">
+        <charseq START="3166" END="3170">Abbas</charseq>
+      </name>
+      <name NAME="Abbas">
+        <charseq START="3383" END="3387">Abbas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-21-0">
+      <extent>
+        <charseq START="1424" END="1441">a finance minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1434" END="1441">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-22-0">
+      <extent>
+        <charseq START="1444" END="1455">Salam Fayyad</charseq>
+      </extent>
+      <head>
+        <charseq START="1444" END="1455">Salam Fayyad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Salam Fayyad">
+        <charseq START="1444" END="1455">Salam Fayyad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-23-0">
+      <extent>
+        <charseq START="1459" END="1482">Administration officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1474" END="1482">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-24" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-24-0">
+      <extent>
+        <charseq START="1614" END="1623">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1623">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1654" END="1660">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1654" END="1660">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-1" ROLE="GPE">
+      <extent>
+        <charseq START="2530" END="2536">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="2530" END="2536">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-2" ROLE="GPE">
+      <extent>
+        <charseq START="2676" END="2681">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2676" END="2681">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-3" ROLE="GPE">
+      <extent>
+        <charseq START="3281" END="3286">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3281" END="3286">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-4" ROLE="GPE">
+      <extent>
+        <charseq START="3365" END="3370">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3365" END="3370">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-5" ROLE="GPE">
+      <extent>
+        <charseq START="3584" END="3590">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3584" END="3590">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-6" ROLE="GPE">
+      <extent>
+        <charseq START="3663" END="3669">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3663" END="3669">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-7" ROLE="GPE">
+      <extent>
+        <charseq START="3953" END="3958">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3953" END="3958">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-25-8" ROLE="GPE">
+      <extent>
+        <charseq START="4042" END="4045">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4042" END="4045">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-25-9" ROLE="GPE">
+      <extent>
+        <charseq START="4091" END="4095">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4091" END="4095">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-10" ROLE="GPE">
+      <extent>
+        <charseq START="4199" END="4204">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4199" END="4204">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-11" ROLE="GPE">
+      <extent>
+        <charseq START="4307" END="4312">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4307" END="4312">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-25-12" ROLE="GPE">
+      <extent>
+        <charseq START="4374" END="4380">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="4374" END="4380">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israeli">
+        <charseq START="1654" END="1660">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="2530" END="2536">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2676" END="2681">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3281" END="3286">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3365" END="3370">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3584" END="3590">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3663" END="3669">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3953" END="3958">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4199" END="4204">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4307" END="4312">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="4374" END="4380">Israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-26" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-26-0">
+      <extent>
+        <charseq START="1729" END="1770">at least three Palestinian militant groups</charseq>
+      </extent>
+      <head>
+        <charseq START="1765" END="1770">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-27-0">
+      <extent>
+        <charseq START="1774" END="1791">Secretary of State</charseq>
+      </extent>
+      <head>
+        <charseq START="1774" END="1791">Secretary of State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-28-0">
+      <extent>
+        <charseq START="1787" END="1821">State Colin L. Powell, who appeared</charseq>
+      </extent>
+      <head>
+        <charseq START="1793" END="1807">Colin L. Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-28-1">
+      <extent>
+        <charseq START="2119" END="2124">Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="2119" END="2124">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-28-2">
+      <extent>
+        <charseq START="2378" END="2383">Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="2378" END="2383">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Colin L. Powell">
+        <charseq START="1793" END="1807">Colin L. Powell</charseq>
+      </name>
+      <name NAME="Powell">
+        <charseq START="2119" END="2124">Powell</charseq>
+      </name>
+      <name NAME="Powell">
+        <charseq START="2378" END="2383">Powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-29" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-29-0">
+      <extent>
+        <charseq START="1916" END="1924">listeners</charseq>
+      </extent>
+      <head>
+        <charseq START="1916" END="1924">listeners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-30-0">
+      <extent>
+        <charseq START="1958" END="1999">One of the peace
+effort&apos;s crucial elements</charseq>
+      </extent>
+      <head>
+        <charseq START="1958" END="1960">One</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-30-1">
+      <extent>
+        <charseq START="2140" END="2141">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2140" END="2141">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-31-0">
+      <extent>
+        <charseq START="1965" END="1999">the peace
+effort&apos;s crucial elements</charseq>
+      </extent>
+      <head>
+        <charseq START="1992" END="1999">elements</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-32" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-32-0">
+      <extent>
+        <charseq START="2028" END="2072">the Palestinian
+Authority and militant groups</charseq>
+      </extent>
+      <head>
+        <charseq START="2067" END="2072">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-32-1">
+      <extent>
+        <charseq START="2182" END="2191">the groups</charseq>
+      </extent>
+      <head>
+        <charseq START="2186" END="2191">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-33" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-33-0">
+      <extent>
+        <charseq START="2079" END="2083">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="2079" END="2083">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-33-1">
+      <extent>
+        <charseq START="4264" END="4268">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4264" END="4268">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hamas">
+        <charseq START="2079" END="2083">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="4264" END="4268">Hamas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2510" END="2542">the Palestinian
+and Israeli sides</charseq>
+      </extent>
+      <head>
+        <charseq START="2538" END="2542">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-35" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-35-0">
+      <extent>
+        <charseq START="2564" END="2594">a team visiting the Middle
+East</charseq>
+      </extent>
+      <head>
+        <charseq START="2566" END="2569">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-36-0">
+      <extent>
+        <charseq START="2604" END="2619">Condoleezza Rice</charseq>
+      </extent>
+      <head>
+        <charseq START="2604" END="2619">Condoleezza Rice</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Condoleezza Rice">
+        <charseq START="2604" END="2619">Condoleezza Rice</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-37-0">
+      <extent>
+        <charseq START="2622" END="2650">the national security adviser</charseq>
+      </extent>
+      <head>
+        <charseq START="2644" END="2650">adviser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-38-0">
+      <extent>
+        <charseq START="2795" END="2822">most knowledgeable officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2814" END="2822">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-39-0">
+      <extent>
+        <charseq START="3003" END="3017">outside sources</charseq>
+      </extent>
+      <head>
+        <charseq START="3011" END="3017">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-40" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-40-0">
+      <extent>
+        <charseq START="3037" END="3054">the European
+Union</charseq>
+      </extent>
+      <head>
+        <charseq START="3041" END="3054">European
+Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European Union">
+        <charseq START="3041" END="3054">European
+Union</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-41" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-41-0">
+      <extent>
+        <charseq START="3060" END="3074">the Arab League</charseq>
+      </extent>
+      <head>
+        <charseq START="3064" END="3074">Arab League</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arab League">
+        <charseq START="3064" END="3074">Arab League</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-42-0" ROLE="GPE">
+      <extent>
+        <charseq START="3326" END="3340">42United States</charseq>
+      </extent>
+      <head>
+        <charseq START="3326" END="3340">42United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="42United States">
+        <charseq START="3326" END="3340">42United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-43-0" ROLE="GPE">
+      <extent>
+        <charseq START="3444" END="3452">Bethlehem</charseq>
+      </extent>
+      <head>
+        <charseq START="3444" END="3452">Bethlehem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bethlehem">
+        <charseq START="3444" END="3452">Bethlehem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-44" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-44-0" ROLE="GPE">
+      <extent>
+        <charseq START="3609" END="3625">other
+territories</charseq>
+      </extent>
+      <head>
+        <charseq START="3615" END="3625">territories</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-45-0">
+      <extent>
+        <charseq START="3663" END="3698">Israeli-Palestinian
+security patrols</charseq>
+      </extent>
+      <head>
+        <charseq START="3692" END="3698">patrols</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-46-0">
+      <extent>
+        <charseq START="3754" END="3764">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3754" END="3764">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian">
+        <charseq START="3754" END="3764">Palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030630.0075-47-0">
+      <extent>
+        <charseq START="3767" END="3773">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3767" END="3773">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israeli">
+        <charseq START="3767" END="3773">Israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-48-0">
+      <extent>
+        <charseq START="3779" END="3796">American officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3788" END="3796">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-49-0">
+      <extent>
+        <charseq START="4013" END="4033">one
+American official</charseq>
+      </extent>
+      <head>
+        <charseq START="4026" END="4033">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-50-0">
+      <extent>
+        <charseq START="4091" END="4115">their own security forces</charseq>
+      </extent>
+      <head>
+        <charseq START="4110" END="4115">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-51-0">
+      <extent>
+        <charseq START="4374" END="4390">Israeli officials</charseq>
+      </extent>
+      <head>
+        <charseq START="4382" END="4390">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030630.0075-52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030630.0075-52-0">
+      <extent>
+        <charseq START="4536" END="4553">American officials</charseq>
+      </extent>
+      <head>
+        <charseq START="4545" END="4553">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030630.0075-52-1">
+      <extent>
+        <charseq START="4559" END="4562">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4559" END="4562">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="NYT_ENG_20030630.0075-V10" TYPE="Crime">
+    <value_mention ID="NYT_ENG_20030630.0075-V10-1">
+      <extent>
+        <charseq START="4347" END="4358">such attacks</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="NYT_ENG_20030630.0075-T0" VAL="2003-06-30">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030630</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T1" VAL="2003-06-30">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T1-1">
+      <extent>
+        <charseq START="356" END="361">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T2" VAL="2003-06-30">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T2-1">
+      <extent>
+        <charseq START="786" END="788">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T3" VAL="2003">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T3-1">
+      <extent>
+        <charseq START="819" END="827">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T4" VAL="2003-06-30">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T4-1">
+      <extent>
+        <charseq START="1209" END="1211">Now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T5" VAL="2003-06-30">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T5-1">
+      <extent>
+        <charseq START="1856" END="1861">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T6" VAL="2003-W26">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T6-1">
+      <extent>
+        <charseq START="2478" END="2486">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030630.0075-T7" VAL="P3Y">
+    <timex2_mention ID="NYT_ENG_20030630.0075-T7-1">
+      <extent>
+        <charseq START="3937" END="3947">three years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="NYT_ENG_20030630.0075-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-6" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-1" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R1-1">
+      <extent>
+        <charseq START="326" END="349">administration officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="326" END="349">administration officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="326" END="339">administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="NYT_ENG_20030630.0075-7" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R2-1">
+      <extent>
+        <charseq START="409" END="459">the authority&apos;s
+intelligence and security apparatus</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="409" END="459">the authority&apos;s
+intelligence and security apparatus</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="409" END="421">the authority</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-15" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-1" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R3-1">
+      <extent>
+        <charseq START="1076" END="1101">an administration official</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1076" END="1101">an administration official</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-1-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1079" END="1092">administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-17" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R4-1">
+      <extent>
+        <charseq START="1178" END="1203">the
+Palestinian leadership</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1178" END="1203">the
+Palestinian leadership</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1182" END="1192">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-19" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R5-1">
+      <extent>
+        <charseq START="1375" END="1402">a Palestinian prime
+minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1375" END="1402">a Palestinian prime
+minister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="1377" END="1387">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R6" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-23" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-1" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R6-1">
+      <extent>
+        <charseq START="1459" END="1482">Administration officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1459" END="1482">Administration officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-1-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1459" END="1472">Administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R7" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="NYT_ENG_20030630.0075-26" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R7-1">
+      <extent>
+        <charseq START="1729" END="1770">at least three Palestinian militant groups</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1729" END="1770">at least three Palestinian militant groups</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="1744" END="1754">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="NYT_ENG_20030630.0075-32" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R8-1">
+      <extent>
+        <charseq START="2028" END="2072">the Palestinian
+Authority and militant groups</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-32-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2028" END="2072">the Palestinian
+Authority and militant groups</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="2032" END="2052">Palestinian
+Authority</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-34" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R9-1">
+      <extent>
+        <charseq START="2510" END="2542">the Palestinian
+and Israeli sides</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-10" ROLE="Arg-1">
+          <extent>
+            <charseq START="2514" END="2524">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-34-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2510" END="2542">the Palestinian
+and Israeli sides</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="NYT_ENG_20030630.0075-44" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-8" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R10-1">
+      <extent>
+        <charseq START="3609" END="3642">other
+territories in the West Bank</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-44-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3609" END="3625">other
+territories</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3630" END="3642">the West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="NYT_ENG_20030630.0075-45" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-25" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R11-1">
+      <extent>
+        <charseq START="3663" END="3698">Israeli-Palestinian
+security patrols</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3663" END="3698">Israeli-Palestinian
+security patrols</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-25-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="3663" END="3669">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R12" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-45" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R12-1">
+      <extent>
+        <charseq START="3663" END="3698">Israeli-Palestinian
+security patrols</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3663" END="3698">Israeli-Palestinian
+security patrols</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-5-15" ROLE="Arg-2">
+          <extent>
+            <charseq START="3671" END="3681">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-48" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-12" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R13-1">
+      <extent>
+        <charseq START="3779" END="3796">American officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3779" END="3796">American officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-12-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="3779" END="3786">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-49" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-12" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R14-1">
+      <extent>
+        <charseq START="4013" END="4033">one
+American official</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-49-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4013" END="4033">one
+American official</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-12-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="4017" END="4024">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R15" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-50" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-25" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R15-1">
+      <extent>
+        <charseq START="4091" END="4115">their own security forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-50-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4091" END="4115">their own security forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-25-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="4091" END="4095">their</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R16" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-51" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-25" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R16-1">
+      <extent>
+        <charseq START="4374" END="4390">Israeli officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-51-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4374" END="4390">Israeli officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-25-12" ROLE="Arg-2">
+          <extent>
+            <charseq START="4374" END="4380">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030630.0075-R17" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030630.0075-52" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030630.0075-12" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030630.0075-R17-1">
+      <extent>
+        <charseq START="4536" END="4553">American officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-52-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4536" END="4553">American officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030630.0075-12-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="4536" END="4543">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="NYT_ENG_20030630.0075-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-11" ROLE="Target"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV1-1">
+      <extent>
+        <charseq START="616" END="634">attacks on Israelis</charseq>
+      </extent>
+      <anchor>
+        <charseq START="616" END="622">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-11-0" ROLE="Target"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-12" ROLE="Giver"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV2-1">
+      <extent>
+        <charseq START="791" END="802">American aid</charseq>
+      </extent>
+      <anchor>
+        <charseq START="800" END="802">aid</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-12-0" ROLE="Giver"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-25" ROLE="Agent"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV3-1">
+      <extent>
+        <charseq START="1654" END="1671">Israeli withdrawal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1662" END="1671">withdrawal</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-25-0" ROLE="Agent"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV4" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-32" ROLE="Org"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV4-1">
+      <extent>
+        <charseq START="2199" END="2208">dismantled</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2199" END="2208">dismantled</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-32-1" ROLE="Org"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-46" ROLE="Entity"/>
+    <event_argument REFID="NYT_ENG_20030630.0075-34" ROLE="Entity"/>
+    <event_argument REFID="NYT_ENG_20030630.0075-T6" ROLE="Time-Within"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV5-1">
+      <extent>
+        <charseq START="2469" END="2476">meetings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2469" END="2476">meetings</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-34-0" ROLE="Entity"/>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-T6-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="NYT_ENG_20030630.0075-EV5-2">
+      <extent>
+        <charseq START="3742" END="3764">meetings of Palestinian</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3742" END="3749">meetings</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-46-0" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-3" ROLE="Destination"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV6-1">
+      <extent>
+        <charseq START="2571" END="2578">visiting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2571" END="2578">visiting</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-3-2" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV7" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-12" ROLE="Giver"/>
+    <event_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Recipient"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV7-1">
+      <extent>
+        <charseq START="3120" END="3131">American aid</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3129" END="3131">aid</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-12-2" ROLE="Giver"/>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-5-13" ROLE="Recipient"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-9" ROLE="Origin"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV8-1">
+      <extent>
+        <charseq START="3419" END="3438">withdrawal from Gaza</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3419" END="3428">withdrawal</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-9-2" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-25" ROLE="Agent"/>
+    <event_argument REFID="NYT_ENG_20030630.0075-44" ROLE="Origin"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV9-1">
+      <extent>
+        <charseq START="3584" END="3602">Israeli withdrawals</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3592" END="3602">withdrawals</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-25-5" ROLE="Agent"/>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-44-0" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV11" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Org"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV11-1">
+      <extent>
+        <charseq START="3898" END="3928">creation of a Palestinian state</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3898" END="3905">creation</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-5-17" ROLE="Org"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV12" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-33" ROLE="Defendant"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV12-1">
+      <extent>
+        <charseq START="4248" END="4268">actions against Hamas</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4248" END="4254">actions</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-33-1" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV13" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-V10" ROLE="Crime"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV13-1">
+      <extent>
+        <charseq START="4337" END="4358">guilty of such attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4337" END="4342">guilty</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-V10-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="NYT_ENG_20030630.0075-EV14-1">
+      <extent>
+        <charseq START="4352" END="4358">attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4352" END="4358">attacks</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030630.0075-EV15" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030630.0075-5" ROLE="Agent"/>
+    <event_mention ID="NYT_ENG_20030630.0075-EV15-1">
+      <extent>
+        <charseq START="4520" END="4528">arresting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4520" END="4528">arresting</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030630.0075-5-18" ROLE="Agent"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

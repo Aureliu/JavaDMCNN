@@ -1,0 +1,59 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <title>README:  Jet data files</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+
+<body>
+
+<h2>Jet data files</h2>
+
+<h4>HMM name models</h4>
+
+  <table border="2" bordercolor="red" cellpadding="3"><tbody>
+    <tr>
+      <td>file</td>
+      <td>types</td>
+      <td>notes</td>
+    </tr>
+    <tr>
+      <td>data/MUCnameHMM.txt</td>
+      <td>PERSON, ORGANIZATION, LOCATION</td>
+      <td>MUC-6 tags, trained on MUC data</td>
+    </tr>
+    <tr>
+      <td>acedata/AceName04HMM.txt</td>
+      <td>PERSON, ORGANIZATION, GPE, <br> LOCATION, FACILITY</td>
+      <td>ACE 2004 tags, trained on ACE data (excluding 2005)</td>
+    </tr>
+    <tr>
+      <td>acedata/AceName06HMM.txt</td>
+      <td>PERSON, ORGANIZATION, GPE, <br> LOCATION, FACILITY, VEH, WEA</td>
+      <td>ACE 2005 tags, trained on ACE data (including 2005)</td>
+    </tr>
+  </tbody></table>
+
+<h4>MaxEnt name models</h4>
+
+  <table border="2" bordercolor="red" cellpadding="3"><tbody>
+    <tr>
+      <td>file</td>
+      <td>types</td>
+      <td>notes</td>
+    </tr>
+    <tr>
+      <td>acedata/Ace05meneModel</td>
+      <td>PERSON, ORGANIZATION, GPE, <br> LOCATION, FACILITY, VEH, WEA</td>
+      <td>ACE 2005 tags, trained on ACE data</td>
+    </tr>
+    <tr>
+      <td>acedata/AceOntoMeneModel</td>
+      <td>PERSON, ORGANIZATION, GPE, <br> LOCATION, FACILITY</td>
+      <td>trained on ACE + ONTONOTES data; <br>
+	  requires Brown cluster file data/brownClusters10-2014</td>
+    </tr>
+  </tbody></table>
+</body>
+</html>

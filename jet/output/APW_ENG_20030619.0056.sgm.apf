@@ -1,0 +1,1241 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030619.0056.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030619.0056">
+  <entity ID="APW_ENG_20030619.0056-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="114">BEIJING</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="114">BEIJING</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BEIJING">
+        <charseq START="108" END="114">BEIJING</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-2-0">
+      <extent>
+        <charseq START="117" END="118">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="118">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="117" END="118">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-3" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-3-0">
+      <extent>
+        <charseq START="122" END="169">Eight members of an underground Christian church</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="134">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-4" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-4-0">
+      <extent>
+        <charseq START="139" END="169">an underground Christian church</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="169">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-4-1">
+      <extent>
+        <charseq START="402" END="411">the church</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="411">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-4-2">
+      <extent>
+        <charseq START="1380" END="1389">the
+church</charseq>
+      </extent>
+      <head>
+        <charseq START="1384" END="1389">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-4-3">
+      <extent>
+        <charseq START="1537" END="1538">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1537" END="1538">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-4-4">
+      <extent>
+        <charseq START="1549" END="1554">church</charseq>
+      </extent>
+      <head>
+        <charseq START="1549" END="1554">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-4-5">
+      <extent>
+        <charseq START="1767" END="1795">an unoffical
+Christian church</charseq>
+      </extent>
+      <head>
+        <charseq START="1790" END="1795">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="174" END="178">China</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="178">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="690" END="694">China</charseq>
+      </extent>
+      <head>
+        <charseq START="690" END="694">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="971" END="975">China</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="975">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="1178" END="1182">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1178" END="1182">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-4" ROLE="GPE">
+      <extent>
+        <charseq START="1214" END="1218">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1214" END="1218">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-5" ROLE="GPE">
+      <extent>
+        <charseq START="1675" END="1681">Chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="1675" END="1681">Chinese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-5-6" ROLE="GPE">
+      <extent>
+        <charseq START="1741" END="1745">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1741" END="1745">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="China">
+        <charseq START="174" END="178">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="690" END="694">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="971" END="975">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="1178" END="1182">China</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="1214" END="1218">China</charseq>
+      </name>
+      <name NAME="Chinese">
+        <charseq START="1675" END="1681">Chinese</charseq>
+      </name>
+      <name NAME="China">
+        <charseq START="1741" END="1745">China</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-6-0">
+      <extent>
+        <charseq START="230" END="233">cult</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="233">cult</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-6-1">
+      <extent>
+        <charseq START="476" END="479">cult</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="479">cult</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-7-0">
+      <extent>
+        <charseq START="241" END="257">a police official</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="257">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-7-1">
+      <extent>
+        <charseq START="530" END="541">the official</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="541">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-8-0">
+      <extent>
+        <charseq START="243" END="248">police</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="248">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-8-1">
+      <extent>
+        <charseq START="1015" END="1020">police</charseq>
+      </extent>
+      <head>
+        <charseq START="1015" END="1020">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-9-0">
+      <extent>
+        <charseq START="275" END="321">A human rights group that announced the arrests</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="294">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-10" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-10-0">
+      <extent>
+        <charseq START="384" END="411">Twelve members of the church</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="397">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="416" END="421">Yunnan</charseq>
+      </extent>
+      <head>
+        <charseq START="416" END="421">Yunnan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="416" END="430">Yunnan province</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="430">province</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-11-2" ROLE="GPE">
+      <extent>
+        <charseq START="1055" END="1060">Yunnan</charseq>
+      </extent>
+      <head>
+        <charseq START="1055" END="1060">Yunnan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yunnan">
+        <charseq START="416" END="421">Yunnan</charseq>
+      </name>
+      <name NAME="Yunnan">
+        <charseq START="1055" END="1060">Yunnan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-12-0">
+      <extent>
+        <charseq START="546" END="579">the Funing County Detention Center</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="579">Funing County Detention Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-12-1">
+      <extent>
+        <charseq START="1417" END="1422">Funing</charseq>
+      </extent>
+      <head>
+        <charseq START="1417" END="1422">Funing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Funing County Detention Center">
+        <charseq START="550" END="579">Funing County Detention Center</charseq>
+      </name>
+      <name NAME="Funing">
+        <charseq START="1417" END="1422">Funing</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-13-0">
+      <extent>
+        <charseq START="639" END="649">the offical</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="649">offical</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-13-1">
+      <extent>
+        <charseq START="672" END="674">his</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="674">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-14-0">
+      <extent>
+        <charseq START="685" END="686">Lu</charseq>
+      </extent>
+      <head>
+        <charseq START="685" END="686">Lu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lu">
+        <charseq START="685" END="686">Lu</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="690" END="717">China&apos;s communist government</charseq>
+      </extent>
+      <head>
+        <charseq START="708" END="717">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-16-0">
+      <extent>
+        <charseq START="742" END="765">state-monitored
+churches</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="765">churches</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-17-0">
+      <extent>
+        <charseq START="792" END="801">Christians</charseq>
+      </extent>
+      <head>
+        <charseq START="792" END="801">Christians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-18-0">
+      <extent>
+        <charseq START="841" END="853">private homes</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="853">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-19-0">
+      <extent>
+        <charseq START="874" END="878">house</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="878">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-19-1">
+      <extent>
+        <charseq START="1037" END="1041">house</charseq>
+      </extent>
+      <head>
+        <charseq START="1037" END="1041">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-19-2">
+      <extent>
+        <charseq START="1148" END="1152">house</charseq>
+      </extent>
+      <head>
+        <charseq START="1148" END="1152">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-20-0">
+      <extent>
+        <charseq START="874" END="887">house churches</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="887">churches</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-21-0">
+      <extent>
+        <charseq START="930" END="966">The New York-based group Human Rights</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="966">New York-based group Human Rights</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-21-1">
+      <extent>
+        <charseq START="1083" END="1084">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1083" END="1084">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-21-2">
+      <extent>
+        <charseq START="1198" END="1209">Human Rights</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1209">Human Rights</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-21-3">
+      <extent>
+        <charseq START="1501" END="1509">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1505" END="1509">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-21-4">
+      <extent>
+        <charseq START="1725" END="1736">Human Rights</charseq>
+      </extent>
+      <head>
+        <charseq START="1725" END="1736">Human Rights</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-21-5">
+      <extent>
+        <charseq START="1975" END="1983">The group</charseq>
+      </extent>
+      <head>
+        <charseq START="1979" END="1983">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York-based group Human Rights">
+        <charseq START="934" END="966">New York-based group Human Rights</charseq>
+      </name>
+      <name NAME="Human Rights">
+        <charseq START="1198" END="1209">Human Rights</charseq>
+      </name>
+      <name NAME="Human Rights">
+        <charseq START="1725" END="1736">Human Rights</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-22-0">
+      <extent>
+        <charseq START="984" END="1003">unidentified
+sources</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1003">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-23-0">
+      <extent>
+        <charseq START="1037" END="1050">house churches</charseq>
+      </extent>
+      <head>
+        <charseq START="1043" END="1050">churches</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-24-0">
+      <extent>
+        <charseq START="1148" END="1161">house churches</charseq>
+      </extent>
+      <head>
+        <charseq START="1154" END="1161">churches</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-25-0">
+      <extent>
+        <charseq START="1225" END="1241">the 12 Christians</charseq>
+      </extent>
+      <head>
+        <charseq START="1232" END="1241">Christians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-26-0">
+      <extent>
+        <charseq START="1263" END="1268">police</charseq>
+      </extent>
+      <head>
+        <charseq START="1263" END="1268">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-27" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-27-0">
+      <extent>
+        <charseq START="1303" END="1316">four locations</charseq>
+      </extent>
+      <head>
+        <charseq START="1308" END="1316">locations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-28-0">
+      <extent>
+        <charseq START="1320" END="1329">The police</charseq>
+      </extent>
+      <head>
+        <charseq START="1324" END="1329">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-29-0">
+      <extent>
+        <charseq START="1417" END="1439">Funing detention center</charseq>
+      </extent>
+      <head>
+        <charseq START="1434" END="1439">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-30-0">
+      <extent>
+        <charseq START="1545" END="1562">the church members</charseq>
+      </extent>
+      <head>
+        <charseq START="1556" END="1562">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-30-1">
+      <extent>
+        <charseq START="1631" END="1640">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="1631" END="1640">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="1597" END="1610">the
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="1601" END="1610">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-32-0">
+      <extent>
+        <charseq START="1675" END="1693">Chinese authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="1683" END="1693">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-32-1">
+      <extent>
+        <charseq START="1705" END="1708">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1705" END="1708">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-33-0">
+      <extent>
+        <charseq START="1752" END="1795">the founder of an unoffical
+Christian church</charseq>
+      </extent>
+      <head>
+        <charseq START="1756" END="1762">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-33-1">
+      <extent>
+        <charseq START="1869" END="1901">founder of the South China Church</charseq>
+      </extent>
+      <head>
+        <charseq START="1869" END="1875">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030619.0056-34-0">
+      <extent>
+        <charseq START="1845" END="1848">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="1845" END="1848">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-35-0">
+      <extent>
+        <charseq START="1852" END="1866">Gong Shengliang</charseq>
+      </extent>
+      <head>
+        <charseq START="1852" END="1866">Gong Shengliang</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-35-1">
+      <extent>
+        <charseq START="1990" END="1993">Gong</charseq>
+      </extent>
+      <head>
+        <charseq START="1990" END="1993">Gong</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-35-2">
+      <extent>
+        <charseq START="2021" END="2023">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2021" END="2023">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030619.0056-35-3">
+      <extent>
+        <charseq START="2084" END="2086">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2084" END="2086">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gong Shengliang">
+        <charseq START="1852" END="1866">Gong Shengliang</charseq>
+      </name>
+      <name NAME="Gong">
+        <charseq START="1990" END="1993">Gong</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030619.0056-36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030619.0056-36-0">
+      <extent>
+        <charseq START="1880" END="1901">the South China Church</charseq>
+      </extent>
+      <head>
+        <charseq START="1884" END="1901">South China Church</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="South China Church">
+        <charseq START="1884" END="1901">South China Church</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030619.0056-V5" TYPE="Sentence ">
+    <value_mention ID="APW_ENG_20030619.0056-V5-1">
+      <extent>
+        <charseq START="1915" END="1929">a life
+sentence</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030619.0056-V8" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030619.0056-V8-1">
+      <extent>
+        <charseq START="1965" END="1971">assault</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030619.0056-T0" VAL="2003-06-19">
+    <timex2_mention ID="APW_ENG_20030619.0056-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030619</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030619.0056-T1" VAL="2003-06-19">
+    <timex2_mention ID="APW_ENG_20030619.0056-T1-1">
+      <extent>
+        <charseq START="264" END="271">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030619.0056-T2" VAL="2003-06-07">
+    <timex2_mention ID="APW_ENG_20030619.0056-T2-1">
+      <extent>
+        <charseq START="446" END="451">June 7</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030619.0056-T3" VAL="2003">
+    <timex2_mention ID="APW_ENG_20030619.0056-T3-1">
+      <extent>
+        <charseq START="1184" END="1192">this year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030619.0056-T4" VAL="2003-06-13">
+    <timex2_mention ID="APW_ENG_20030619.0056-T4-1">
+      <extent>
+        <charseq START="1492" END="1498">June 13</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030619.0056-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030619.0056-3" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R1-1">
+      <extent>
+        <charseq START="122" END="169">Eight members of an underground Christian church</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="122" END="169">Eight members of an underground Christian church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="139" END="169">an underground Christian church</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030619.0056-7" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R2-1">
+      <extent>
+        <charseq START="241" END="257">a police official</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="241" END="257">a police official</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="243" END="248">police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R3" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030619.0056-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R3-1">
+      <extent>
+        <charseq START="384" END="411">Twelve members of the church</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="384" END="411">Twelve members of the church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="402" END="411">the church</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030619.0056-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R4-1">
+      <extent>
+        <charseq START="384" END="430">Twelve members of the church in Yunnan province</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="384" END="411">Twelve members of the church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="416" END="430">Yunnan province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030619.0056-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R5-1">
+      <extent>
+        <charseq START="402" END="430">the church in Yunnan province</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="402" END="411">the church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="416" END="430">Yunnan province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030619.0056-7" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R6-1">
+      <extent>
+        <charseq START="530" END="579">the official at the Funing County Detention Center</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="530" END="541">the official</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="546" END="579">the Funing County Detention Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030619.0056-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R7-1">
+      <extent>
+        <charseq START="1037" END="1060">house churches in Yunnan</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1037" END="1050">house churches</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-11-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1055" END="1060">Yunnan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030619.0056-21" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R8-1">
+      <extent>
+        <charseq START="1198" END="1218">Human Rights in China</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-21-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1198" END="1209">Human Rights</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-5-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1214" END="1218">China</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030619.0056-R8-2">
+      <extent>
+        <charseq START="1725" END="1745">Human Rights in China</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-21-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="1725" END="1736">Human Rights</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-5-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="1741" END="1745">China</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030619.0056-29" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R9-1">
+      <extent>
+        <charseq START="1417" END="1439">Funing detention center</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-29-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1417" END="1439">Funing detention center</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1417" END="1422">Funing</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R10" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030619.0056-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R10-1">
+      <extent>
+        <charseq START="1545" END="1562">the church members</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1545" END="1562">the church members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-4-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1549" END="1554">church</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R11" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030619.0056-32" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R11-1">
+      <extent>
+        <charseq START="1675" END="1693">Chinese authorities</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-32-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1675" END="1693">Chinese authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-5-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1675" END="1681">Chinese</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R12" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030619.0056-33" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R12-1">
+      <extent>
+        <charseq START="1752" END="1795">the founder of an unoffical
+Christian church</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-33-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1752" END="1795">the founder of an unoffical
+Christian church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-4-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1767" END="1795">an unoffical
+Christian church</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030619.0056-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030619.0056-33" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030619.0056-36" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030619.0056-R13-1">
+      <extent>
+        <charseq START="1869" END="1901">founder of the South China Church</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-33-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1869" END="1901">founder of the South China Church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030619.0056-36-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1880" END="1901">the South China Church</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030619.0056-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-20" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030619.0056-19" ROLE="Target"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV1-1">
+      <extent>
+        <charseq START="315" END="321">arrests</charseq>
+      </extent>
+      <anchor>
+        <charseq START="315" END="321">arrests</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030619.0056-EV1-2">
+      <extent>
+        <charseq START="919" END="926">arrested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="919" END="926">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-20-0" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-19-0" ROLE="Target"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030619.0056-EV1-3">
+      <extent>
+        <charseq START="1097" END="1103">arrests</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1097" END="1103">arrests</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV2" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-T2" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030619.0056-12" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV2-1">
+      <extent>
+        <charseq START="515" END="522">released</charseq>
+      </extent>
+      <anchor>
+        <charseq START="515" END="522">released</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-12-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV4" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-23" ROLE="Defendant"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV4-1">
+      <extent>
+        <charseq START="1022" END="1050">action against house churches</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1022" END="1027">action</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-23-0" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-26" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030619.0056-27" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV6-1">
+      <extent>
+        <charseq START="1263" END="1276">police visited</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1270" END="1276">visited</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-26-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-27-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV7" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-27" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV7-1">
+      <extent>
+        <charseq START="1289" END="1298">ceremonies</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1289" END="1298">ceremonies</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-27-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV8" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-T4" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV8-1">
+      <extent>
+        <charseq START="1527" END="1533">release</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1527" END="1533">release</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-5" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV9-1">
+      <extent>
+        <charseq START="1806" END="1810">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1806" END="1810">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-5-6" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030619.0056-EV10-1">
+      <extent>
+        <charseq START="1827" END="1831">abuse</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1827" END="1831">abuse</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV11" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-33" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030619.0056-V8" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030619.0056-V5" ROLE="Sentence"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV11-1">
+      <extent>
+        <charseq START="1869" END="1913">founder of the South China Church, is serving</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1907" END="1913">serving</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-33-1" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-V8-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-V5-1" ROLE="Sentence"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-35" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV12-1">
+      <extent>
+        <charseq START="1956" END="1959">rape</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1956" END="1959">rape</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-35-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030619.0056-EV12-2">
+      <extent>
+        <charseq START="1965" END="1971">assault</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1965" END="1971">assault</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV14" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030619.0056-EV14-1">
+      <extent>
+        <charseq START="2074" END="2079">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2074" END="2079">appeal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030619.0056-EV15" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030619.0056-35" ROLE="Defendant"/>
+    <event_mention ID="APW_ENG_20030619.0056-EV15-1">
+      <extent>
+        <charseq START="2084" END="2097">his conviction</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2088" END="2097">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030619.0056-35-3" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

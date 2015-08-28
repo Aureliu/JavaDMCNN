@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=ISO-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Time Expression Tagger</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+<body alink="#0000ff" bgcolor="#fff0f0" link="#ff0000" text="#000000"
+ vlink="#800080">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Time Expression
+Tagger<br>
+</font></font></h1>
+<table style="text-align: left; width: 400px;" border="1"
+ cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">action
+names<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;"><span
+ style="font-family: monospace;">tagTimex<br>
+setReferenceTime</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">resources
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">time
+rules (in YAML)<br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">properties<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;"><span
+ style="font-family: monospace;">Timex.rule<br>
+Timex.refTime<br>
+Timex.refFormat<br>
+      </span> </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);">annotations
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);"><span
+ style="font-family: monospace;">token</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);">annotations
+added<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);"><span
+ style="font-family: monospace;">TIMEX2<br>
+      </span> </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+The Jet time expression tagger identifies and normalizes time
+expressions following the <a href="http://www.timexportal.info/timex2">TIMEX2</a>
+standard.&nbsp; For example, "<span style="font-family: monospace;">He
+was born on July 4, 2008.</span>" would be tagged "<span
+ style="font-family: monospace;">He was born on &lt;TIMEX2
+VAL="2008-07-04"&gt;July 4, 2008&lt;/TIMEX2&gt;.</span>" If the date is
+not fully specified, it will be normalized based on a <span
+ style="font-style: italic;">reference time</span>, typically the
+publication date of a news article.&nbsp; For example, in an article
+published on July 4, 2008, the sentence "<span
+ style="font-family: monospace;">He was hired last October.</span>"&nbsp;
+would be tagged "<span style="font-family: monospace;">He was hired
+&lt;TIMEX2 VAL="2007-10"&gt;last October&lt;/TIMEX2&gt;</span>.<br>
+<br>
+The <span style="font-family: monospace;">tagTimex</span> action uses
+the time rules (in a file specified by property <span
+ style="font-family: monospace;">Timex.rule</span>) to tag time
+expressions.<br>
+<br>
+The reference time can be set in two ways.&nbsp; It can be given
+explicitly (in ISO DateTime format) by property <span
+ style="font-family: monospace;">Timex.refTime</span>.&nbsp;
+Alternately, if the reference time is given by a field in the document,
+the <span style="font-family: monospace;">setReferenceTime</span>
+action can be applied over that field of the document.&nbsp; The format
+of the reference time in the document is specified by property <span
+ style="font-family: monospace;">Timex.refFormat</span>, using the
+syntax of Java <a
+ href="http://download.oracle.com/javase/1.5.0/docs/api/java/text/SimpleDateFormat.html">SimpleDateFormat</a>,
+such as <span style="font-family: monospace;">YYYY-MM-dd</span> for a
+year-month-day format.&nbsp; If a document collection includes
+documents with different formats of reference time, a list of
+SimpleDataFormats can be specified, separated by "|" (with no
+blanks);&nbsp; for example, <br>
+<span style="font-family: monospace;">YYYY-MM-dd HH:mm:ss|YYYY-MM-dd</span>
+for a calendar date optionally followed by a time.<br>
+</body>
+</html>

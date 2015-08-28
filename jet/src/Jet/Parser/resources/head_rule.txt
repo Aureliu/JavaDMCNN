@@ -1,0 +1,34 @@
+#####################################################################
+## Rule Table (version 1)                                          ##
+##       Based on three rule table (RT_0,RT_mag,RT_coll)           ##
+##                                                                 ##
+##                                         July.29.1996            ##
+##                                         Satoshi SEKINE (NYU)    ##
+#####################################################################
+TOP      left-to-right  S SBAR ADJP UCP SINV SBARQ SQ NP
+S        right-to-left  VP S SBAR ADJP UCP SINV SBARQ SQ NP
+ADJP     right-to-left  QP ADJP $ JJ JJR JJS DT FW CD RB RBR RBS RP
+ADVP     left-to-right  ADVP RB RBR RBS FW IN TO CD JJ JJR JJS
+CONJP    left-to-right  CC RB IN
+FRAG     left-to-right  FRAG
+INTJ     right-to-left  INTJ
+LST      left-to-right  LS
+NAC      right-to-left  NN NNS NP NNPS NNP NAC EX $ CD QP PRP VBG JJ JJS JJR ADJP FW
+NP       right-to-left  NP NN NNS NNP NNPS NAC EX $ CD QP PRP VBG JJ JJR JJS ADJP FW RB DT RBR RBS SYM PRP$
+NX       right-to-left  NX NP NN NNS NNP NNPS NAC EX $ CD QP PRP VBG JJ JJR JJS ADJP FW RB DT RBR RBS SYM PRP$
+PP       left-to-right  IN TO FW PP
+PRN      right-to-left  S NP SINV PP ADVP
+PRT      left-to-right  RP
+QP       right-to-left  CD NN NNS JJ JJR JJS RB RBR RBS DT $
+RRC      left-to-right  VP S NP ADVP ADJP PP
+SBAR     right-to-left  SBAR IN WDT VP WHADVP WHADJP WHNP WHPP WP RBS DT S
+SBARQ    right-to-left  SQ S SINV SBARQ FRAG X
+SINV     right-to-left  VP VBZ VBD VBP VB MD SQ S SINV ADJP
+SQ       right-to-left  VP VBZ VBD VBP VB MD SQ
+UCP      left-to-right  UCP
+VP       left-to-right  AUX AUXG VBN VBD MD VBZ VBP VP VB VBG
+WHADJP   right-to-left  WHADJP WHADVP WRB CC JJ ADJP
+WHADVP   left-to-right  WRB CC
+WHNP     right-to-left  WDT WP WP$ WHADJP WHPP WHNP WRB DT NP
+WHPP     left-to-right  IN TO FW PP
+X        left-to-right  X

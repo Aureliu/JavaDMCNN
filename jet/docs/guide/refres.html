@@ -1,0 +1,63 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>Reference Resolution</title>
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h2>
+<font face="Arial Alternative"><font color="#3333FF">Reference Resolution</font></font></h2>
+The Jet reference resolver resolves anaphoric references to noun phrases.&nbsp;
+It is intended to be invoked as the last step in processing each sentence
+in a document.
+<p>The input to reference resolution consists of a set of annotations of
+type <b>constit</b> with <b>type=ngroup</b>.&nbsp; These are called the
+'mentions'.&nbsp;&nbsp; Each such annotation should have a <b>pa</b> feature
+giving its predicate-argument structure, and -- if its head is a name --
+the feature <b>isName</b> with some non-null value.
+<p>The output of reference resolution is a set of annotations of type <b>entity</b>.&nbsp;
+Each <b>entity</b> annotation corresponds to a set of one or more mentions
+which are deemed to be coreferential.&nbsp; The <b>entity</b> annotation
+has the features <b>head</b>, <b>position</b>, <b>mentions</b>, <b>number</b>,
+<b>name</b>,
+and <b>human</b>.
+<p>Mentions are resolved as follows:
+<ul>
+<li>
+a common noun mention is resolved with the closest prior mention with the
+same head, or with a head which is associated with the same concept or
+a more specific concept in the concept hierarchy</li>
+
+<li>
+a name mention is resolved with the closest prior mention with the same
+name, or a superstring of the current name (so that, for example, "Bush"
+will be resolved with "George Bush")</li>
+
+<li>
+a third-person pronoun mention ("he", "she", "it", "they", "him", "her",
+"them") will be resolved with the closest prior mention which agrees with
+the pronoun in number and human-ness (antecedents of "he", "she", "him",
+and "her" must be human;&nbsp; antecedents of "it" must not be human).&nbsp;
+Human-ness for nouns is based on the <b>human</b> feature in the predicate-argument
+structure;&nbsp; for names, <i>person</i> names are considered human, while
+other names are considered non-human.&nbsp; This classification is slightly
+incorrect since the dictionary labels an entry as human if any sense (not
+necessarily the most common sense) of that entry is human.</li>
+
+<li>
+a first- or second- person pronoun is resolved with the closest prior mention
+of the same pronoun</li>
+</ul>
+If no prior mention satisfies the given constraints, a new entity is created.
+<p>In addition, after mentions are resolved, reference resolution searches
+for annotations of type <b>event</b>.&nbsp; For each <b>event</b>, it generates
+an annotation of type <b>r-event</b> which is identical except that any
+feature whose value is a mention (<b>ngroup</b>) is replaced by the <b>entity</b>
+to which the mention was resolved.
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>

@@ -1,0 +1,3181 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030323.0020.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030323.0020">
+  <entity ID="AFP_ENG_20030323.0020-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="163" END="170">NEW YORK</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="170">NEW YORK</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="460" END="467">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="467">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NEW YORK">
+        <charseq START="163" END="170">NEW YORK</charseq>
+      </name>
+      <name NAME="New York">
+        <charseq START="460" END="467">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-2-0">
+      <extent>
+        <charseq START="183" END="185">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="185">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="183" END="185">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-3-0">
+      <extent>
+        <charseq START="189" END="202">Some 70 people</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="202">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-4-0">
+      <extent>
+        <charseq START="230" END="250">demonstrators clashed</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="242">demonstrators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-5-0">
+      <extent>
+        <charseq START="257" END="262">police</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="262">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-5-1">
+      <extent>
+        <charseq START="568" END="573">police</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="573">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-5-2">
+      <extent>
+        <charseq START="598" END="603">police</charseq>
+      </extent>
+      <head>
+        <charseq START="598" END="603">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-5-3">
+      <extent>
+        <charseq START="950" END="955">police</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="955">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-5-4">
+      <extent>
+        <charseq START="3630" END="3635">police</charseq>
+      </extent>
+      <head>
+        <charseq START="3630" END="3635">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-6-0">
+      <extent>
+        <charseq START="307" END="342">at least 200,000
+anti-war protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="342">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-6-1">
+      <extent>
+        <charseq START="486" END="495">protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="495">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-6-2">
+      <extent>
+        <charseq START="517" END="520">they</charseq>
+      </extent>
+      <head>
+        <charseq START="517" END="520">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-6-3">
+      <extent>
+        <charseq START="555" END="559">their</charseq>
+      </extent>
+      <head>
+        <charseq START="555" END="559">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-7" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-7-0">
+      <extent>
+        <charseq START="352" END="362">the streets</charseq>
+      </extent>
+      <head>
+        <charseq START="356" END="362">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-7-1">
+      <extent>
+        <charseq START="4559" END="4569">the streets</charseq>
+      </extent>
+      <head>
+        <charseq START="4563" END="4569">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="371" END="387">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="375" END="387">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="1164" END="1180">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1168" END="1180">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="2466" END="2471">the US</charseq>
+      </extent>
+      <head>
+        <charseq START="2470" END="2471">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="2689" END="2695">the USA</charseq>
+      </extent>
+      <head>
+        <charseq START="2693" END="2695">USA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-8-4" ROLE="GPE">
+      <extent>
+        <charseq START="3104" END="3120">the United
+States</charseq>
+      </extent>
+      <head>
+        <charseq START="3108" END="3120">United
+States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-8-5" ROLE="GPE">
+      <extent>
+        <charseq START="3473" END="3474">US</charseq>
+      </extent>
+      <head>
+        <charseq START="3473" END="3474">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United States">
+        <charseq START="375" END="387">United States</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="1168" END="1180">United States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="2470" END="2471">US</charseq>
+      </name>
+      <name NAME="USA">
+        <charseq START="2693" END="2695">USA</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="3108" END="3120">United
+States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="3473" END="3474">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="393" END="398">Canada</charseq>
+      </extent>
+      <head>
+        <charseq START="393" END="398">Canada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Canada">
+        <charseq START="393" END="398">Canada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-10-0">
+      <extent>
+        <charseq START="469" END="495">a
+small group of protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="481">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-11-0">
+      <extent>
+        <charseq START="568" END="581">police sources</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="581">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-12-0">
+      <extent>
+        <charseq START="590" END="612">Several police officers</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="612">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-13-0">
+      <extent>
+        <charseq START="689" END="694">police</charseq>
+      </extent>
+      <head>
+        <charseq START="689" END="694">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-13-1">
+      <extent>
+        <charseq START="880" END="885">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="885">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-13-2">
+      <extent>
+        <charseq START="4756" END="4761">police</charseq>
+      </extent>
+      <head>
+        <charseq START="4756" END="4761">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-14-0">
+      <extent>
+        <charseq START="705" END="748">the demonstrators using
+self-defence devices</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="721">demonstrators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-15-0">
+      <extent>
+        <charseq START="752" END="761">Organisers</charseq>
+      </extent>
+      <head>
+        <charseq START="752" END="761">Organisers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Organisers">
+        <charseq START="752" END="761">Organisers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-16-0">
+      <extent>
+        <charseq START="776" END="794">some 250,000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="794">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="926" END="942">The city assigned</charseq>
+      </extent>
+      <head>
+        <charseq START="930" END="933">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-18-0">
+      <extent>
+        <charseq START="944" END="964">2,000 police officers</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="964">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-19-0">
+      <extent>
+        <charseq START="990" END="1008">undercover officers</charseq>
+      </extent>
+      <head>
+        <charseq START="1001" END="1008">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1222" END="1225">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1222" END="1225">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-20-1" ROLE="GPE">
+      <extent>
+        <charseq START="1448" END="1451">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1448" END="1451">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-20-2" ROLE="GPE">
+      <extent>
+        <charseq START="3383" END="3386">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3383" END="3386">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-20-3" ROLE="GPE">
+      <extent>
+        <charseq START="3520" END="3523">they</charseq>
+      </extent>
+      <head>
+        <charseq START="3520" END="3523">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-20-4" ROLE="GPE">
+      <extent>
+        <charseq START="3537" END="3541">their</charseq>
+      </extent>
+      <head>
+        <charseq START="3537" END="3541">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-20-5" ROLE="GPE">
+      <extent>
+        <charseq START="3986" END="3989">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3986" END="3989">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-20-6" ROLE="GPE">
+      <extent>
+        <charseq START="4191" END="4194">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="4191" END="4194">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="1222" END="1225">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1448" END="1451">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3383" END="3386">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3986" END="3989">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="4191" END="4194">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-21" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-21-0">
+      <extent>
+        <charseq START="1277" END="1309">the sea of banners making its way</charseq>
+      </extent>
+      <head>
+        <charseq START="1281" END="1283">sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-21-1">
+      <extent>
+        <charseq START="1303" END="1305">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1305">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-22-0">
+      <extent>
+        <charseq START="1353" END="1376">President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1376">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-22-1">
+      <extent>
+        <charseq START="1353" END="1361">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1353" END="1361">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-22-2">
+      <extent>
+        <charseq START="2199" END="2211">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="2203" END="2211">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="1363" END="1376">George W. Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-23" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1393" END="1397">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="1393" END="1397">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Texas">
+        <charseq START="1393" END="1397">Texas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1400" END="1408">a
+village</charseq>
+      </extent>
+      <head>
+        <charseq START="1402" END="1408">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-25-0">
+      <extent>
+        <charseq START="1421" END="1428">an idiot</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1428">idiot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-26-0">
+      <extent>
+        <charseq START="1549" END="1557">One woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1553" END="1557">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-26-1">
+      <extent>
+        <charseq START="1620" END="1622">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1620" END="1622">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1697" END="1703">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="1697" END="1703">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-27-1" ROLE="GPE">
+      <extent>
+        <charseq START="4503" END="4509">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="4503" END="4509">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baghdad">
+        <charseq START="1697" END="1703">Baghdad</charseq>
+      </name>
+      <name NAME="Baghdad">
+        <charseq START="4503" END="4509">Baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-28-0">
+      <extent>
+        <charseq START="1707" END="1716">Liana Owen</charseq>
+      </extent>
+      <head>
+        <charseq START="1707" END="1716">Liana Owen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-28-1">
+      <extent>
+        <charseq START="1789" END="1791">her</charseq>
+      </extent>
+      <head>
+        <charseq START="1789" END="1791">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Liana Owen">
+        <charseq START="1707" END="1716">Liana Owen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-29-0" ROLE="GPE">
+      <extent>
+        <charseq START="1738" END="1749">Pennsylvania</charseq>
+      </extent>
+      <head>
+        <charseq START="1738" END="1749">Pennsylvania</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-29-1" ROLE="GPE">
+      <extent>
+        <charseq START="1803" END="1804">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1803" END="1804">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pennsylvania">
+        <charseq START="1738" END="1749">Pennsylvania</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-30" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1774" END="1782">Manhattan</charseq>
+      </extent>
+      <head>
+        <charseq START="1774" END="1782">Manhattan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Manhattan">
+        <charseq START="1774" END="1782">Manhattan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-31-0">
+      <extent>
+        <charseq START="1789" END="1799">her parents</charseq>
+      </extent>
+      <head>
+        <charseq START="1793" END="1799">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-32-0">
+      <extent>
+        <charseq START="1823" END="1828">people</charseq>
+      </extent>
+      <head>
+        <charseq START="1823" END="1828">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-32-1">
+      <extent>
+        <charseq START="1889" END="1891">she</charseq>
+      </extent>
+      <head>
+        <charseq START="1889" END="1891">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-33" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-33-0">
+      <extent>
+        <charseq START="1839" END="1847">the
+world</charseq>
+      </extent>
+      <head>
+        <charseq START="1843" END="1847">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-33-1">
+      <extent>
+        <charseq START="4450" END="4458">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="4454" END="4458">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-34-0">
+      <extent>
+        <charseq START="1900" END="1929">Several thousand demonstrators</charseq>
+      </extent>
+      <head>
+        <charseq START="1917" END="1929">demonstrators</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-34-1">
+      <extent>
+        <charseq START="2028" END="2031">They</charseq>
+      </extent>
+      <head>
+        <charseq START="2028" END="2031">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-34-2">
+      <extent>
+        <charseq START="2041" END="2044">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2041" END="2044">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-34-3">
+      <extent>
+        <charseq START="4537" END="4549">demonstrators</charseq>
+      </extent>
+      <head>
+        <charseq START="4537" END="4549">demonstrators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-35-0">
+      <extent>
+        <charseq START="1953" END="1967">the White House</charseq>
+      </extent>
+      <head>
+        <charseq START="1957" END="1967">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="1957" END="1967">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="1972" END="1981">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="1972" END="1981">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="1972" END="1981">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-37" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-37-0">
+      <extent>
+        <charseq START="2050" END="2060">smart bombs</charseq>
+      </extent>
+      <head>
+        <charseq START="2056" END="2060">bombs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-38" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-38-0">
+      <extent>
+        <charseq START="2068" END="2078">smart bombs</charseq>
+      </extent>
+      <head>
+        <charseq START="2074" END="2078">bombs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-39-0">
+      <extent>
+        <charseq START="2144" END="2159">Abigail Fletcher</charseq>
+      </extent>
+      <head>
+        <charseq START="2144" END="2159">Abigail Fletcher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abigail Fletcher">
+        <charseq START="2144" END="2159">Abigail Fletcher</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-40-0">
+      <extent>
+        <charseq START="2162" END="2170">a
+marcher</charseq>
+      </extent>
+      <head>
+        <charseq START="2164" END="2170">marcher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-41" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-41-0" ROLE="GPE">
+      <extent>
+        <charseq START="2177" END="2183">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="2177" END="2183">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Florida">
+        <charseq START="2177" END="2183">Florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-42" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-42-0">
+      <extent>
+        <charseq START="2199" END="2223">the president&apos;s residence</charseq>
+      </extent>
+      <head>
+        <charseq START="2215" END="2223">residence</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-43-0">
+      <extent>
+        <charseq START="2263" END="2276">war supporters</charseq>
+      </extent>
+      <head>
+        <charseq START="2267" END="2276">supporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-44-0">
+      <extent>
+        <charseq START="2336" END="2345">our troops</charseq>
+      </extent>
+      <head>
+        <charseq START="2340" END="2345">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-44-1">
+      <extent>
+        <charseq START="2356" END="2359">them</charseq>
+      </extent>
+      <head>
+        <charseq START="2356" END="2359">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-45-0">
+      <extent>
+        <charseq START="2400" END="2424">Michael Schmidt of Peoria</charseq>
+      </extent>
+      <head>
+        <charseq START="2400" END="2414">Michael Schmidt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Michael Schmidt">
+        <charseq START="2400" END="2414">Michael Schmidt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-46-0" ROLE="GPE">
+      <extent>
+        <charseq START="2419" END="2424">Peoria</charseq>
+      </extent>
+      <head>
+        <charseq START="2419" END="2424">Peoria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Peoria">
+        <charseq START="2419" END="2424">Peoria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-47" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-47-0" ROLE="GPE">
+      <extent>
+        <charseq START="2427" END="2434">Illinois</charseq>
+      </extent>
+      <head>
+        <charseq START="2427" END="2434">Illinois</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-47-1" ROLE="GPE">
+      <extent>
+        <charseq START="2444" END="2445">It</charseq>
+      </extent>
+      <head>
+        <charseq START="2444" END="2445">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Illinois">
+        <charseq START="2427" END="2434">Illinois</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-48-0">
+      <extent>
+        <charseq START="2489" END="2494">Others</charseq>
+      </extent>
+      <head>
+        <charseq START="2489" END="2494">Others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-48-1">
+      <extent>
+        <charseq START="2995" END="3000">others</charseq>
+      </extent>
+      <head>
+        <charseq START="2995" END="3000">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-49-0" ROLE="GPE">
+      <extent>
+        <charseq START="2547" END="2550">Awed</charseq>
+      </extent>
+      <head>
+        <charseq START="2547" END="2550">Awed</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Awed">
+        <charseq START="2547" END="2550">Awed</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-50" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-50-0" ROLE="GPE">
+      <extent>
+        <charseq START="2559" END="2567">Disgusted</charseq>
+      </extent>
+      <head>
+        <charseq START="2559" END="2567">Disgusted</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Disgusted">
+        <charseq START="2559" END="2567">Disgusted</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-51" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-51-0">
+      <extent>
+        <charseq START="2572" END="2580">One group</charseq>
+      </extent>
+      <head>
+        <charseq START="2576" END="2580">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-52-0">
+      <extent>
+        <charseq START="2583" END="2603">Lesbians Against Boys</charseq>
+      </extent>
+      <head>
+        <charseq START="2583" END="2603">Lesbians Against Boys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lesbians Against Boys">
+        <charseq START="2583" END="2603">Lesbians Against Boys</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-53" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-53-0" ROLE="GPE">
+      <extent>
+        <charseq START="2583" END="2621">Lesbians Against Boys Invading Anything</charseq>
+      </extent>
+      <head>
+        <charseq START="2614" END="2621">Anything</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anything">
+        <charseq START="2614" END="2621">Anything</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-54" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-54-0">
+      <extent>
+        <charseq START="2722" END="2740">the Bombs Fall Next</charseq>
+      </extent>
+      <head>
+        <charseq START="2726" END="2740">Bombs Fall Next</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bombs Fall Next">
+        <charseq START="2726" END="2740">Bombs Fall Next</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-55-0">
+      <extent>
+        <charseq START="2751" END="2767">20,000 protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="2758" END="2767">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-56" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-56-0">
+      <extent>
+        <charseq START="2778" END="2787">the plazas</charseq>
+      </extent>
+      <head>
+        <charseq START="2782" END="2787">plazas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-57" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-57-0">
+      <extent>
+        <charseq START="2793" END="2816">streets of San
+Francisco</charseq>
+      </extent>
+      <head>
+        <charseq START="2793" END="2799">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-58" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-58-0" ROLE="GPE">
+      <extent>
+        <charseq START="2804" END="2816">San
+Francisco</charseq>
+      </extent>
+      <head>
+        <charseq START="2804" END="2816">San
+Francisco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="San Francisco">
+        <charseq START="2804" END="2816">San
+Francisco</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-59-0">
+      <extent>
+        <charseq START="2825" END="2846">more than 1,600 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2841" END="2846">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-60-0">
+      <extent>
+        <charseq START="2936" END="2947">3,000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2942" END="2947">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-61" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-61-0">
+      <extent>
+        <charseq START="2962" END="2964">CNN</charseq>
+      </extent>
+      <head>
+        <charseq START="2962" END="2964">CNN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-61-1">
+      <extent>
+        <charseq START="3210" END="3212">CNN</charseq>
+      </extent>
+      <head>
+        <charseq START="3210" END="3212">CNN</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CNN">
+        <charseq START="2962" END="2964">CNN</charseq>
+      </name>
+      <name NAME="CNN">
+        <charseq START="3210" END="3212">CNN</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-62" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-62-0" ROLE="GPE">
+      <extent>
+        <charseq START="2977" END="2987">Los
+Angeles</charseq>
+      </extent>
+      <head>
+        <charseq START="2977" END="2987">Los
+Angeles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Los Angeles">
+        <charseq START="2977" END="2987">Los
+Angeles</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-63" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-63-0">
+      <extent>
+        <charseq START="3005" END="3028">the Atlanta headquarters</charseq>
+      </extent>
+      <head>
+        <charseq START="3017" END="3028">headquarters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-64" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-64-0" ROLE="GPE">
+      <extent>
+        <charseq START="3009" END="3015">Atlanta</charseq>
+      </extent>
+      <head>
+        <charseq START="3009" END="3015">Atlanta</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Atlanta">
+        <charseq START="3009" END="3015">Atlanta</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-65" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-65-0">
+      <extent>
+        <charseq START="3040" END="3056">the cable
+network</charseq>
+      </extent>
+      <head>
+        <charseq START="3050" END="3056">network</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-66-0">
+      <extent>
+        <charseq START="3152" END="3161">John Wayne</charseq>
+      </extent>
+      <head>
+        <charseq START="3152" END="3161">John Wayne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Wayne">
+        <charseq START="3152" END="3161">John Wayne</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-67-0">
+      <extent>
+        <charseq START="3176" END="3196">protester Elvis
+Woods</charseq>
+      </extent>
+      <head>
+        <charseq START="3186" END="3196">Elvis
+Woods</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-67-1">
+      <extent>
+        <charseq START="3176" END="3184">protester</charseq>
+      </extent>
+      <head>
+        <charseq START="3176" END="3184">protester</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Elvis Woods">
+        <charseq START="3186" END="3196">Elvis
+Woods</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-68" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-68-0">
+      <extent>
+        <charseq START="3258" END="3262">tanks</charseq>
+      </extent>
+      <head>
+        <charseq START="3258" END="3262">tanks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-69" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-69-0">
+      <extent>
+        <charseq START="3268" END="3271">guns</charseq>
+      </extent>
+      <head>
+        <charseq START="3268" END="3271">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-70" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-70-0" ROLE="GPE">
+      <extent>
+        <charseq START="3364" END="3369">US-led</charseq>
+      </extent>
+      <head>
+        <charseq START="3364" END="3369">US-led</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US-led">
+        <charseq START="3364" END="3369">US-led</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-71" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-71-0" ROLE="GPE">
+      <extent>
+        <charseq START="3402" END="3412">some cities</charseq>
+      </extent>
+      <head>
+        <charseq START="3407" END="3412">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-72" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-72-0">
+      <extent>
+        <charseq START="3420" END="3436">some 2,500 people</charseq>
+      </extent>
+      <head>
+        <charseq START="3431" END="3436">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-73" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-73-0" ROLE="GPE">
+      <extent>
+        <charseq START="3453" END="3459">Chicago</charseq>
+      </extent>
+      <head>
+        <charseq START="3453" END="3459">Chicago</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chicago">
+        <charseq START="3453" END="3459">Chicago</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-74" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-74-0">
+      <extent>
+        <charseq START="3537" END="3563">their anti-war counterparts</charseq>
+      </extent>
+      <head>
+        <charseq START="3552" END="3563">counterparts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-75" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-75-0" ROLE="GPE">
+      <extent>
+        <charseq START="3604" END="3613">both sides</charseq>
+      </extent>
+      <head>
+        <charseq START="3609" END="3613">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-75-1" ROLE="GPE">
+      <extent>
+        <charseq START="3655" END="3658">them</charseq>
+      </extent>
+      <head>
+        <charseq START="3655" END="3658">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-76" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-76-0">
+      <extent>
+        <charseq START="3722" END="3729">Real men</charseq>
+      </extent>
+      <head>
+        <charseq START="3727" END="3729">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-77" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-77-0">
+      <extent>
+        <charseq START="3737" END="3740">bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="3737" END="3740">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-78" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-78-0">
+      <extent>
+        <charseq START="3737" END="3749">bomb children</charseq>
+      </extent>
+      <head>
+        <charseq START="3742" END="3749">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-79" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-79-0">
+      <extent>
+        <charseq START="3753" END="3775">the anti-war protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="3766" END="3775">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-79-1">
+      <extent>
+        <charseq START="4072" END="4085">the
+protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="4076" END="4085">protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-79-2">
+      <extent>
+        <charseq START="4790" END="4799">Protesters</charseq>
+      </extent>
+      <head>
+        <charseq START="4790" END="4799">Protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-79-3">
+      <extent>
+        <charseq START="4818" END="4822">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4818" END="4822">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-80" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-80-0">
+      <extent>
+        <charseq START="3788" END="3792">Earth</charseq>
+      </extent>
+      <head>
+        <charseq START="3788" END="3792">Earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-81" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-81-0">
+      <extent>
+        <charseq START="3811" END="3816">Saddam</charseq>
+      </extent>
+      <head>
+        <charseq START="3811" END="3816">Saddam</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam">
+        <charseq START="3811" END="3816">Saddam</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-82" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-82-0">
+      <extent>
+        <charseq START="3883" END="3896">Ian Wisniewski</charseq>
+      </extent>
+      <head>
+        <charseq START="3883" END="3896">Ian Wisniewski</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-82-1">
+      <extent>
+        <charseq START="3941" END="3943">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3941" END="3943">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ian Wisniewski">
+        <charseq START="3883" END="3896">Ian Wisniewski</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-83" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-83-0">
+      <extent>
+        <charseq START="3918" END="3923">bullet</charseq>
+      </extent>
+      <head>
+        <charseq START="3918" END="3923">bullet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-84" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-84-0">
+      <extent>
+        <charseq START="4027" END="4043">Claire Tortorello</charseq>
+      </extent>
+      <head>
+        <charseq START="4027" END="4043">Claire Tortorello</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-84-1">
+      <extent>
+        <charseq START="4133" END="4135">her</charseq>
+      </extent>
+      <head>
+        <charseq START="4133" END="4135">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-84-2">
+      <extent>
+        <charseq START="4197" END="4199">she</charseq>
+      </extent>
+      <head>
+        <charseq START="4197" END="4199">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-84-3">
+      <extent>
+        <charseq START="4206" END="4208">she</charseq>
+      </extent>
+      <head>
+        <charseq START="4206" END="4208">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-84-4">
+      <extent>
+        <charseq START="4403" END="4405">she</charseq>
+      </extent>
+      <head>
+        <charseq START="4403" END="4405">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Claire Tortorello">
+        <charseq START="4027" END="4043">Claire Tortorello</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-85" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-85-0">
+      <extent>
+        <charseq START="4094" END="4102">the plaza</charseq>
+      </extent>
+      <head>
+        <charseq START="4098" END="4102">plaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-86" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-86-0">
+      <extent>
+        <charseq START="4133" END="4139">her son</charseq>
+      </extent>
+      <head>
+        <charseq START="4137" END="4139">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-86-1">
+      <extent>
+        <charseq START="4230" END="4231">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4230" END="4231">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-86-2">
+      <extent>
+        <charseq START="4274" END="4276">him</charseq>
+      </extent>
+      <head>
+        <charseq START="4274" END="4276">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-87" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-87-0">
+      <extent>
+        <charseq START="4155" END="4162">the Army</charseq>
+      </extent>
+      <head>
+        <charseq START="4159" END="4162">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Army">
+        <charseq START="4159" END="4162">Army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-88" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-88-0">
+      <extent>
+        <charseq START="4155" END="4186">the Army&apos;s 3rd Infantry Division</charseq>
+      </extent>
+      <head>
+        <charseq START="4166" END="4186">3rd Infantry Division</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="3rd Infantry Division">
+        <charseq START="4166" END="4186">3rd Infantry Division</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-89" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-89-0">
+      <extent>
+        <charseq START="4282" END="4304">others who are fighting</charseq>
+      </extent>
+      <head>
+        <charseq START="4282" END="4287">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-89-1">
+      <extent>
+        <charseq START="4310" END="4314">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4310" END="4314">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-89-2">
+      <extent>
+        <charseq START="4325" END="4328">They</charseq>
+      </extent>
+      <head>
+        <charseq START="4325" END="4328">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-89-3">
+      <extent>
+        <charseq START="4383" END="4388">others</charseq>
+      </extent>
+      <head>
+        <charseq START="4383" END="4388">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-90" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-90-0" ROLE="GPE">
+      <extent>
+        <charseq START="4310" END="4322">their
+country</charseq>
+      </extent>
+      <head>
+        <charseq START="4316" END="4322">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-91" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-91-0" ROLE="GPE">
+      <extent>
+        <charseq START="4574" END="4580">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="4574" END="4580">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Britain">
+        <charseq START="4574" END="4580">Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-92" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-92-0" ROLE="GPE">
+      <extent>
+        <charseq START="4583" END="4587">Spain</charseq>
+      </extent>
+      <head>
+        <charseq START="4583" END="4587">Spain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Spain">
+        <charseq START="4583" END="4587">Spain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-93" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-93-0" ROLE="GPE">
+      <extent>
+        <charseq START="4593" END="4597">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="4593" END="4597">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Italy">
+        <charseq START="4593" END="4597">Italy</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-94" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-94-0">
+      <extent>
+        <charseq START="4606" END="4625">governments approved</charseq>
+      </extent>
+      <head>
+        <charseq START="4606" END="4616">governments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-95" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-95-0" ROLE="GPE">
+      <extent>
+        <charseq START="4643" END="4650">Montreal</charseq>
+      </extent>
+      <head>
+        <charseq START="4643" END="4650">Montreal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Montreal">
+        <charseq START="4643" END="4650">Montreal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-96" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-96-0" ROLE="GPE">
+      <extent>
+        <charseq START="4669" END="4703">a coalition of more than 190 groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4671" END="4679">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-97" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-97-0">
+      <extent>
+        <charseq START="4684" END="4703">more than 190 groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4698" END="4703">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-98" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-98-0">
+      <extent>
+        <charseq START="4711" END="4735">as many as 200,000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="4730" END="4735">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-99" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-99-0" ROLE="GPE">
+      <extent>
+        <charseq START="4837" END="4843">Halifax</charseq>
+      </extent>
+      <head>
+        <charseq START="4837" END="4843">Halifax</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Halifax">
+        <charseq START="4837" END="4843">Halifax</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-100" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-100-0" ROLE="GPE">
+      <extent>
+        <charseq START="4846" END="4852">Calgary</charseq>
+      </extent>
+      <head>
+        <charseq START="4846" END="4852">Calgary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Calgary">
+        <charseq START="4846" END="4852">Calgary</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-101" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-101-0" ROLE="GPE">
+      <extent>
+        <charseq START="4855" END="4862">Edmonton</charseq>
+      </extent>
+      <head>
+        <charseq START="4855" END="4862">Edmonton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Edmonton">
+        <charseq START="4855" END="4862">Edmonton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-102" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030323.0020-102-0" ROLE="GPE">
+      <extent>
+        <charseq START="4868" END="4876">Vancouver</charseq>
+      </extent>
+      <head>
+        <charseq START="4868" END="4876">Vancouver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vancouver">
+        <charseq START="4868" END="4876">Vancouver</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-103" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-103-0">
+      <extent>
+        <charseq START="4880" END="4925">Organizers of the civil disobedience campaigns</charseq>
+      </extent>
+      <head>
+        <charseq START="4880" END="4889">Organizers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-104" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-104-0">
+      <extent>
+        <charseq START="4945" END="4957">intersections</charseq>
+      </extent>
+      <head>
+        <charseq START="4945" END="4957">intersections</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-105" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-105-0">
+      <extent>
+        <charseq START="4963" END="4969">bridges</charseq>
+      </extent>
+      <head>
+        <charseq START="4963" END="4969">bridges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030323.0020-105-1">
+      <extent>
+        <charseq START="4980" END="4989">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="4980" END="4989">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030323.0020-106" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030323.0020-106-0">
+      <extent>
+        <charseq START="5078" END="5094">Some 3,000 people</charseq>
+      </extent>
+      <head>
+        <charseq START="5089" END="5094">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20030323.0020-T0" VAL="2003-03-23">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030323</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T1" VAL="2003-03-23">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T1-1">
+      <extent>
+        <charseq START="173" END="180">March 23</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T2" VAL="2003-03-22">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T2-1">
+      <extent>
+        <charseq START="218" END="225">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T3" VAL="2000">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T3-1">
+      <extent>
+        <charseq START="944" END="948">2,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T4" VAL="2003-03-21">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T4-1">
+      <extent>
+        <charseq START="1687" END="1692">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T5" VAL="PT10H">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T5-1">
+      <extent>
+        <charseq START="1724" END="1731">10 hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T6" VAL="2500">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T6-1">
+      <extent>
+        <charseq START="2926" END="2930">2,500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T7" VAL="3000">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T7-1">
+      <extent>
+        <charseq START="2936" END="2940">3,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T8" VAL="2500">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T8-1">
+      <extent>
+        <charseq START="3425" END="3429">2,500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T9" VAL="2003-03-22">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T9-1">
+      <extent>
+        <charseq START="4460" END="4467">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T10" VAL="3000">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T10-1">
+      <extent>
+        <charseq START="5083" END="5087">3,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T11" VAL="2003-W11">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T11-1">
+      <extent>
+        <charseq START="5154" END="5162">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030323.0020-T12" VAL="P2D">
+    <timex2_mention ID="AFP_ENG_20030323.0020-T12-1">
+      <extent>
+        <charseq START="2865" END="2881">the past two
+days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030323.0020-R1" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-6" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R1-1">
+      <extent>
+        <charseq START="307" END="362">at least 200,000
+anti-war protesters took to the streets</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="307" END="342">at least 200,000
+anti-war protesters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="352" END="362">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R2-1">
+      <extent>
+        <charseq START="352" END="387">the streets across the United States</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="352" END="362">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="371" END="387">the United States</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030323.0020-11" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R3-1">
+      <extent>
+        <charseq START="568" END="581">police sources</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="568" END="581">police sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="568" END="573">police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030323.0020-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R4-1">
+      <extent>
+        <charseq START="944" END="964">2,000 police officers</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="944" END="964">2,000 police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-5-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="950" END="955">police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R5" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-25" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-24" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R5-1">
+      <extent>
+        <charseq START="1400" END="1428">a
+village is missing an idiot</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1421" END="1428">an idiot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1400" END="1408">a
+village</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-28" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-29" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R6-1">
+      <extent>
+        <charseq START="1707" END="1749">Liana Owen drove 10 hours from Pennsylvania</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-28-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1707" END="1716">Liana Owen</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-29-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1738" END="1749">Pennsylvania</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R7" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030323.0020-28" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-31" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R7-1">
+      <extent>
+        <charseq START="1789" END="1799">her parents</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-28-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1789" END="1791">her</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-31-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1789" END="1799">her parents</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R8" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-32" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-33" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R8-1">
+      <extent>
+        <charseq START="1823" END="1847">people all over the
+world</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-32-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1823" END="1828">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-33-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1839" END="1847">the
+world</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-34" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-35" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R9-1">
+      <extent>
+        <charseq START="1900" END="1967">Several thousand demonstrators also gathered outside the White House</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-34-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1900" END="1929">Several thousand demonstrators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-35-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1953" END="1967">the White House</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-35" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-36" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R10-1">
+      <extent>
+        <charseq START="1953" END="1981">the White House
+in Washington</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-35-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1953" END="1967">the White House</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-36-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1972" END="1981">Washington</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030323.0020-34" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-37" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R11-1">
+      <extent>
+        <charseq START="2041" END="2060">they&apos;re &apos;smart bombs</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-34-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="2041" END="2044">they</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-37-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2050" END="2060">smart bombs</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R12" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030323.0020-40" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-41" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R12-1">
+      <extent>
+        <charseq START="2162" END="2183">a
+marcher from Florida</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-40-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2162" END="2170">a
+marcher</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-41-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2177" END="2183">Florida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030323.0020-22" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-42" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R13-1">
+      <extent>
+        <charseq START="2199" END="2223">the president&apos;s residence</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-22-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="2199" END="2211">the president</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-42-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2199" END="2223">the president&apos;s residence</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030323.0020-45" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-46" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R14-1">
+      <extent>
+        <charseq START="2400" END="2424">Michael Schmidt of Peoria</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2400" END="2424">Michael Schmidt of Peoria</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-46-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2419" END="2424">Peoria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R15" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-55" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-56" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R15-1">
+      <extent>
+        <charseq START="2751" END="2787">20,000 protesters thronged the plazas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2751" END="2767">20,000 protesters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-56-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2778" END="2787">the plazas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R16" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-55" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-57" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R16-1">
+      <extent>
+        <charseq START="2751" END="2816">20,000 protesters thronged the plazas and streets of San
+Francisco</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2751" END="2767">20,000 protesters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-57-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2793" END="2816">streets of San
+Francisco</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R17" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="AFP_ENG_20030323.0020-56" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-58" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R17-1">
+      <extent>
+        <charseq START="2778" END="2816">the plazas and streets of San
+Francisco</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-56-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2778" END="2787">the plazas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-58-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2804" END="2816">San
+Francisco</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R18" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-57" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-58" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R18-1">
+      <extent>
+        <charseq START="2793" END="2816">streets of San
+Francisco</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-57-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2793" END="2816">streets of San
+Francisco</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-58-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2804" END="2816">San
+Francisco</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R19" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-60" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-62" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R19-1">
+      <extent>
+        <charseq START="2936" END="2987">3,000 people picketed the CNN studios in Los
+Angeles</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-60-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2936" END="2947">3,000 people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-62-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2977" END="2987">Los
+Angeles</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R20" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-48" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-63" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R20-1">
+      <extent>
+        <charseq START="2995" END="3028">others at the Atlanta headquarters</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-48-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2995" END="3000">others</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-63-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3005" END="3028">the Atlanta headquarters</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R21" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-63" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-64" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R21-1">
+      <extent>
+        <charseq START="3005" END="3028">the Atlanta headquarters</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-63-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3005" END="3028">the Atlanta headquarters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-64-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3009" END="3015">Atlanta</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R22" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-72" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-73" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R22-1">
+      <extent>
+        <charseq START="3420" END="3459">some 2,500 people turning out in Chicago</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3420" END="3436">some 2,500 people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-73-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3453" END="3459">Chicago</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R23" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030323.0020-74" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R23-1">
+      <extent>
+        <charseq START="3537" END="3563">their anti-war counterparts</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-74-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3537" END="3563">their anti-war counterparts</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-20-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="3537" END="3541">their</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R24" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-79" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-80" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R24-1">
+      <extent>
+        <charseq START="3753" END="3792">the anti-war protesters waved
+blue Earth</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-79-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3753" END="3775">the anti-war protesters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-80-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3788" END="3792">Earth</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R25" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-79" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-85" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R25-1">
+      <extent>
+        <charseq START="4072" END="4102">the
+protesters across the plaza</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-79-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4072" END="4085">the
+protesters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-85-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4094" END="4102">the plaza</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R26" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030323.0020-84" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-86" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R26-1">
+      <extent>
+        <charseq START="4133" END="4139">her son</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-84-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4133" END="4135">her</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-86-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4133" END="4139">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R27" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="AFP_ENG_20030323.0020-86" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-88" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R27-1">
+      <extent>
+        <charseq START="4133" END="4186">her son,
+serving with the Army&apos;s 3rd Infantry Division</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-86-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4133" END="4139">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-88-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4155" END="4186">the Army&apos;s 3rd Infantry Division</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R28" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030323.0020-88" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-87" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R28-1">
+      <extent>
+        <charseq START="4155" END="4186">the Army&apos;s 3rd Infantry Division</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-88-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4155" END="4186">the Army&apos;s 3rd Infantry Division</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-87-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4155" END="4162">the Army</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R29" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030323.0020-89" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-90" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R29-1">
+      <extent>
+        <charseq START="4310" END="4322">their
+country</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-89-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4310" END="4314">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-90-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4310" END="4322">their
+country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R30" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030323.0020-34" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R30-1">
+      <extent>
+        <charseq START="4537" END="4569">demonstrators took to the streets</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-34-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="4537" END="4549">demonstrators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4559" END="4569">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R31" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-91" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R31-1">
+      <extent>
+        <charseq START="4559" END="4580">the streets in Britain</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4559" END="4569">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-91-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4574" END="4580">Britain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R32" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-92" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R32-1">
+      <extent>
+        <charseq START="4559" END="4587">the streets in Britain, Spain</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4559" END="4569">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-92-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4583" END="4587">Spain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R33" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R33-1">
+      <extent>
+        <charseq START="352" END="398">the streets across the United States and
+Canada</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="352" END="362">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="393" END="398">Canada</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030323.0020-R34" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030323.0020-93" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030323.0020-R34-1">
+      <extent>
+        <charseq START="4559" END="4597">the streets in Britain, Spain and Italy</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4559" END="4569">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030323.0020-93-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4593" END="4597">Italy</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030323.0020-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-106" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T10" ROLE="Time-Ending"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T11" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-59" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T12" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-58" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-3" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T2" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV1-1">
+      <extent>
+        <charseq START="189" END="216">Some 70 people were arrested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="209" END="216">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-3-0" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-5-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV1-2">
+      <extent>
+        <charseq START="2825" END="2881">more than 1,600 people were arrested in the past two
+days</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2853" END="2860">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-59-0" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T12-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-58-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV1-3">
+      <extent>
+        <charseq START="5078" END="5113">Some 3,000 people have been arrested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5106" END="5113">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-106-0" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T10-1" ROLE="Time-Ending"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T11-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-6" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-8" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T2" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV2-1">
+      <extent>
+        <charseq START="244" END="262">clashed with
+police</charseq>
+      </extent>
+      <anchor>
+        <charseq START="244" END="250">clashed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-5-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-5-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-8-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV2-2">
+      <extent>
+        <charseq START="329" END="331">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="329" END="331">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-6-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-8-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV3" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-72" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T8" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-71" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-65" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-62" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-31" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-30" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-19" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-16" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-6" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-3" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T2" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-8" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV3-1">
+      <extent>
+        <charseq START="292" END="296">rally</charseq>
+      </extent>
+      <anchor>
+        <charseq START="292" END="296">rally</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-6-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-3-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-8-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV3-2">
+      <extent>
+        <charseq START="809" END="813">rally</charseq>
+      </extent>
+      <anchor>
+        <charseq START="809" END="813">rally</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-16-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV3-3">
+      <extent>
+        <charseq START="973" END="977">rally</charseq>
+      </extent>
+      <anchor>
+        <charseq START="973" END="977">rally</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-19-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV3-4">
+      <extent>
+        <charseq START="1765" END="1769">rally</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1765" END="1769">rally</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-31-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-30-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV3-5">
+      <extent>
+        <charseq START="3030" END="3038">protested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3030" END="3038">protested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-65-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-62-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV3-6">
+      <extent>
+        <charseq START="3331" END="3344">demonstrations</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3331" END="3344">demonstrations</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-72-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-71-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Destination"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-3" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-6" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV5-1">
+      <extent>
+        <charseq START="344" END="362">took to the streets</charseq>
+      </extent>
+      <anchor>
+        <charseq START="344" END="347">took</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-7-0" ROLE="Destination"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-3-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-6-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-10" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-1" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV6-1">
+      <extent>
+        <charseq START="469" END="509">a
+small group of protesters were arrested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="502" END="509">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-10-0" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-5-1" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-1-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV7" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030323.0020-EV7-1">
+      <extent>
+        <charseq START="561" END="565">rally</charseq>
+      </extent>
+      <anchor>
+        <charseq START="561" END="565">rally</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030323.0020-EV8-1">
+      <extent>
+        <charseq START="668" END="674">clashes</charseq>
+      </extent>
+      <anchor>
+        <charseq START="668" END="674">clashes</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-8" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV11-1">
+      <extent>
+        <charseq START="1150" END="1152">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1150" END="1152">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-8-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-74" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-65" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-62" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-51" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-32" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-20" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV12-1">
+      <extent>
+        <charseq START="1448" END="1455">Iraq war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1453" END="1455">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-20-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV12-2">
+      <extent>
+        <charseq START="1883" END="1885">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1883" END="1885">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-32-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV12-3">
+      <extent>
+        <charseq START="2658" END="2660">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2658" END="2660">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-51-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV12-4">
+      <extent>
+        <charseq START="3076" END="3078">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3076" END="3078">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-65-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-62-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV12-5">
+      <extent>
+        <charseq START="3548" END="3550">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3548" END="3550">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-74-0" ROLE="Target"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV13" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030323.0020-EV13-1">
+      <extent>
+        <charseq START="1559" END="1565">marched</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1559" END="1565">marched</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-26" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T4" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-27" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV14-1">
+      <extent>
+        <charseq START="1660" END="1666">bombing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1660" END="1666">bombing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-26-1" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-27-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV17" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-39" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-37" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-42" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV17-1">
+      <extent>
+        <charseq START="2134" END="2140">targets</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2134" END="2140">targets</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-39-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-37-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-42-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV18" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-43" ROLE="Target"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV18-1">
+      <extent>
+        <charseq START="2263" END="2265">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2263" END="2265">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-43-0" ROLE="Target"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV19" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030323.0020-EV19-1">
+      <extent>
+        <charseq START="2298" END="2305">protests</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2298" END="2305">protests</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV20" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-45" ROLE="Person"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV20-1">
+      <extent>
+        <charseq START="2381" END="2386">former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2381" END="2386">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-45-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV25" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-69" ROLE="Instrument"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV25-1">
+      <extent>
+        <charseq START="3234" END="3243">explosions</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3234" END="3243">explosions</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-69-0" ROLE="Instrument"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV27" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-20" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-70" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV27-1">
+      <extent>
+        <charseq START="3371" END="3386">invasion of Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3371" END="3378">invasion</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-20-2" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-70-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV28" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030323.0020-EV28-1">
+      <extent>
+        <charseq START="3462" END="3467">Flying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3462" END="3467">Flying</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV30" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-5" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-75" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV30-1">
+      <extent>
+        <charseq START="3640" END="3643">riot</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3640" END="3643">riot</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-5-4" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-75-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV31" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-T9" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-27" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-T9" ROLE="Time-Before"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-79" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-76" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV31-1">
+      <extent>
+        <charseq START="3737" END="3740">bomb</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3737" END="3740">bomb</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-79-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-76-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV31-2">
+      <extent>
+        <charseq START="3762" END="3764">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3762" END="3764">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-79-0" ROLE="Target"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV31-3">
+      <extent>
+        <charseq START="4419" END="4421">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4419" END="4421">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T9-1" ROLE="Time-Before"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV31-4">
+      <extent>
+        <charseq START="4492" END="4498">bombing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4492" END="4498">bombing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T9-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-27-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV33" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-20" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV33-1">
+      <extent>
+        <charseq START="3978" END="3984">bombing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3978" END="3984">bombing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-20-5" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV34" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030323.0020-EV34-1">
+      <extent>
+        <charseq START="3995" END="4001">sickens</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3995" END="4001">sickens</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV36" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-T9" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV36-1">
+      <extent>
+        <charseq START="4423" END="4430">protests</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4423" END="4430">protests</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-T9-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV38" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-7" ROLE="Destination"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-34" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV38-1">
+      <extent>
+        <charseq START="4551" END="4569">took to the streets</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4551" END="4554">took</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-7-1" ROLE="Destination"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-34-3" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030323.0020-EV39" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030323.0020-94" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030323.0020-91" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030323.0020-EV39-1">
+      <extent>
+        <charseq START="4634" END="4636">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4634" END="4636">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-94-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030323.0020-91-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030323.0020-EV39-2">
+      <extent>
+        <charseq START="5062" END="5064">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5062" END="5064">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

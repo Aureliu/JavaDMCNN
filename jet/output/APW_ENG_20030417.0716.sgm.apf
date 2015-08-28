@@ -1,0 +1,764 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030417.0716.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030417.0716">
+  <entity ID="APW_ENG_20030417.0716-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="98" END="105">CLARINDA</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="105">CLARINDA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CLARINDA">
+        <charseq START="98" END="105">CLARINDA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="111">Iowa</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="111">Iowa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="378" END="420">Iowa, which does not have the death
+penalty</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="381">Iowa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iowa">
+        <charseq START="108" END="111">Iowa</charseq>
+      </name>
+      <name NAME="Iowa">
+        <charseq START="378" END="381">Iowa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-3-0">
+      <extent>
+        <charseq START="114" END="115">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="115">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="114" END="115">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-4-0">
+      <extent>
+        <charseq START="119" END="149">A man who spent nearly 26 years</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="123">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-5-0">
+      <extent>
+        <charseq START="246" END="261">Gov. Tom
+Vilsack</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="261">Tom
+Vilsack</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-5-1">
+      <extent>
+        <charseq START="246" END="249">Gov.</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="249">Gov.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-5-2">
+      <extent>
+        <charseq START="1118" END="1148">Vilsack, who learned this month</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1124">Vilsack</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tom Vilsack">
+        <charseq START="251" END="261">Tom
+Vilsack</charseq>
+      </name>
+      <name NAME="Vilsack">
+        <charseq START="1118" END="1124">Vilsack</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-6-0">
+      <extent>
+        <charseq START="424" END="439">Terry Harrington</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="439">Terry Harrington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-6-1">
+      <extent>
+        <charseq START="445" END="454">a teenager</charseq>
+      </extent>
+      <head>
+        <charseq START="447" END="454">teenager</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030417.0716-6-2">
+      <extent>
+        <charseq START="461" END="462">he</charseq>
+      </extent>
+      <head>
+        <charseq START="461" END="462">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-6-3">
+      <extent>
+        <charseq START="637" END="646">Harrington</charseq>
+      </extent>
+      <head>
+        <charseq START="637" END="646">Harrington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-6-4">
+      <extent>
+        <charseq START="924" END="933">Harrington</charseq>
+      </extent>
+      <head>
+        <charseq START="924" END="933">Harrington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-6-5">
+      <extent>
+        <charseq START="1073" END="1082">Harrington</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1082">Harrington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-6-6">
+      <extent>
+        <charseq START="1155" END="1164">Harrington</charseq>
+      </extent>
+      <head>
+        <charseq START="1155" END="1164">Harrington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-6-7">
+      <extent>
+        <charseq START="1471" END="1480">Harrington</charseq>
+      </extent>
+      <head>
+        <charseq START="1471" END="1480">Harrington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Terry Harrington">
+        <charseq START="424" END="439">Terry Harrington</charseq>
+      </name>
+      <name NAME="Harrington">
+        <charseq START="637" END="646">Harrington</charseq>
+      </name>
+      <name NAME="Harrington">
+        <charseq START="924" END="933">Harrington</charseq>
+      </name>
+      <name NAME="Harrington">
+        <charseq START="1073" END="1082">Harrington</charseq>
+      </name>
+      <name NAME="Harrington">
+        <charseq START="1155" END="1164">Harrington</charseq>
+      </name>
+      <name NAME="Harrington">
+        <charseq START="1471" END="1480">Harrington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-7-0">
+      <extent>
+        <charseq START="508" END="519">John Schweer</charseq>
+      </extent>
+      <head>
+        <charseq START="508" END="519">John Schweer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Schweer">
+        <charseq START="508" END="519">John Schweer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-8-0">
+      <extent>
+        <charseq START="522" END="545">a retired police officer</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="545">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-9-0">
+      <extent>
+        <charseq START="532" END="537">police</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="537">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-10-0">
+      <extent>
+        <charseq START="578" END="599">a local car dealership</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="599">dealership</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-11" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-11-0">
+      <extent>
+        <charseq START="586" END="588">car</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="588">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-12-0">
+      <extent>
+        <charseq START="603" END="624">The Iowa Supreme Court</charseq>
+      </extent>
+      <head>
+        <charseq START="607" END="624">Iowa Supreme Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iowa Supreme Court">
+        <charseq START="607" END="624">Iowa Supreme Court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-13-0">
+      <extent>
+        <charseq START="701" END="711">prosecutors</charseq>
+      </extent>
+      <head>
+        <charseq START="701" END="711">prosecutors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-13-1">
+      <extent>
+        <charseq START="873" END="883">prosecutors</charseq>
+      </extent>
+      <head>
+        <charseq START="873" END="883">prosecutors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-13-2">
+      <extent>
+        <charseq START="1443" END="1453">prosecutors</charseq>
+      </extent>
+      <head>
+        <charseq START="1443" END="1453">prosecutors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-14-0">
+      <extent>
+        <charseq START="701" END="727">prosecutors withheld police</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="727">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-15-0">
+      <extent>
+        <charseq START="749" END="763">another suspect</charseq>
+      </extent>
+      <head>
+        <charseq START="757" END="763">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030417.0716-15-1">
+      <extent>
+        <charseq START="811" END="813">his</charseq>
+      </extent>
+      <head>
+        <charseq START="811" END="813">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-16" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="774" END="782">the state</charseq>
+      </extent>
+      <head>
+        <charseq START="778" END="782">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-17-0">
+      <extent>
+        <charseq START="827" END="833">Inmates</charseq>
+      </extent>
+      <head>
+        <charseq START="827" END="833">Inmates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-18-0">
+      <extent>
+        <charseq START="976" END="995">the attorney general</charseq>
+      </extent>
+      <head>
+        <charseq START="989" END="995">general</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-19-0">
+      <extent>
+        <charseq START="980" END="987">attorney</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="987">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-20-0">
+      <extent>
+        <charseq START="1109" END="1114">others</charseq>
+      </extent>
+      <head>
+        <charseq START="1109" END="1114">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-21-0">
+      <extent>
+        <charseq START="1193" END="1216">the Iowa Board of Parole</charseq>
+      </extent>
+      <head>
+        <charseq START="1197" END="1216">Iowa Board of Parole</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-21-1">
+      <extent>
+        <charseq START="1354" END="1362">the board</charseq>
+      </extent>
+      <head>
+        <charseq START="1358" END="1362">board</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030417.0716-21-2">
+      <extent>
+        <charseq START="1376" END="1377">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1376" END="1377">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iowa Board of Parole">
+        <charseq START="1197" END="1216">Iowa Board of Parole</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-22-0">
+      <extent>
+        <charseq START="1251" END="1260">the
+inmate</charseq>
+      </extent>
+      <head>
+        <charseq START="1255" END="1260">inmate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030417.0716-23-0">
+      <extent>
+        <charseq START="1315" END="1326">The
+governor</charseq>
+      </extent>
+      <head>
+        <charseq START="1319" END="1326">governor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-24" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1390" END="1409">Pottawattamie County</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1409">Pottawattamie County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pottawattamie County">
+        <charseq START="1390" END="1409">Pottawattamie County</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030417.0716-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030417.0716-25-0">
+      <extent>
+        <charseq START="1390" END="1436">Pottawattamie County Attorney Matthew D. Wilber</charseq>
+      </extent>
+      <head>
+        <charseq START="1420" END="1436">Matthew D. Wilber</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Matthew D. Wilber">
+        <charseq START="1420" END="1436">Matthew D. Wilber</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030417.0716-V5" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030417.0716-V5-1">
+      <extent>
+        <charseq START="186" END="191">murder</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030417.0716-V11" TYPE="Job-Title">
+    <value_mention ID="APW_ENG_20030417.0716-V11-1">
+      <extent>
+        <charseq START="522" END="545">a retired police officer</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030417.0716-T0" VAL="2003-04-17">
+    <timex2_mention ID="APW_ENG_20030417.0716-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030417</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030417.0716-T1" VAL="P26Y">
+    <timex2_mention ID="APW_ENG_20030417.0716-T1-1">
+      <extent>
+        <charseq START="142" END="149">26 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030417.0716-T2" VAL="2003-04-17">
+    <timex2_mention ID="APW_ENG_20030417.0716-T2-1">
+      <extent>
+        <charseq START="231" END="238">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030417.0716-T3" VAL="1977">
+    <timex2_mention ID="APW_ENG_20030417.0716-T3-1">
+      <extent>
+        <charseq START="485" END="488">1977</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030417.0716-T4" VAL="2003-02">
+    <timex2_mention ID="APW_ENG_20030417.0716-T4-1">
+      <extent>
+        <charseq START="664" END="671">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030417.0716-T5" VAL="2003-04">
+    <timex2_mention ID="APW_ENG_20030417.0716-T5-1">
+      <extent>
+        <charseq START="1139" END="1148">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030417.0716-T6" VAL="2003-04-17">
+    <timex2_mention ID="APW_ENG_20030417.0716-T6-1">
+      <extent>
+        <charseq START="1379" END="1386">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030417.0716-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030417.0716-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030417.0716-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030417.0716-R1-1">
+      <extent>
+        <charseq START="98" END="111">CLARINDA, Iowa</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="98" END="105">CLARINDA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="108" END="111">Iowa</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030417.0716-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030417.0716-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030417.0716-9" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030417.0716-R2-1">
+      <extent>
+        <charseq START="522" END="545">a retired police officer</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="522" END="545">a retired police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="532" END="537">police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030417.0716-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030417.0716-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030417.0716-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030417.0716-R3-1">
+      <extent>
+        <charseq START="522" END="599">a retired police officer working as a
+security guard at a local car dealership</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="522" END="545">a retired police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="578" END="599">a local car dealership</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030417.0716-R4" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030417.0716-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030417.0716-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030417.0716-R4-1">
+      <extent>
+        <charseq START="976" END="995">the attorney general</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="980" END="987">attorney</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="976" END="995">the attorney general</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030417.0716-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030417.0716-25" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030417.0716-24" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030417.0716-R5-1">
+      <extent>
+        <charseq START="1390" END="1436">Pottawattamie County Attorney Matthew D. Wilber</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1390" END="1436">Pottawattamie County Attorney Matthew D. Wilber</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030417.0716-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1390" END="1409">Pottawattamie County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030417.0716-EV1" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-6" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030417.0716-T4" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030417.0716-T2" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030417.0716-V5" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV1-1">
+      <extent>
+        <charseq START="193" END="202">conviction</charseq>
+      </extent>
+      <anchor>
+        <charseq START="193" END="202">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-V5-1" ROLE="Crime"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030417.0716-EV1-2">
+      <extent>
+        <charseq START="637" END="659">Harrington&apos;s conviction</charseq>
+      </extent>
+      <anchor>
+        <charseq START="650" END="659">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-6-3" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030417.0716-EV2" TYPE="Justice" SUBTYPE="Execute" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV2-1">
+      <extent>
+        <charseq START="344" END="353">executions</charseq>
+      </extent>
+      <anchor>
+        <charseq START="344" END="353">executions</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-2-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030417.0716-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-7" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030417.0716-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV3-1">
+      <extent>
+        <charseq START="408" END="412">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="408" END="412">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-2-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030417.0716-EV3-2">
+      <extent>
+        <charseq START="499" END="519">death of John Schweer</charseq>
+      </extent>
+      <anchor>
+        <charseq START="499" END="503">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-7-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030417.0716-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-11" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030417.0716-6" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030417.0716-T3" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV4-1">
+      <extent>
+        <charseq START="490" END="497">shooting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="490" END="497">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-11-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-6-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030417.0716-EV6" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-10" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030417.0716-T3" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030417.0716-V11" ROLE="Position"/>
+    <event_argument REFID="APW_ENG_20030417.0716-7" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV6-1">
+      <extent>
+        <charseq START="524" END="530">retired</charseq>
+      </extent>
+      <anchor>
+        <charseq START="524" END="530">retired</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-10-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-V11-1" ROLE="Position"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-7-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030417.0716-EV8" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-13" ROLE="Prosecutor"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV8-1">
+      <extent>
+        <charseq START="917" END="921">trial</charseq>
+      </extent>
+      <anchor>
+        <charseq START="917" END="921">trial</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-13-1" ROLE="Prosecutor"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030417.0716-EV9" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030417.0716-6" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030417.0716-13" ROLE="Prosecutor"/>
+    <event_argument REFID="APW_ENG_20030417.0716-24" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030417.0716-EV9-1">
+      <extent>
+        <charseq START="1465" END="1480">retry Harrington</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1465" END="1469">retry</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-6-7" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-13-2" ROLE="Prosecutor"/>
+      <event_mention_argument REFID="APW_ENG_20030417.0716-24-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

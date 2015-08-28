@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Ralph Grishman">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.06 [en]C-compaq  (Win98; I) [Netscape]">
+   <TITLE>Tipster Package</TITLE>
+</HEAD>
+<BODY>
+The Tipster package provides the basic methods for recording
+information about documents.&nbsp; It is loosely based on the 'Tipster
+Architecture' developed by R.Grishman as part of the Government-sponsored
+Tipster program.&nbsp; The basic objects are Documents and Annotations;&nbsp;
+a Document is a container for the text of the document, and a set of Annotations
+on the Document.
+<P>In the course of processing, the Jet system builds up a lot of information
+about the words and phrases in a Document:&nbsp; simple things like parts-of-speech
+for individual words and type information (person/company/location) for
+names, as well as more complex things like phrases and clauses (with internal
+structure).&nbsp; We want to have a single class of object for capturing
+all of this information and associating it with a Document.&nbsp; The class
+we use for this purpose is the Annotation.&nbsp; An Annotation is associated
+with a Span (substring) of the text of a Document.&nbsp; The Annotation
+has a type and a set of features with values.&nbsp; For example, an annotation
+can indicate that a portion of a document is a sentence, or is a token
+with a given part-of-speech.&nbsp; More complex structures can be build
+by having Annotations which point to other annotations.
+<P>A Document is processed in a series of stages, such as tokenization,
+sentence splitting, dictionary look-up, pattern matching, etc.&nbsp; Each
+stage uses the Annotations placed on the Document by previous stages, and
+adds its own Annotations to the Document.
+<P>Annotations provide a mark-up capability very similar to that of SGML
+or XML (although Annotations do not have to be nested the way SGML/XML
+mark-up it).&nbsp; The Document class provides a method for converting
+selected Annotations on a Document to XML mark-up, and in the future will
+have a method for converting XML mark-up to Annotations.&nbsp; In addition,
+the Document class provides a method for viewing a Document and highlighting
+selected annotations (this is very primitive at present).
+</BODY>
+</HTML>

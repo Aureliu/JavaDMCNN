@@ -1,0 +1,36 @@
+PHYS.Located                                arg1 PER
+PHYS.Located                                arg2 FAC LOC GPE
+PHYS.Near                                   arg1 PER FAC GPE LOC
+PHYS.Near                                   arg2 FAC GPE LOC
+PART-WHOLE.Geographical                     arg1 FAC LOC GPE
+PART-WHOLE.Geographical                     arg2 FAC LOC GPE
+PART-WHOLE.Subsidiary                       arg1 ORG
+PART-WHOLE.Subsidiary                       arg2 ORG GPE
+PART-WHOLE.Artifact                         arg1 VEH WEA
+PART-WHOLE.Artifact                         arg2 VEH WEA
+PER-SOC.Business                            arg1 PER
+PER-SOC.Business                            arg2 PER
+PER-SOC.Family                              arg1 PER
+PER-SOC.Family                              arg2 PER
+PER-SOC.Lasting-Personal                    arg1 PER
+PER-SOC.Lasting-Personal                    arg2 PER
+ORG-AFF.Employment                          arg1 PER
+ORG-AFF.Employment                          arg2 ORG GPE
+ORG-AFF.Ownership                           arg1 PER
+ORG-AFF.Ownership                           arg2 ORG
+ORG-AFF.Founder                             arg1 PER ORG
+ORG-AFF.Founder                             arg2 ORG GPE
+ORG-AFF.Student-Alum                        arg1 PER
+ORG-AFF.Student-Alum                        arg2 ORG
+ORG-AFF.Sports-Affiliation                  arg1 PER
+ORG-AFF.Sports-Affiliation                  arg2 ORG
+ORG-AFF.Investor-Shareholder                arg1 PER ORG GPE
+ORG-AFF.Investor-Shareholder                arg2 ORG GPE
+ORG-AFF.Membership                          arg1 PER ORG GPE
+ORG-AFF.Membership                          arg2 ORG
+ART.User-Owner-Inventor-Manufacturer        arg1 PER ORG GPE
+ART.User-Owner-Inventor-Manufacturer        arg2 FAC WEA VEH
+GEN-AFF.Citizen-Resident-Religion-Ethnicity arg1 PER
+GEN-AFF.Citizen-Resident-Religion-Ethnicity arg2 PER LOC GPE ORG
+GEN-AFF.Org-Location                        arg1 ORG
+GEN-AFF.Org-Location                        arg2 LOC GPE

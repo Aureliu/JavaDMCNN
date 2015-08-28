@@ -1,0 +1,86 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <meta name="Author" content="Ralph Grishman">
+   <title>Using the Concept Hierarchy</title>
+<!-- saved from url=(0063)http://cs.nyu.edu/courses/spring01/G22.2590-001/jet/scorer.html -->
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h2>
+<font face="Arial Alternative"><font color="#3333FF">The Jet Concept Hierarchy</font></font></h2>
+The Jet system includes a <i>concept hierarchy</i>.&nbsp; This hierarchy
+is basically a set of concepts arranged in a tree structure.&nbsp; Associated
+with each concept are zero or more words which are instances of that concept.
+<h3>
+The concept hierarchy file</h3>
+The concept hierarchy is defined by a concept hierarchy file.&nbsp; The
+file contains lines of the form
+<blockquote><font face="Courier New">human
+<b>isa</b> thing</font>
+<br><font face="Courier New">human <b>words</b> person, man</font></blockquote>
+where <font face="Courier New,Courier">human</font> and <font face="Courier New,Courier">thing</font>
+are concepts, and <font face="Courier New">person</font> and <font face="Courier New">man</font>
+are words;&nbsp; <b><font face="Courier New">isa</font></b> and <b><font face="Courier New">words</font></b>
+are the only two keywords. This file indicates that <font face="Courier New,Courier">human</font>
+is a subtype of <font face="Courier New,Courier">thing</font>, and <font face="Courier New,Courier">human</font>
+is associated with the words <font face="Courier New">person</font> and
+<font face="Courier New">man</font>.
+Concept names should begin with a lower-case letter, and may contain lower
+and upper case letters;&nbsp; a word is normally all lower case. No two
+concepts in the hierarchy can have the same name, and no two words in the
+hierarchy can be the same. A concept name and a word can be the same though.
+<p>Concept hierarchy files should typically have the file extension&nbsp;
+<tt>.hrc</tt>.
+<h3>
+Loading the concepts</h3>
+A concept file can be loaded into the system by including a line of the
+form
+<blockquote><tt>Concepts.fileName</tt> = <i>filename</i></blockquote>
+in the Jet properties file.
+<h3>
+Using the concepts</h3>
+In an annotation pattern element, in place of a feature test of the form&nbsp;&nbsp;
+<tt>feature=value</tt>&nbsp;&nbsp;&nbsp; , one can have a test of the form
+<blockquote><tt>feature ?isa(</tt><i>concept</i><tt>)</tt></blockquote>
+This feature test succeeds if the value of feature is a word associated
+with <i>concept</i>, or associated with some <i>concept</i>' which is a
+descendant of <i>concept</i> in the hierarchy.
+<h3>
+Using the Concept Hierarchy UI</h3>
+
+<p><br>The Concept Hierarchy UI is an editor for concept hierarchy (.hrc)
+files. You start the Concept Hierarchy UI by selecting "Concept Window"
+in the Jet File menu. If a hierarchy has been specified in the Jet properties
+file, it will appear
+<p>The Concept Hierarchy UI has the basic features of an editor such as
+those for a text editor.
+<p>File Open, Save, SaveAs and Exit do the standard file IO (note that
+Exit quits Jet, not just the UI). If a concept hierarchy file is changed
+after it was last saved, it is marked as dirty with an asterisk after the
+file name in the window caption. A dialog message will pop up asking if
+the current file is to be saved. There is a bug here: if the window is
+being closed when the file is dirty, a dialog pops up, and then the "cancel"
+button is pressed, the window will become invisible without anything done
+to the file. If the "Exit" menu item is chosen instead, everything works
+just as fine.
+<p>From the "Edit" menu, you can add, delete, rename and search concepts
+and words. There is a bug here: when you rename a concept or word either
+by selecting the "Rename" menu item or clicking on the concept or word
+itself, then type in the new name and carriage return, an error message
+will pop out if the new name is an empty string or causes duplicate in
+the hierarchy. After you press OK to get rid of the message, the concept
+or word is still being edited, if you press ESC, the bad name will be accepted.
+It's the user's responsibility not to deliberately introduce this kind
+of error into the file at the time being because the editor is not so stubborn
+as to give the same advice twice.
+<p>The Drag-and-Drop feature has been added to the editor, making it easier
+to move a large portion of a hierarchy from one place to another. Note
+that only move is provided but not copy, even though by pressing CTRL when
+dragging a node, the cursor will have a "+" sign. The copy function is
+not provided because no duplicate concepts and words are allowed in a hierarchy.
+<br>&nbsp;
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Train ACE Event Tagger</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Train ACE Event
+Tagger<br>
+</font></font></h1>
+<font color="#000000">Train ACE Event Tagger uses one or more APF files
+to
+train the pattern and model files used by the Ace event
+tagger.&nbsp; It is
+invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+AceJet.TrainEventTagger </span></font></big><font
+ style="font-style: italic;" color="#000000">propertyFile fileList
+docDir outDir [glarfDir glarfFileExtension]</font>
+</div>
+<br>
+where<br>
+<dl>
+  <dt style="font-style: italic;">propertyFile</dt>
+  <dd>Jet properties file</dd>
+  <dt style="font-style: italic;">fileList</dt>
+  <dd>a list of the documents to be processed, one document <i>doc</i>
+per line<br>
+(for document <i>doc</i>, the text file is assumed to be <span
+ style="font-style: italic;">doc</span>.<span
+ style="font-family: monospace;">sgm</span> and the APF file <span
+ style="font-style: italic;">doc</span><span
+ style="font-family: monospace;">.apf.xml</span>) </dd>
+  <dt style="font-style: italic;">docDir</dt>
+  <dd>the path of the directory containing <span
+ style="font-style: italic;">both</span>
+the text and APF files for the
+documents</dd>
+  <dt style="font-style: italic;">outDir</dt>
+  <dd>the path of the directory which will contain all the generated
+pattern, feature, and model files<br>
+  </dd>
+  <dt style="font-style: italic;">glarfDir<br>
+  </dt>
+  <dd>if present, the path of the directory containing the GLARF
+triples for the documents</dd>
+  <dt style="font-style: italic;">glarfFileExtension<br>
+  </dt>
+  <dd>(required if glarfDir is present) the file extension of each
+GLARF triples file</dd>
+</dl>
+<h3 style="color: rgb(0, 0, 238);">Files Generated<br>
+</h3>
+<h4>Human-readable report</h4>
+<span style="font-family: monospace;">eventPatternReport.log</span>:&nbsp;
+report of patterns acquired<br>
+<h4>Pattern file and classifier models used by event tagger</h4>
+<span style="font-family: monospace;">eventPatterns.log</span>:&nbsp;
+machine-readable set of event patterns<br>
+<span style="font-family: monospace;">argModel.log</span>:&nbsp; maxent
+model to classify an entity/value mention as an argument / not an
+argument<br>
+<span style="font-family: monospace;">corefModel.log</span>:&nbsp;
+maxent model to classify whether two event mentions belong to the same
+event<br>
+<span style="font-family: monospace;">eventModel.log</span>:&nbsp;
+maxent model to classify whether a trigger word triggers an event<br>
+<span style="font-family: monospace;">roleModel.log</span>:&nbsp;
+maxent model to assign a role to an argument<br>
+<h4>Temporary files (including Feature files used to train classifiers)<br>
+</h4>
+<span style="font-family: monospace;">argFeatureFile.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">argFeatureHalfFile.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">argModelHalf.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">corefFeatureFile.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">eventFeatureFile.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">eventPatternsHalf.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">roleFeatureFile.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">roleFeatureHalfFile.log</span><br
+ style="font-family: monospace;">
+<span style="font-family: monospace;">roleModelHalf.log</span><br>
+</body>
+</html>

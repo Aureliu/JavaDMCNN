@@ -1,0 +1,1357 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030324.0191.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030324.0191">
+  <entity ID="XIN_ENG_20030324.0191-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="97" END="103">BAGHDAD</charseq>
+      </extent>
+      <head>
+        <charseq START="97" END="103">BAGHDAD</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="379" END="385">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="385">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030324.0191-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="388" END="391">they</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="391">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="557" END="563">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="563">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="649" END="655">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="649" END="655">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BAGHDAD">
+        <charseq START="97" END="103">BAGHDAD</charseq>
+      </name>
+      <name NAME="Baghdad">
+        <charseq START="379" END="385">Baghdad</charseq>
+      </name>
+      <name NAME="Baghdad">
+        <charseq START="557" END="563">Baghdad</charseq>
+      </name>
+      <name NAME="Baghdad">
+        <charseq START="649" END="655">Baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-2-0">
+      <extent>
+        <charseq START="116" END="121">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="121">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="116" END="121">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-3-0">
+      <extent>
+        <charseq START="125" END="144">Five Iraqi civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="144">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030324.0191-3-1">
+      <extent>
+        <charseq START="190" END="194">their</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="194">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030324.0191-3-2">
+      <extent>
+        <charseq START="283" END="287">Their</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="287">Their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="130" END="134">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="134">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="362" END="366">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="366">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="736" END="740">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="736" END="740">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="925" END="928">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="928">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="948" END="952">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="952">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="1218" END="1222">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1218" END="1222">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-4-6" ROLE="GPE">
+      <extent>
+        <charseq START="1285" END="1288">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1285" END="1288">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqi">
+        <charseq START="130" END="134">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="362" END="366">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="736" END="740">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="925" END="928">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="948" END="952">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1218" END="1222">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1285" END="1288">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-5-0">
+      <extent>
+        <charseq START="157" END="163">a woman</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="163">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-6-0">
+      <extent>
+        <charseq START="190" END="201">their houses</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="201">houses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-7" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-7-0">
+      <extent>
+        <charseq START="215" END="229">a missile fired</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="223">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-8" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-8-0">
+      <extent>
+        <charseq START="234" END="263">the US-led coalition
+warplanes</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="263">warplanes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="238" END="239">US</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="239">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="1163" END="1164">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1164">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="238" END="239">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1163" END="1164">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="245" END="253">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="253">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="502" END="510">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="510">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-10-2" ROLE="GPE">
+      <extent>
+        <charseq START="804" END="812">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="812">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-11-0">
+      <extent>
+        <charseq START="266" END="274">witnesses</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="274">witnesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-12-0">
+      <extent>
+        <charseq START="283" END="294">Their houses</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="294">houses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="311" END="321">Al-Azamiyah</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="321">Al-Azamiyah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Al-Azamiyah">
+        <charseq START="311" END="321">Al-Azamiyah</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-14" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030324.0191-14-0">
+      <extent>
+        <charseq START="324" END="353">one of the most populous
+areas</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="326">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-15-0">
+      <extent>
+        <charseq START="331" END="353">the most populous
+areas</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="353">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="358" END="385">the Iraqi capital of Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="374">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-16-1" ROLE="GPE">
+      <extent>
+        <charseq START="699" END="705">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="699" END="705">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-17-0">
+      <extent>
+        <charseq START="400" END="408">One house</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="408">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-18-0">
+      <extent>
+        <charseq START="480" END="487">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="487">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-19-0">
+      <extent>
+        <charseq START="491" END="517">The US-led coalition forces</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="517">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="495" END="500">US-led</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="500">US-led</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US-led">
+        <charseq START="495" END="500">US-led</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="695" END="710">the capital city</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="710">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-22" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-22-0">
+      <extent>
+        <charseq START="736" END="764">Iraqi anti-aircraft artillery</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="764">artillery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-23-0">
+      <extent>
+        <charseq START="800" END="820">the coalition leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="814" END="820">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-24-0">
+      <extent>
+        <charseq START="935" END="962">at least 130 Iraqi civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="954" END="962">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-25-0">
+      <extent>
+        <charseq START="1072" END="1097">five Syrian bus passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1097">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-26-0" ROLE="GPE">
+      <extent>
+        <charseq START="1077" END="1082">Syrian</charseq>
+      </extent>
+      <head>
+        <charseq START="1077" END="1082">Syrian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Syrian">
+        <charseq START="1077" END="1082">Syrian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-27" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-27-0">
+      <extent>
+        <charseq START="1084" END="1086">bus</charseq>
+      </extent>
+      <head>
+        <charseq START="1084" END="1086">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-28-0">
+      <extent>
+        <charseq START="1115" END="1123">10 others</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1123">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030324.0191-28-1">
+      <extent>
+        <charseq START="1186" END="1189">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1189">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-29" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-29-0">
+      <extent>
+        <charseq START="1161" END="1172">a US
+missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1166" END="1172">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-30" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-30-0">
+      <extent>
+        <charseq START="1178" END="1184">the bus</charseq>
+      </extent>
+      <head>
+        <charseq START="1182" END="1184">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-31" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-31-0">
+      <extent>
+        <charseq START="1214" END="1229">the Iraqi border</charseq>
+      </extent>
+      <head>
+        <charseq START="1224" END="1229">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-32" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030324.0191-32-0">
+      <extent>
+        <charseq START="1233" END="1243">The vehicle</charseq>
+      </extent>
+      <head>
+        <charseq START="1237" END="1243">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030324.0191-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030324.0191-33-0">
+      <extent>
+        <charseq START="1258" END="1264">Syrians</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1264">Syrians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Syrians">
+        <charseq START="1258" END="1264">Syrians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20030324.0191-T0" VAL="2003-03-24">
+    <timex2_mention ID="XIN_ENG_20030324.0191-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030324</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030324.0191-T1" VAL="2003-03-24">
+    <timex2_mention ID="XIN_ENG_20030324.0191-T1-1">
+      <extent>
+        <charseq START="106" END="113">March 24</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030324.0191-T2" VAL="2003-03-24">
+    <timex2_mention ID="XIN_ENG_20030324.0191-T2-1">
+      <extent>
+        <charseq START="178" END="183">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030324.0191-T3" VAL="2003-03-24">
+    <timex2_mention ID="XIN_ENG_20030324.0191-T3-1">
+      <extent>
+        <charseq START="591" END="596">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030324.0191-T4" VAL="2003-03-19">
+    <timex2_mention ID="XIN_ENG_20030324.0191-T4-1">
+      <extent>
+        <charseq START="1014" END="1026">five days ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030324.0191-T5" VAL="2003-03-23">
+    <timex2_mention ID="XIN_ENG_20030324.0191-T5-1">
+      <extent>
+        <charseq START="1141" END="1146">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030324.0191-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030324.0191-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R1-1">
+      <extent>
+        <charseq START="125" END="144">Five Iraqi civilians</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="125" END="144">Five Iraqi civilians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="130" END="134">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R2-1">
+      <extent>
+        <charseq START="190" END="201">their houses</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="190" END="194">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="190" END="201">their houses</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R3-1">
+      <extent>
+        <charseq START="234" END="263">the US-led coalition
+warplanes</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="238" END="239">US</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="234" END="263">the US-led coalition
+warplanes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-10" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R4-1">
+      <extent>
+        <charseq START="234" END="263">the US-led coalition
+warplanes</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="245" END="253">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="234" END="263">the US-led coalition
+warplanes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-12" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R5-1">
+      <extent>
+        <charseq START="283" END="294">Their houses</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-3-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="283" END="287">Their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="283" END="294">Their houses</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-12" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-13" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R6-1">
+      <extent>
+        <charseq START="283" END="321">Their houses are located in Al-Azamiyah</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="283" END="294">Their houses</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="311" END="321">Al-Azamiyah</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-12" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-14" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R7-1">
+      <extent>
+        <charseq START="283" END="353">Their houses are located in Al-Azamiyah, one of the most populous
+areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="283" END="294">Their houses</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="324" END="353">one of the most populous
+areas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-14" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-15" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R8-1">
+      <extent>
+        <charseq START="324" END="353">one of the most populous
+areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="324" END="353">one of the most populous
+areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="331" END="353">the most populous
+areas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R9-1">
+      <extent>
+        <charseq START="331" END="385">the most populous
+areas in the Iraqi capital of Baghdad</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="331" END="353">the most populous
+areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="358" END="385">the Iraqi capital of Baghdad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R10-1">
+      <extent>
+        <charseq START="358" END="385">the Iraqi capital of Baghdad</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="358" END="385">the Iraqi capital of Baghdad</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="362" END="366">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R11-1">
+      <extent>
+        <charseq START="358" END="385">the Iraqi capital of Baghdad</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="358" END="385">the Iraqi capital of Baghdad</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="379" END="385">Baghdad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-17" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-18" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R12-1">
+      <extent>
+        <charseq START="400" END="487">One house was destroyed during the strike and casualties have been
+removed from the area</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="400" END="408">One house</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="480" END="487">the area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030324.0191-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-20" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R13-1">
+      <extent>
+        <charseq START="491" END="517">The US-led coalition forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="491" END="517">The US-led coalition forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="495" END="500">US-led</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030324.0191-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R14-1">
+      <extent>
+        <charseq START="491" END="517">The US-led coalition forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="491" END="517">The US-led coalition forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="502" END="510">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R15" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-21" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R15-1">
+      <extent>
+        <charseq START="695" END="710">the capital city</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="695" END="710">the capital city</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="699" END="705">capital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R16" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-22" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R16-1">
+      <extent>
+        <charseq START="736" END="764">Iraqi anti-aircraft artillery</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-4-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="736" END="740">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="736" END="764">Iraqi anti-aircraft artillery</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R17" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030324.0191-23" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R17-1">
+      <extent>
+        <charseq START="800" END="820">the coalition leaders</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="800" END="820">the coalition leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-10-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="804" END="812">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R18" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030324.0191-24" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R18-1">
+      <extent>
+        <charseq START="935" END="962">at least 130 Iraqi civilians</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="935" END="962">at least 130 Iraqi civilians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-4-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="948" END="952">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R19" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030324.0191-25" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-26" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R19-1">
+      <extent>
+        <charseq START="1072" END="1097">five Syrian bus passengers</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1072" END="1097">five Syrian bus passengers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1077" END="1082">Syrian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R20" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-25" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-27" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R20-1">
+      <extent>
+        <charseq START="1072" END="1097">five Syrian bus passengers</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1072" END="1097">five Syrian bus passengers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1084" END="1086">bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R21" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-29" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R21-1">
+      <extent>
+        <charseq START="1161" END="1172">a US
+missile</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1163" END="1164">US</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-29-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1161" END="1172">a US
+missile</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R22" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030324.0191-31" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R22-1">
+      <extent>
+        <charseq START="1214" END="1229">the Iraqi border</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1214" END="1229">the Iraqi border</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-4-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1218" END="1222">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R23" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030324.0191-33" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-32" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R23-1">
+      <extent>
+        <charseq START="1233" END="1264">The vehicle was carrying Syrians</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-33-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1258" END="1264">Syrians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-32-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1233" END="1243">The vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030324.0191-R24" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030324.0191-33" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030324.0191-R24-1">
+      <extent>
+        <charseq START="1258" END="1288">Syrians fleeing the war in Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-33-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1258" END="1264">Syrians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030324.0191-4-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="1285" END="1288">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030324.0191-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-5" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-3" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T2" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-7" ROLE="Instrument"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-6" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV1-1">
+      <extent>
+        <charseq START="125" END="176">Five Iraqi civilians, including a woman, were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="171" END="176">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-5-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-3-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-7-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-6-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-18" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-17" ROLE="Target"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV2-1">
+      <extent>
+        <charseq START="400" END="422">One house was destroyed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="414" END="422">destroyed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-17-0" ROLE="Target"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030324.0191-EV2-2">
+      <extent>
+        <charseq START="435" END="487">strike and casualties have been
+removed from the area</charseq>
+      </extent>
+      <anchor>
+        <charseq START="435" END="440">strike</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-18-0" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-17-0" ROLE="Target"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-18" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV4-1">
+      <extent>
+        <charseq START="446" END="455">casualties</charseq>
+      </extent>
+      <anchor>
+        <charseq START="446" END="455">casualties</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-18-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-18" ROLE="Origin"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV5-1">
+      <extent>
+        <charseq START="467" END="487">removed from the area</charseq>
+      </extent>
+      <anchor>
+        <charseq START="467" END="473">removed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-18-0" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-19" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-1" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T3" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV6-1">
+      <extent>
+        <charseq START="491" END="526">The US-led coalition forces launched</charseq>
+      </extent>
+      <anchor>
+        <charseq START="519" END="526">launched</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-19-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-1-3" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030324.0191-EV6-2">
+      <extent>
+        <charseq START="491" END="563">The US-led coalition forces launched a new round of airstrikes on
+Baghdad</charseq>
+      </extent>
+      <anchor>
+        <charseq START="543" END="552">airstrikes</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-19-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-1-3" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030324.0191-EV6-3">
+      <extent>
+        <charseq START="605" END="614">explosions</charseq>
+      </extent>
+      <anchor>
+        <charseq START="605" END="614">explosions</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-24" ROLE="Victim"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV9-1">
+      <extent>
+        <charseq START="899" END="908">casualties</charseq>
+      </extent>
+      <anchor>
+        <charseq START="899" END="908">casualties</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-4-3" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-24-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-24" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T4" ROLE="Time-Starting"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV10-1">
+      <extent>
+        <charseq START="925" END="932">Iraq war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="930" END="932">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-4-3" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030324.0191-EV10-2">
+      <extent>
+        <charseq START="1002" END="1004">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1002" END="1004">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-24-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T4-1" ROLE="Time-Starting"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030324.0191-EV10-3">
+      <extent>
+        <charseq START="1278" END="1288">war in Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1278" END="1280">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-4-6" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-24" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T4" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV11-1">
+      <extent>
+        <charseq START="935" END="1026">at least 130 Iraqi civilians have been reportedly killed
+since the war started five days ago</charseq>
+      </extent>
+      <anchor>
+        <charseq START="985" END="990">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-24-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-4-3" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-25" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T5" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-29" ROLE="Instrument"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-31" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV13-1">
+      <extent>
+        <charseq START="1072" END="1146">five Syrian bus passengers
+were killed and 10 others were injured on Sunday</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1104" END="1109">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-25-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-29-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-31-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV14" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-28" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T5" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-29" ROLE="Instrument"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-31" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV14-1">
+      <extent>
+        <charseq START="1115" END="1146">10 others were injured on Sunday</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1130" END="1136">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-28-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-29-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-31-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV15" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-30" ROLE="Vehicle"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-31" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-T5" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-29" ROLE="Artifact"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV15-1">
+      <extent>
+        <charseq START="1178" END="1204">the bus they were traveling</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1196" END="1204">traveling</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-30-0" ROLE="Vehicle"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-31-0" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-29-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030324.0191-EV16" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030324.0191-4" ROLE="Origin"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-33" ROLE="Artifact"/>
+    <event_argument REFID="XIN_ENG_20030324.0191-32" ROLE="Vehicle"/>
+    <event_mention ID="XIN_ENG_20030324.0191-EV16-1">
+      <extent>
+        <charseq START="1233" END="1256">The vehicle was carrying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1249" END="1256">carrying</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-32-0" ROLE="Vehicle"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-4-6" ROLE="Origin"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-33-0" ROLE="Artifact"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030324.0191-EV16-2">
+      <extent>
+        <charseq START="1266" END="1272">fleeing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1266" END="1272">fleeing</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-4-6" ROLE="Origin"/>
+      <event_mention_argument REFID="XIN_ENG_20030324.0191-33-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

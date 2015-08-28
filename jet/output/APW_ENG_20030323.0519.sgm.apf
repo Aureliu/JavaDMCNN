@@ -1,0 +1,1233 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030323.0519.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030323.0519">
+  <entity ID="APW_ENG_20030323.0519-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="121" END="125">AMMAN</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="125">AMMAN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="546" END="550">Amman</charseq>
+      </extent>
+      <head>
+        <charseq START="546" END="550">Amman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AMMAN">
+        <charseq START="121" END="125">AMMAN</charseq>
+      </name>
+      <name NAME="Amman">
+        <charseq START="546" END="550">Amman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="128" END="133">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="133">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="983" END="991">Jordanian</charseq>
+      </extent>
+      <head>
+        <charseq START="983" END="991">Jordanian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan">
+        <charseq START="128" END="133">Jordan</charseq>
+      </name>
+      <name NAME="Jordanian">
+        <charseq START="983" END="991">Jordanian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-3-0">
+      <extent>
+        <charseq START="136" END="137">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="137">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="136" END="137">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-4-0">
+      <extent>
+        <charseq START="150" END="155">Iraqis</charseq>
+      </extent>
+      <head>
+        <charseq START="150" END="155">Iraqis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-4-1">
+      <extent>
+        <charseq START="1025" END="1033">no Iraqis</charseq>
+      </extent>
+      <head>
+        <charseq START="1028" END="1033">Iraqis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-4-2">
+      <extent>
+        <charseq START="1227" END="1232">Iraqis</charseq>
+      </extent>
+      <head>
+        <charseq START="1227" END="1232">Iraqis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqis">
+        <charseq START="150" END="155">Iraqis</charseq>
+      </name>
+      <name NAME="Iraqis">
+        <charseq START="1028" END="1033">Iraqis</charseq>
+      </name>
+      <name NAME="Iraqis">
+        <charseq START="1227" END="1232">Iraqis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-5-0">
+      <extent>
+        <charseq START="179" END="195">official refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="195">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-5-1">
+      <extent>
+        <charseq START="576" END="583">refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="583">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-6-0">
+      <extent>
+        <charseq START="202" END="223">that
+war-besieged land</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="223">land</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-7" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-7-0">
+      <extent>
+        <charseq START="234" END="250">the Syrian border</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="250">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-7-1">
+      <extent>
+        <charseq START="1083" END="1099">the Syrian border</charseq>
+      </extent>
+      <head>
+        <charseq START="1094" END="1099">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="238" END="243">Syrian</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="243">Syrian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="400" END="404">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="404">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="1087" END="1092">Syrian</charseq>
+      </extent>
+      <head>
+        <charseq START="1087" END="1092">Syrian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="1268" END="1272">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="1268" END="1272">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Syrian">
+        <charseq START="238" END="243">Syrian</charseq>
+      </name>
+      <name NAME="Syria">
+        <charseq START="400" END="404">Syria</charseq>
+      </name>
+      <name NAME="Syrian">
+        <charseq START="1087" END="1092">Syrian</charseq>
+      </name>
+      <name NAME="Syria">
+        <charseq START="1268" END="1272">Syria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="275" END="279">Mosul</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="279">Mosul</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mosul">
+        <charseq START="275" END="279">Mosul</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="293" END="297">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="297">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="282" END="302">a northern Iraqi city</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="302">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-10-2" ROLE="GPE">
+      <extent>
+        <charseq START="590" END="593">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="593">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-10-3" ROLE="GPE">
+      <extent>
+        <charseq START="1143" END="1147">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1143" END="1147">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqi">
+        <charseq START="293" END="297">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="590" END="593">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1143" END="1147">Iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="310" END="313">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="313">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="310" END="313">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-12-0">
+      <extent>
+        <charseq START="328" END="350">the U.N. refugee
+agency</charseq>
+      </extent>
+      <head>
+        <charseq START="345" END="350">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-12-1">
+      <extent>
+        <charseq START="426" END="448">the
+U.N. refugee agency</charseq>
+      </extent>
+      <head>
+        <charseq START="443" END="448">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-12-2">
+      <extent>
+        <charseq START="507" END="512">agency</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="512">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-13-0">
+      <extent>
+        <charseq START="332" END="335">U.N.</charseq>
+      </extent>
+      <head>
+        <charseq START="332" END="335">U.N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-13-1">
+      <extent>
+        <charseq START="430" END="433">U.N.</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="433">U.N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-13-2">
+      <extent>
+        <charseq START="1001" END="1004">U.N.</charseq>
+      </extent>
+      <head>
+        <charseq START="1001" END="1004">U.N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.N.">
+        <charseq START="332" END="335">U.N.</charseq>
+      </name>
+      <name NAME="U.N.">
+        <charseq START="430" END="433">U.N.</charseq>
+      </name>
+      <name NAME="U.N.">
+        <charseq START="1001" END="1004">U.N.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-14-0">
+      <extent>
+        <charseq START="337" END="343">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="343">refugee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-14-1">
+      <extent>
+        <charseq START="435" END="441">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="441">refugee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-14-2">
+      <extent>
+        <charseq START="1149" END="1155">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1155">refugee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-15-0">
+      <extent>
+        <charseq START="363" END="371">The group</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="371">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-16-0">
+      <extent>
+        <charseq START="386" END="397">Al Yarubiyah</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="397">Al Yarubiyah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Al Yarubiyah">
+        <charseq START="386" END="397">Al Yarubiyah</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-17-0">
+      <extent>
+        <charseq START="426" END="455">the
+U.N. refugee agency&apos;s camp</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="455">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="460" END="465">El Hol</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="465">El Hol</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="El Hol">
+        <charseq START="460" END="465">El Hol</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-19-0">
+      <extent>
+        <charseq START="507" END="536">agency spokesman Peter Kessler</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="536">Peter Kessler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-19-1">
+      <extent>
+        <charseq START="514" END="522">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="514" END="522">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-19-2">
+      <extent>
+        <charseq START="759" END="765">Kessler</charseq>
+      </extent>
+      <head>
+        <charseq START="759" END="765">Kessler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-19-3">
+      <extent>
+        <charseq START="1169" END="1175">Kessler</charseq>
+      </extent>
+      <head>
+        <charseq START="1169" END="1175">Kessler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Peter Kessler">
+        <charseq START="524" END="536">Peter Kessler</charseq>
+      </name>
+      <name NAME="Kessler">
+        <charseq START="759" END="765">Kessler</charseq>
+      </name>
+      <name NAME="Kessler">
+        <charseq START="1169" END="1175">Kessler</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="648" END="656">the north</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="656">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="693" END="708">embattled cities</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="708">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030323.0519-21-1" ROLE="GPE">
+      <extent>
+        <charseq START="715" END="718">they</charseq>
+      </extent>
+      <head>
+        <charseq START="715" END="718">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-22" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-22-0">
+      <extent>
+        <charseq START="736" END="756">international borders</charseq>
+      </extent>
+      <head>
+        <charseq START="750" END="756">borders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-23-0">
+      <extent>
+        <charseq START="776" END="781">People</charseq>
+      </extent>
+      <head>
+        <charseq START="776" END="781">People</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030323.0519-23-1">
+      <extent>
+        <charseq START="843" END="844">he</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="844">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-23-2">
+      <extent>
+        <charseq START="865" END="870">people</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="870">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="812" END="838">their communities of origin</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="828">communities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="877" END="912">third countries fleeing the fighting</charseq>
+      </extent>
+      <head>
+        <charseq START="883" END="891">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-26-0">
+      <extent>
+        <charseq START="928" END="935">Sudanese</charseq>
+      </extent>
+      <head>
+        <charseq START="928" END="935">Sudanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sudanese">
+        <charseq START="928" END="935">Sudanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-27-0">
+      <extent>
+        <charseq START="938" END="946">Egyptians</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="946">Egyptians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Egyptians">
+        <charseq START="938" END="946">Egyptians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-28-0">
+      <extent>
+        <charseq START="952" END="960">Moroccans</charseq>
+      </extent>
+      <head>
+        <charseq START="952" END="960">Moroccans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Moroccans">
+        <charseq START="952" END="960">Moroccans</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-29" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-29-0">
+      <extent>
+        <charseq START="979" END="998">the
+Jordanian border</charseq>
+      </extent>
+      <head>
+        <charseq START="993" END="998">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-30-0">
+      <extent>
+        <charseq START="1001" END="1014">U.N. officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1006" END="1014">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-31-0">
+      <extent>
+        <charseq START="1349" END="1355">friends</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1355">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030323.0519-32-0">
+      <extent>
+        <charseq START="1372" END="1376">homes</charseq>
+      </extent>
+      <head>
+        <charseq START="1372" END="1376">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030323.0519-33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030323.0519-33-0">
+      <extent>
+        <charseq START="1423" END="1429">cjh-pfg</charseq>
+      </extent>
+      <head>
+        <charseq START="1423" END="1429">cjh-pfg</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="cjh-pfg">
+        <charseq START="1423" END="1429">cjh-pfg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20030323.0519-T0" VAL="2003-03-23">
+    <timex2_mention ID="APW_ENG_20030323.0519-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030323</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030323.0519-T1" VAL="2003-03-23">
+    <timex2_mention ID="APW_ENG_20030323.0519-T1-1">
+      <extent>
+        <charseq START="255" END="260">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030323.0519-T2" VAL="PXW">
+    <timex2_mention ID="APW_ENG_20030323.0519-T2-1">
+      <extent>
+        <charseq START="1277" END="1288">recent weeks</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030323.0519-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030323.0519-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R1-1">
+      <extent>
+        <charseq START="179" END="223">official refugees from that
+war-besieged land</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="179" END="195">official refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="202" END="223">that
+war-besieged land</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030323.0519-7" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R2-1">
+      <extent>
+        <charseq START="234" END="250">the Syrian border</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="234" END="250">the Syrian border</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="238" END="243">Syrian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030323.0519-R2-2">
+      <extent>
+        <charseq START="1083" END="1099">the Syrian border</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1083" END="1099">the Syrian border</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1087" END="1092">Syrian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R3" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030323.0519-14" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R3-1">
+      <extent>
+        <charseq START="328" END="350">the U.N. refugee
+agency</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="337" END="343">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="328" END="350">the U.N. refugee
+agency</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030323.0519-R3-2">
+      <extent>
+        <charseq START="426" END="448">the
+U.N. refugee agency</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="435" END="441">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="426" END="448">the
+U.N. refugee agency</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030323.0519-12" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R4-1">
+      <extent>
+        <charseq START="426" END="455">the
+U.N. refugee agency&apos;s camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="448">the
+U.N. refugee agency</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="426" END="455">the
+U.N. refugee agency&apos;s camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030323.0519-17" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R5-1">
+      <extent>
+        <charseq START="426" END="465">the
+U.N. refugee agency&apos;s camp at El Hol</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="455">the
+U.N. refugee agency&apos;s camp</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="460" END="465">El Hol</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R6" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030323.0519-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R6-1">
+      <extent>
+        <charseq START="507" END="536">agency spokesman Peter Kessler</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="507" END="536">agency spokesman Peter Kessler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-12-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="507" END="512">agency</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R7" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030323.0519-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R7-1">
+      <extent>
+        <charseq START="507" END="550">agency spokesman Peter Kessler said in Amman</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="507" END="536">agency spokesman Peter Kessler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="546" END="550">Amman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030323.0519-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R8-1">
+      <extent>
+        <charseq START="576" END="593">refugees from Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="576" END="583">refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-10-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="590" END="593">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030323.0519-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-22" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R9-1">
+      <extent>
+        <charseq START="736" END="765">international borders,
+Kessler</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-19-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="759" END="765">Kessler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="736" END="756">international borders</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R10" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030323.0519-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-24" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R10-1">
+      <extent>
+        <charseq START="776" END="838">People seem to be sticking close to their communities of origin</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="776" END="781">People</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="812" END="838">their communities of origin</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030323.0519-R10-2">
+      <extent>
+        <charseq START="812" END="844">their communities of origin,&apos;&apos;
+he</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="843" END="844">he</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="812" END="838">their communities of origin</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030323.0519-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-25" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R11-1">
+      <extent>
+        <charseq START="865" END="912">people from third countries fleeing the fighting</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-23-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="865" END="870">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-25-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="877" END="912">third countries fleeing the fighting</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030323.0519-29" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R12-1">
+      <extent>
+        <charseq START="979" END="998">the
+Jordanian border</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-29-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="979" END="998">the
+Jordanian border</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="983" END="991">Jordanian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030323.0519-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R13-1">
+      <extent>
+        <charseq START="1001" END="1014">U.N. officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1001" END="1014">U.N. officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-13-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1001" END="1004">U.N.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030323.0519-R14" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030323.0519-14" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030323.0519-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030323.0519-R14-1">
+      <extent>
+        <charseq START="1143" END="1155">Iraqi refugee</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-14-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1149" END="1155">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030323.0519-10-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1143" END="1147">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030323.0519-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-32" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030323.0519-T1" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030323.0519-7" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV1-1">
+      <extent>
+        <charseq START="207" END="209">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="207" END="209">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-7-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030323.0519-EV1-2">
+      <extent>
+        <charseq START="640" END="642">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="640" END="642">war</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030323.0519-EV1-3">
+      <extent>
+        <charseq START="1402" END="1404">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1402" END="1404">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-32-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-7" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030323.0519-T1" ROLE="Time-Before"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV2-1">
+      <extent>
+        <charseq START="226" END="250">crossed the Syrian border</charseq>
+      </extent>
+      <anchor>
+        <charseq START="226" END="232">crossed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-7-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-T1-1" ROLE="Time-Before"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-11" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030323.0519-13" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030323.0519-T1" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030323.0519-9" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV3-1">
+      <extent>
+        <charseq START="310" END="325">U.S. bombardment</charseq>
+      </extent>
+      <anchor>
+        <charseq START="315" END="325">bombardment</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-11-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-13-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-9-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-17" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030323.0519-18" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030323.0519-8" ROLE="Origin"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV4-1">
+      <extent>
+        <charseq START="374" END="381">crossing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="374" END="381">crossing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-8-1" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-17-0" ROLE="Destination"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030323.0519-EV4-2">
+      <extent>
+        <charseq START="411" END="455">transferred to the
+U.N. refugee agency&apos;s camp</charseq>
+      </extent>
+      <anchor>
+        <charseq START="411" END="421">transferred</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-17-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-18-0" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-22" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030323.0519-19" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030323.0519-21" ROLE="Origin"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV7-1">
+      <extent>
+        <charseq START="688" END="708">left
+embattled cities</charseq>
+      </extent>
+      <anchor>
+        <charseq START="688" END="691">left</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-21-0" ROLE="Origin"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030323.0519-EV7-2">
+      <extent>
+        <charseq START="727" END="756">crossing international borders</charseq>
+      </extent>
+      <anchor>
+        <charseq START="727" END="734">crossing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-22-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-19-2" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-25" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030323.0519-23" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV9-1">
+      <extent>
+        <charseq START="893" END="899">fleeing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="893" END="899">fleeing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-25-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-23-2" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-23" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030323.0519-27" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030323.0519-29" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV10-1">
+      <extent>
+        <charseq START="905" END="912">fighting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="905" END="912">fighting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-23-2" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-27-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-29-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV11" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-29" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030323.0519-25" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030323.0519-30" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV11-1">
+      <extent>
+        <charseq START="968" END="998">arrived at the
+Jordanian border</charseq>
+      </extent>
+      <anchor>
+        <charseq START="968" END="974">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-29-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-25-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-30-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV12" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-14" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV12-1">
+      <extent>
+        <charseq START="1157" END="1164">arrivals</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1157" END="1164">arrivals</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-14-2" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030323.0519-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030323.0519-32" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030323.0519-8" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030323.0519-T2" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030323.0519-4" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030323.0519-EV13-1">
+      <extent>
+        <charseq START="1255" END="1272">crossed into Syria</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1255" END="1261">crossed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-8-3" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-4-2" ROLE="Artifact"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030323.0519-EV13-2">
+      <extent>
+        <charseq START="1335" END="1339">moved</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1335" END="1339">moved</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030323.0519-32-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

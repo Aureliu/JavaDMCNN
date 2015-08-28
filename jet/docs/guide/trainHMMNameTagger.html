@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>training HMM Name Tagger</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">training HMM Name
+Tagger<br>
+</font></font></h1>
+<font color="#000000">The training procedure for the Jet HMM Name
+tagger is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+Jet.HMM.HMMNameTagger </span></font></big><font
+ style="font-style: italic;" color="#000000">state-file model-file
+order directory<sub>1</sub> filelist<sub>1</sub> [directory<sub>2</sub>
+filelist<sub>2</sub>] ...</font>
+</div>
+<br>
+with 2n+3 arguments, as follows<br>
+<dl>
+  <dt style="font-style: italic;">state-file</dt>
+  <dd>a file defining states of the HMM (input) </dd>
+  <dt style="font-style: italic;">model-file</dt>
+  <dd>a file containing trained HMM model (output)</dd>
+  <dt style="font-style: italic;">order</dt>
+  <dd>either "unigram" or "bigram", indicating what emission
+probabilities should be used</dd>
+  <dt style="font-style: italic;">directory<sub>i</sub></dt>
+  <dd>directory containing ne-tagged files</dd>
+  <dt style="font-style: italic;">filelist<sub>i</sub></dt>
+  <dd>list of ne-tagged files (relative to directory<sub>i</sub>)<br>
+  </dd>
+</dl>
+</body>
+</html>

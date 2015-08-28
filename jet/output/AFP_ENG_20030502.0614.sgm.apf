@@ -1,0 +1,1315 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030502.0614.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030502.0614">
+  <entity ID="AFP_ENG_20030502.0614-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="121" END="131">LOS ANGELES</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="131">LOS ANGELES</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LOS ANGELES">
+        <charseq START="121" END="131">LOS ANGELES</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-2-0">
+      <extent>
+        <charseq START="141" END="143">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="143">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="141" END="143">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-3-0">
+      <extent>
+        <charseq START="147" END="176">Beleaguered French media group</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="176">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="159" END="164">French</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="164">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="514" END="519">French</charseq>
+      </extent>
+      <head>
+        <charseq START="514" END="519">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="1819" END="1824">French</charseq>
+      </extent>
+      <head>
+        <charseq START="1819" END="1824">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="2023" END="2028">France</charseq>
+      </extent>
+      <head>
+        <charseq START="2023" END="2028">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="French">
+        <charseq START="159" END="164">French</charseq>
+      </name>
+      <name NAME="French">
+        <charseq START="514" END="519">French</charseq>
+      </name>
+      <name NAME="French">
+        <charseq START="1819" END="1824">French</charseq>
+      </name>
+      <name NAME="France">
+        <charseq START="2023" END="2028">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-5-0">
+      <extent>
+        <charseq START="166" END="170">media</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="170">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-0">
+      <extent>
+        <charseq START="178" END="194">Vivendi Universal</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="194">Vivendi Universal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-6-1">
+      <extent>
+        <charseq START="232" END="234">its</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="234">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-2">
+      <extent>
+        <charseq START="408" END="450">its US unit Vivendi Universal Entertainment</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="450">Vivendi Universal Entertainment</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-6-3">
+      <extent>
+        <charseq START="415" END="418">unit</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="418">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-4">
+      <extent>
+        <charseq START="564" END="580">Vivendi Universal</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="580">Vivendi Universal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-6-5">
+      <extent>
+        <charseq START="606" END="608">its</charseq>
+      </extent>
+      <head>
+        <charseq START="606" END="608">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-6">
+      <extent>
+        <charseq START="742" END="758">Vivendi Universal</charseq>
+      </extent>
+      <head>
+        <charseq START="742" END="758">Vivendi Universal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-7">
+      <extent>
+        <charseq START="899" END="905">Vivendi</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="905">Vivendi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-8">
+      <extent>
+        <charseq START="1209" END="1215">Vivendi</charseq>
+      </extent>
+      <head>
+        <charseq START="1209" END="1215">Vivendi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-9">
+      <extent>
+        <charseq START="1366" END="1374">Universal</charseq>
+      </extent>
+      <head>
+        <charseq START="1366" END="1374">Universal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-6-10">
+      <extent>
+        <charseq START="1528" END="1558">Vivendi Universal
+Entertainment</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1558">Vivendi Universal
+Entertainment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Vivendi Universal">
+        <charseq START="178" END="194">Vivendi Universal</charseq>
+      </name>
+      <name NAME="Vivendi Universal Entertainment">
+        <charseq START="420" END="450">Vivendi Universal Entertainment</charseq>
+      </name>
+      <name NAME="Vivendi Universal">
+        <charseq START="564" END="580">Vivendi Universal</charseq>
+      </name>
+      <name NAME="Vivendi Universal">
+        <charseq START="742" END="758">Vivendi Universal</charseq>
+      </name>
+      <name NAME="Vivendi">
+        <charseq START="899" END="905">Vivendi</charseq>
+      </name>
+      <name NAME="Vivendi">
+        <charseq START="1209" END="1215">Vivendi</charseq>
+      </name>
+      <name NAME="Universal">
+        <charseq START="1366" END="1374">Universal</charseq>
+      </name>
+      <name NAME="Vivendi Universal Entertainment">
+        <charseq START="1528" END="1558">Vivendi Universal
+Entertainment</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-7" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-7-0">
+      <extent>
+        <charseq START="242" END="245">park</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="245">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-7-1">
+      <extent>
+        <charseq START="915" END="918">park</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="918">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-8-0">
+      <extent>
+        <charseq START="259" END="267">a US firm</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="267">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="261" END="262">US</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="262">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="412" END="413">US</charseq>
+      </extent>
+      <head>
+        <charseq START="412" END="413">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-9-2" ROLE="GPE">
+      <extent>
+        <charseq START="773" END="789">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="777" END="789">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-9-3" ROLE="GPE">
+      <extent>
+        <charseq START="1709" END="1710">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1709" END="1710">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="261" END="262">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="412" END="413">US</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="777" END="789">United States</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1709" END="1710">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-10-0">
+      <extent>
+        <charseq START="301" END="321">the Los Angeles Times</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="321">Los Angeles Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-10-1">
+      <extent>
+        <charseq START="549" END="557">The Times</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="557">Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Los Angeles Times">
+        <charseq START="305" END="321">Los Angeles Times</charseq>
+      </name>
+      <name NAME="Times">
+        <charseq START="553" END="557">Times</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-11-0">
+      <extent>
+        <charseq START="356" END="373">the indebted group</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="373">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-11-1">
+      <extent>
+        <charseq START="380" END="381">it</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="381">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-11-2">
+      <extent>
+        <charseq START="408" END="410">its</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="410">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-11-3">
+      <extent>
+        <charseq START="482" END="484">its</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="484">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-11-4">
+      <extent>
+        <charseq START="510" END="512">its</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="512">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-12-0">
+      <extent>
+        <charseq START="606" END="629">its flagship
+theme parks</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="629">parks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-12-1">
+      <extent>
+        <charseq START="1037" END="1041">parks</charseq>
+      </extent>
+      <head>
+        <charseq START="1037" END="1041">parks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="634" END="641">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="634" END="641">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="634" END="641">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-14-0">
+      <extent>
+        <charseq START="634" END="674">New York investment firm Blackstone Group</charseq>
+      </extent>
+      <head>
+        <charseq START="659" END="674">Blackstone Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-14-1">
+      <extent>
+        <charseq START="654" END="657">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="654" END="657">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-14-2">
+      <extent>
+        <charseq START="872" END="887">Blackstone Group</charseq>
+      </extent>
+      <head>
+        <charseq START="872" END="887">Blackstone Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-14-3">
+      <extent>
+        <charseq START="1115" END="1124">Blackstone</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1124">Blackstone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-14-4">
+      <extent>
+        <charseq START="1468" END="1476">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1472" END="1476">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-14-5">
+      <extent>
+        <charseq START="1684" END="1687">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="1684" END="1687">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-14-6">
+      <extent>
+        <charseq START="1801" END="1809">The group</charseq>
+      </extent>
+      <head>
+        <charseq START="1805" END="1809">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-14-7">
+      <extent>
+        <charseq START="1948" END="1956">the group</charseq>
+      </extent>
+      <head>
+        <charseq START="1952" END="1956">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Blackstone Group">
+        <charseq START="659" END="674">Blackstone Group</charseq>
+      </name>
+      <name NAME="Blackstone Group">
+        <charseq START="872" END="887">Blackstone Group</charseq>
+      </name>
+      <name NAME="Blackstone">
+        <charseq START="1115" END="1124">Blackstone</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-15-0">
+      <extent>
+        <charseq START="715" END="738">its entertainment empire</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="738">empire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-16-0">
+      <extent>
+        <charseq START="742" END="768">Vivendi Universal officials</charseq>
+      </extent>
+      <head>
+        <charseq START="760" END="768">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-17" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-17-0">
+      <extent>
+        <charseq START="940" END="966">Universal Studios Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="940" END="966">Universal Studios Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Universal Studios Hollywood">
+        <charseq START="940" END="966">Universal Studios Hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-18" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-18-0">
+      <extent>
+        <charseq START="969" END="985">Universal
+Orlando</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="985">Universal
+Orlando</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-18-1">
+      <extent>
+        <charseq START="1002" END="1010">Universal</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1010">Universal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-18-2">
+      <extent>
+        <charseq START="1189" END="1205">Universal Orlando</charseq>
+      </extent>
+      <head>
+        <charseq START="1189" END="1205">Universal Orlando</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Universal Orlando">
+        <charseq START="969" END="985">Universal
+Orlando</charseq>
+      </name>
+      <name NAME="Universal">
+        <charseq START="1002" END="1010">Universal</charseq>
+      </name>
+      <name NAME="Universal Orlando">
+        <charseq START="1189" END="1205">Universal Orlando</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="990" END="996">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="990" END="996">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Florida">
+        <charseq START="990" END="996">Florida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1046" END="1050">Spain</charseq>
+      </extent>
+      <head>
+        <charseq START="1046" END="1050">Spain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Spain">
+        <charseq START="1046" END="1050">Spain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1056" END="1060">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1060">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japan">
+        <charseq START="1056" END="1060">Japan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-22-0">
+      <extent>
+        <charseq START="1065" END="1070">source</charseq>
+      </extent>
+      <head>
+        <charseq START="1065" END="1070">source</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-23-0">
+      <extent>
+        <charseq START="1162" END="1205">the two parks that
+make up Universal Orlando</charseq>
+      </extent>
+      <head>
+        <charseq START="1170" END="1174">parks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-24" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-24-0">
+      <extent>
+        <charseq START="1382" END="1387">studio</charseq>
+      </extent>
+      <head>
+        <charseq START="1382" END="1387">studio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-25-0">
+      <extent>
+        <charseq START="1413" END="1445">Chief executive Jean-Rene Fourtou</charseq>
+      </extent>
+      <head>
+        <charseq START="1429" END="1445">Jean-Rene Fourtou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-25-1">
+      <extent>
+        <charseq START="1419" END="1427">executive</charseq>
+      </extent>
+      <head>
+        <charseq START="1419" END="1427">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-25-2">
+      <extent>
+        <charseq START="1643" END="1649">Fourtou</charseq>
+      </extent>
+      <head>
+        <charseq START="1643" END="1649">Fourtou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-25-3">
+      <extent>
+        <charseq START="1656" END="1657">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1656" END="1657">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jean-Rene Fourtou">
+        <charseq START="1429" END="1445">Jean-Rene Fourtou</charseq>
+      </name>
+      <name NAME="Fourtou">
+        <charseq START="1643" END="1649">Fourtou</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-26-0">
+      <extent>
+        <charseq START="1452" END="1463">shareholders</charseq>
+      </extent>
+      <head>
+        <charseq START="1452" END="1463">shareholders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-27-0">
+      <extent>
+        <charseq START="1703" END="1707">giant</charseq>
+      </extent>
+      <head>
+        <charseq START="1703" END="1707">giant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030502.0614-28-0">
+      <extent>
+        <charseq START="1728" END="1748">Universal Music Group</charseq>
+      </extent>
+      <head>
+        <charseq START="1728" END="1748">Universal Music Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Universal Music Group">
+        <charseq START="1728" END="1748">Universal Music Group</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030502.0614-29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030502.0614-29-0">
+      <extent>
+        <charseq START="1817" END="1842">a French utilities company</charseq>
+      </extent>
+      <head>
+        <charseq START="1836" END="1842">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-29-1">
+      <extent>
+        <charseq START="1862" END="1867">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="1862" END="1867">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030502.0614-29-2">
+      <extent>
+        <charseq START="1887" END="1889">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1887" END="1889">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030502.0614-V1" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030502.0614-V1-1">
+      <extent>
+        <charseq START="280" END="298">1.5 billion dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030502.0614-V3" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="AFP_ENG_20030502.0614-V3-1">
+      <extent>
+        <charseq START="1145" END="1151">percent</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030502.0614-V6" TYPE="Job-Title">
+    <value_mention ID="AFP_ENG_20030502.0614-V6-1">
+      <extent>
+        <charseq START="1419" END="1427">executive</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030502.0614-V8" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030502.0614-V8-1">
+      <extent>
+        <charseq START="1918" END="1935">18 billion dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030502.0614-V9" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030502.0614-V9-1">
+      <extent>
+        <charseq START="1981" END="1998">23.3 billion euros</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030502.0614-T0" VAL="2003-05-02">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030502</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T1" VAL="2003-05-02">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T1-1">
+      <extent>
+        <charseq START="134" END="138">May 2</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T2" VAL="2003-05-02">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T2-1">
+      <extent>
+        <charseq START="328" END="333">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T3" VAL="2003-05-02">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T3-1">
+      <extent>
+        <charseq START="837" END="842">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T4" VAL="2003-W18">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T4-1">
+      <extent>
+        <charseq START="1225" END="1233">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T5" VAL="2003-04-29">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T5-1">
+      <extent>
+        <charseq START="1503" END="1509">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T6" VAL="2003">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T6-1">
+      <extent>
+        <charseq START="1581" END="1584">2003</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030502.0614-T7" VAL="2002">
+    <timex2_mention ID="AFP_ENG_20030502.0614-T7-1">
+      <extent>
+        <charseq START="1942" END="1945">2002</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030502.0614-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R1-1">
+      <extent>
+        <charseq START="159" END="170">French media</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="166" END="170">media</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="159" END="164">French</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R2-1">
+      <extent>
+        <charseq START="147" END="176">Beleaguered French media group</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="147" END="176">Beleaguered French media group</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="159" END="164">French</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-8" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R3-1">
+      <extent>
+        <charseq START="259" END="267">a US firm</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="259" END="267">a US firm</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="261" END="262">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-11" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R4-1">
+      <extent>
+        <charseq START="408" END="450">its US unit Vivendi Universal Entertainment</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-6-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="408" END="450">its US unit Vivendi Universal Entertainment</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-11-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="408" END="410">its</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R5-1">
+      <extent>
+        <charseq START="412" END="418">US unit</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-6-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="415" END="418">unit</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="412" END="413">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R6-1">
+      <extent>
+        <charseq START="606" END="629">its flagship
+theme parks</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-6-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="606" END="608">its</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="606" END="629">its flagship
+theme parks</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-14" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-13" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R7-1">
+      <extent>
+        <charseq START="634" END="657">New York investment firm</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="654" END="657">firm</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="634" END="641">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R8" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030502.0614-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R8-1">
+      <extent>
+        <charseq START="742" END="768">Vivendi Universal officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="742" END="768">Vivendi Universal officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-6-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="742" END="758">Vivendi Universal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030502.0614-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R9-1">
+      <extent>
+        <charseq START="742" END="789">Vivendi Universal officials in the United States</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="742" END="768">Vivendi Universal officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-9-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="773" END="789">the United States</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R10-1">
+      <extent>
+        <charseq START="969" END="996">Universal
+Orlando in Florida</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="969" END="985">Universal
+Orlando</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="990" END="996">Florida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030502.0614-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R11-1">
+      <extent>
+        <charseq START="1002" END="1041">Universal&apos;s ownership interests in parks</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1002" END="1010">Universal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1037" END="1041">parks</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R12-1">
+      <extent>
+        <charseq START="1002" END="1050">Universal&apos;s ownership interests in parks in
+Spain</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1002" END="1010">Universal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1046" END="1050">Spain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030502.0614-12" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R13-1">
+      <extent>
+        <charseq START="1037" END="1050">parks in
+Spain</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1037" END="1041">parks</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1046" END="1050">Spain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030502.0614-12" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-21" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R14-1">
+      <extent>
+        <charseq START="1037" END="1060">parks in
+Spain and Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1037" END="1041">parks</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1056" END="1060">Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R15" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030502.0614-14" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-23" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R15-1">
+      <extent>
+        <charseq START="1115" END="1205">Blackstone already holds a 50 percent stake in the two parks that
+make up Universal Orlando</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-14-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="1115" END="1124">Blackstone</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1162" END="1205">the two parks that
+make up Universal Orlando</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R16" TYPE="ORG-AFF" SUBTYPE="Investor-Shareholder">
+    <relation_argument REFID="AFP_ENG_20030502.0614-26" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-14" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R16-1">
+      <extent>
+        <charseq START="1452" END="1476">shareholders at the group</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1452" END="1463">shareholders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-14-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1468" END="1476">the group</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R17" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-29" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R17-1">
+      <extent>
+        <charseq START="1817" END="1842">a French utilities company</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-29-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1817" END="1842">a French utilities company</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-4-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1819" END="1824">French</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030502.0614-R18" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030502.0614-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030502.0614-21" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030502.0614-R18-1">
+      <extent>
+        <charseq START="1002" END="1060">Universal&apos;s ownership interests in parks in
+Spain and Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1002" END="1010">Universal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030502.0614-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1056" END="1060">Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030502.0614-EV1" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030502.0614-11" ROLE="Seller"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-11" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Seller"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-8" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-7" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030502.0614-EV1-1">
+      <extent>
+        <charseq START="178" END="230">Vivendi Universal is in advanced
+negotiations to sell</charseq>
+      </extent>
+      <anchor>
+        <charseq START="227" END="230">sell</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-6-0" ROLE="Seller"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-8-0" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-7-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030502.0614-EV1-2">
+      <extent>
+        <charseq START="356" END="410">the indebted group said it was planning to sell
+off its</charseq>
+      </extent>
+      <anchor>
+        <charseq START="399" END="402">sell</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-11-0" ROLE="Seller"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-11-2" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030502.0614-EV3" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030502.0614-12" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-10" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-13" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030502.0614-EV3-1">
+      <extent>
+        <charseq START="601" END="629">sell its flagship
+theme parks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="601" END="604">sell</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-12-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-10-1" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-13-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030502.0614-EV4" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030502.0614-15" ROLE="Org"/>
+    <event_mention ID="AFP_ENG_20030502.0614-EV4-1">
+      <extent>
+        <charseq START="703" END="738">dismantling its entertainment empire</charseq>
+      </extent>
+      <anchor>
+        <charseq START="703" END="713">dismantling</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-15-0" ROLE="Org"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030502.0614-EV5" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030502.0614-14" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Seller"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-12" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-17" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030502.0614-EV5-1">
+      <extent>
+        <charseq START="872" END="897">Blackstone Group would buy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="895" END="897">buy</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-14-2" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-6-7" ROLE="Seller"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-12-1" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-17-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030502.0614-EV6" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030502.0614-14" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-V6" ROLE="Position"/>
+    <event_mention ID="AFP_ENG_20030502.0614-EV6-1">
+      <extent>
+        <charseq START="1495" END="1501">meeting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1495" END="1501">meeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-14-4" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-V6-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030502.0614-EV7" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030502.0614-6" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-T6" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-25" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030502.0614-14" ROLE="Seller"/>
+    <event_mention ID="AFP_ENG_20030502.0614-EV7-1">
+      <extent>
+        <charseq START="1520" END="1584">sale of Vivendi Universal
+Entertainment was a major goal for 2003</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1520" END="1523">sale</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-6-10" ROLE="Artifact"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-25-0" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030502.0614-14-4" ROLE="Seller"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

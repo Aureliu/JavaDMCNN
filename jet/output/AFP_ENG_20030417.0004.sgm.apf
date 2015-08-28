@@ -1,0 +1,1164 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030417.0004.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030417.0004">
+  <entity ID="AFP_ENG_20030417.0004-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="112" END="119">GUWAHATI</charseq>
+      </extent>
+      <head>
+        <charseq START="112" END="119">GUWAHATI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="GUWAHATI">
+        <charseq START="112" END="119">GUWAHATI</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="122" END="126">India</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="126">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="India">
+        <charseq START="122" END="126">India</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-3-0">
+      <extent>
+        <charseq START="139" END="141">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="141">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="139" END="141">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-4-0">
+      <extent>
+        <charseq START="145" END="178">At least three members of a family</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="166">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-5-0">
+      <extent>
+        <charseq START="171" END="178">a family</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="178">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-5-1">
+      <extent>
+        <charseq START="545" END="552">a family</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="552">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-5-2">
+      <extent>
+        <charseq START="776" END="785">the family</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="785">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-5-3">
+      <extent>
+        <charseq START="793" END="794">he</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="794">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="183" END="188">Indias</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="188">Indias</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Indias">
+        <charseq START="183" END="188">Indias</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="212" END="218">Tripura</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="218">Tripura</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="183" END="218">Indias northeastern state of
+Tripura</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="207">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-7-2" ROLE="GPE">
+      <extent>
+        <charseq START="482" END="486">state</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="486">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-7-3" ROLE="GPE">
+      <extent>
+        <charseq START="1172" END="1178">Tripura</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1178">Tripura</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tripura">
+        <charseq START="212" END="218">Tripura</charseq>
+      </name>
+      <name NAME="Tripura">
+        <charseq START="1172" END="1178">Tripura</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-8-0">
+      <extent>
+        <charseq START="244" END="255">a tribal mob</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="255">mob</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-8-1">
+      <extent>
+        <charseq START="508" END="526">The mob dragged out</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="514">mob</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-9-0">
+      <extent>
+        <charseq START="294" END="299">police</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="299">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-10-0">
+      <extent>
+        <charseq START="317" END="327">A spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="327">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-10-1">
+      <extent>
+        <charseq START="623" END="635">the spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="635">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-10-2">
+      <extent>
+        <charseq START="988" END="1000">the spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="1000">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-11-0">
+      <extent>
+        <charseq START="351" END="362">30 armed men</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="362">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-12-0">
+      <extent>
+        <charseq START="383" END="389">a
+house</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="389">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="406" END="412">village</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="412">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-14-0">
+      <extent>
+        <charseq START="420" END="425">doctor</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="425">doctor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="430" END="436">Tultuli</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="436">Tultuli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tultuli">
+        <charseq START="430" END="436">Tultuli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="473" END="480">Tripuras</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="480">Tripuras</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tripuras">
+        <charseq START="473" END="480">Tripuras</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="473" END="503">Tripuras state capital Agartala</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="503">Agartala</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="488" END="494">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="494">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-17-2" ROLE="GPE">
+      <extent>
+        <charseq START="660" END="667">Agartala</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="667">Agartala</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Agartala">
+        <charseq START="496" END="503">Agartala</charseq>
+      </name>
+      <name NAME="Agartala">
+        <charseq START="660" END="667">Agartala</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-18-0">
+      <extent>
+        <charseq START="528" END="552">three members of a family</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="540">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-18-1">
+      <extent>
+        <charseq START="567" END="570">them</charseq>
+      </extent>
+      <head>
+        <charseq START="567" END="570">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-19" TYPE="WEA" SUBTYPE="Sharp" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-19-0">
+      <extent>
+        <charseq START="577" END="584">machetes</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="584">machetes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-20" TYPE="WEA" SUBTYPE="Sharp" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-20-0">
+      <extent>
+        <charseq START="590" END="595">spears</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="595">spears</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-21-0">
+      <extent>
+        <charseq START="612" END="619">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="619">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-21-1">
+      <extent>
+        <charseq START="816" END="817">It</charseq>
+      </extent>
+      <head>
+        <charseq START="816" END="817">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-22-0">
+      <extent>
+        <charseq START="671" END="678">The dead</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="678">dead</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-23-0">
+      <extent>
+        <charseq START="689" END="704">the quack doctor</charseq>
+      </extent>
+      <head>
+        <charseq START="699" END="704">doctor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-24-0">
+      <extent>
+        <charseq START="707" END="734">55-year-old Nityalila Naotia</charseq>
+      </extent>
+      <head>
+        <charseq START="719" END="734">Nityalila Naotia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-24-1">
+      <extent>
+        <charseq START="737" END="739">his</charseq>
+      </extent>
+      <head>
+        <charseq START="737" END="739">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030417.0004-24-2">
+      <extent>
+        <charseq START="832" END="837">Naotia</charseq>
+      </extent>
+      <head>
+        <charseq START="832" END="837">Naotia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-24-3">
+      <extent>
+        <charseq START="843" END="863">a practicing sorcerer</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="863">sorcerer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-24-4">
+      <extent>
+        <charseq START="877" END="879">his</charseq>
+      </extent>
+      <head>
+        <charseq START="877" END="879">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-24-5">
+      <extent>
+        <charseq START="893" END="894">he</charseq>
+      </extent>
+      <head>
+        <charseq START="893" END="894">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nityalila Naotia">
+        <charseq START="719" END="734">Nityalila Naotia</charseq>
+      </name>
+      <name NAME="Naotia">
+        <charseq START="832" END="837">Naotia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-25-0">
+      <extent>
+        <charseq START="737" END="752">his
+teenaged son</charseq>
+      </extent>
+      <head>
+        <charseq START="750" END="752">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-26-0">
+      <extent>
+        <charseq START="758" END="785">another member of the family</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="771">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-27-0">
+      <extent>
+        <charseq START="920" END="928">villagers</charseq>
+      </extent>
+      <head>
+        <charseq START="920" END="928">villagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030417.0004-27-1">
+      <extent>
+        <charseq START="981" END="984">them</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="984">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="956" END="966">the village</charseq>
+      </extent>
+      <head>
+        <charseq START="960" END="966">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-29-0">
+      <extent>
+        <charseq START="1009" END="1014">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="1009" END="1014">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-30-0">
+      <extent>
+        <charseq START="1030" END="1040">four people</charseq>
+      </extent>
+      <head>
+        <charseq START="1035" END="1040">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-31" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-31-0">
+      <extent>
+        <charseq START="1163" END="1178">parts of Tripura</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1167">parts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-32" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-32-0">
+      <extent>
+        <charseq START="1184" END="1212">other northeast Indian states</charseq>
+      </extent>
+      <head>
+        <charseq START="1200" END="1212">Indian states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030417.0004-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030417.0004-33-0">
+      <extent>
+        <charseq START="1221" END="1226">tribes</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1226">tribes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030417.0004-V3" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030417.0004-V3-1">
+      <extent>
+        <charseq START="1061" END="1072">the killings</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030417.0004-T0" VAL="2003-04-17">
+    <timex2_mention ID="AFP_ENG_20030417.0004-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030417</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030417.0004-T1" VAL="2003-04-17">
+    <timex2_mention ID="AFP_ENG_20030417.0004-T1-1">
+      <extent>
+        <charseq START="129" END="136">April 17</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030417.0004-T2" VAL="2003-04-17">
+    <timex2_mention ID="AFP_ENG_20030417.0004-T2-1">
+      <extent>
+        <charseq START="306" END="313">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030417.0004-T3" VAL="2003-04-16">
+    <timex2_mention ID="AFP_ENG_20030417.0004-T3-1">
+      <extent>
+        <charseq START="364" END="372">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030417.0004-R1" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030417.0004-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R1-1">
+      <extent>
+        <charseq START="145" END="178">At least three members of a family</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="145" END="178">At least three members of a family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="171" END="178">a family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R2" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030417.0004-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R2-1">
+      <extent>
+        <charseq START="145" END="218">At least three members of a family in Indias northeastern state of
+Tripura</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="145" END="178">At least three members of a family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="183" END="218">Indias northeastern state of
+Tripura</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030417.0004-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R3-1">
+      <extent>
+        <charseq START="171" END="218">a family in Indias northeastern state of
+Tripura</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="171" END="178">a family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="183" END="218">Indias northeastern state of
+Tripura</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R4-1">
+      <extent>
+        <charseq START="183" END="218">Indias northeastern state of
+Tripura</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="183" END="218">Indias northeastern state of
+Tripura</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="183" END="188">Indias</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R5" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030417.0004-11" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R5-1">
+      <extent>
+        <charseq START="351" END="389">30 armed men Wednesday attacked a
+house</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="351" END="362">30 armed men</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="383" END="389">a
+house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030417.0004-15" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R6-1">
+      <extent>
+        <charseq START="383" END="436">a
+house belonging to a village quack doctor in Tultuli</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="430" END="436">Tultuli</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="383" END="389">a
+house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R7" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030417.0004-14" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-13" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R7-1">
+      <extent>
+        <charseq START="406" END="425">village quack doctor</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="420" END="425">doctor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="406" END="412">village</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030417.0004-13" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R8-1">
+      <extent>
+        <charseq START="406" END="436">village quack doctor in Tultuli</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="406" END="412">village</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="430" END="436">Tultuli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030417.0004-14" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R9-1">
+      <extent>
+        <charseq START="420" END="436">doctor in Tultuli</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="420" END="425">doctor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="430" END="436">Tultuli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R10" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="AFP_ENG_20030417.0004-15" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-17" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R10-1">
+      <extent>
+        <charseq START="430" END="503">Tultuli, 60 kilometers
+(38 miles) south of Tripuras state capital Agartala</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="430" END="436">Tultuli</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="473" END="503">Tripuras state capital Agartala</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030417.0004-17" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R11-1">
+      <extent>
+        <charseq START="482" END="494">state capital</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="488" END="494">capital</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-7-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="482" END="486">state</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R12" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030417.0004-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R12-1">
+      <extent>
+        <charseq START="528" END="552">three members of a family</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="528" END="552">three members of a family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="545" END="552">a family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030417.0004-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R13-1">
+      <extent>
+        <charseq START="567" END="584">them with
+machetes</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="567" END="570">them</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="577" END="584">machetes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R14" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030417.0004-10" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-17" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R14-1">
+      <extent>
+        <charseq START="623" END="667">the spokesman said by
+telephone from Agartala</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="623" END="635">the spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-17-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="660" END="667">Agartala</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R15" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030417.0004-24" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-25" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R15-1">
+      <extent>
+        <charseq START="737" END="752">his
+teenaged son</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-24-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="737" END="739">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-25-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="737" END="752">his
+teenaged son</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R16" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030417.0004-26" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R16-1">
+      <extent>
+        <charseq START="758" END="785">another member of the family</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="758" END="785">another member of the family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-5-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="776" END="785">the family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R17" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030417.0004-24" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-28" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R17-1">
+      <extent>
+        <charseq START="893" END="966">he had cast evil spells on villagers, prompting a group
+within the village</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-24-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="893" END="894">he</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-28-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="956" END="966">the village</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R18" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030417.0004-31" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R18-1">
+      <extent>
+        <charseq START="1163" END="1178">parts of Tripura</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1163" END="1178">parts of Tripura</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-7-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1172" END="1178">Tripura</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R19" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030417.0004-31" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-32" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R19-1">
+      <extent>
+        <charseq START="1163" END="1212">parts of Tripura and other northeast Indian states</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1163" END="1178">parts of Tripura</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-32-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1184" END="1212">other northeast Indian states</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030417.0004-R20" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030417.0004-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030417.0004-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030417.0004-R20-1">
+      <extent>
+        <charseq START="567" END="595">them with
+machetes and spears</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="567" END="570">them</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030417.0004-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="590" END="595">spears</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030417.0004-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-8" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV1-1">
+      <extent>
+        <charseq START="212" END="255">Tripura were hacked to death by a tribal mob</charseq>
+      </extent>
+      <anchor>
+        <charseq START="225" END="230">hacked</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-7-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-8-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-7" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-8" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-4" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV2-1">
+      <extent>
+        <charseq START="212" END="255">Tripura were hacked to death by a tribal mob</charseq>
+      </extent>
+      <anchor>
+        <charseq START="235" END="239">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-7-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-8-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-4-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-12" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-11" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-13" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV3-1">
+      <extent>
+        <charseq START="374" END="389">attacked a
+house</charseq>
+      </extent>
+      <anchor>
+        <charseq START="374" END="381">attacked</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-12-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-11-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-13-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-18" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-19" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-20" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-21" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-8" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV4-1">
+      <extent>
+        <charseq START="559" END="619">killed) them with
+machetes and spears before fleeing the area</charseq>
+      </extent>
+      <anchor>
+        <charseq START="559" END="564">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-18-1" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-19-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-20-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-21-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-8-1" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-21" ROLE="Origin"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-8" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV5-1">
+      <extent>
+        <charseq START="604" END="610">fleeing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="604" END="610">fleeing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-21-0" ROLE="Origin"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-8-1" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV6" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-10" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-17" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV6-1">
+      <extent>
+        <charseq START="623" END="667">the spokesman said by
+telephone from Agartala</charseq>
+      </extent>
+      <anchor>
+        <charseq START="645" END="653">telephone</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-10-1" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-17-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-30" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-28" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-27" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV7-1">
+      <extent>
+        <charseq START="956" END="979">the village to eliminate</charseq>
+      </extent>
+      <anchor>
+        <charseq START="971" END="979">eliminate</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-28-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-27-1" ROLE="Victim"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030417.0004-EV7-2">
+      <extent>
+        <charseq START="1065" END="1072">killings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1065" END="1072">killings</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-30-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030417.0004-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030417.0004-29" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-30" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030417.0004-V3" ROLE="Crime"/>
+    <event_mention ID="AFP_ENG_20030417.0004-EV8-1">
+      <extent>
+        <charseq START="1009" END="1040">Police have arrested four people</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1021" END="1028">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-29-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-30-0" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030417.0004-V3-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

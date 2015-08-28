@@ -1,0 +1,822 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NYT_ENG_20030602.0074.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="NYT_ENG_20030602.0074">
+  <entity ID="NYT_ENG_20030602.0074-1" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="86" END="100">EAST RUTHERFORD</charseq>
+      </extent>
+      <head>
+        <charseq START="86" END="100">EAST RUTHERFORD</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="EAST RUTHERFORD">
+        <charseq START="86" END="100">EAST RUTHERFORD</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="103" END="105">N.J</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="105">N.J</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="N.J">
+        <charseq START="103" END="105">N.J</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-3" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-3-0">
+      <extent>
+        <charseq START="110" END="131">Portland Trail Blazers</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="131">Portland Trail Blazers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-3-1">
+      <extent>
+        <charseq START="561" END="568">Portland</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="568">Portland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Portland Trail Blazers">
+        <charseq START="110" END="131">Portland Trail Blazers</charseq>
+      </name>
+      <name NAME="Portland">
+        <charseq START="561" END="568">Portland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-4-0">
+      <extent>
+        <charseq START="110" END="152">Portland Trail Blazers coach Maurice Cheeks</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="152">Maurice Cheeks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-4-1">
+      <extent>
+        <charseq START="133" END="137">coach</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="137">coach</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-4-2">
+      <extent>
+        <charseq START="367" END="372">Cheeks</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="372">Cheeks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-4-3">
+      <extent>
+        <charseq START="491" END="495">coach</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="495">coach</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-4-4">
+      <extent>
+        <charseq START="526" END="557">the coach of the Detroit Pistons</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="534">coach</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-4-5">
+      <extent>
+        <charseq START="583" END="588">Cheeks</charseq>
+      </extent>
+      <head>
+        <charseq START="583" END="588">Cheeks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Maurice Cheeks">
+        <charseq START="139" END="152">Maurice Cheeks</charseq>
+      </name>
+      <name NAME="Cheeks">
+        <charseq START="367" END="372">Cheeks</charseq>
+      </name>
+      <name NAME="Cheeks">
+        <charseq START="583" END="588">Cheeks</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-5" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-5-0">
+      <extent>
+        <charseq START="198" END="219">the Philadelphia 76ers</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="219">Philadelphia 76ers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-5-1">
+      <extent>
+        <charseq START="415" END="426">Philadelphia</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="426">Philadelphia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-5-2">
+      <extent>
+        <charseq START="998" END="1009">Philadelphia</charseq>
+      </extent>
+      <head>
+        <charseq START="998" END="1009">Philadelphia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philadelphia 76ers">
+        <charseq START="202" END="219">Philadelphia 76ers</charseq>
+      </name>
+      <name NAME="Philadelphia">
+        <charseq START="415" END="426">Philadelphia</charseq>
+      </name>
+      <name NAME="Philadelphia">
+        <charseq START="998" END="1009">Philadelphia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-6-0">
+      <extent>
+        <charseq START="277" END="288">Eddie Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="277" END="288">Eddie Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-6-1">
+      <extent>
+        <charseq START="777" END="782">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="777" END="782">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-6-2">
+      <extent>
+        <charseq START="861" END="866">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="861" END="866">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-6-3">
+      <extent>
+        <charseq START="916" END="921">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="916" END="921">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eddie Jordan">
+        <charseq START="277" END="288">Eddie Jordan</charseq>
+      </name>
+      <name NAME="Jordan">
+        <charseq START="777" END="782">Jordan</charseq>
+      </name>
+      <name NAME="Jordan">
+        <charseq START="861" END="866">Jordan</charseq>
+      </name>
+      <name NAME="Jordan">
+        <charseq START="916" END="921">Jordan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-7-0">
+      <extent>
+        <charseq START="293" END="296">Nets</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="296">Nets</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-7-1">
+      <extent>
+        <charseq START="1169" END="1176">the
+Nets</charseq>
+      </extent>
+      <head>
+        <charseq START="1173" END="1176">Nets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nets">
+        <charseq START="293" END="296">Nets</charseq>
+      </name>
+      <name NAME="Nets">
+        <charseq START="1173" END="1176">Nets</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-8-0">
+      <extent>
+        <charseq START="375" END="394">a former Sixers star</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="394">star</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-9-0">
+      <extent>
+        <charseq START="384" END="389">Sixers</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="389">Sixers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-9-1">
+      <extent>
+        <charseq START="621" END="630">the
+Sixers</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="630">Sixers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-9-2">
+      <extent>
+        <charseq START="793" END="802">the Sixers</charseq>
+      </extent>
+      <head>
+        <charseq START="797" END="802">Sixers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sixers">
+        <charseq START="384" END="389">Sixers</charseq>
+      </name>
+      <name NAME="Sixers">
+        <charseq START="625" END="630">Sixers</charseq>
+      </name>
+      <name NAME="Sixers">
+        <charseq START="797" END="802">Sixers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-10-0">
+      <extent>
+        <charseq START="452" END="462">Larry Brown</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="462">Larry Brown</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-10-1">
+      <extent>
+        <charseq START="1037" END="1041">Brown</charseq>
+      </extent>
+      <head>
+        <charseq START="1037" END="1041">Brown</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Larry Brown">
+        <charseq START="452" END="462">Larry Brown</charseq>
+      </name>
+      <name NAME="Brown">
+        <charseq START="1037" END="1041">Brown</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-11-0">
+      <extent>
+        <charseq START="539" END="557">the Detroit Pistons</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="557">Detroit Pistons</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-11-1">
+      <extent>
+        <charseq START="1179" END="1185">Detroit</charseq>
+      </extent>
+      <head>
+        <charseq START="1179" END="1185">Detroit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Detroit Pistons">
+        <charseq START="543" END="557">Detroit Pistons</charseq>
+      </name>
+      <name NAME="Detroit">
+        <charseq START="1179" END="1185">Detroit</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-12-0">
+      <extent>
+        <charseq START="646" END="660">a league source</charseq>
+      </extent>
+      <head>
+        <charseq START="655" END="660">source</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-13" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-13-0">
+      <extent>
+        <charseq START="648" END="653">league</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="653">league</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-14-0">
+      <extent>
+        <charseq START="693" END="715">The Cleveland Cavaliers</charseq>
+      </extent>
+      <head>
+        <charseq START="697" END="715">Cleveland Cavaliers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030602.0074-14-1">
+      <extent>
+        <charseq START="756" END="760">their</charseq>
+      </extent>
+      <head>
+        <charseq START="756" END="760">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cleveland Cavaliers">
+        <charseq START="697" END="715">Cleveland Cavaliers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-15-0">
+      <extent>
+        <charseq START="742" END="751">Paul Silas</charseq>
+      </extent>
+      <head>
+        <charseq START="742" END="751">Paul Silas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-15-1">
+      <extent>
+        <charseq START="1236" END="1240">Silas</charseq>
+      </extent>
+      <head>
+        <charseq START="1236" END="1240">Silas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paul Silas">
+        <charseq START="742" END="751">Paul Silas</charseq>
+      </name>
+      <name NAME="Silas">
+        <charseq START="1236" END="1240">Silas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-16-0">
+      <extent>
+        <charseq START="756" END="766">their
+coach</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="766">coach</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-17-0">
+      <extent>
+        <charseq START="830" END="835">person</charseq>
+      </extent>
+      <head>
+        <charseq START="830" END="835">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-18-0">
+      <extent>
+        <charseq START="946" END="956">a candidate</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="956">candidate</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030602.0074-18-1">
+      <extent>
+        <charseq START="1031" END="1033">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1033">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="986" END="992">Toronto</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="992">Toronto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Toronto">
+        <charseq START="986" END="992">Toronto</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-20" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-20-0">
+      <extent>
+        <charseq START="1054" END="1090">a team that won an Eastern Conference</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1059">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-20-1">
+      <extent>
+        <charseq START="1257" END="1281">a team that lost 65 games</charseq>
+      </extent>
+      <head>
+        <charseq START="1259" END="1262">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="NYT_ENG_20030602.0074-20-2">
+      <extent>
+        <charseq START="1296" END="1298">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1296" END="1298">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-21" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-21-0">
+      <extent>
+        <charseq START="1070" END="1090">an Eastern Conference</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1090">Eastern Conference</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eastern Conference">
+        <charseq START="1073" END="1090">Eastern Conference</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-22" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-22-0">
+      <extent>
+        <charseq START="1224" END="1226">NBA</charseq>
+      </extent>
+      <head>
+        <charseq START="1224" END="1226">NBA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NBA">
+        <charseq START="1224" END="1226">NBA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-23" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="NYT_ENG_20030602.0074-23-0">
+      <extent>
+        <charseq START="1310" END="1324">the high school</charseq>
+      </extent>
+      <head>
+        <charseq START="1319" END="1324">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="NYT_ENG_20030602.0074-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="NYT_ENG_20030602.0074-24-0">
+      <extent>
+        <charseq START="1333" END="1344">LeBron James</charseq>
+      </extent>
+      <head>
+        <charseq START="1333" END="1344">LeBron James</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LeBron James">
+        <charseq START="1333" END="1344">LeBron James</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="NYT_ENG_20030602.0074-V2" TYPE="Job-Title">
+    <value_mention ID="NYT_ENG_20030602.0074-V2-1">
+      <extent>
+        <charseq START="491" END="495">coach</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="NYT_ENG_20030602.0074-T0" VAL="2003-06-02">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030602</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030602.0074-T1" VAL="2003-06-02">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T1-1">
+      <extent>
+        <charseq START="174" END="179">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030602.0074-T2" VAL="2003-W23">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T2-1">
+      <extent>
+        <charseq START="355" END="363">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030602.0074-T3" VAL="2003-W22">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T3-1">
+      <extent>
+        <charseq START="478" END="486">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030602.0074-T4" VAL="2003-06-02">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T4-1">
+      <extent>
+        <charseq START="516" END="521">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030602.0074-T5" VAL="2003-06-02">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T5-1">
+      <extent>
+        <charseq START="768" END="773">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="NYT_ENG_20030602.0074-T6" VAL="2003-06-01">
+    <timex2_mention ID="NYT_ENG_20030602.0074-T6-1">
+      <extent>
+        <charseq START="807" END="812">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="NYT_ENG_20030602.0074-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="NYT_ENG_20030602.0074-1" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-2" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R1-1">
+      <extent>
+        <charseq START="86" END="105">EAST RUTHERFORD, N.J</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="86" END="100">EAST RUTHERFORD</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="103" END="105">N.J</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030602.0074-4" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-3" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R2-1">
+      <extent>
+        <charseq START="110" END="152">Portland Trail Blazers coach Maurice Cheeks</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="110" END="152">Portland Trail Blazers coach Maurice Cheeks</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-3-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="110" END="131">Portland Trail Blazers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R3" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="NYT_ENG_20030602.0074-8" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-9" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R3-1">
+      <extent>
+        <charseq START="375" END="394">a former Sixers star</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="375" END="394">a former Sixers star</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="384" END="389">Sixers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R4" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="NYT_ENG_20030602.0074-4" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-11" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R4-1">
+      <extent>
+        <charseq START="526" END="557">the coach of the Detroit Pistons</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-4-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="526" END="557">the coach of the Detroit Pistons</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="539" END="557">the Detroit Pistons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="NYT_ENG_20030602.0074-12" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-13" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R5-1">
+      <extent>
+        <charseq START="646" END="660">a league source</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="646" END="660">a league source</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="648" END="653">league</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R6" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="NYT_ENG_20030602.0074-16" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-14" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R6-1">
+      <extent>
+        <charseq START="756" END="766">their
+coach</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="756" END="766">their
+coach</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="756" END="760">their</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R7" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="NYT_ENG_20030602.0074-10" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-20" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R7-1">
+      <extent>
+        <charseq START="1037" END="1090">Brown takes over a team that won an Eastern Conference</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1037" END="1041">Brown</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1054" END="1090">a team that won an Eastern Conference</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="NYT_ENG_20030602.0074-R8" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="NYT_ENG_20030602.0074-15" ROLE="Arg-1" />
+    <relation_argument REFID="NYT_ENG_20030602.0074-20" ROLE="Arg-2" />
+      <relation_mention ID="NYT_ENG_20030602.0074-R8-1">
+      <extent>
+        <charseq START="1236" END="1281">Silas is taking over a team that lost 65 games</charseq>
+      </extent>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1236" END="1240">Silas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="NYT_ENG_20030602.0074-20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1257" END="1281">a team that lost 65 games</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="NYT_ENG_20030602.0074-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030602.0074-10" ROLE="Person"/>
+    <event_argument REFID="NYT_ENG_20030602.0074-5" ROLE="Entity"/>
+    <event_argument REFID="NYT_ENG_20030602.0074-T3" ROLE="Time-Within"/>
+    <event_argument REFID="NYT_ENG_20030602.0074-V2" ROLE="Position"/>
+    <event_argument REFID="NYT_ENG_20030602.0074-9" ROLE="Entity"/>
+    <event_argument REFID="NYT_ENG_20030602.0074-8" ROLE="Person"/>
+    <event_mention ID="NYT_ENG_20030602.0074-EV1-1">
+      <extent>
+        <charseq START="375" END="394">a former Sixers star</charseq>
+      </extent>
+      <anchor>
+        <charseq START="377" END="382">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-8-0" ROLE="Person"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-9-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="NYT_ENG_20030602.0074-EV1-2">
+      <extent>
+        <charseq START="444" END="462">replace Larry Brown</charseq>
+      </extent>
+      <anchor>
+        <charseq START="444" END="450">replace</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-10-0" ROLE="Person"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-9-0" ROLE="Entity"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-V2-1" ROLE="Position"/>
+    </event_mention>
+    <event_mention ID="NYT_ENG_20030602.0074-EV1-3">
+      <extent>
+        <charseq START="415" END="476">Philadelphia&apos;s top
+choice to replace Larry Brown, who resigned</charseq>
+      </extent>
+      <anchor>
+        <charseq START="469" END="476">resigned</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-10-0" ROLE="Person"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-5-1" ROLE="Entity"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-V2-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+  <event ID="NYT_ENG_20030602.0074-EV4" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="NYT_ENG_20030602.0074-20" ROLE="Buyer"/>
+    <event_argument REFID="NYT_ENG_20030602.0074-21" ROLE="Artifact"/>
+    <event_mention ID="NYT_ENG_20030602.0074-EV4-1">
+      <extent>
+        <charseq START="1054" END="1090">a team that won an Eastern Conference</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1066" END="1068">won</charseq>
+      </anchor>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-20-0" ROLE="Buyer"/>
+      <event_mention_argument REFID="NYT_ENG_20030602.0074-21-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

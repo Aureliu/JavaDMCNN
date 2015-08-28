@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <title>Installing and Running Jet</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080" alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Using the Jet API</font></font></h2>
+<font color="#000000">In addition to running JET stand-alone, you can use
+it as part of another application.&nbsp; In this case <tt>jet-<i>version</i>.jar</tt> or
+<tt>jet-all.jar</tt>
+must be included among the libraries when compiling and running your application.&nbsp;
+Here is a small sample program which uses Jet:
+<p><tt>&nbsp;1&nbsp;&nbsp; import Jet.*;</tt>
+<br>
+<tt>&nbsp;2&nbsp;&nbsp; import Jet.Tipster.*;</tt>
+<br>
+<tt>&nbsp;3&nbsp;&nbsp; import java.util.Vector;</tt>
+<br>
+<tt>&nbsp;4&nbsp;&nbsp; import java.io.IOException;</tt>
+<br>
+<tt>&nbsp;5</tt>
+<br>
+<tt>&nbsp;6&nbsp;&nbsp; class UseJet {</tt>
+<br>
+<tt>&nbsp;7</tt>
+<br>
+<tt>&nbsp;8&nbsp;&nbsp; public static void main(String args[]) throws IOException {</tt>
+<br>
+<tt>&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp; System.out.println("Starting UseJet...");</tt>
+<br>
+<tt>10&nbsp;&nbsp;&nbsp;&nbsp; JetTest.initializeFromConfig("chunk.jet");</tt>
+<br>
+<tt>11&nbsp;&nbsp;&nbsp;&nbsp; String txt = "&lt;TEXT&gt;My first sentence to be analyzed for class.&lt;/TEXT&gt;";</tt>
+<br>
+<tt>12&nbsp;&nbsp;&nbsp;&nbsp; Document doc = new Document(txt);</tt>
+<br>
+<tt>13&nbsp;&nbsp;&nbsp;&nbsp; Control.processDocument (doc, null, true, 1);</tt>
+<br>
+<tt>14&nbsp;&nbsp;&nbsp;&nbsp; Vector v = doc.annotationsOfType("constit");</tt>
+<br>
+<tt>15&nbsp;&nbsp;&nbsp;&nbsp; for (int i=0; i&lt;v.size(); i++) {</tt>
+<br>
+<tt>16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annotation a = (Annotation) v.get(i);</tt>
+<br>
+<tt>17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println ("Constit " + a.get("cat") + " over " + doc.text(a));</tt>
+<br>
+<tt>18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</tt>
+<br>
+<tt>19&nbsp;&nbsp;&nbsp;&nbsp; }</tt>
+<br>
+<tt>20&nbsp;&nbsp; }</tt>
+</p>
+<p>and a brief explanation of this program:
+</p>
+<dl>
+  <dt>10</dt>
+  <dd><tt>initializeFromConfig</tt> loads a JET properties file and all
+the associated resources (grammars, lexicons, patterns, HMMs, etc.).&nbsp; The
+properties file should be the same as for a stand-alone run.</dd>
+  <dt>11-12</dt>
+  <dd>sets up the document to be analyzed.&nbsp; By default, only text
+inside &lt;TEXT&gt; ... &lt;/TEXT&gt; is analyzed.</dd>
+  <dt>13</dt>
+  <dd>processes the document.&nbsp; The parameters to <tt>processDocument</tt> are</dd>
+  <ul>
+    <li> the document itself</li>
+    <li>if non-null, a <span style="font-family: monospace;">BufferedWriter</span>
+into which output from WriteSGML is written<br> </li>
+    <li> true to pop up a window showing the processed document</li>
+    <li> an integer used to label the pop-up window ("Jet Document i")</li>
+  </ul>
+  <dt>14-17</dt>
+  <dd>retrieve annotations of type <b>constit</b> from the document and print
+out, one per line, the <b>cat</b> feature of the annotation and the
+text spanned by the annotation</dd>
+</dl>
+<br>
+This program will load a Jet properties file named <tt>chunk.jet</tt> from the
+local directory.  A simple <tt>chunk.jet</tt> file to run the patterns
+for noun and verb chunks is <br><br>
+<tt>
+&nbsp;&nbsp;&nbsp;&nbsp; # JET properties file <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Jet.dataPath           = data <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Tags.fileName          = pos_hmm.txt <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Pattern.fileName1      = chunkPatterns.txt <br>
+&nbsp;&nbsp;&nbsp;&nbsp; processSentence        = tokenize, tagJet, pat(chunks)
+</tt>
+<br><br>
+If the shell variable JET_HOME has been set to the directory where Jet
+has been installed, UseJet could be compiled with
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <tt>javac -cp $JET_HOME/jet-all.jar UseJet.java </tt>
+<br>
+and executed with 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <tt>java -cp .:$JET_HOME/jet-all.jar -DjetHome=$JET_HOME UseJet </tt>
+<br>
+
+</body>
+</html>

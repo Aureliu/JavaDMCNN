@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>APFtoXML</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">APFtoXML</font></font></h1>
+<font color="#000000">The APFtoXML utility extracts information from an
+Ace APF file and produces a file with the selected information marked
+by
+in-line XML tags such as &lt;ENAMEX TYPE=type&gt; for names.&nbsp; It
+is
+invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+AceJet.APFtoXML </span></font></big><font style="font-style: italic;"
+ color="#000000">year apf-directory
+output-directory filelist apf-extension output-extension [gazetteer pre-dictionary] flag flag ...</font>
+</div>
+<br>
+where
+<dl>
+  <dt><span style="font-style: italic;">year </span></dt>
+  <dd>is one of 2003, 2004, or 2005, reflecting
+the different APF formats used</dd>
+  <dt><span style="font-style: italic;">apf-directory</span></dt>
+  <dd>is the directory which contains <span style="font-style: italic;">both
+    </span>the text and apf files</dd>
+  <dt><span style="font-style: italic;">output-directory</span></dt>
+  <dd>is the directory which will contain the files with in-line XML
+tags</dd>
+  <dt><span style="font-style: italic;">filelist</span></dt>
+  <dd><font color="#000000">is a file containing a list of the
+documents to
+be processed, one per line;&nbsp; text and apf files are relative to
+apf-directory;&nbsp; output files are relative to
+output-directory.&nbsp; If a line in this file is </font><font
+ color="#000000"><span style="font-family: monospace;">F</span></font><font
+ color="#000000">, the text file is read from </font><font
+ color="#000000"><span style="font-family: monospace;">F.sgm</span></font><font
+ color="#000000">, the apf file is read from </font><font
+ color="#000000"><span style="font-family: monospace;">F.<i>apf-extension</i></span></font><font
+ color="#000000">, and the output file is </font><font color="#000000"><span
+ style="font-family: monospace;">F.<i>output-extension</i></span></font> .</dd>
+  <dt><i>apf-extension</i></dt>
+  <dl>file extension for apf files (added to document name)</dl>
+  <dt><i>output-extension</i></dt>
+  <dl>file extension for output files (added to document name)</dl>
+</dl>
+For 2004, pre-nominals were tagged PRE whether they were names or not,
+so additional information is required to identify names.&nbsp;This is
+provided by two additional files,<br>
+<dl>
+  <dt style="font-style: italic;">gazetteer</dt>
+  <dd>a Jet gazetteer, listing country and state names</dd>
+  <dt style="font-style: italic;">pre-dictionary</dt>
+  <dd>a list of words, indicating for each whether or not they are names<br>
+    <br>
+  </dd>
+  <dt style="font-style: italic;">flag</dt>
+  <dd>one or more of <span style="font-family: monospace; font-weight: bold;">sentences
+timex mentions types names</span>, indicating a type of information to
+be included in the output files<br>
+    <span style="font-family: monospace; font-weight: bold;">sentences</span>:&nbsp;
+output <span style="font-family: monospace;">&lt;sentence&gt;</span>
+tags<br>
+    <span style="font-weight: bold; font-family: monospace;">timex</span>:&nbsp;
+output <span style="font-family: monospace;">&lt;timex2&gt;</span> tags<br>
+    <span style="font-family: monospace; font-weight: bold;">mentions</span>:&nbsp;
+output <span style="font-family: monospace;">&lt;mention entity=n&gt;</span>
+tags indicating co-reference relations<br>
+    <span style="font-family: monospace; font-weight: bold;">types</span>:&nbsp;
+include ACE type and subtype features with mention tags<br>
+    <span style="font-weight: bold; font-family: monospace;">names</span>:&nbsp;
+include <span style="font-family: monospace;">ENAMEX </span>tags<br>
+  </dd>
+</dl>
+</body>
+</html>

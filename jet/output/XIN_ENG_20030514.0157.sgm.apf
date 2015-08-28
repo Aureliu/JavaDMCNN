@@ -1,0 +1,1159 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030514.0157.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030514.0157">
+  <entity ID="XIN_ENG_20030514.0157-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="103" END="108">LONDON</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="108">LONDON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="793" END="798">London</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="798">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LONDON">
+        <charseq START="103" END="108">LONDON</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="793" END="798">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-2-0">
+      <extent>
+        <charseq START="119" END="124">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="124">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="119" END="124">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-3-0">
+      <extent>
+        <charseq START="128" END="142">British Airways</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="142">British Airways</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-3-1">
+      <extent>
+        <charseq START="145" END="146">BA</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="146">BA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030514.0157-3-2">
+      <extent>
+        <charseq START="172" END="173">it</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="173">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030514.0157-3-3">
+      <extent>
+        <charseq START="202" END="204">its</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="204">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-3-4">
+      <extent>
+        <charseq START="734" END="735">BA</charseq>
+      </extent>
+      <head>
+        <charseq START="734" END="735">BA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British Airways">
+        <charseq START="128" END="142">British Airways</charseq>
+      </name>
+      <name NAME="BA">
+        <charseq START="145" END="146">BA</charseq>
+      </name>
+      <name NAME="BA">
+        <charseq START="734" END="735">BA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-4-0">
+      <extent>
+        <charseq START="202" END="214">its air crews</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="214">crews</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="219" END="249">Saudi Arabia following a change</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="230">Saudi Arabia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="325" END="329">Saudi</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="329">Saudi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="590" END="601">Saudi Arabia</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="601">Saudi Arabia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-5-3" ROLE="GPE">
+      <extent>
+        <charseq START="775" END="779">Saudi</charseq>
+      </extent>
+      <head>
+        <charseq START="775" END="779">Saudi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saudi Arabia">
+        <charseq START="219" END="230">Saudi Arabia</charseq>
+      </name>
+      <name NAME="Saudi">
+        <charseq START="325" END="329">Saudi</charseq>
+      </name>
+      <name NAME="Saudi Arabia">
+        <charseq START="590" END="601">Saudi Arabia</charseq>
+      </name>
+      <name NAME="Saudi">
+        <charseq START="775" END="779">Saudi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="254" END="275">the British
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="275">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="258" END="264">British</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="264">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="1279" END="1285">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1285">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="258" END="264">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1279" END="1285">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="321" END="347">the Saudi
+capital of Riyadh</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="337">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="342" END="347">Riyadh</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="347">Riyadh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-9-1" ROLE="GPE">
+      <extent>
+        <charseq START="436" END="441">Riyadh</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="441">Riyadh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-9-2" ROLE="GPE">
+      <extent>
+        <charseq START="999" END="1004">Riyadh</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1004">Riyadh</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Riyadh">
+        <charseq START="342" END="347">Riyadh</charseq>
+      </name>
+      <name NAME="Riyadh">
+        <charseq START="436" END="441">Riyadh</charseq>
+      </name>
+      <name NAME="Riyadh">
+        <charseq START="999" END="1004">Riyadh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-10-0">
+      <extent>
+        <charseq START="351" END="363">A spokeswoman</charseq>
+      </extent>
+      <head>
+        <charseq START="353" END="363">spokeswoman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-10-1">
+      <extent>
+        <charseq START="705" END="719">the spokeswoman</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="719">spokeswoman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-11" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="369" END="374">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="374">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Europe">
+        <charseq START="369" END="374">Europe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-12-0">
+      <extent>
+        <charseq START="369" END="392">Europe&apos;s biggest airline</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="392">airline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-13-0">
+      <extent>
+        <charseq START="426" END="431">hotels</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="431">hotels</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="447" END="452">Jeddah</charseq>
+      </extent>
+      <head>
+        <charseq START="447" END="452">Jeddah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jeddah">
+        <charseq START="447" END="452">Jeddah</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-15-0">
+      <extent>
+        <charseq START="458" END="475">instead lodge crew</charseq>
+      </extent>
+      <head>
+        <charseq START="472" END="475">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="480" END="486">Larnaca</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="486">Larnaca</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-16-1" ROLE="GPE">
+      <extent>
+        <charseq START="656" END="662">Larnaca</charseq>
+      </extent>
+      <head>
+        <charseq START="656" END="662">Larnaca</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030514.0157-16-2" ROLE="GPE">
+      <extent>
+        <charseq START="667" END="670">they</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="670">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-16-3" ROLE="GPE">
+      <extent>
+        <charseq START="833" END="839">Larnaca</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="839">Larnaca</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Larnaca">
+        <charseq START="480" END="486">Larnaca</charseq>
+      </name>
+      <name NAME="Larnaca">
+        <charseq START="656" END="662">Larnaca</charseq>
+      </name>
+      <name NAME="Larnaca">
+        <charseq START="833" END="839">Larnaca</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="489" END="494">Cyprus</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="494">Cyprus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cyprus">
+        <charseq START="489" END="494">Cyprus</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-18-0">
+      <extent>
+        <charseq START="512" END="537">the British Foreign Office</charseq>
+      </extent>
+      <head>
+        <charseq START="516" END="537">British Foreign Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-18-1">
+      <extent>
+        <charseq START="1228" END="1245">The Foreign Office</charseq>
+      </extent>
+      <head>
+        <charseq START="1232" END="1245">Foreign Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British Foreign Office">
+        <charseq START="516" END="537">British Foreign Office</charseq>
+      </name>
+      <name NAME="Foreign Office">
+        <charseq START="1232" END="1245">Foreign Office</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-19-0">
+      <extent>
+        <charseq START="606" END="631">Our cabin and flight crews</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="631">crews</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="688" END="691">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="691">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="688" END="691">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="770" END="786">both Saudi cities</charseq>
+      </extent>
+      <head>
+        <charseq START="781" END="786">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-22-0">
+      <extent>
+        <charseq START="843" END="860">At least 34 people</charseq>
+      </extent>
+      <head>
+        <charseq START="855" END="860">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-23-0">
+      <extent>
+        <charseq START="879" END="890">10 Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="890">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-24-0">
+      <extent>
+        <charseq START="923" END="956">suspected al-Qaeda suicide bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="956">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030514.0157-24-1">
+      <extent>
+        <charseq START="963" END="967">their</charseq>
+      </extent>
+      <head>
+        <charseq START="963" END="967">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-25-0">
+      <extent>
+        <charseq START="933" END="940">al-Qaeda</charseq>
+      </extent>
+      <head>
+        <charseq START="933" END="940">al-Qaeda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="al-Qaeda">
+        <charseq START="933" END="940">al-Qaeda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-26-0">
+      <extent>
+        <charseq START="978" END="994">housing compounds</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="994">compounds</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-27-0" ROLE="GPE">
+      <extent>
+        <charseq START="1020" END="1021">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1020" END="1021">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="1020" END="1021">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-28-0">
+      <extent>
+        <charseq START="1023" END="1040">Secretary of State</charseq>
+      </extent>
+      <head>
+        <charseq START="1023" END="1040">Secretary of State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030514.0157-29-0">
+      <extent>
+        <charseq START="1036" END="1053">State Colin
+Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="1042" END="1053">Colin
+Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Colin Powell">
+        <charseq START="1042" END="1053">Colin
+Powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-30-0">
+      <extent>
+        <charseq START="1172" END="1189">a 15-year-old girl</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1189">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030514.0157-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030514.0157-31-0">
+      <extent>
+        <charseq START="1275" END="1295">two British nationals</charseq>
+      </extent>
+      <head>
+        <charseq START="1287" END="1295">nationals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20030514.0157-T0" VAL="2003-05-14">
+    <timex2_mention ID="XIN_ENG_20030514.0157-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030514</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030514.0157-T1" VAL="2003-05-14">
+    <timex2_mention ID="XIN_ENG_20030514.0157-T1-1">
+      <extent>
+        <charseq START="111" END="116">May 14</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030514.0157-T2" VAL="2003-05-14">
+    <timex2_mention ID="XIN_ENG_20030514.0157-T2-1">
+      <extent>
+        <charseq START="162" END="170">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030514.0157-T3" VAL="2003-05-13">
+    <timex2_mention ID="XIN_ENG_20030514.0157-T3-1">
+      <extent>
+        <charseq START="550" END="556">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030514.0157-T4" VAL="2003-05-12">
+    <timex2_mention ID="XIN_ENG_20030514.0157-T4-1">
+      <extent>
+        <charseq START="905" END="910">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030514.0157-T5" VAL="2003-05-14">
+    <timex2_mention ID="XIN_ENG_20030514.0157-T5-1">
+      <extent>
+        <charseq START="1260" END="1268">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030514.0157-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030514.0157-4" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-3" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R1-1">
+      <extent>
+        <charseq START="202" END="214">its air crews</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="202" END="214">its air crews</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-3-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="202" END="204">its</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R2" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030514.0157-4" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R2-1">
+      <extent>
+        <charseq START="202" END="249">its air crews in Saudi Arabia following a change</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="202" END="214">its air crews</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="219" END="249">Saudi Arabia following a change</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-8" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R3-1">
+      <extent>
+        <charseq START="321" END="347">the Saudi
+capital of Riyadh</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="321" END="347">the Saudi
+capital of Riyadh</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="325" END="329">Saudi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-8" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R4-1">
+      <extent>
+        <charseq START="321" END="347">the Saudi
+capital of Riyadh</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="321" END="347">the Saudi
+capital of Riyadh</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="342" END="347">Riyadh</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030514.0157-10" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-12" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R5-1">
+      <extent>
+        <charseq START="351" END="392">A spokeswoman for Europe&apos;s biggest airline</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="351" END="363">A spokeswoman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="369" END="392">Europe&apos;s biggest airline</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="XIN_ENG_20030514.0157-12" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-11" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R6-1">
+      <extent>
+        <charseq START="369" END="392">Europe&apos;s biggest airline</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="369" END="392">Europe&apos;s biggest airline</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="369" END="374">Europe</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-13" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R7-1">
+      <extent>
+        <charseq START="426" END="441">hotels in Riyadh</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="431">hotels</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="436" END="441">Riyadh</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-13" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-14" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R8-1">
+      <extent>
+        <charseq START="426" END="452">hotels in Riyadh and Jeddah</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="431">hotels</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="447" END="452">Jeddah</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030514.0157-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R9-1">
+      <extent>
+        <charseq START="458" END="486">instead lodge crew in Larnaca</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="458" END="475">instead lodge crew</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="480" END="486">Larnaca</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R10" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030514.0157-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R10-1">
+      <extent>
+        <charseq START="606" END="662">Our cabin and flight crews will stay overnight in Larnaca</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="606" END="631">Our cabin and flight crews</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="656" END="662">Larnaca</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-21" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R11-1">
+      <extent>
+        <charseq START="770" END="786">both Saudi cities</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="770" END="786">both Saudi cities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-5-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="775" END="779">Saudi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-21" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R12-1">
+      <extent>
+        <charseq START="770" END="798">both Saudi cities from London</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="770" END="786">both Saudi cities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="793" END="798">London</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R13" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="XIN_ENG_20030514.0157-24" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-25" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R13-1">
+      <extent>
+        <charseq START="923" END="956">suspected al-Qaeda suicide bombers</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="923" END="956">suspected al-Qaeda suicide bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-25-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="933" END="940">al-Qaeda</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R14" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030514.0157-24" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-26" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R14-1">
+      <extent>
+        <charseq START="923" END="994">suspected al-Qaeda suicide bombers shot their way into
+housing compounds</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="923" END="956">suspected al-Qaeda suicide bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="978" END="994">housing compounds</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R15" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030514.0157-24" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R15-1">
+      <extent>
+        <charseq START="923" END="1004">suspected al-Qaeda suicide bombers shot their way into
+housing compounds in Riyadh</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="923" END="956">suspected al-Qaeda suicide bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-9-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="999" END="1004">Riyadh</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R16" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030514.0157-26" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R16-1">
+      <extent>
+        <charseq START="978" END="1004">housing compounds in Riyadh</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="978" END="994">housing compounds</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-9-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="999" END="1004">Riyadh</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030514.0157-R17" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030514.0157-31" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030514.0157-7" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030514.0157-R17-1">
+      <extent>
+        <charseq START="1275" END="1295">two British nationals</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1275" END="1295">two British nationals</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030514.0157-7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1279" END="1285">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030514.0157-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-6" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-T2" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV1-1">
+      <extent>
+        <charseq START="279" END="284">travel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="279" END="284">travel</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-6-0" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-8" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV2-1">
+      <extent>
+        <charseq START="303" END="309">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="303" END="309">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-8-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-8" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV3-1">
+      <extent>
+        <charseq START="311" END="316">blasts</charseq>
+      </extent>
+      <anchor>
+        <charseq START="311" END="316">blasts</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-8-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-5" ROLE="Destination"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV4-1">
+      <extent>
+        <charseq START="580" END="601">travel to Saudi Arabia</charseq>
+      </extent>
+      <anchor>
+        <charseq START="580" END="585">travel</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-5-2" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV5" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-19" ROLE="Person"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV5-1">
+      <extent>
+        <charseq START="606" END="641">Our cabin and flight crews will stay</charseq>
+      </extent>
+      <anchor>
+        <charseq START="638" END="641">stay</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-19-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="XIN_ENG_20030514.0157-EV6-1">
+      <extent>
+        <charseq START="694" END="696">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="694" END="696">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-5" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-1" ROLE="Origin"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-10" ROLE="Artifact"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV7-1">
+      <extent>
+        <charseq START="759" END="779">flights to both Saudi</charseq>
+      </extent>
+      <anchor>
+        <charseq START="759" END="765">flights</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-5-3" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-1-1" ROLE="Origin"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-10-1" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-T4" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-9" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-24" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-23" ROLE="Victim"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV8-1">
+      <extent>
+        <charseq START="879" END="903">10 Americans, were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="898" END="903">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-23-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-9-2" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030514.0157-EV8-2">
+      <extent>
+        <charseq START="942" END="948">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="942" END="948">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-9-2" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-24-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-24" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-22" ROLE="Target"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-T4" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030514.0157-26" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV10-1">
+      <extent>
+        <charseq START="923" END="961">suspected al-Qaeda suicide bombers shot</charseq>
+      </extent>
+      <anchor>
+        <charseq START="958" END="961">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-24-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-22-0" ROLE="Target"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-26-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV11" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-26" ROLE="Destination"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV11-1">
+      <extent>
+        <charseq START="1066" END="1070">visit</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1066" END="1070">visit</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-26-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV12" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030514.0157-30" ROLE="Victim"/>
+    <event_mention ID="XIN_ENG_20030514.0157-EV12-1">
+      <extent>
+        <charseq START="1111" END="1117">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1111" END="1117">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030514.0157-30-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV13" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="XIN_ENG_20030514.0157-EV13-1">
+      <extent>
+        <charseq START="1218" END="1224">injured</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1218" END="1224">injured</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="XIN_ENG_20030514.0157-EV14-1">
+      <extent>
+        <charseq START="1119" END="1126">bombings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1119" END="1126">bombings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030514.0157-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="XIN_ENG_20030514.0157-EV15-1">
+      <extent>
+        <charseq START="1334" END="1339">blasts</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1334" END="1339">blasts</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

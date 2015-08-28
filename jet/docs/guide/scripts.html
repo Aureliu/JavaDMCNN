@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Jet scripts</title>
+</head>
+<body style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);"
+ link="#ff0000" vlink="#800080" alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Jet scripts:&nbsp;
+document and sentence processing</font></font></h2>
+When Jet is run in batch mode, the basic unit of processing is the
+document.&nbsp;
+In addition, the Jet console can be used to enter and process
+individual
+sentences.
+<p>Document and sentence processing is controlled by a set of <i>scripts</i>.&nbsp;
+Each script specifies a series of <i>actions</i> to be performed on a
+portion
+of the document.&nbsp; The actions correspond for the most part to the
+tools or annotators provided with Jet.
+</p>
+<p>Scripts are defined in the Jet configuration file.&nbsp; A script
+definition
+has the form
+</p>
+<blockquote><i>scriptName</i> = <i>action<sub>1</sub></i>, <i>action<sub>2</sub></i>,
+...</blockquote>
+The following actions are allowed:
+<br>
+&nbsp;
+<center>
+<table border="3" cellspacing="3" cellpadding="8" bgcolor="#ccffff">
+  <tbody>
+    <tr>
+      <td><a href="tokenizer.html">tokenize</a></td>
+      <td>divide text into tokens&nbsp;</td>
+    </tr>
+    <tr>
+      <td>tag(<i>XMLtag</i>)</td>
+      <td>assign annotation <b>XMLtag</b> to text enclosed in&nbsp; <br>
+      <tt>&lt;XMLtag&gt; ... &lt;/XMLtag&gt;</tt></td>
+    </tr>
+    <tr>
+      <td><a href="sentenceSplitter.html">sentenceSplit</a></td>
+      <td>divide text into sentences</td>
+    </tr>
+    <tr>
+      <td><a href="lexicon.html">lexLookup</a></td>
+      <td>look up tokens in lexicon</td>
+    </tr>
+    <tr>
+      <td><a href="POStagger.html">pruneTags</a></td>
+      <td>use HMM POS tagger to select most likely POS from those given
+in lexicon</td>
+    </tr>
+    <tr>
+      <td><a href="POStagger.html">tagPOS</a></td>
+      <td>use HMM POS tagger to assign Penn POS tags</td>
+    </tr>
+    <tr>
+      <td><a href="POStagger.html">tagJet</a></td>
+      <td>use HMM POS tagger to assign Jet POS tags</td>
+    </tr>
+    <tr>
+      <td><a href="nameTagger.html">tagNames</a></td>
+      <td>use HMM name tagger to assign MUC name tags</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><a href="chunker.html">chunk</a><br>
+      </td>
+      <td style="vertical-align: top;">use Maxent tagger to identify
+noun groups<br>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="parser.html">parse</a></td>
+      <td>parse sentence using context-free parser<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><a href="statParser.html">statParse</a><br>
+      </td>
+      <td style="vertical-align: top;">parse sentence using
+TreeBank-trained probabilistic parser<br>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="patterns.html">pat</a>(<i>patternSetName)</i></td>
+      <td>apply patterns in <i>patternSetName</i></td>
+    </tr>
+    <tr>
+      <td><a href="refres.html">resolve</a></td>
+      <td>&nbsp;resolve references</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">mentions(<span
+ style="font-style: italic;">representation</span>)<br>
+      </td>
+      <td style="vertical-align: top;">adds <span
+ style="font-family: monospace; font-weight: bold;">mention </span>annotations
+to record coreference annotation:<br>
+      <span style="font-family: monospace;">mentions(coindexed)</span>
+uses co-indexing to mark coreferential mentions<br>
+      <span style="font-family: monospace;">mentions(linked)</span>
+uses an index to record immediate antecedent of mention<br>
+      </td>
+    </tr>
+    <tr>
+      <td><i>tag</i> : <i>scriptName</i></td>
+      <td>apply script <i>scriptName</i> to every instance of text <br>
+annotated with tag <b>tag</b></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<p>Note the last action:&nbsp; it allows one script to invoke another
+script
+over a portion of the text.
+</p>
+<p>In batch mode (or when the processDocuments menu item is selected
+from
+the console), the <tt>processDocument</tt> script is applied to each
+input
+document.&nbsp; When a sentence is typed in directly at the console,
+the
+<tt>processSentence</tt>
+script is applied.&nbsp;&nbsp; The following scripts are defined by
+default:
+</p>
+<blockquote><tt>processDocument = tag(TEXT), TEXT:processTextZone</tt> <br>
+  <tt>processTextZone = tokenize, sentenceSplit,
+sentence:processSentence</tt></blockquote>
+This means that when Jet processes a document, it looks for tags of the
+form <tt>&lt;TEXT&gt; ... &lt;/TEXT&gt;</tt> in the document, and adds
+an <i>annotation</i>
+of type <b>text</b> to the enclosed text.&nbsp; Then it runs the
+script
+<tt>processTextZone</tt>
+on each such text.&nbsp; The script <tt>processTextZone</tt> runs the
+tokenizer
+and then the sentence splitter on that text.&nbsp; The sentence
+splitter
+adds annotations of type <b>sentence</b> to the text.&nbsp; Then, for
+the
+text subsumed by each <b>sentence</b> annotation, we run the script <tt>processSentence</tt>.
+<p>There is no default for the <tt>processSentence</tt> script.&nbsp;
+A
+simple example, to look words up in the dictionary and the run the
+parser,
+would be
+</p>
+<blockquote><tt>processSentence&nbsp; = lexLookup, parse</tt></blockquote>
+To look up words, prune the result using the POS tagger, and then apply
+two sets of patterns, for <tt>dates</tt> and <tt>names</tt>, one
+would
+write
+<blockquote><tt>processSentence&nbsp; = lexLookup, pruneTags,
+pat(dates),
+pat(names)</tt></blockquote>
+</body>
+</html>

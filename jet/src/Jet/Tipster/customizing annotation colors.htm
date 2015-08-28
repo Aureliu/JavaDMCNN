@@ -1,0 +1,118 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List
+href="./customizing%20annotation%20colors_files/filelist.xml">
+<title>Using the Concept Hierarchy</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Michael Joe</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>michael joe</o:LastAuthor>
+  <o:Revision>34</o:Revision>
+  <o:TotalTime>104</o:TotalTime>
+  <o:Created>2001-04-26T23:10:00Z</o:Created>
+  <o:LastSaved>2001-05-25T08:30:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>237</o:Words>
+  <o:Characters>1352</o:Characters>
+  <o:Company>NYU</o:Company>
+  <o:Lines>11</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1660</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<meta name=Author content="Ralph Grishman">
+<!-- saved from url=(0063)http://cs.nyu.edu/courses/spring01/G22.2590-001/jet/scorer.html -->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h2>Customizing Annotation Colors</h2>
+
+<p class=MsoNormal>Annotations in JET documents can be highlighted with
+customizable background colors.</p>
+
+<p>Pairs of annotation type and its color (hash code) are stored in a hash
+table in the class <span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:"Courier New"'>Jet.Tipster.AnnotationColor</span>. The pairs are also
+written to the file <i>Jet/Data/annColor.clr</i>. When the JET console first
+starts, it attempts to read the annotation type/color pairs from the file <i>annColor.clr</i>.
+If <i>annColor.clr</i> doesn&#8217;t exist, a new one is created. If an annotation in
+<i>annColor.clr</i> doesn&#8217;t have a corresponding color, a default one would be
+the hash code of the annotation type itself.</p>
+
+<p>Colors can be updated either by changing the data in the <i>annColor.clr</i>
+file or using the color chooser (invoked from menu <b><u><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>T</span></u></b><b><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>ools |
+Customi<u>z</u>e Annotation Colors &#8230;</span></b>). When updated, both the hash
+table and <i>annColor.clr</i> are updated correspondingly.</p>
+
+<p>Example:<span style="mso-spacerun: yes">&nbsp; </span>Suppose <i>annColor.clr</i>
+doesn&#8217;t exist when the JET is started. Start the color chooser by <b><u><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>T</span></u></b><b><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>ools |
+Customi<u>z</u>e Annotation Colors &#8230;</span></b>. Process documents and view
+annotated documents. Select a type from a JET document, say, &#8220;text&#8221;. A new
+button &#8220;text&#8221; with the default background color is added to the color chooser.
+Pressing the button &#8220;text&#8221; brings up the built-in Java color chooser. Use the
+color chooser to choose any color you like. The color paired with annotation
+type &#8220;text&#8221; is updated if a new color is chosen.</p>
+
+<p>Note that the highlight of an annotation type in a JET document is not
+automatically updated when you choose a new color for the type in the color
+chooser. You need to select another type and then get<span style="mso-spacerun:
+yes">&nbsp; </span>back to the original one to see the change. Sorry for this
+inconvenience.</p>
+
+</div>
+
+</body>
+
+</html>

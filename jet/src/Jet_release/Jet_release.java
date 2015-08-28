@@ -26,22 +26,22 @@ public class Jet_release {
 //        args[3] = "D:\\LDC2006D06\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
 //        args[4] = "C:\\Users\\v-lesha\\Documents\\NetBeansProjects\\RBET_release\\Trainout\\";
 
-        args = new String[5];
-        args[0] = "-test";
-        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
-        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
-        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
-        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
+//        args = new String[5];
+//        args[0] = "-test";
+//        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
+//        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
+//        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
+//        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
 
-//        args = new String[8];
-//        args[0] = "-score";
-//        args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
-//        args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
-//        args[3] = "sgm";
-//        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output";
-//        args[5] = "sgm.apf";      
-//        args[6] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
-//        args[7] = "apf.xml";
+        args = new String[8];
+        args[0] = "-score";
+        args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
+        args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
+        args[3] = "sgm";
+        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output";
+        args[5] = "sgm.apf";      
+        args[6] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
+        args[7] = "apf.xml";
         
         if (args.length != 5 && args.length != 8) {
             PrintErrMsg();

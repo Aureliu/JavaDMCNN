@@ -1,0 +1,6 @@
+# JET properties file to run chunk patterns
+Jet.dataPath         = data
+Tags.fileName        = pos_hmm.txt
+Pattern.fileName1    = chunkPatterns.txt
+Pattern.trace 	     = on
+processSentence      = tagJet, pat(chunks)

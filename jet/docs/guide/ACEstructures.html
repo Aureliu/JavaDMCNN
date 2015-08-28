@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>ACE</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">
+ACE semantic structures
+</font></font></h1>
+
+<p>
+The ACE [Automatic Content Extraction] program of the early and mid 2000's
+defined a set of semantic structures, including entities, relations,
+and events.  The entities were introduced first, then the
+relations, and finally the events;  the events implemented by Jet are
+from the 2005 ACE evaluation. The set of entity types and relation
+types changed somewhat from year to year;  Jet ACE can handle several of the
+variants.
+</p>
+
+<p>
+ACE also defined an external representation of these semantic
+structures, APF (ACE Program Format).  For each source document,
+the ACE system generates an APF document;  the original source
+document is not modified.  The APF document contains character offsets
+with respect to the source document to indicate the provenance
+of the information extracted.  [Note:  in counting character
+offsets in the source document, XML tags are not counted
+and end-of-lines are counted as a single character, regardless
+of whether they are actually represented as 1 or 2 characters.]
+</p>
+
+<p>
+The interal representation of an APF file is an 
+<tt>AceDocument</tt> object, which contains zero or more
+<tt>AceEntity</tt>, <tt>AceValue</tt>, <tt>AceTimex</tt>, <tt>AceRelation</tt>,
+and <tt>AceEvent</tt> objects.  (See the Jet javadoc API
+documentation for details.)
+</p>
+
+<p>
+The ACE representations are presented briefly at the
+<a href="http://www.itl.nist.gov/iad/894.01/tests/ace/">NIST ACE
+web site</a>.  Details on all the entity, relation, and
+event types are available through the
+<a href="http://www.ldc.upenn.edu/Projects/ACE/">ACE
+web site of the Linguistic Data Consortium</a>.
+</p>
+
+<h3>Entities</h3>
+
+<p>
+Entities are the most basic building blocks of the semantic
+representation.  There are 7 types of entities:  persons,
+organizations, GPEs (geo-political entities:  locations
+with a government), [other] locations, facilities,
+vehicles, and weapons.  Each entity (class <tt>AceEntity</tt>)
+has one or more mentions (class <tt>AceEntityMention</tt>)
+within the document.  Each mention is either a name,
+a nominal, or a pronominal mention.
+</p>
+
+<h3>Relations</h3>
+
+<p>
+An Ace relation (class <tt>AceRelation</tt>) specifies
+some relationship between two Ace entities, such as
+an employment relation (employee -- employer), a location
+relation, or a citizenship relation.  The specific set
+of types and subtypes varied a bit from year to year.
+Each relation (class <tt>AceRelation</tt>) may be
+expressed one or more times in a document;  each
+expression becomes an instance of a relation mention
+(class <tt>AceRelationMention</tt>).  A relation
+connects two entities;  a relation mention
+connects two entity mentions.  For Ace, the two
+entity mentions connected by a relation mention
+must appear in the same sentence (this simplifies
+the annotation task as well as the training
+procedure for relation extractors).  Later versions
+of Ace included temporal information on relations,
+but this is not supported by Jet.
+
+<h3>Events</h3>
+
+<p>
+Whereas an Ace relation expresses a purely binary relationship,
+an Ace event (class <tt>AceEvent</tt>) allows for a
+<i>trigger</i> and an arbitrary number of arguments, each with a
+<i>role</i>.  The trigger is generally a single word, the
+word which most directly describes the event (typically
+a verb or nominalization).  In analogy with entities
+and relations, there may be one or more mentions of the
+same event in a document;  each is an event mention
+(class <tt>AceEventMention</tt>).  All the arguments of a
+single event mention must appear within the same sentence.
+These arguments may be entity mentions, time expression
+mentions, or value mentions.
+</p>
+
+<p>
+A time expression is an expression representing a date or
+time, following the TIMEX2 standard.  Following the pattern
+for entities, relations, and events, we have <tt>AceTimex</tt>
+and <tt>AceTimexMention</tt> classes, although each
+<tt>AceTimex</tt> has but a single <tt>AceTimexMention</tt>.
+A value is an event argument other than an entity or time
+expression;  currently crimes, prison sentences,
+contact information, job titles, and numeric expressions
+such as percentages and monetary amounts are included.  Again,
+we have the two classes <tt>AceValue</tt> and
+<tt>AceValueMention</tt>, although no reference
+resolution is done on Ace values, so each <tt>AceValue</tt>
+has a single <tt>AceValueMention</tt>.
+</pp>
+
+</body>
+</html>

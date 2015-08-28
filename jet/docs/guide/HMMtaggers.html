@@ -1,0 +1,143 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>HMM taggers</title>
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h2>
+<font face="Arial Alternative"><font color="#3333FF">HMM-based taggers</font></font></h2>
+Jet incorporates procedures for training Hidden Markov Models (HMMs) and
+for using trained HMMs to annotate new text.&nbsp; These procedures have
+been used to implement part-of-speech taggers and a name tagger within
+Jet.
+<h3>
+Part-of-speech taggers</h3>
+The part-of-speech taggers are trained from <a href="http://www.ldc.upenn.edu/doc/treebank2/cl93.html">Version
+II of the Penn Tree Bank</a>, and therefore are based on the tag set used
+by the tree bank.&nbsp; However, the patterns and lexicons in Jet generally
+use a more standard set of word categories and attributes, in which, for
+example, NN and NNS are represented by [cat=noun number=singular] and [cat=noun
+number=plural].&nbsp; The annotation actions provided in Jet allow you
+to use either the Penn or Jet categories:
+<br>&nbsp;
+<center><table BORDER=3 CELLSPACING=3 CELLPADDING=8 BGCOLOR="#CCFFFF" >
+<tr>
+<td><tt>tagPOS</tt></td>
+
+<td>Assigns annotations of type <b>constit</b> to each token, with feature
+<b>cat</b>
+corresponding to the Penn part-of-speech tag.</td>
+</tr>
+
+<tr>
+<td><tt>tagJet</tt></td>
+
+<td>First assigns annotations of type <b>tagger</b> to each token, with
+feature <b>cat</b> corresponding to the Penn part-of-speech tag. 
+<i>Then</i>
+(using the <b>tagger</b> annotations) assigns annotations of type <b>constit</b>
+to each token, with features <b>cat</b> and <b>number</b> corresponding
+to the Jet part-of-speech encoding.</td>
+</tr>
+
+<tr>
+<td><tt>pruneTags</tt></td>
+
+<td>This action assumes that the tokens have already been assigned <b>constit</b>
+annotations by dictionary look-up, using the Jet part-of-speech;&nbsp;
+words with several parts of speech will have been assigned several such
+annotations.&nbsp; pruneTags uses the HMM tagger to select the determine
+the most likely part-of-speech <i>P</i> of the word in context, and removes
+all constit annotations except those corresponding to <i>P</i>.&nbsp; This
+makes it possible to use the additional information provided by the lexicon
+(base word forms, syntactic and semantic features, predicate-argument structures)
+while still retaining the benefit (one part-of-speech per word) of the
+tagger.
+<p>Like tagJet, pruneTags first assigns annotations of type <b>tagger</b>
+to each token, with feature <b>cat</b> corresponding to the Penn part-of-speech
+tag;&nbsp; it then uses these annotations to guide the pruning of the <b>constit</b>
+annotations.</td>
+</tr>
+</table></center>
+
+<h3>
+Name tagger</h3>
+The Jet name tagger is trained from the named-entity training corpus of
+Message Understanding Conference - 7, and uses <a href="http://www.itl.nist.gov/iad/894.02/related_projects/muc/proceedings/ne_task.html">the
+tags adopted for that evaluation</a>.&nbsp; The following tags are used:
+<br>&nbsp;
+<center><table BORDER=3 WIDTH="80%" BGCOLOR="#CCFFFF" >
+<tr>
+<td>annotation type</td>
+
+<td>TYPE feature</td>
+
+<td>significance</td>
+</tr>
+
+<tr>
+<td>ENAMEX</td>
+
+<td>ORGANIZATION</td>
+
+<td>organization name</td>
+</tr>
+
+<tr>
+<td>ENAMEX</td>
+
+<td>PERSON</td>
+
+<td>person's name</td>
+</tr>
+
+<tr>
+<td>ENAMEX</td>
+
+<td>LOCATION</td>
+
+<td>location name</td>
+</tr>
+
+<tr>
+<td>TIMEX</td>
+
+<td>DATE</td>
+
+<td>date</td>
+</tr>
+
+<tr>
+<td>TIMEX</td>
+
+<td>TIME</td>
+
+<td>time</td>
+</tr>
+
+<tr>
+<td>NUMEX</td>
+
+<td>MONEY</td>
+
+<td>monetary expression</td>
+</tr>
+
+<tr>
+<td>NUMEX</td>
+
+<td>PERCENT</td>
+
+<td>percentage</td>
+</tr>
+</table></center>
+
+<p>The action to assign these tags is "<tt>tagNames</tt>".
+<p>Note:&nbsp; A detailed description of the internal and external representation
+of the HMMs is provided as part of the API documentation.
+</body>
+</html>

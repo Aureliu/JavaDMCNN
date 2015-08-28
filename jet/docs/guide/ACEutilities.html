@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>ACE-related Functionality</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h1 style="color: rgb(0, 0, 238);">
+<span style="font-family: arial alternative;">ACE-related Functionality</span></h1>
+<font color="#000000">
+The ACE (Automatic Content Extraction) evaluations run by NIST from
+2000 to 2009 define a quite general set of information extraction
+tasks, including entities, (binary) relations, and events.  Jet
+provides full support for these tasks using a set of corpus-trained
+extraction components.  This includes the </font><a href="ACE.html"><big><font
+ style="font-weight: bold;" color="#000000"><span
+ style="font-family: monospace;">ace</span></font></big></a><font
+ color="#000000"> command, which performs the full Ace
+extraction task, and a variety of support utilties for training and
+scoring individual components.  These utilities are invoked by<br>
+<br>
+</font><font color="#000000"></font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet <span
+ style="font-style: italic;">utilityName</span></span></font></big><font
+ color="#000000"> <span style="font-style: italic;">file-argument-1
+file-argument-2 ...<br>
+</span></font></div>
+<font color="#000000"><br>
+The following utilities are invoked using this format:<br>
+<br>
+</font>
+<table
+ style="width: 70%; text-align: left; margin-left: auto; margin-right: auto; background-color: rgb(204, 255, 255);"
+ border="1" cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold;"><span
+ style="font-weight: normal;">Utility name</span><br>
+      </td>
+      <td style="vertical-align: top;">function<br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; font-weight: bold; color: rgb(0, 0, 238);"><a
+ href="APFtoXML.html"><big><font style="font-weight: bold;"><span
+ style="font-family: monospace;">AceJet.APFtoXML</span></font></big></a>
+      </td>
+      <td style="vertical-align: top;">convert name information in APF
+file to in-line XML tags<br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; font-weight: bold; color: rgb(0, 0, 238);"><a
+ href="LearnRelations.html"><big><font style="font-weight: bold;"><span
+ style="font-family: monospace;">AceJet.LearnAceRelations</span></font></big></a><br>
+      </td>
+      <td style="vertical-align: top;">train relation tagger<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; color: rgb(0, 0, 238);">
+        <a href="RelationScorer.html"><big><font style="font-weight: bold;">
+        <span style="font-family: monospace;">AceJet.RelationScorer</span></font></big></a><br>
+      </td>
+      <td style="vertical-align: top;">score ACE relations<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><big><a
+ href="TrainEventTagger.html"><span
+ style="font-weight: bold; font-family: monospace;">AceJet.TrainEventTagger</span></a></big><br>
+      </td>
+      <td style="vertical-align: top;">train event tagger<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><big style="font-weight: bold;"><a
+ style="font-family: monospace;" href="EventTagger.html">AceJet.EventTagger</a></big><br>
+      </td>
+      <td style="vertical-align: top;">run event tagger in diagnostic
+mode <br>
+(given perfect entities and values)<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; color: rgb(0, 0, 238);">
+        <a href="EventScorer.html"><big><font style="font-weight: bold;">
+        <span style="font-family: monospace;">AceJet.EventScorer</span></font></big></a><br>
+      </td>
+      <td style="vertical-align: top;">score ACE events<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+</body>
+</html>

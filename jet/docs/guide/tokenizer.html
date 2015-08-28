@@ -1,0 +1,35 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h1>
+<font face="Arial Alternative"><font color="#3333FF">Tokenizer</font></font></h1>
+<font color="#000000">The tokenizer divides the input text into tokens
+-- roughly, words and punctuation.&nbsp; It is typically the first annotator
+which is applied to a span of text.&nbsp; It adds to the text annotations
+of type <b>token</b>.&nbsp; Three types of tokens are recognized:</font>
+<ul>
+<li>
+<font color="#000000"><b>words</b>, consisting of one or more letters.&nbsp;
+If the first letter is capitalized, the token annotation gets the feature
+<b>case</b> with the value <b>cap</b>.</font></li>
+
+<li>
+<font color="#000000"><b>numbers</b>, consisting of one or more digits.&nbsp;
+The token annotation is assigned the feature <b>intvalue</b> whose value
+is the numeric value of the integer.</font></li>
+
+<li>
+<font color="#000000"><b>special</b> <b>characters</b>.&nbsp; Any character
+other than a letter or digit is treated as a single-character token.</font></li>
+</ul>
+<font color="#000000">Whitespace (blanks, tabs, and newlines) is ignored.&nbsp;
+The whitespace following a token is included in the span of the token annotation,
+so that the end of one token will be the start of the next token.</font>
+<br>&nbsp;
+</body>
+</html>

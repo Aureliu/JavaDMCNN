@@ -1,0 +1,762 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030415.0379.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030415.0379">
+  <entity ID="XIN_ENG_20030415.0379-1" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="123" END="127">MACAO</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="127">MACAO</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="158">Macao</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="158">Macao</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1175" END="1179">Macao</charseq>
+      </extent>
+      <head>
+        <charseq START="1175" END="1179">Macao</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MACAO">
+        <charseq START="123" END="127">MACAO</charseq>
+      </name>
+      <name NAME="Macao">
+        <charseq START="154" END="158">Macao</charseq>
+      </name>
+      <name NAME="Macao">
+        <charseq START="1175" END="1179">Macao</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-2-0">
+      <extent>
+        <charseq START="140" END="145">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="140" END="145">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="140" END="145">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-3-0">
+      <extent>
+        <charseq START="149" END="168">Four Macao residents</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="168">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-4-0">
+      <extent>
+        <charseq START="192" END="210">the Health Services</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="210">Health Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030415.0379-4-1">
+      <extent>
+        <charseq START="217" END="220">they</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="220">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-4-2">
+      <extent>
+        <charseq START="344" END="362">The Health Services</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="362">Health Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-4-3">
+      <extent>
+        <charseq START="871" END="889">the Health Services</charseq>
+      </extent>
+      <head>
+        <charseq START="875" END="889">Health Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Health Services">
+        <charseq START="196" END="210">Health Services</charseq>
+      </name>
+      <name NAME="Health Services">
+        <charseq START="348" END="362">Health Services</charseq>
+      </name>
+      <name NAME="Health Services">
+        <charseq START="875" END="889">Health Services</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-5" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-5-0">
+      <extent>
+        <charseq START="229" END="242">the same plane</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="242">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-0">
+      <extent>
+        <charseq START="290" END="322">Severe Acute Respiratory Syndrome</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="322">Severe Acute Respiratory Syndrome</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-1">
+      <extent>
+        <charseq START="325" END="328">SARS</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="328">SARS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-2">
+      <extent>
+        <charseq START="653" END="656">SARS</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="656">SARS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-3">
+      <extent>
+        <charseq START="800" END="803">SARS</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="803">SARS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-4">
+      <extent>
+        <charseq START="1057" END="1060">SARS</charseq>
+      </extent>
+      <head>
+        <charseq START="1057" END="1060">SARS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-5">
+      <extent>
+        <charseq START="1114" END="1117">SARS</charseq>
+      </extent>
+      <head>
+        <charseq START="1114" END="1117">SARS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-6-6">
+      <extent>
+        <charseq START="1239" END="1242">SARS</charseq>
+      </extent>
+      <head>
+        <charseq START="1239" END="1242">SARS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Severe Acute Respiratory Syndrome">
+        <charseq START="290" END="322">Severe Acute Respiratory Syndrome</charseq>
+      </name>
+      <name NAME="SARS">
+        <charseq START="325" END="328">SARS</charseq>
+      </name>
+      <name NAME="SARS">
+        <charseq START="653" END="656">SARS</charseq>
+      </name>
+      <name NAME="SARS">
+        <charseq START="800" END="803">SARS</charseq>
+      </name>
+      <name NAME="SARS">
+        <charseq START="1057" END="1060">SARS</charseq>
+      </name>
+      <name NAME="SARS">
+        <charseq START="1114" END="1117">SARS</charseq>
+      </name>
+      <name NAME="SARS">
+        <charseq START="1239" END="1242">SARS</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-7-0">
+      <extent>
+        <charseq START="370" END="387">the four residents</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="387">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030415.0379-7-1">
+      <extent>
+        <charseq START="436" END="440">their</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="440">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-8-0">
+      <extent>
+        <charseq START="474" END="502">the World Health Organization</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="502">World Health Organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-8-1">
+      <extent>
+        <charseq START="505" END="507">WHO</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="507">WHO</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-8-2">
+      <extent>
+        <charseq START="1095" END="1097">WHO</charseq>
+      </extent>
+      <head>
+        <charseq START="1095" END="1097">WHO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="World Health Organization">
+        <charseq START="478" END="502">World Health Organization</charseq>
+      </name>
+      <name NAME="WHO">
+        <charseq START="505" END="507">WHO</charseq>
+      </name>
+      <name NAME="WHO">
+        <charseq START="1095" END="1097">WHO</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-9-0">
+      <extent>
+        <charseq START="542" END="561">these four residents</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="561">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030415.0379-9-1">
+      <extent>
+        <charseq START="597" END="600">they</charseq>
+      </extent>
+      <head>
+        <charseq START="597" END="600">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030415.0379-9-2">
+      <extent>
+        <charseq START="639" END="642">they</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="642">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-10-0">
+      <extent>
+        <charseq START="725" END="750">Social
+Affairs and Culture</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="750">Social
+Affairs and Culture</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Social Affairs and Culture">
+        <charseq START="725" END="750">Social
+Affairs and Culture</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-11-0">
+      <extent>
+        <charseq START="725" END="762">Social
+Affairs and Culture Chui Sai On</charseq>
+      </extent>
+      <head>
+        <charseq START="752" END="762">Chui Sai On</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-11-1">
+      <extent>
+        <charseq START="1364" END="1367">Chui</charseq>
+      </extent>
+      <head>
+        <charseq START="1364" END="1367">Chui</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chui Sai On">
+        <charseq START="752" END="762">Chui Sai On</charseq>
+      </name>
+      <name NAME="Chui">
+        <charseq START="1364" END="1367">Chui</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-12-0">
+      <extent>
+        <charseq START="784" END="814">director of the
+SARS task force</charseq>
+      </extent>
+      <head>
+        <charseq START="784" END="791">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-13-0">
+      <extent>
+        <charseq START="796" END="814">the
+SARS task force</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="814">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-13-1">
+      <extent>
+        <charseq START="1268" END="1281">the task force</charseq>
+      </extent>
+      <head>
+        <charseq START="1277" END="1281">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="819" END="832">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="832">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-15-0">
+      <extent>
+        <charseq START="850" END="864">representatives</charseq>
+      </extent>
+      <head>
+        <charseq START="850" END="864">representatives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-16-0">
+      <extent>
+        <charseq START="895" END="939">the Center for Disease Prevention and
+Control</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="939">Center for Disease Prevention and
+Control</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Center for Disease Prevention and Control">
+        <charseq START="899" END="939">Center for Disease Prevention and
+Control</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="962" END="979">Guangdong Province</charseq>
+      </extent>
+      <head>
+        <charseq START="962" END="979">Guangdong Province</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Guangdong Province">
+        <charseq START="962" END="979">Guangdong Province</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030415.0379-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="1008" END="1016">Guangdong</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1016">Guangdong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Guangdong">
+        <charseq START="1008" END="1016">Guangdong</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030415.0379-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030415.0379-19-0">
+      <extent>
+        <charseq START="1142" END="1170">medical consultation
+counters</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1170">counters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030415.0379-V1" TYPE="Job-Title">
+    <value_mention ID="XIN_ENG_20030415.0379-V1-1">
+      <extent>
+        <charseq START="784" END="814">director of the
+SARS task force</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="XIN_ENG_20030415.0379-V2" TYPE="Job-Title">
+    <value_mention ID="XIN_ENG_20030415.0379-V2-1">
+      <extent>
+        <charseq START="850" END="864">representatives</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030415.0379-T0" VAL="2003-04-15">
+    <timex2_mention ID="XIN_ENG_20030415.0379-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030415</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030415.0379-T1" VAL="2003-04-16">
+    <timex2_mention ID="XIN_ENG_20030415.0379-T1-1">
+      <extent>
+        <charseq START="130" END="137">April 16</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030415.0379-T2" VAL="2003-04-08">
+    <timex2_mention ID="XIN_ENG_20030415.0379-T2-1">
+      <extent>
+        <charseq START="334" END="340">April 8</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030415.0379-T3" VAL="2003-04-10">
+    <timex2_mention ID="XIN_ENG_20030415.0379-T3-1">
+      <extent>
+        <charseq START="984" END="991">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030415.0379-T4" VAL="2003-04-09">
+    <timex2_mention ID="XIN_ENG_20030415.0379-T4-1">
+      <extent>
+        <charseq START="1210" END="1218">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030415.0379-T5" VAL="PT6H">
+    <timex2_mention ID="XIN_ENG_20030415.0379-T5-1">
+      <extent>
+        <charseq START="1353" END="1361">six
+hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030415.0379-R1" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030415.0379-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R1-1">
+      <extent>
+        <charseq START="149" END="168">Four Macao residents</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="149" END="168">Four Macao residents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="154" END="158">Macao</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030415.0379-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R2-1">
+      <extent>
+        <charseq START="149" END="242">Four Macao residents have been notified by the Health Services that
+they shared the same plane</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="149" END="168">Four Macao residents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="229" END="242">the same plane</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030415.0379-4" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R3-1">
+      <extent>
+        <charseq START="217" END="242">they shared the same plane</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="217" END="220">they</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="229" END="242">the same plane</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030415.0379-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R4-1">
+      <extent>
+        <charseq START="639" END="656">they have any SARS</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-9-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="639" END="642">they</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-6-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="653" END="656">SARS</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030415.0379-11" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R5-1">
+      <extent>
+        <charseq START="725" END="762">Social
+Affairs and Culture Chui Sai On</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="725" END="762">Social
+Affairs and Culture Chui Sai On</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="725" END="750">Social
+Affairs and Culture</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R6" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030415.0379-12" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-13" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R6-1">
+      <extent>
+        <charseq START="784" END="814">director of the
+SARS task force</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="784" END="814">director of the
+SARS task force</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="796" END="814">the
+SARS task force</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R7" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030415.0379-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R7-1">
+      <extent>
+        <charseq START="850" END="889">representatives
+from the Health Services</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="850" END="864">representatives</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-4-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="871" END="889">the Health Services</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R8" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030415.0379-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R8-1">
+      <extent>
+        <charseq START="850" END="939">representatives
+from the Health Services and the Center for Disease Prevention and
+Control</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="850" END="864">representatives</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="895" END="939">the Center for Disease Prevention and
+Control</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030415.0379-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030415.0379-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030415.0379-17" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030415.0379-R9-1">
+      <extent>
+        <charseq START="850" END="979">representatives
+from the Health Services and the Center for Disease Prevention and
+Control to visit neighboring Guangdong Province</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="850" END="864">representatives</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030415.0379-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="962" END="979">Guangdong Province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030415.0379-EV1" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030415.0379-11" ROLE="Person"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-T3" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-V1" ROLE="Position"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-6" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030415.0379-EV1-1">
+      <extent>
+        <charseq START="725" END="782">Social
+Affairs and Culture Chui Sai On, who has been named</charseq>
+      </extent>
+      <anchor>
+        <charseq START="778" END="782">named</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-11-0" ROLE="Person"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-V1-1" ROLE="Position"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-6-3" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030415.0379-EV2" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030415.0379-15" ROLE="Person"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-V2" ROLE="Position"/>
+    <event_mention ID="XIN_ENG_20030415.0379-EV2-1">
+      <extent>
+        <charseq START="839" END="864">designated representatives</charseq>
+      </extent>
+      <anchor>
+        <charseq START="839" END="848">designated</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-15-0" ROLE="Person"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-V2-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030415.0379-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030415.0379-17" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-T3" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-15" ROLE="Artifact"/>
+    <event_mention ID="XIN_ENG_20030415.0379-EV3-1">
+      <extent>
+        <charseq START="944" END="948">visit</charseq>
+      </extent>
+      <anchor>
+        <charseq START="944" END="948">visit</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-17-0" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-15-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030415.0379-EV4" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030415.0379-T5" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030415.0379-11" ROLE="Person"/>
+    <event_mention ID="XIN_ENG_20030415.0379-EV4-1">
+      <extent>
+        <charseq START="1339" END="1345">release</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1339" END="1345">release</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030415.0379-11-1" ROLE="Person"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

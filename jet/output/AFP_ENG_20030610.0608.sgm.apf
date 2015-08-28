@@ -1,0 +1,1249 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030610.0608.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030610.0608">
+  <entity ID="AFP_ENG_20030610.0608-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="150" END="157">NEW YORK</charseq>
+      </extent>
+      <head>
+        <charseq START="150" END="157">NEW YORK</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="NEW YORK">
+        <charseq START="150" END="157">NEW YORK</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-2-0">
+      <extent>
+        <charseq START="169" END="171">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="169" END="171">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="169" END="171">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-0">
+      <extent>
+        <charseq START="175" END="184">Sam Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="184">Sam Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-1">
+      <extent>
+        <charseq START="435" END="440">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="440">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-2">
+      <extent>
+        <charseq START="579" END="584">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="579" END="584">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-3-3">
+      <extent>
+        <charseq START="607" END="609">his</charseq>
+      </extent>
+      <head>
+        <charseq START="607" END="609">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-3-4">
+      <extent>
+        <charseq START="723" END="725">his</charseq>
+      </extent>
+      <head>
+        <charseq START="723" END="725">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-5">
+      <extent>
+        <charseq START="791" END="796">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="796">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-3-6">
+      <extent>
+        <charseq START="841" END="843">his</charseq>
+      </extent>
+      <head>
+        <charseq START="841" END="843">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-7">
+      <extent>
+        <charseq START="1317" END="1322">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="1317" END="1322">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-3-8">
+      <extent>
+        <charseq START="1342" END="1344">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1342" END="1344">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-3-9">
+      <extent>
+        <charseq START="1357" END="1359">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1357" END="1359">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-10">
+      <extent>
+        <charseq START="1427" END="1432">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="1427" END="1432">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-3-11">
+      <extent>
+        <charseq START="1505" END="1507">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1505" END="1507">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-3-12">
+      <extent>
+        <charseq START="1802" END="1807">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="1802" END="1807">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sam Waksal">
+        <charseq START="175" END="184">Sam Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="435" END="440">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="579" END="584">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="791" END="796">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="1317" END="1322">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="1427" END="1432">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="1802" END="1807">Waksal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-4-0">
+      <extent>
+        <charseq START="187" END="221">the founder of biotech firm ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="197">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-4-1">
+      <extent>
+        <charseq START="295" END="297">his</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="297">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-4-2">
+      <extent>
+        <charseq START="1815" END="1854">founder of the lifestyle business
+empire</charseq>
+      </extent>
+      <head>
+        <charseq START="1815" END="1821">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-5-0">
+      <extent>
+        <charseq START="202" END="221">biotech firm ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="221">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-5-1">
+      <extent>
+        <charseq START="210" END="213">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="213">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-5-2">
+      <extent>
+        <charseq START="628" END="634">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="628" END="634">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-5-3">
+      <extent>
+        <charseq START="1374" END="1380">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="1374" END="1380">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-5-4">
+      <extent>
+        <charseq START="1719" END="1725">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="1719" END="1725">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-5-5">
+      <extent>
+        <charseq START="2077" END="2083">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="2077" END="2083">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ImClone">
+        <charseq START="215" END="221">ImClone</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="628" END="634">ImClone</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="1374" END="1380">ImClone</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="1719" END="1725">ImClone</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="2077" END="2083">ImClone</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-6-0">
+      <extent>
+        <charseq START="318" END="324">insider</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="324">insider</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-7-0">
+      <extent>
+        <charseq START="513" END="516">bank</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="516">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-8-0">
+      <extent>
+        <charseq START="607" END="618">his daughter</charseq>
+      </extent>
+      <head>
+        <charseq START="611" END="618">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-9-0">
+      <extent>
+        <charseq START="668" END="699">the Food and Drug Administration</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="699">Food and Drug Administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-9-1">
+      <extent>
+        <charseq START="706" END="707">it</charseq>
+      </extent>
+      <head>
+        <charseq START="706" END="707">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-9-2">
+      <extent>
+        <charseq START="2130" END="2136">the FDA</charseq>
+      </extent>
+      <head>
+        <charseq START="2134" END="2136">FDA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Food and Drug Administration">
+        <charseq START="672" END="699">Food and Drug Administration</charseq>
+      </name>
+      <name NAME="FDA">
+        <charseq START="2134" END="2136">FDA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-10-0">
+      <extent>
+        <charseq START="723" END="733">his company</charseq>
+      </extent>
+      <head>
+        <charseq START="727" END="733">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-11-0">
+      <extent>
+        <charseq START="791" END="805">Waksal&apos;s lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="805">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-12-0">
+      <extent>
+        <charseq START="841" END="850">his client</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="850">client</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-13-0">
+      <extent>
+        <charseq START="925" END="959">homemaking celebrity Martha
+Stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="959">Martha
+Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-13-1">
+      <extent>
+        <charseq START="936" END="944">celebrity</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="944">celebrity</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-13-2">
+      <extent>
+        <charseq START="1774" END="1787">Martha
+Stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="1774" END="1787">Martha
+Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-13-3">
+      <extent>
+        <charseq START="1857" END="1887">Martha Stewart Living Omnimedia</charseq>
+      </extent>
+      <head>
+        <charseq START="1857" END="1887">Martha Stewart Living Omnimedia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-13-4">
+      <extent>
+        <charseq START="1891" END="1897">Stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="1891" END="1897">Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-13-5">
+      <extent>
+        <charseq START="2042" END="2048">Stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="2042" END="2048">Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Martha Stewart">
+        <charseq START="946" END="959">Martha
+Stewart</charseq>
+      </name>
+      <name NAME="Martha Stewart">
+        <charseq START="1774" END="1787">Martha
+Stewart</charseq>
+      </name>
+      <name NAME="Martha Stewart Living Omnimedia">
+        <charseq START="1857" END="1887">Martha Stewart Living Omnimedia</charseq>
+      </name>
+      <name NAME="Stewart">
+        <charseq START="1891" END="1897">Stewart</charseq>
+      </name>
+      <name NAME="Stewart">
+        <charseq START="2042" END="2048">Stewart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-14-0">
+      <extent>
+        <charseq START="967" END="986">Judge William Pauley</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="986">William Pauley</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-14-1">
+      <extent>
+        <charseq START="967" END="971">Judge</charseq>
+      </extent>
+      <head>
+        <charseq START="967" END="971">Judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-14-2">
+      <extent>
+        <charseq START="1148" END="1153">Pauley</charseq>
+      </extent>
+      <head>
+        <charseq START="1148" END="1153">Pauley</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="William Pauley">
+        <charseq START="973" END="986">William Pauley</charseq>
+      </name>
+      <name NAME="Pauley">
+        <charseq START="1148" END="1153">Pauley</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-15-0">
+      <extent>
+        <charseq START="1063" END="1081">a major corporation</charseq>
+      </extent>
+      <head>
+        <charseq START="1071" END="1081">corporation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-16-0">
+      <extent>
+        <charseq START="1243" END="1249">members</charseq>
+      </extent>
+      <head>
+        <charseq START="1243" END="1249">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-17-0">
+      <extent>
+        <charseq START="1254" END="1264">your family</charseq>
+      </extent>
+      <head>
+        <charseq START="1259" END="1264">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-18-0">
+      <extent>
+        <charseq START="1342" END="1351">his family</charseq>
+      </extent>
+      <head>
+        <charseq START="1346" END="1351">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-19-0">
+      <extent>
+        <charseq START="1357" END="1369">his
+employees</charseq>
+      </extent>
+      <head>
+        <charseq START="1361" END="1369">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-20-0">
+      <extent>
+        <charseq START="1387" END="1395">an inmate</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1395">inmate</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-20-1">
+      <extent>
+        <charseq START="1520" END="1521">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1520" END="1521">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-20-2">
+      <extent>
+        <charseq START="1623" END="1624">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1623" END="1624">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030610.0608-20-3">
+      <extent>
+        <charseq START="1689" END="1691">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1689" END="1691">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-21-0">
+      <extent>
+        <charseq START="1579" END="1593">the
+authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="1583" END="1593">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-22-0">
+      <extent>
+        <charseq START="1673" END="1677">house</charseq>
+      </extent>
+      <head>
+        <charseq START="1673" END="1677">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-23" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-23-0">
+      <extent>
+        <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+      </extent>
+      <head>
+        <charseq START="1703" END="1711">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-24" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030610.0608-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1693" END="1701">Manhattan</charseq>
+      </extent>
+      <head>
+        <charseq START="1693" END="1701">Manhattan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Manhattan">
+        <charseq START="1693" END="1701">Manhattan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-25-0">
+      <extent>
+        <charseq START="1790" END="1807">a friend of Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="1792" END="1797">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-26-0">
+      <extent>
+        <charseq START="1826" END="1854">the lifestyle business
+empire</charseq>
+      </extent>
+      <head>
+        <charseq START="1849" END="1854">empire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030610.0608-27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030610.0608-27-0">
+      <extent>
+        <charseq START="1926" END="1930">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1926" END="1930">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030610.0608-V1" TYPE="Sentence ">
+    <value_mention ID="AFP_ENG_20030610.0608-V1-1">
+      <extent>
+        <charseq START="241" END="251">seven years</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030610.0608-V7" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030610.0608-V7-1">
+      <extent>
+        <charseq START="387" END="392">dollar</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030610.0608-V11" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030610.0608-V11-1">
+      <extent>
+        <charseq START="513" END="522">bank fraud</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030610.0608-V14" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030610.0608-V14-1">
+      <extent>
+        <charseq START="1961" END="1970">conspiracy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030610.0608-T0" VAL="2003-06-10">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030610</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T1" VAL="2003-06-10">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T1-1">
+      <extent>
+        <charseq START="160" END="166">June 10</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T2" VAL="P7Y">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T2-1">
+      <extent>
+        <charseq START="241" END="251">seven years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T3" VAL="P3M">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T3-1">
+      <extent>
+        <charseq START="257" END="268">three months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T4" VAL="2003-06-10">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T4-1">
+      <extent>
+        <charseq START="283" END="289">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T5" VAL="P8M">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T5-1">
+      <extent>
+        <charseq START="416" END="427">eight months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T6" VAL="2003-07-02">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T6-1">
+      <extent>
+        <charseq START="1598" END="1603">July 2</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T7" VAL="2003-06-04">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T7-1">
+      <extent>
+        <charseq START="1932" END="1945">last Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030610.0608-T8" VAL="4000">
+    <timex2_mention ID="AFP_ENG_20030610.0608-T8-1">
+      <extent>
+        <charseq START="2061" END="2065">4,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030610.0608-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030610.0608-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R1-1">
+      <extent>
+        <charseq START="187" END="221">the founder of biotech firm ImClone</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="187" END="221">the founder of biotech firm ImClone</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="202" END="221">biotech firm ImClone</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R2" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R2-1">
+      <extent>
+        <charseq START="607" END="618">his daughter</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-3-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="607" END="609">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="607" END="618">his daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R3" TYPE="ORG-AFF" SUBTYPE="Ownership">
+    <relation_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R3-1">
+      <extent>
+        <charseq START="723" END="733">his company</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-3-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="723" END="725">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="723" END="733">his company</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R4" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-11" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R4-1">
+      <extent>
+        <charseq START="791" END="805">Waksal&apos;s lawyer</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-3-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="791" END="796">Waksal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="791" END="805">Waksal&apos;s lawyer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R5" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="AFP_ENG_20030610.0608-12" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R5-1">
+      <extent>
+        <charseq START="841" END="850">his client</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="841" END="850">his client</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-3-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="841" END="843">his</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R6" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-18" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R6-1">
+      <extent>
+        <charseq START="1342" END="1351">his family</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-3-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="1342" END="1344">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1342" END="1351">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R7" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R7-1">
+      <extent>
+        <charseq START="1357" END="1369">his
+employees</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-3-9" ROLE="Arg-1">
+          <extent>
+            <charseq START="1357" END="1359">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1357" END="1369">his
+employees</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R8" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030610.0608-19" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R8-1">
+      <extent>
+        <charseq START="1357" END="1380">his
+employees at ImClone</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1357" END="1369">his
+employees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-5-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1374" END="1380">ImClone</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030610.0608-20" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-23" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R9-1">
+      <extent>
+        <charseq START="1623" END="1711">he must wear an electronic
+bracelet under virtual house arrest in his Manhattan apartment</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-20-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1623" END="1624">he</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030610.0608-22" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-23" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R10-1">
+      <extent>
+        <charseq START="1673" END="1711">house arrest in his Manhattan apartment</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1673" END="1677">house</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R11" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030610.0608-20" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-24" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R11-1">
+      <extent>
+        <charseq START="1689" END="1701">his Manhattan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-20-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="1689" END="1691">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1693" END="1701">Manhattan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030610.0608-20" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-23" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R12-1">
+      <extent>
+        <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-20-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="1689" END="1691">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030610.0608-23" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-24" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R13-1">
+      <extent>
+        <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1689" END="1711">his Manhattan apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1693" END="1701">Manhattan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030610.0608-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-26" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R14-1">
+      <extent>
+        <charseq START="1815" END="1854">founder of the lifestyle business
+empire</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-4-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1815" END="1854">founder of the lifestyle business
+empire</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1826" END="1854">the lifestyle business
+empire</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R15" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030610.0608-13" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-26" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R15-1">
+      <extent>
+        <charseq START="1826" END="1887">the lifestyle business
+empire, Martha Stewart Living Omnimedia</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-13-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="1857" END="1887">Martha Stewart Living Omnimedia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1826" END="1854">the lifestyle business
+empire</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030610.0608-R16" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030610.0608-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030610.0608-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030610.0608-R16-1">
+      <extent>
+        <charseq START="1342" END="1380">his family and his
+employees at ImClone</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1342" END="1351">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030610.0608-5-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1374" END="1380">ImClone</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030610.0608-EV1" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-5" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-V1" ROLE="Sentence"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-T4" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV1-1">
+      <extent>
+        <charseq START="202" END="251">biotech firm ImClone, was sentenced to
+seven years</charseq>
+      </extent>
+      <anchor>
+        <charseq START="228" END="236">sentenced</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-5-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-V1-1" ROLE="Sentence"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV2" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-V7" ROLE="Money"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-V11" ROLE="Crime"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV2-1">
+      <extent>
+        <charseq START="394" END="397">fine</charseq>
+      </extent>
+      <anchor>
+        <charseq START="394" END="397">fine</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-V7-1" ROLE="Money"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-V11-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV3" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-V11" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-7" ROLE="Defendant"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV3-1">
+      <extent>
+        <charseq START="469" END="475">charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="469" END="475">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-7-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-V11-1" ROLE="Crime"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030610.0608-EV3-2">
+      <extent>
+        <charseq START="491" END="500">indictment</charseq>
+      </extent>
+      <anchor>
+        <charseq START="491" END="500">indictment</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-V11-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-7-0" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV5" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-3" ROLE="Defendant"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV5-1">
+      <extent>
+        <charseq START="771" END="780">sentencing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="771" END="780">sentencing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-3-5" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV6" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-14" ROLE="Adjudicator"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV6-1">
+      <extent>
+        <charseq START="1008" END="1014">appeals</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1008" END="1014">appeals</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-14-1" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030610.0608-EV7-1">
+      <extent>
+        <charseq START="1023" END="1028">abused</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1023" END="1028">abused</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV8" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030610.0608-EV8-1">
+      <extent>
+        <charseq START="1305" END="1314">sentencing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1305" END="1314">sentencing</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV9" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-20" ROLE="Person"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV9-1">
+      <extent>
+        <charseq START="1459" END="1464">parole</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1459" END="1464">parole</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-20-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV10" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-23" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-20" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-T6" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV10-1">
+      <extent>
+        <charseq START="1520" END="1536">He was not jailed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1531" END="1536">jailed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-20-1" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-T6-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030610.0608-EV10-2">
+      <extent>
+        <charseq START="1679" END="1684">arrest</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1679" END="1684">arrest</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-23-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV12" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-26" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-5" ROLE="Adjudicator"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-13" ROLE="Person"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV12-1">
+      <extent>
+        <charseq START="1760" END="1769">indictment</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1760" END="1769">indictment</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-26-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-5-4" ROLE="Adjudicator"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-13-2" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030610.0608-EV13" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030610.0608-T8" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-13" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-V14" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030610.0608-27" ROLE="Adjudicator"/>
+    <event_mention ID="AFP_ENG_20030610.0608-EV13-1">
+      <extent>
+        <charseq START="1950" END="1970">charges of
+conspiracy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1950" END="1956">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-V14-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-13-4" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-27-0" ROLE="Adjudicator"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030610.0608-EV13-2">
+      <extent>
+        <charseq START="2023" END="2032">indictment</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2023" END="2032">indictment</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030610.0608-13-5" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

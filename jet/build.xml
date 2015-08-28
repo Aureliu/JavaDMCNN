@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- updated 25 May 2011 to create parser stub jar -->
+
+<project name="Jet" default="compile">
+    <target name="init">
+        <property name="packages" value="Jet.*, AceJet.*" />
+        <property name="version" value="1.8.1" />
+
+        <property name="src.dir" value="src" />
+        <property name="build.dir" value="build/main" />
+        <property name="lib.dir" value="lib" />
+        <property name="docs.dir" value="docs" />
+        <property name="test.src.dir" value="test" />
+        <property name="test.build.dir" value="build/test" />
+        <property name="test.report.dir" value="report" />
+        <property name="parser-stub.src.dir" value="parser-stub-src" />
+        <property name="parser-stub.build.dir" value="build/parser-stub" />
+        <property name="build.javadocs" value="${docs.dir}/api" />
+        <property name="jar.filename" value="jet-${version}.jar" />
+
+        <!-- set this to "dbparser" to incorporate Bikel's parser -->
+        <property name="parser" value="parser-stub" />
+
+        <property name="jar.all.ver.filename" value="jet-all-${version}.jar" />
+        <property name="jar.all.filename" value="jet-all.jar" />
+        <property name="jar.build.dir" value="build/jar" />
+
+        <property name="debug" value="false" />
+        <property name="optimize" value="true" />
+
+        <path id="build.classpath">
+            <fileset dir="${lib.dir}">
+                <include name="${parser}.jar" />
+                <include name="jwnl12.jar" />
+                <include name="opennlp-yh-maxent-3.0.0.jar" />
+                <include name="trove.jar" />
+                <include name="commons-logging.jar" />
+                <include name="joda-time-1.2.1.jar" />
+                <include name="pnuts.jar" />
+                <include name="jyaml-1.0.jar" />
+                <include name="mallet-crf.jar" />
+                <include name="mallet.jar" />
+                <include name="slf4j-api-1.7.5.jar" />
+                <include name="slf4j-simple-1.7.5.jar" />
+                <include name="fanseparser-0.2.2.jar" />
+            </fileset>
+        </path>
+
+        <path id="test.classpath">
+            <fileset dir="${lib.dir}">
+                <include name="${parser}.jar" />
+                <include name="jwnl12.jar" />
+                <include name="opennlp-yh-maxent-3.0.0.jar" />
+                <include name="trove.jar" />
+                <include name="commons-logging.jar" />
+                <include name="joda-time-1.2.1.jar" />
+                <include name="pnuts.jar" />
+                <include name="jyaml-1.0.jar" />
+                <include name="mallet-crf.jar" />
+                <include name="mallet.jar" />
+                <include name="junit-4.0.jar" />
+                <include name="slf4j-api-1.7.5.jar" />
+                <include name="slf4j-simple-1.7.5.jar" />
+                <include name="fanseparser-0.2.2.jar" />
+           </fileset>
+        </path>
+    </target>
+
+    <target name="prepare" depends="init">
+        <mkdir dir="${build.dir}" />
+    </target>
+
+    <target name="compile" depends="prepare">
+        <javac srcdir="${src.dir}"
+               destdir="${build.dir}"
+               target="1.5"
+               encoding="UTF-8"
+               classpathref="build.classpath"
+               optimize="${optimize}"
+               debug="${debug}">
+        </javac>
+
+        <copy todir="${build.dir}">
+            <fileset dir="${src.dir}">
+                <include name="**/*.dtd" />
+                <include name="**/*.properties" />
+                <include name="**/resources/*" />
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="build-parser-stub" depends="init">
+        <!-- Build parser-stub.jar for use as library in place of real parser -->
+        <mkdir dir="${parser-stub.build.dir}" />
+        <javac srcdir="${parser-stub.src.dir}"
+               destdir="${parser-stub.build.dir}"
+               target="1.5" />
+        <jar jarfile="${lib.dir}/parser-stub.jar" basedir="${parser-stub.build.dir}"/>
+    </target>
+
+        <target name="compile-tests" depends="compile">
+                <mkdir dir="${test.build.dir}" />
+                <javac srcdir="${test.src.dir}"
+                           destdir="${test.build.dir}"
+                       classpathref="test.classpath">
+                        <classpath>
+                               <pathelement path="${build.dir}" />
+                        </classpath>
+                </javac>
+        </target>
+
+        <target name="test" depends="compile-tests">
+                <mkdir dir="${test.report.dir}" />
+
+                <junit printsummary="yes" fork="yes" maxmemory="400m">
+                        <classpath refid="test.classpath" />
+                        <classpath>
+                                <pathelement path="${build.dir}" />
+                                <pathelement path="${test.build.dir}" />
+                        </classpath>
+
+                        <formatter type="plain" />
+
+                        <batchtest fork="yes" todir="${test.report.dir}">
+                                <fileset dir="${test.src.dir}">
+                                        <include name="**/*Test.java" />
+                                        <exclude name="**/Abstract*.java" />
+                                        <exclude name="**/AllTest.java" />
+                                </fileset>
+                        </batchtest>
+                </junit>
+        </target>
+
+    <target name="javadoc" depends="init">
+        <mkdir dir="${build.javadocs}" />
+        <javadoc packagenames="${packages}"
+                 sourcepath="${src.dir}"
+                 destdir="${build.javadocs}"
+                 author="true"
+                 version="true"
+                 use="true"
+                 splitindex="true"
+                 noindex="false"
+                 windowtitle="Jet (Java Extraction Toolkit)"
+                 doctitle="Jet API v${version}"
+                 classpathref="build.classpath"
+                 locale="en_US" />
+    </target>
+
+    <target name="dist-jar" depends="build-parser-stub, compile">
+        <jar jarfile="${jar.filename}" basedir="${build.dir}" excludes="**/*.html" />
+    </target>
+
+    <target name="clean" depends="init">
+        <delete dir="${build.dir}" />
+        <delete dir="${build.javadocs}" />
+        <delete dir="${test.build.dir}" />
+        <delete dir="${test.report.dir}" />
+    </target>
+
+    <target name="dist-all-jar" depends="build-parser-stub, compile">
+        <mkdir dir="${jar.build.dir}" />
+        <unjar dest="${jar.build.dir}">
+            <fileset dir="${lib.dir}">
+                <include name="${parser}.jar" />
+                <include name="jwnl12.jar" />
+                <include name="opennlp-yh-maxent-3.0.0.jar" />
+                <include name="trove.jar" />
+                <include name="commons-logging.jar" />
+                <include name="joda-time-1.2.1.jar" />
+                <include name="pnuts.jar" />
+                <include name="jyaml-1.0.jar" />
+                <include name="mallet-crf.jar" />
+                <include name="mallet.jar" />
+			<!-- added 20 April 2013 -->
+                <include name="slf4j-api-1.7.5.jar" />
+                <include name="slf4j-simple-1.7.5.jar" />
+			<!-- added 13 May 2013 -->
+                <include name="fanseparser-0.2.2.jar" />
+            </fileset>
+        </unjar>
+        <delete dir="${jar.build.dir}/META-INF" />
+        <copy todir="${jar.build.dir}">
+            <fileset dir="${build.dir}"/>
+        </copy>
+        <jar jarfile="${jar.all.ver.filename}" basedir="${jar.build.dir}" index="true"/>
+        <delete dir="${jar.build.dir}" />
+	<copy file="${jar.all.ver.filename}" tofile="${jar.all.filename}" overwrite="true"/>
+    </target>
+</project>

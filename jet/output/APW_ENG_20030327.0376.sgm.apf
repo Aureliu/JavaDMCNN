@@ -1,0 +1,4517 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030327.0376.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030327.0376">
+  <entity ID="APW_ENG_20030327.0376-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="147" END="151">IRBIL</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="151">IRBIL</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="2270" END="2274">Irbil</charseq>
+      </extent>
+      <head>
+        <charseq START="2270" END="2274">Irbil</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="2242" END="2274">the
+Kurd-controlled city of Irbil</charseq>
+      </extent>
+      <head>
+        <charseq START="2262" END="2265">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="IRBIL">
+        <charseq START="147" END="151">IRBIL</charseq>
+      </name>
+      <name NAME="Irbil">
+        <charseq START="2270" END="2274">Irbil</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="154" END="157">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="157">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="376" END="388">northern Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="388">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="923" END="927">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="927">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1258" END="1262">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1262">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1293" END="1305">northern Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1302" END="1305">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="1710" END="1714">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1710" END="1714">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="1967" END="1971">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1967" END="1971">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="2956" END="2959">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2956" END="2959">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-8" ROLE="GPE">
+      <extent>
+        <charseq START="3245" END="3248">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3245" END="3248">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-9" ROLE="GPE">
+      <extent>
+        <charseq START="3322" END="3334">northern Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3331" END="3334">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-10" ROLE="GPE">
+      <extent>
+        <charseq START="3435" END="3438">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3435" END="3438">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-11" ROLE="GPE">
+      <extent>
+        <charseq START="3587" END="3590">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="3587" END="3590">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-12" ROLE="GPE">
+      <extent>
+        <charseq START="4530" END="4542">northern Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="4539" END="4542">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-13" ROLE="GPE">
+      <extent>
+        <charseq START="4547" END="4552">Tikrit</charseq>
+      </extent>
+      <head>
+        <charseq START="4547" END="4552">Tikrit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-14" ROLE="GPE">
+      <extent>
+        <charseq START="4816" END="4828">northern
+Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="4825" END="4828">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-15" ROLE="GPE">
+      <extent>
+        <charseq START="5030" END="5042">northern Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="5039" END="5042">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-2-16" ROLE="GPE">
+      <extent>
+        <charseq START="5179" END="5191">northern
+Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="5188" END="5191">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="154" END="157">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="385" END="388">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="923" END="927">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1258" END="1262">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1302" END="1305">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1710" END="1714">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1967" END="1971">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2956" END="2959">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3245" END="3248">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3331" END="3334">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3435" END="3438">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="3587" END="3590">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="4539" END="4542">Iraq</charseq>
+      </name>
+      <name NAME="Tikrit">
+        <charseq START="4547" END="4552">Tikrit</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="4825" END="4828">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="5039" END="5042">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="5188" END="5191">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-3-0">
+      <extent>
+        <charseq START="160" END="161">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="161">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="160" END="161">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-4" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="165" END="171">Kurdish</charseq>
+      </extent>
+      <head>
+        <charseq START="165" END="171">Kurdish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="1640" END="1646">Kurdish</charseq>
+      </extent>
+      <head>
+        <charseq START="1640" END="1646">Kurdish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="1841" END="1847">Kurdish</charseq>
+      </extent>
+      <head>
+        <charseq START="1841" END="1847">Kurdish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="2065" END="2071">Kurdish</charseq>
+      </extent>
+      <head>
+        <charseq START="2065" END="2071">Kurdish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="4874" END="4880">Kurdish</charseq>
+      </extent>
+      <head>
+        <charseq START="4874" END="4880">Kurdish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kurdish">
+        <charseq START="165" END="171">Kurdish</charseq>
+      </name>
+      <name NAME="Kurdish">
+        <charseq START="1640" END="1646">Kurdish</charseq>
+      </name>
+      <name NAME="Kurdish">
+        <charseq START="1841" END="1847">Kurdish</charseq>
+      </name>
+      <name NAME="Kurdish">
+        <charseq START="2065" END="2071">Kurdish</charseq>
+      </name>
+      <name NAME="Kurdish">
+        <charseq START="4874" END="4880">Kurdish</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-5-0">
+      <extent>
+        <charseq START="173" END="182">militiamen</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="182">militiamen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="188" END="191">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="191">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="250" END="253">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="253">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="843" END="846">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="846">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="1118" END="1121">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1121">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="1236" END="1239">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="1236" END="1239">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-5" ROLE="GPE">
+      <extent>
+        <charseq START="2766" END="2769">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2766" END="2769">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-6" ROLE="GPE">
+      <extent>
+        <charseq START="3141" END="3144">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3141" END="3144">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-7" ROLE="GPE">
+      <extent>
+        <charseq START="3307" END="3310">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3307" END="3310">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-8" ROLE="GPE">
+      <extent>
+        <charseq START="3651" END="3654">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="3651" END="3654">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-9" ROLE="GPE">
+      <extent>
+        <charseq START="4203" END="4206">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="4203" END="4206">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-6-10" ROLE="GPE">
+      <extent>
+        <charseq START="5089" END="5092">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="5089" END="5092">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="188" END="191">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="250" END="253">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="843" END="846">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="1118" END="1121">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="1236" END="1239">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2766" END="2769">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3141" END="3144">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3307" END="3310">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="3651" END="3654">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="4203" END="4206">U.S.</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="5089" END="5092">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-7-0">
+      <extent>
+        <charseq START="212" END="217">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="217">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-8-0">
+      <extent>
+        <charseq START="250" END="258">U.S. Army</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="258">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-8-1">
+      <extent>
+        <charseq START="452" END="459">The Army</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="459">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-8-2">
+      <extent>
+        <charseq START="498" END="515">elite Army Rangers</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="515">Army Rangers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-8-3">
+      <extent>
+        <charseq START="2836" END="2879">the U.S. Army&apos;s Southern
+European Task Force</charseq>
+      </extent>
+      <head>
+        <charseq START="2840" END="2879">U.S. Army&apos;s Southern
+European Task Force</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-8-4">
+      <extent>
+        <charseq START="3547" END="3554">the Army</charseq>
+      </extent>
+      <head>
+        <charseq START="3551" END="3554">Army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Army">
+        <charseq START="255" END="258">Army</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="456" END="459">Army</charseq>
+      </name>
+      <name NAME="Army Rangers">
+        <charseq START="504" END="515">Army Rangers</charseq>
+      </name>
+      <name NAME="U.S. Army&apos;s Southern European Task Force">
+        <charseq START="2840" END="2879">U.S. Army&apos;s Southern
+European Task Force</charseq>
+      </name>
+      <name NAME="Army">
+        <charseq START="3551" END="3554">Army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-9-0">
+      <extent>
+        <charseq START="260" END="271">paratroopers</charseq>
+      </extent>
+      <head>
+        <charseq START="260" END="271">paratroopers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-10-0">
+      <extent>
+        <charseq START="292" END="299">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="299">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-10-1">
+      <extent>
+        <charseq START="2577" END="2584">the area</charseq>
+      </extent>
+      <head>
+        <charseq START="2581" END="2584">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-10-2">
+      <extent>
+        <charseq START="4691" END="4704">the Mosul area</charseq>
+      </extent>
+      <head>
+        <charseq START="4701" END="4704">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-10-3">
+      <extent>
+        <charseq START="4709" END="4723">the Tikrit area</charseq>
+      </extent>
+      <head>
+        <charseq START="4720" END="4723">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-11-0">
+      <extent>
+        <charseq START="334" END="371">the first large coalition ground
+force</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="371">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="350" END="358">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="358">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="884" END="892">Coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="884" END="892">Coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-12-2" ROLE="GPE">
+      <extent>
+        <charseq START="1047" END="1055">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1055">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-12-3" ROLE="GPE">
+      <extent>
+        <charseq START="3150" END="3158">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="3150" END="3158">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-12-4" ROLE="GPE">
+      <extent>
+        <charseq START="3408" END="3416">coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="3408" END="3416">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-13-0">
+      <extent>
+        <charseq START="426" END="439">Saddam
+Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="439">Saddam
+Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-13-1">
+      <extent>
+        <charseq START="1022" END="1027">Saddam</charseq>
+      </extent>
+      <head>
+        <charseq START="1022" END="1027">Saddam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-13-2">
+      <extent>
+        <charseq START="3366" END="3371">Saddam</charseq>
+      </extent>
+      <head>
+        <charseq START="3366" END="3371">Saddam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-13-3">
+      <extent>
+        <charseq START="4555" END="4560">Saddam</charseq>
+      </extent>
+      <head>
+        <charseq START="4555" END="4560">Saddam</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-13-4">
+      <extent>
+        <charseq START="4607" END="4609">his</charseq>
+      </extent>
+      <head>
+        <charseq START="4607" END="4609">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="426" END="439">Saddam
+Hussein</charseq>
+      </name>
+      <name NAME="Saddam">
+        <charseq START="1022" END="1027">Saddam</charseq>
+      </name>
+      <name NAME="Saddam">
+        <charseq START="3366" END="3371">Saddam</charseq>
+      </name>
+      <name NAME="Saddam">
+        <charseq START="4555" END="4560">Saddam</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-14-0">
+      <extent>
+        <charseq START="426" END="448">Saddam
+Hussein&apos;s regime</charseq>
+      </extent>
+      <head>
+        <charseq START="443" END="448">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-15-0">
+      <extent>
+        <charseq START="452" END="484">The Army&apos;s 173rd Airborne Brigade</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="484">173rd Airborne Brigade</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="173rd Airborne Brigade">
+        <charseq START="463" END="484">173rd Airborne Brigade</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-16" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-16-0">
+      <extent>
+        <charseq START="532" END="563">low-flying C-17 transport planes</charseq>
+      </extent>
+      <head>
+        <charseq START="558" END="563">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-17" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-17-0">
+      <extent>
+        <charseq START="543" END="546">C-17</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="546">C-17</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="C-17">
+        <charseq START="543" END="546">C-17</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-18" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-18-0">
+      <extent>
+        <charseq START="611" END="647">a snow-dusted airfield, which will be</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="632">airfield</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-19-0">
+      <extent>
+        <charseq START="666" END="695">supplies and support personnel</charseq>
+      </extent>
+      <head>
+        <charseq START="687" END="695">personnel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-20-0">
+      <extent>
+        <charseq START="788" END="800">ground troops</charseq>
+      </extent>
+      <head>
+        <charseq START="795" END="800">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-21-0">
+      <extent>
+        <charseq START="807" END="814">a region</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="814">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-22-0">
+      <extent>
+        <charseq START="822" END="861">only small
+groups of U.S. special forces</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="838">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-23-0">
+      <extent>
+        <charseq START="843" END="861">U.S. special forces</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="861">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-24-0">
+      <extent>
+        <charseq START="923" END="943">Iraqi military forces</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="943">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="976" END="984">the north</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="984">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-25-1" ROLE="GPE">
+      <extent>
+        <charseq START="1133" END="1141">the north</charseq>
+      </extent>
+      <head>
+        <charseq START="1137" END="1141">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-26-0">
+      <extent>
+        <charseq START="1022" END="1062">Saddam&apos;s forces battling coalition
+forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1036">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-27-0">
+      <extent>
+        <charseq START="1047" END="1062">coalition
+forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1057" END="1062">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-28-0">
+      <extent>
+        <charseq START="1080" END="1102">Brig. Gen. James Parker</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1102">James Parker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-28-1">
+      <extent>
+        <charseq START="1086" END="1089">Gen.</charseq>
+      </extent>
+      <head>
+        <charseq START="1086" END="1089">Gen.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="James Parker">
+        <charseq START="1091" END="1102">James Parker</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-29-0">
+      <extent>
+        <charseq START="1105" END="1128">commander of U.S.
+forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1105" END="1113">commander</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-30-0">
+      <extent>
+        <charseq START="1118" END="1128">U.S.
+forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1123" END="1128">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="1184" END="1190">Turkish</charseq>
+      </extent>
+      <head>
+        <charseq START="1184" END="1190">Turkish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-31-1" ROLE="GPE">
+      <extent>
+        <charseq START="2318" END="2324">Turkish</charseq>
+      </extent>
+      <head>
+        <charseq START="2318" END="2324">Turkish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-31-2" ROLE="GPE">
+      <extent>
+        <charseq START="3612" END="3617">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="3612" END="3617">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-31-3" ROLE="GPE">
+      <extent>
+        <charseq START="3666" END="3668">its</charseq>
+      </extent>
+      <head>
+        <charseq START="3666" END="3668">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-31-4" ROLE="GPE">
+      <extent>
+        <charseq START="4985" END="4990">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="4985" END="4990">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-31-5" ROLE="GPE">
+      <extent>
+        <charseq START="5001" END="5002">it</charseq>
+      </extent>
+      <head>
+        <charseq START="5001" END="5002">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-31-6" ROLE="GPE">
+      <extent>
+        <charseq START="5127" END="5132">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="5127" END="5132">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turkish">
+        <charseq START="1184" END="1190">Turkish</charseq>
+      </name>
+      <name NAME="Turkish">
+        <charseq START="2318" END="2324">Turkish</charseq>
+      </name>
+      <name NAME="Turkey">
+        <charseq START="3612" END="3617">Turkey</charseq>
+      </name>
+      <name NAME="Turkey">
+        <charseq START="4985" END="4990">Turkey</charseq>
+      </name>
+      <name NAME="Turkey">
+        <charseq START="5127" END="5132">Turkey</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-32-0">
+      <extent>
+        <charseq START="1184" END="1197">Turkish
+forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1192" END="1197">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-33" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-33-0">
+      <extent>
+        <charseq START="1236" END="1249">U.S. warplanes</charseq>
+      </extent>
+      <head>
+        <charseq START="1241" END="1249">warplanes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-34-0">
+      <extent>
+        <charseq START="1258" END="1276">Iraqi ground
+troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1271" END="1276">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-35-0">
+      <extent>
+        <charseq START="1282" END="1288">bunkers</charseq>
+      </extent>
+      <head>
+        <charseq START="1282" END="1288">bunkers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-36" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-36-0">
+      <extent>
+        <charseq START="1323" END="1335">combat planes</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1335">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-37" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-37-0">
+      <extent>
+        <charseq START="1342" END="1384">the aircraft carrier USS Theodore Roosevelt</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1384">USS Theodore Roosevelt</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-37-1">
+      <extent>
+        <charseq START="1355" END="1361">carrier</charseq>
+      </extent>
+      <head>
+        <charseq START="1355" END="1361">carrier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="USS Theodore Roosevelt">
+        <charseq START="1363" END="1384">USS Theodore Roosevelt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-38" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-38-0">
+      <extent>
+        <charseq START="1346" END="1353">aircraft</charseq>
+      </extent>
+      <head>
+        <charseq START="1346" END="1353">aircraft</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-39-0">
+      <extent>
+        <charseq START="1392" END="1404">ground troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1399" END="1404">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-40-0">
+      <extent>
+        <charseq START="1407" END="1433">command and control bunkers</charseq>
+      </extent>
+      <head>
+        <charseq START="1427" END="1433">bunkers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-41" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-41-0">
+      <extent>
+        <charseq START="1436" END="1444">artillery</charseq>
+      </extent>
+      <head>
+        <charseq START="1436" END="1444">artillery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-42" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-42-0">
+      <extent>
+        <charseq START="1481" END="1487">missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1481" END="1487">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-43-0">
+      <extent>
+        <charseq START="1505" END="1521">Lt. John Oliveira</charseq>
+      </extent>
+      <head>
+        <charseq START="1509" END="1521">John Oliveira</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-43-1">
+      <extent>
+        <charseq START="1505" END="1507">Lt.</charseq>
+      </extent>
+      <head>
+        <charseq START="1505" END="1507">Lt.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-43-2">
+      <extent>
+        <charseq START="2795" END="2797">Lt.</charseq>
+      </extent>
+      <head>
+        <charseq START="2795" END="2797">Lt.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Oliveira">
+        <charseq START="1509" END="1521">John Oliveira</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-44" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-44-0">
+      <extent>
+        <charseq START="1524" END="1531">the ship</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1531">ship</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-45-0">
+      <extent>
+        <charseq START="1524" END="1555">the ship&apos;s public
+affair officer</charseq>
+      </extent>
+      <head>
+        <charseq START="1549" END="1555">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-46" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-46-0" ROLE="GPE">
+      <extent>
+        <charseq START="1677" END="1681">Kalak</charseq>
+      </extent>
+      <head>
+        <charseq START="1677" END="1681">Kalak</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-46-1" ROLE="GPE">
+      <extent>
+        <charseq START="1662" END="1681">the village of Kalak</charseq>
+      </extent>
+      <head>
+        <charseq START="1666" END="1672">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kalak">
+        <charseq START="1677" END="1681">Kalak</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-47" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-47-0">
+      <extent>
+        <charseq START="1729" END="1760">the hills overlooking Chamchamal</charseq>
+      </extent>
+      <head>
+        <charseq START="1733" END="1737">hills</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-48-0" ROLE="GPE">
+      <extent>
+        <charseq START="1751" END="1760">Chamchamal</charseq>
+      </extent>
+      <head>
+        <charseq START="1751" END="1760">Chamchamal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-48-1" ROLE="GPE">
+      <extent>
+        <charseq START="1859" END="1868">Chamchamal</charseq>
+      </extent>
+      <head>
+        <charseq START="1859" END="1868">Chamchamal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-48-2" ROLE="GPE">
+      <extent>
+        <charseq START="1879" END="1883">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1879" END="1883">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chamchamal">
+        <charseq START="1751" END="1760">Chamchamal</charseq>
+      </name>
+      <name NAME="Chamchamal">
+        <charseq START="1859" END="1868">Chamchamal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-49" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-49-0" ROLE="GPE">
+      <extent>
+        <charseq START="1816" END="1821">Kirkuk</charseq>
+      </extent>
+      <head>
+        <charseq START="1816" END="1821">Kirkuk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-49-1" ROLE="GPE">
+      <extent>
+        <charseq START="1796" END="1821">the key oil city of Kirkuk</charseq>
+      </extent>
+      <head>
+        <charseq START="1808" END="1811">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-49-2" ROLE="GPE">
+      <extent>
+        <charseq START="3901" END="3906">Kirkuk</charseq>
+      </extent>
+      <head>
+        <charseq START="3901" END="3906">Kirkuk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-49-3" ROLE="GPE">
+      <extent>
+        <charseq START="4246" END="4251">Kirkuk</charseq>
+      </extent>
+      <head>
+        <charseq START="4246" END="4251">Kirkuk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-49-4" ROLE="GPE">
+      <extent>
+        <charseq START="4256" END="4258">key</charseq>
+      </extent>
+      <head>
+        <charseq START="4256" END="4258">key</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-49-5" ROLE="GPE">
+      <extent>
+        <charseq START="4278" END="4279">it</charseq>
+      </extent>
+      <head>
+        <charseq START="4278" END="4279">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-49-6" ROLE="GPE">
+      <extent>
+        <charseq START="4500" END="4505">Kirkuk</charseq>
+      </extent>
+      <head>
+        <charseq START="4500" END="4505">Kirkuk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-49-7" ROLE="GPE">
+      <extent>
+        <charseq START="4516" END="4518">key</charseq>
+      </extent>
+      <head>
+        <charseq START="4516" END="4518">key</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-49-8" ROLE="GPE">
+      <extent>
+        <charseq START="4764" END="4766">key</charseq>
+      </extent>
+      <head>
+        <charseq START="4764" END="4766">key</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kirkuk">
+        <charseq START="1816" END="1821">Kirkuk</charseq>
+      </name>
+      <name NAME="Kirkuk">
+        <charseq START="3901" END="3906">Kirkuk</charseq>
+      </name>
+      <name NAME="Kirkuk">
+        <charseq START="4246" END="4251">Kirkuk</charseq>
+      </name>
+      <name NAME="Kirkuk">
+        <charseq START="4500" END="4505">Kirkuk</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-50-0">
+      <extent>
+        <charseq START="1841" END="1854">Kurdish troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1849" END="1854">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-50-1">
+      <extent>
+        <charseq START="2137" END="2142">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="2137" END="2142">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-51-0" ROLE="GPE">
+      <extent>
+        <charseq START="1903" END="1912">government</charseq>
+      </extent>
+      <head>
+        <charseq START="1903" END="1912">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-52" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-52-0">
+      <extent>
+        <charseq START="1929" END="1950">rebel-controlled areas</charseq>
+      </extent>
+      <head>
+        <charseq START="1946" END="1950">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-52-1">
+      <extent>
+        <charseq START="1988" END="1992">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1988" END="1992">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-53-0">
+      <extent>
+        <charseq START="2032" END="2040">witnesses</charseq>
+      </extent>
+      <head>
+        <charseq START="2032" END="2040">witnesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-54" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-54-0">
+      <extent>
+        <charseq START="2065" END="2080">Kurdish fighters</charseq>
+      </extent>
+      <head>
+        <charseq START="2073" END="2080">fighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-55" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-55-0">
+      <extent>
+        <charseq START="2093" END="2101">a highway</charseq>
+      </extent>
+      <head>
+        <charseq START="2095" END="2101">highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-55-1">
+      <extent>
+        <charseq START="2340" END="2350">the highway</charseq>
+      </extent>
+      <head>
+        <charseq START="2344" END="2350">highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-56" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-56-0">
+      <extent>
+        <charseq START="2107" END="2111">roads</charseq>
+      </extent>
+      <head>
+        <charseq START="2107" END="2111">roads</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-57" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-57-0">
+      <extent>
+        <charseq START="2118" END="2129">the airstrip</charseq>
+      </extent>
+      <head>
+        <charseq START="2122" END="2129">airstrip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-57-1">
+      <extent>
+        <charseq START="2402" END="2413">the airstrip</charseq>
+      </extent>
+      <head>
+        <charseq START="2406" END="2413">airstrip</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-58" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-58-0" ROLE="GPE">
+      <extent>
+        <charseq START="2190" END="2195">Bashur</charseq>
+      </extent>
+      <head>
+        <charseq START="2190" END="2195">Bashur</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-58-1" ROLE="GPE">
+      <extent>
+        <charseq START="2178" END="2195">the town
+of Bashur</charseq>
+      </extent>
+      <head>
+        <charseq START="2182" END="2185">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bashur">
+        <charseq START="2190" END="2195">Bashur</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-59" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-59-0">
+      <extent>
+        <charseq START="2314" END="2331">the Turkish border</charseq>
+      </extent>
+      <head>
+        <charseq START="2326" END="2331">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-60" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-60-0">
+      <extent>
+        <charseq START="2402" END="2429">the airstrip&apos;s control tower</charseq>
+      </extent>
+      <head>
+        <charseq START="2425" END="2429">tower</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-61" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-61-0">
+      <extent>
+        <charseq START="2464" END="2480">three
+helicopters</charseq>
+      </extent>
+      <head>
+        <charseq START="2470" END="2480">helicopters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-61-1">
+      <extent>
+        <charseq START="2528" END="2532">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2528" END="2532">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-62" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-62-0">
+      <extent>
+        <charseq START="2599" END="2628">supplies and support
+personnel</charseq>
+      </extent>
+      <head>
+        <charseq START="2620" END="2628">personnel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-63-0">
+      <extent>
+        <charseq START="2634" END="2653">the 173rd&apos;s fighters</charseq>
+      </extent>
+      <head>
+        <charseq START="2646" END="2653">fighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-64-0">
+      <extent>
+        <charseq START="2638" END="2644">173rd&apos;s</charseq>
+      </extent>
+      <head>
+        <charseq START="2638" END="2644">173rd&apos;s</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-64-1">
+      <extent>
+        <charseq START="3714" END="3722">the 173rd</charseq>
+      </extent>
+      <head>
+        <charseq START="3718" END="3722">173rd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-64-2">
+      <extent>
+        <charseq START="4018" END="4026">the 173rd</charseq>
+      </extent>
+      <head>
+        <charseq START="4022" END="4026">173rd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-64-3">
+      <extent>
+        <charseq START="4232" END="4240">the 173rd</charseq>
+      </extent>
+      <head>
+        <charseq START="4236" END="4240">173rd</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-64-4">
+      <extent>
+        <charseq START="4780" END="4788">the 173rd</charseq>
+      </extent>
+      <head>
+        <charseq START="4784" END="4788">173rd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="173rd&apos;s">
+        <charseq START="2638" END="2644">173rd&apos;s</charseq>
+      </name>
+      <name NAME="173rd">
+        <charseq START="3718" END="3722">173rd</charseq>
+      </name>
+      <name NAME="173rd">
+        <charseq START="4022" END="4026">173rd</charseq>
+      </name>
+      <name NAME="173rd">
+        <charseq START="4236" END="4240">173rd</charseq>
+      </name>
+      <name NAME="173rd">
+        <charseq START="4784" END="4788">173rd</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-65-0">
+      <extent>
+        <charseq START="2656" END="2672">defense officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2664" END="2672">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-66" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-66-0">
+      <extent>
+        <charseq START="2680" END="2691">The
+airfield</charseq>
+      </extent>
+      <head>
+        <charseq START="2684" END="2691">airfield</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-67" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-67-0">
+      <extent>
+        <charseq START="2720" END="2725">runway</charseq>
+      </extent>
+      <head>
+        <charseq START="2720" END="2725">runway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-68" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-68-0">
+      <extent>
+        <charseq START="2750" END="2754">C-17s</charseq>
+      </extent>
+      <head>
+        <charseq START="2750" END="2754">C-17s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="C-17s">
+        <charseq START="2750" END="2754">C-17s</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-69" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-69-0">
+      <extent>
+        <charseq START="2760" END="2791">other U.S. military cargo planes</charseq>
+      </extent>
+      <head>
+        <charseq START="2786" END="2791">planes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-70-0">
+      <extent>
+        <charseq START="2799" END="2817">Col. Thomas Collins</charseq>
+      </extent>
+      <head>
+        <charseq START="2804" END="2817">Thomas Collins</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-70-1">
+      <extent>
+        <charseq START="2799" END="2802">Col.</charseq>
+      </extent>
+      <head>
+        <charseq START="2799" END="2802">Col.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Thomas Collins">
+        <charseq START="2804" END="2817">Thomas Collins</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-71-0">
+      <extent>
+        <charseq START="2820" END="2830">a spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="2822" END="2830">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-72" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-72-0">
+      <extent>
+        <charseq START="2905" END="2929">the paratroopers deployed</charseq>
+      </extent>
+      <head>
+        <charseq START="2909" END="2920">paratroopers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-73" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-73-0" ROLE="GPE">
+      <extent>
+        <charseq START="2945" END="2949">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="2945" END="2949">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-73-1" ROLE="GPE">
+      <extent>
+        <charseq START="3040" END="3044">Italy</charseq>
+      </extent>
+      <head>
+        <charseq START="3040" END="3044">Italy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-73-2" ROLE="GPE">
+      <extent>
+        <charseq START="3174" END="3180">Italian</charseq>
+      </extent>
+      <head>
+        <charseq START="3174" END="3180">Italian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Italy">
+        <charseq START="2945" END="2949">Italy</charseq>
+      </name>
+      <name NAME="Italy">
+        <charseq START="3040" END="3044">Italy</charseq>
+      </name>
+      <name NAME="Italian">
+        <charseq START="3174" END="3180">Italian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-74" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-74-0" ROLE="GPE">
+      <extent>
+        <charseq START="3090" END="3100">The country</charseq>
+      </extent>
+      <head>
+        <charseq START="3094" END="3100">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-75" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-75-0">
+      <extent>
+        <charseq START="3090" END="3113">The country&apos;s parliament</charseq>
+      </extent>
+      <head>
+        <charseq START="3104" END="3113">parliament</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="parliament">
+        <charseq START="3104" END="3113">parliament</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-76" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-76-0">
+      <extent>
+        <charseq START="3141" END="3165">U.S.-led coalition forces</charseq>
+      </extent>
+      <head>
+        <charseq START="3160" END="3165">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-77" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-77-0">
+      <extent>
+        <charseq START="3174" END="3209">Italian air space and
+military bases</charseq>
+      </extent>
+      <head>
+        <charseq START="3205" END="3209">bases</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-78" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-78-0">
+      <extent>
+        <charseq START="3205" END="3209">bases</charseq>
+      </extent>
+      <head>
+        <charseq START="3205" END="3209">bases</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-79" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-79-0">
+      <extent>
+        <charseq START="3252" END="3259">Pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="3252" END="3259">Pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-79-1">
+      <extent>
+        <charseq START="3510" END="3517">Pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="3510" END="3517">Pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pentagon">
+        <charseq START="3252" END="3259">Pentagon</charseq>
+      </name>
+      <name NAME="Pentagon">
+        <charseq START="3510" END="3517">Pentagon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-80-0">
+      <extent>
+        <charseq START="3252" END="3269">Pentagon officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3261" END="3269">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-81-0">
+      <extent>
+        <charseq START="3307" END="3317">U.S. forces</charseq>
+      </extent>
+      <head>
+        <charseq START="3312" END="3317">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-82" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-82-0">
+      <extent>
+        <charseq START="3366" END="3380">Saddam&apos;s forces</charseq>
+      </extent>
+      <head>
+        <charseq START="3375" END="3380">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-83-0">
+      <extent>
+        <charseq START="3404" END="3430">the coalition ground troops</charseq>
+      </extent>
+      <head>
+        <charseq START="3425" END="3430">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-84" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-84-0" ROLE="GPE">
+      <extent>
+        <charseq START="3458" END="3464">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="3458" END="3464">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Baghdad">
+        <charseq START="3458" END="3464">Baghdad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-85" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-85-0" ROLE="GPE">
+      <extent>
+        <charseq START="3501" END="3506">Kuwait</charseq>
+      </extent>
+      <head>
+        <charseq START="3501" END="3506">Kuwait</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kuwait">
+        <charseq START="3501" END="3506">Kuwait</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-86" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-86-0">
+      <extent>
+        <charseq START="3510" END="3527">Pentagon officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3519" END="3527">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-87" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-87-0">
+      <extent>
+        <charseq START="3547" END="3578">the Army&apos;s 4th Infantry Division</charseq>
+      </extent>
+      <head>
+        <charseq START="3558" END="3578">4th Infantry Division</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="4th Infantry Division">
+        <charseq START="3558" END="3578">4th Infantry Division</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-88" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-88-0">
+      <extent>
+        <charseq START="3597" END="3605">the north</charseq>
+      </extent>
+      <head>
+        <charseq START="3601" END="3605">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-88-1">
+      <extent>
+        <charseq START="5076" END="5080">north</charseq>
+      </extent>
+      <head>
+        <charseq START="5076" END="5080">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="north">
+        <charseq START="3601" END="3605">north</charseq>
+      </name>
+      <name NAME="north">
+        <charseq START="5076" END="5080">north</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-89" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-89-0">
+      <extent>
+        <charseq START="3644" END="3661">62,000 U.S. troops</charseq>
+      </extent>
+      <head>
+        <charseq START="3656" END="3661">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-89-1">
+      <extent>
+        <charseq START="4070" END="4075">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="4070" END="4075">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-90" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-90-0" ROLE="GPE">
+      <extent>
+        <charseq START="3666" END="3673">its soil</charseq>
+      </extent>
+      <head>
+        <charseq START="3670" END="3673">soil</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-91" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-91-0">
+      <extent>
+        <charseq START="3730" END="3741">the military</charseq>
+      </extent>
+      <head>
+        <charseq START="3734" END="3741">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-92" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-92-0">
+      <extent>
+        <charseq START="3785" END="3802">Military officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3794" END="3802">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-92-1">
+      <extent>
+        <charseq START="3808" END="3811">they</charseq>
+      </extent>
+      <head>
+        <charseq START="3808" END="3811">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-93" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-93-0">
+      <extent>
+        <charseq START="3838" END="3859">secured key oil
+fields</charseq>
+      </extent>
+      <head>
+        <charseq START="3854" END="3859">fields</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-94" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-94-0" ROLE="GPE">
+      <extent>
+        <charseq START="3868" END="3895">the northern cities of Mosul</charseq>
+      </extent>
+      <head>
+        <charseq START="3881" END="3886">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-94-1" ROLE="GPE">
+      <extent>
+        <charseq START="3924" END="3933">the cities</charseq>
+      </extent>
+      <head>
+        <charseq START="3928" END="3933">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-94-2" ROLE="GPE">
+      <extent>
+        <charseq START="3935" END="3944">themselves</charseq>
+      </extent>
+      <head>
+        <charseq START="3935" END="3944">themselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-95" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-95-0" ROLE="GPE">
+      <extent>
+        <charseq START="3891" END="3895">Mosul</charseq>
+      </extent>
+      <head>
+        <charseq START="3891" END="3895">Mosul</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-95-1" ROLE="GPE">
+      <extent>
+        <charseq START="4490" END="4494">Mosul</charseq>
+      </extent>
+      <head>
+        <charseq START="4490" END="4494">Mosul</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-95-2" ROLE="GPE">
+      <extent>
+        <charseq START="4695" END="4699">Mosul</charseq>
+      </extent>
+      <head>
+        <charseq START="4695" END="4699">Mosul</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mosul">
+        <charseq START="3891" END="3895">Mosul</charseq>
+      </name>
+      <name NAME="Mosul">
+        <charseq START="4490" END="4494">Mosul</charseq>
+      </name>
+      <name NAME="Mosul">
+        <charseq START="4695" END="4699">Mosul</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-96" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-96-0">
+      <extent>
+        <charseq START="4083" END="4087">plane</charseq>
+      </extent>
+      <head>
+        <charseq START="4083" END="4087">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-97" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-97-0">
+      <extent>
+        <charseq START="4097" END="4122">a significant combat force</charseq>
+      </extent>
+      <head>
+        <charseq START="4118" END="4122">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-97-1">
+      <extent>
+        <charseq START="4165" END="4170">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="4165" END="4170">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-98" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-98-0">
+      <extent>
+        <charseq START="4173" END="4180">officers</charseq>
+      </extent>
+      <head>
+        <charseq START="4173" END="4180">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-99" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-99-0">
+      <extent>
+        <charseq START="4261" END="4269">The Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="4265" END="4269">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqi">
+        <charseq START="4265" END="4269">Iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-100" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-100-0">
+      <extent>
+        <charseq START="4301" END="4309">the Turks</charseq>
+      </extent>
+      <head>
+        <charseq START="4305" END="4309">Turks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turks">
+        <charseq START="4305" END="4309">Turks</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-101" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-101-0">
+      <extent>
+        <charseq START="4323" END="4349">various other ethnic groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4344" END="4349">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-102" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-102-0">
+      <extent>
+        <charseq START="4367" END="4384">Maj. Mike
+Hastings</charseq>
+      </extent>
+      <head>
+        <charseq START="4372" END="4384">Mike
+Hastings</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-102-1">
+      <extent>
+        <charseq START="4367" END="4370">Maj.</charseq>
+      </extent>
+      <head>
+        <charseq START="4367" END="4370">Maj.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mike Hastings">
+        <charseq START="4372" END="4384">Mike
+Hastings</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-103" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-103-0">
+      <extent>
+        <charseq START="4465" END="4476">other forces</charseq>
+      </extent>
+      <head>
+        <charseq START="4471" END="4476">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-104" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-104-0" ROLE="GPE">
+      <extent>
+        <charseq START="4555" END="4571">Saddam&apos;s hometown</charseq>
+      </extent>
+      <head>
+        <charseq START="4564" END="4571">hometown</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-105" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-105-0">
+      <extent>
+        <charseq START="4577" END="4593">the tribal center</charseq>
+      </extent>
+      <head>
+        <charseq START="4588" END="4593">center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-106" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-106-0">
+      <extent>
+        <charseq START="4625" END="4674">Most of the Adnan Division of the Republican Guard</charseq>
+      </extent>
+      <head>
+        <charseq START="4625" END="4628">Most</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-107" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-107-0">
+      <extent>
+        <charseq START="4633" END="4650">the Adnan Division</charseq>
+      </extent>
+      <head>
+        <charseq START="4637" END="4650">Adnan Division</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Adnan Division">
+        <charseq START="4637" END="4650">Adnan Division</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-108" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-108-0">
+      <extent>
+        <charseq START="4655" END="4674">the Republican Guard</charseq>
+      </extent>
+      <head>
+        <charseq START="4659" END="4674">Republican Guard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Republican Guard">
+        <charseq START="4659" END="4674">Republican Guard</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-109" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-109-0" ROLE="GPE">
+      <extent>
+        <charseq START="4713" END="4718">Tikrit</charseq>
+      </extent>
+      <head>
+        <charseq START="4713" END="4718">Tikrit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tikrit">
+        <charseq START="4713" END="4718">Tikrit</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-110" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-110-0">
+      <extent>
+        <charseq START="4854" END="4889">two semi-autonomous Kurdish factions</charseq>
+      </extent>
+      <head>
+        <charseq START="4882" END="4889">factions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-111" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-111-0">
+      <extent>
+        <charseq START="4909" END="4931">several splinter groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4926" END="4931">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-112" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-112-0">
+      <extent>
+        <charseq START="4937" END="4942">a base</charseq>
+      </extent>
+      <head>
+        <charseq START="4939" END="4942">base</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-113" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-113-0">
+      <extent>
+        <charseq START="4948" END="4981">the
+al-Qaida-linked Ansar al-Islam</charseq>
+      </extent>
+      <head>
+        <charseq START="4968" END="4981">Ansar al-Islam</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ansar al-Islam">
+        <charseq START="4968" END="4981">Ansar al-Islam</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-114" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030327.0376-114-0">
+      <extent>
+        <charseq START="4952" END="4959">al-Qaida</charseq>
+      </extent>
+      <head>
+        <charseq START="4952" END="4959">al-Qaida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="al-Qaida">
+        <charseq START="4952" END="4959">al-Qaida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-115" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-115-0">
+      <extent>
+        <charseq START="5013" END="5023">more troops</charseq>
+      </extent>
+      <head>
+        <charseq START="5018" END="5023">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-116" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-116-0">
+      <extent>
+        <charseq START="5055" END="5062">refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="5055" END="5062">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-117" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-117-0">
+      <extent>
+        <charseq START="5089" END="5102">U.S. officials</charseq>
+      </extent>
+      <head>
+        <charseq START="5094" END="5102">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030327.0376-117-1">
+      <extent>
+        <charseq START="5114" END="5117">they</charseq>
+      </extent>
+      <head>
+        <charseq START="5114" END="5117">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030327.0376-118" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030327.0376-118-0">
+      <extent>
+        <charseq START="5150" END="5172">large additional forces</charseq>
+      </extent>
+      <head>
+        <charseq START="5167" END="5172">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030327.0376-V3" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030327.0376-V3-1">
+      <extent>
+        <charseq START="1481" END="1495">missile battery</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030327.0376-T0" VAL="2003-03-27">
+    <timex2_mention ID="APW_ENG_20030327.0376-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030327</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T1" VAL="2003-03-27">
+    <timex2_mention ID="APW_ENG_20030327.0376-T1-1">
+      <extent>
+        <charseq START="273" END="280">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T2" VAL="2003-03-26">
+    <timex2_mention ID="APW_ENG_20030327.0376-T2-1">
+      <extent>
+        <charseq START="589" END="597">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T3" VAL="2003-03-27">
+    <timex2_mention ID="APW_ENG_20030327.0376-T3-1">
+      <extent>
+        <charseq START="1571" END="1578">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T4" VAL="2003-03-27">
+    <timex2_mention ID="APW_ENG_20030327.0376-T4-1">
+      <extent>
+        <charseq START="1831" END="1838">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T5" VAL="2003-03-27">
+    <timex2_mention ID="APW_ENG_20030327.0376-T5-1">
+      <extent>
+        <charseq START="2055" END="2062">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T6" VAL="6700">
+    <timex2_mention ID="APW_ENG_20030327.0376-T6-1">
+      <extent>
+        <charseq START="2695" END="2699">6,700</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T7" VAL="2042">
+    <timex2_mention ID="APW_ENG_20030327.0376-T7-1">
+      <extent>
+        <charseq START="2707" END="2711">2,042</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T8" VAL="2003-03">
+    <timex2_mention ID="APW_ENG_20030327.0376-T8-1">
+      <extent>
+        <charseq START="3121" END="3130">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T9" VAL="PXW">
+    <timex2_mention ID="APW_ENG_20030327.0376-T9-1">
+      <extent>
+        <charseq START="3281" END="3289">for weeks</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030327.0376-T10" VAL="2003-03-27">
+    <timex2_mention ID="APW_ENG_20030327.0376-T10-1">
+      <extent>
+        <charseq START="3953" END="3955">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030327.0376-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030327.0376-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R1-1">
+      <extent>
+        <charseq START="147" END="157">IRBIL, Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="147" END="151">IRBIL</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="154" END="157">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030327.0376-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R2-1">
+      <extent>
+        <charseq START="165" END="182">Kurdish militiamen</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="173" END="182">militiamen</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="165" END="171">Kurdish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030327.0376-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R3-1">
+      <extent>
+        <charseq START="250" END="258">U.S. Army</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="250" END="258">U.S. Army</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="250" END="253">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R4-1">
+      <extent>
+        <charseq START="260" END="299">paratroopers Thursday to secure the area</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="260" END="271">paratroopers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="292" END="299">the area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030327.0376-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R5-1">
+      <extent>
+        <charseq START="334" END="371">the first large coalition ground
+force</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="334" END="371">the first large coalition ground
+force</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="350" END="358">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030327.0376-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R6-1">
+      <extent>
+        <charseq START="334" END="388">the first large coalition ground
+force in northern Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="334" END="371">the first large coalition ground
+force</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="376" END="388">northern Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030327.0376-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-14" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R7-1">
+      <extent>
+        <charseq START="426" END="448">Saddam
+Hussein&apos;s regime</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="439">Saddam
+Hussein</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="426" END="448">Saddam
+Hussein&apos;s regime</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030327.0376-15" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R8-1">
+      <extent>
+        <charseq START="452" END="484">The Army&apos;s 173rd Airborne Brigade</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="452" END="484">The Army&apos;s 173rd Airborne Brigade</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="452" END="459">The Army</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-15" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-16" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R9-1">
+      <extent>
+        <charseq START="452" END="563">The Army&apos;s 173rd Airborne Brigade , including elite Army Rangers,
+jumped out of low-flying C-17 transport planes</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="452" END="484">The Army&apos;s 173rd Airborne Brigade</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="532" END="563">low-flying C-17 transport planes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R10" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-20" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-21" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R10-1">
+      <extent>
+        <charseq START="788" END="814">ground troops into a region</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="788" END="800">ground troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="807" END="814">a region</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R11" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R11-1">
+      <extent>
+        <charseq START="843" END="861">U.S. special forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="843" END="861">U.S. special forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="843" END="846">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R12" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-24" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R12-1">
+      <extent>
+        <charseq START="923" END="943">Iraqi military forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="923" END="943">Iraqi military forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="923" END="927">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R13" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030327.0376-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-26" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R13-1">
+      <extent>
+        <charseq START="1022" END="1062">Saddam&apos;s forces battling coalition
+forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1022" END="1027">Saddam</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-26-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1022" END="1062">Saddam&apos;s forces battling coalition
+forces</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R14-1">
+      <extent>
+        <charseq START="1047" END="1062">coalition
+forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-27-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1047" END="1062">coalition
+forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-12-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1047" END="1055">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R15" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R15-1">
+      <extent>
+        <charseq START="1118" END="1128">U.S.
+forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1118" END="1128">U.S.
+forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1118" END="1121">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R16" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-25" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R16-1">
+      <extent>
+        <charseq START="1118" END="1141">U.S.
+forces in the north</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1118" END="1128">U.S.
+forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-25-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1133" END="1141">the north</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R17" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-32" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-31" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R17-1">
+      <extent>
+        <charseq START="1184" END="1197">Turkish
+forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-32-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1184" END="1197">Turkish
+forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-31-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1184" END="1190">Turkish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R18" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-33" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R18-1">
+      <extent>
+        <charseq START="1236" END="1249">U.S. warplanes</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="1236" END="1239">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-33-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1236" END="1249">U.S. warplanes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R19" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-34" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R19-1">
+      <extent>
+        <charseq START="1258" END="1276">Iraqi ground
+troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-34-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1258" END="1276">Iraqi ground
+troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1258" END="1262">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R20" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-34" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R20-1">
+      <extent>
+        <charseq START="1258" END="1305">Iraqi ground
+troops and bunkers in northern Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-34-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1258" END="1276">Iraqi ground
+troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1293" END="1305">northern Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R21" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030327.0376-35" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R21-1">
+      <extent>
+        <charseq START="1282" END="1305">bunkers in northern Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-35-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1282" END="1288">bunkers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1293" END="1305">northern Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R22" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-39" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-37" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R22-1">
+      <extent>
+        <charseq START="1342" END="1404">the aircraft carrier USS Theodore Roosevelt hit ``ground troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-39-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1392" END="1404">ground troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-37-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1342" END="1384">the aircraft carrier USS Theodore Roosevelt</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R23" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-39" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-40" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R23-1">
+      <extent>
+        <charseq START="1392" END="1433">ground troops,
+command and control bunkers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-39-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1392" END="1404">ground troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-40-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1407" END="1433">command and control bunkers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R24" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-45" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-44" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R24-1">
+      <extent>
+        <charseq START="1524" END="1555">the ship&apos;s public
+affair officer</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1524" END="1555">the ship&apos;s public
+affair officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-44-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1524" END="1531">the ship</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R25" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-47" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-48" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R25-1">
+      <extent>
+        <charseq START="1729" END="1760">the hills overlooking Chamchamal</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-47-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1729" END="1760">the hills overlooking Chamchamal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-48-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1751" END="1760">Chamchamal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R26" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-47" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-49" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R26-1">
+      <extent>
+        <charseq START="1729" END="1821">the hills overlooking Chamchamal,
+35 kilometers (22 miles) east of the key oil city of Kirkuk</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-47-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1729" END="1760">the hills overlooking Chamchamal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-49-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1796" END="1821">the key oil city of Kirkuk</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R27" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-48" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-49" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R27-1">
+      <extent>
+        <charseq START="1751" END="1821">Chamchamal,
+35 kilometers (22 miles) east of the key oil city of Kirkuk</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1751" END="1760">Chamchamal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-49-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1796" END="1821">the key oil city of Kirkuk</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R28" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-50" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R28-1">
+      <extent>
+        <charseq START="1841" END="1854">Kurdish troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-50-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1841" END="1854">Kurdish troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-4-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1841" END="1847">Kurdish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R29" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-50" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-48" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R29-1">
+      <extent>
+        <charseq START="1841" END="1868">Kurdish troops in Chamchamal</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-50-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1841" END="1854">Kurdish troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-48-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1859" END="1868">Chamchamal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R30" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-54" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R30-1">
+      <extent>
+        <charseq START="2065" END="2080">Kurdish fighters</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-54-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2065" END="2080">Kurdish fighters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-4-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="2065" END="2071">Kurdish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R31" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-54" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-55" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R31-1">
+      <extent>
+        <charseq START="2065" END="2101">Kurdish fighters closed off a highway</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-54-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2065" END="2080">Kurdish fighters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-55-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2093" END="2101">a highway</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R32" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-56" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-57" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R32-1">
+      <extent>
+        <charseq START="2107" END="2129">roads near
+the airstrip</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-56-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2107" END="2111">roads</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-57-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2118" END="2129">the airstrip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R33" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-50" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-57" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R33-1">
+      <extent>
+        <charseq START="2118" END="2142">the airstrip where troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-50-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2137" END="2142">troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-57-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2118" END="2129">the airstrip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R34" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030327.0376-59" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-31" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R34-1">
+      <extent>
+        <charseq START="2314" END="2331">the Turkish border</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-59-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2314" END="2331">the Turkish border</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-31-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2318" END="2324">Turkish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R35" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-55" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-60" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R35-1">
+      <extent>
+        <charseq START="2340" END="2429">the highway, dusted from a recent snow, a flashing light from
+the airstrip&apos;s control tower</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-55-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2340" END="2350">the highway</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-60-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2402" END="2429">the airstrip&apos;s control tower</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R36" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030327.0376-60" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-57" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R36-1">
+      <extent>
+        <charseq START="2402" END="2429">the airstrip&apos;s control tower</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-60-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2402" END="2429">the airstrip&apos;s control tower</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-57-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2402" END="2413">the airstrip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R37" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-63" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-64" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R37-1">
+      <extent>
+        <charseq START="2634" END="2653">the 173rd&apos;s fighters</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-63-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2634" END="2653">the 173rd&apos;s fighters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-64-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2638" END="2644">173rd&apos;s</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R38" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-69" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R38-1">
+      <extent>
+        <charseq START="2760" END="2791">other U.S. military cargo planes</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="2766" END="2769">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-69-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2760" END="2791">other U.S. military cargo planes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R39" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-71" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R39-1">
+      <extent>
+        <charseq START="2820" END="2879">a spokesman for the U.S. Army&apos;s Southern
+European Task Force</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-71-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2820" END="2830">a spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-8-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="2836" END="2879">the U.S. Army&apos;s Southern
+European Task Force</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R40" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-72" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-73" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R40-1">
+      <extent>
+        <charseq START="2905" END="2949">the paratroopers deployed
+directly from Italy</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2905" END="2929">the paratroopers deployed</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-73-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2945" END="2949">Italy</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R41" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-72" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R41-1">
+      <extent>
+        <charseq START="2905" END="2959">the paratroopers deployed
+directly from Italy into Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2905" END="2929">the paratroopers deployed</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="2956" END="2959">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R42" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030327.0376-75" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-74" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R42-1">
+      <extent>
+        <charseq START="3090" END="3113">The country&apos;s parliament</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-75-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3090" END="3113">The country&apos;s parliament</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-74-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3090" END="3100">The country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R43" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R43-1">
+      <extent>
+        <charseq START="3141" END="3165">U.S.-led coalition forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3141" END="3165">U.S.-led coalition forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="3141" END="3144">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R44" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R44-1">
+      <extent>
+        <charseq START="3141" END="3165">U.S.-led coalition forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3141" END="3165">U.S.-led coalition forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-12-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="3150" END="3158">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R45" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-77" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R45-1">
+      <extent>
+        <charseq START="3141" END="3209">U.S.-led coalition forces to use Italian air space and
+military bases</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3141" END="3165">U.S.-led coalition forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-77-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3174" END="3209">Italian air space and
+military bases</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R46" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-73" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-77" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R46-1">
+      <extent>
+        <charseq START="3174" END="3209">Italian air space and
+military bases</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-73-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="3174" END="3180">Italian</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-77-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3174" END="3209">Italian air space and
+military bases</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R47" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-80" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-79" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R47-1">
+      <extent>
+        <charseq START="3252" END="3269">Pentagon officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-80-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3252" END="3269">Pentagon officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-79-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3252" END="3259">Pentagon</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R48" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-81" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R48-1">
+      <extent>
+        <charseq START="3307" END="3317">U.S. forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-81-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3307" END="3317">U.S. forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="3307" END="3310">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R49" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-81" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R49-1">
+      <extent>
+        <charseq START="3307" END="3334">U.S. forces in
+northern Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-81-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3307" END="3317">U.S. forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="3322" END="3334">northern Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R50" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030327.0376-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-82" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R50-1">
+      <extent>
+        <charseq START="3366" END="3380">Saddam&apos;s forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-13-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="3366" END="3371">Saddam</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-82-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3366" END="3380">Saddam&apos;s forces</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R51" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-83" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R51-1">
+      <extent>
+        <charseq START="3404" END="3430">the coalition ground troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-83-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3404" END="3430">the coalition ground troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-12-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="3408" END="3416">coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R52" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-83" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R52-1">
+      <extent>
+        <charseq START="3404" END="3438">the coalition ground troops in Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-83-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3404" END="3430">the coalition ground troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-10" ROLE="Arg-2">
+          <extent>
+            <charseq START="3435" END="3438">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R53" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-86" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-79" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R53-1">
+      <extent>
+        <charseq START="3510" END="3527">Pentagon officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-86-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3510" END="3527">Pentagon officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-79-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3510" END="3517">Pentagon</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R54" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-89" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-31" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R54-1">
+      <extent>
+        <charseq START="3612" END="3661">Turkey balked at allowing up to
+62,000 U.S. troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-89-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3644" END="3661">62,000 U.S. troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-31-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="3612" END="3617">Turkey</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R55" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-89" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R55-1">
+      <extent>
+        <charseq START="3644" END="3661">62,000 U.S. troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-89-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3644" END="3661">62,000 U.S. troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="3651" END="3654">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R56" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-89" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-90" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R56-1">
+      <extent>
+        <charseq START="3644" END="3673">62,000 U.S. troops on its soil</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-89-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3644" END="3661">62,000 U.S. troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-90-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3666" END="3673">its soil</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R57" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-93" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-94" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R57-1">
+      <extent>
+        <charseq START="3838" END="3895">secured key oil
+fields around the northern cities of Mosul</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-93-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3838" END="3859">secured key oil
+fields</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-94-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3868" END="3895">the northern cities of Mosul</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R58" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030327.0376-89" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-96" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R58-1">
+      <extent>
+        <charseq START="4070" END="4087">troops in by plane</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-89-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4070" END="4075">troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-96-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4083" END="4087">plane</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R59" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030327.0376-49" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R59-1">
+      <extent>
+        <charseq START="4516" END="4542">key target in northern Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-49-7" ROLE="Arg-1">
+          <extent>
+            <charseq START="4516" END="4518">key</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-12" ROLE="Arg-2">
+          <extent>
+            <charseq START="4530" END="4542">northern Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R60" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030327.0376-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-104" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R60-1">
+      <extent>
+        <charseq START="4555" END="4571">Saddam&apos;s hometown</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-13-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="4555" END="4560">Saddam</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-104-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4555" END="4571">Saddam&apos;s hometown</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R61" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-105" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R61-1">
+      <extent>
+        <charseq START="4555" END="4593">Saddam&apos;s hometown and the tribal center</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-13-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="4555" END="4560">Saddam</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-105-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4577" END="4593">the tribal center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R62" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030327.0376-107" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-108" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R62-1">
+      <extent>
+        <charseq START="4633" END="4674">the Adnan Division of the Republican Guard</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-107-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4633" END="4650">the Adnan Division</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-108-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4655" END="4674">the Republican Guard</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R63" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-95" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R63-1">
+      <extent>
+        <charseq START="4691" END="4704">the Mosul area</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-95-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="4695" END="4699">Mosul</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-10-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="4691" END="4704">the Mosul area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R64" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-109" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R64-1">
+      <extent>
+        <charseq START="4709" END="4723">the Tikrit area</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-109-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4713" END="4718">Tikrit</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-10-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="4709" END="4723">the Tikrit area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R65" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030327.0376-110" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R65-1">
+      <extent>
+        <charseq START="4854" END="4889">two semi-autonomous Kurdish factions</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-110-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4854" END="4889">two semi-autonomous Kurdish factions</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-4-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="4874" END="4880">Kurdish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R66" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030327.0376-113" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-114" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R66-1">
+      <extent>
+        <charseq START="4948" END="4981">the
+al-Qaida-linked Ansar al-Islam</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-113-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4948" END="4981">the
+al-Qaida-linked Ansar al-Islam</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-114-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4952" END="4959">al-Qaida</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R67" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-115" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-31" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R67-1">
+      <extent>
+        <charseq START="4985" END="5023">Turkey has said it may send more troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-115-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5013" END="5023">more troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-31-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="4985" END="4990">Turkey</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R68" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-115" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-31" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R68-1">
+      <extent>
+        <charseq START="5001" END="5023">it may send more troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-115-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5013" END="5023">more troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-31-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="5001" END="5002">it</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R69" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-115" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R69-1">
+      <extent>
+        <charseq START="5013" END="5042">more troops into northern Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-115-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5013" END="5023">more troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-15" ROLE="Arg-2">
+          <extent>
+            <charseq START="5030" END="5042">northern Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R70" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-115" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-88" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R70-1">
+      <extent>
+        <charseq START="5013" END="5080">more troops into northern Iraq to prevent
+refugees from moving north</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-115-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5013" END="5023">more troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-88-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5076" END="5080">north</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R71" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-116" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-88" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R71-1">
+      <extent>
+        <charseq START="5055" END="5080">refugees from moving north</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-116-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5055" END="5062">refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-88-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5076" END="5080">north</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R72" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030327.0376-117" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R72-1">
+      <extent>
+        <charseq START="5089" END="5102">U.S. officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-117-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5089" END="5102">U.S. officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-6-10" ROLE="Arg-2">
+          <extent>
+            <charseq START="5089" END="5092">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R73" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-118" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R73-1">
+      <extent>
+        <charseq START="5150" END="5191">large additional forces into northern
+Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-118-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5150" END="5172">large additional forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-2-16" ROLE="Arg-2">
+          <extent>
+            <charseq START="5179" END="5191">northern
+Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R74" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030327.0376-54" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-56" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R74-1">
+      <extent>
+        <charseq START="2065" END="2111">Kurdish fighters closed off a highway and roads</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-54-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2065" END="2080">Kurdish fighters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-56-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2107" END="2111">roads</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030327.0376-R75" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030327.0376-55" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030327.0376-57" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030327.0376-R75-1">
+      <extent>
+        <charseq START="2093" END="2129">a highway and roads near
+the airstrip</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2093" END="2101">a highway</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030327.0376-57-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2118" END="2129">the airstrip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030327.0376-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-13" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-81" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-2" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-7" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T1" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV1-1">
+      <extent>
+        <charseq START="412" END="439">front against Saddam
+Hussein</charseq>
+      </extent>
+      <anchor>
+        <charseq START="412" END="416">front</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-13-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-7-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T1-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV1-2">
+      <extent>
+        <charseq START="3352" END="3371">front against Saddam</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3352" END="3356">front</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-13-2" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-81-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-9" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-17" ROLE="Vehicle"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T2" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030327.0376-16" ROLE="Vehicle"/>
+    <event_argument REFID="APW_ENG_20030327.0376-18" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030327.0376-19" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV2-1">
+      <extent>
+        <charseq START="518" END="647">jumped out of low-flying C-17 transport planes under cover of
+darkness Wednesday and secured a snow-dusted airfield, which will be</charseq>
+      </extent>
+      <anchor>
+        <charseq START="518" END="523">jumped</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-16-0" ROLE="Vehicle"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-18-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-19-0" ROLE="Artifact"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV2-2">
+      <extent>
+        <charseq START="536" END="541">flying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="536" END="541">flying</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-17-0" ROLE="Vehicle"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-20" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030327.0376-21" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV4-1">
+      <extent>
+        <charseq START="703" END="814">airdrop  _	one of the biggest paratroop drops in decades  _ was
+a dramatic entry for ground troops into a region</charseq>
+      </extent>
+      <anchor>
+        <charseq START="703" END="709">airdrop</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-20-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-21-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-24" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-25" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-12" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-24" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV5-1">
+      <extent>
+        <charseq START="965" END="971">targets</charseq>
+      </extent>
+      <anchor>
+        <charseq START="965" END="971">targets</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-24-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-25-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV5-2">
+      <extent>
+        <charseq START="894" END="984">airstrikes have been hitting Iraqi military forces and other
+strategic targets in the north</charseq>
+      </extent>
+      <anchor>
+        <charseq START="894" END="903">airstrikes</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-24-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-25-0" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-12-1" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-77" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-76" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T8" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030327.0376-26" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-27" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-13" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-25" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV7-1">
+      <extent>
+        <charseq START="1022" END="1062">Saddam&apos;s forces battling coalition
+forces</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1038" END="1045">battling</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-26-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-27-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-13-1" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-25-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV7-2">
+      <extent>
+        <charseq START="3141" END="3240">U.S.-led coalition forces to use Italian air space and
+military bases	_  but not for directs attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3234" END="3240">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-77-0" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-76-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T8-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-36" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-39" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-42" ROLE="Instrument"/>
+    <event_argument REFID="APW_ENG_20030327.0376-33" ROLE="Instrument"/>
+    <event_argument REFID="APW_ENG_20030327.0376-34" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-6" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV8-1">
+      <extent>
+        <charseq START="1236" END="1276">U.S. warplanes struck Iraqi ground
+troops</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1251" END="1256">struck</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-33-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-34-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-6-4" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-4" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV8-2">
+      <extent>
+        <charseq START="1323" END="1328">combat</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1323" END="1328">combat</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-36-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-39-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-42-0" ROLE="Instrument"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-47" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T3" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030327.0376-46" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T3" ROLE="Time-Starting"/>
+    <event_argument REFID="APW_ENG_20030327.0376-39" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-V3" ROLE="Crime"/>
+    <event_argument REFID="APW_ENG_20030327.0376-42" ROLE="Instrument"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV10-1">
+      <extent>
+        <charseq START="1489" END="1495">battery</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1489" END="1495">battery</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-39-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-V3-1" ROLE="Crime"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-42-0" ROLE="Instrument"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV10-2">
+      <extent>
+        <charseq START="1571" END="1587">Thursday, strikes</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1581" END="1587">strikes</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T3-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-46-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV10-3">
+      <extent>
+        <charseq START="1613" END="1621">explosion</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1613" END="1621">explosion</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-46-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV10-4">
+      <extent>
+        <charseq START="1694" END="1760">pounded forward Iraqi positions in the hills overlooking Chamchamal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1694" END="1700">pounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-47-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV14" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-51" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030327.0376-51" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030327.0376-48" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T4" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030327.0376-50" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV14-1">
+      <extent>
+        <charseq START="1870" END="1912">advanced their positions
+between government</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1870" END="1877">advanced</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-51-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-51-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-48-1" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-50-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030327.0376-EV15-1">
+      <extent>
+        <charseq START="2008" END="2015">fighting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2008" END="2015">fighting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV16" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-54" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030327.0376-56" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T5" ROLE="Time-Starting"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV16-1">
+      <extent>
+        <charseq START="2065" END="2087">Kurdish fighters closed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2082" END="2087">closed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-54-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-56-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T5-1" ROLE="Time-Starting"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-50" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030327.0376-57" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T5" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV17-1">
+      <extent>
+        <charseq START="2118" END="2167">the airstrip where troops were said to be arriving</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2160" END="2167">arriving</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-50-1" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-57-0" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T5-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV18" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-10" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030327.0376-62" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030327.0376-61" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV18-1">
+      <extent>
+        <charseq START="2505" END="2532">flying with nearly all their</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2505" END="2510">flying</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-61-1" ROLE="Artifact"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV18-2">
+      <extent>
+        <charseq START="2563" END="2584">airlifts into the area</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2563" END="2570">airlifts</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-10-1" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-62-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV20" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-69" ROLE="Vehicle"/>
+    <event_argument REFID="APW_ENG_20030327.0376-T6" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030327.0376-68" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV20-1">
+      <extent>
+        <charseq START="2745" END="2748">land</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2745" END="2748">land</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-69-0" ROLE="Vehicle"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-68-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV21" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-73" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030327.0376-2" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030327.0376-72" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV21-1">
+      <extent>
+        <charseq START="2922" END="2959">deployed
+directly from Italy into Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2922" END="2929">deployed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-73-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-7" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-72-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV22" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030327.0376-EV22-1">
+      <extent>
+        <charseq START="3076" END="3078">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3076" END="3078">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV25" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-84" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030327.0376-85" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV25-1">
+      <extent>
+        <charseq START="3444" END="3506">moving toward
+Baghdad from the south after entering from Kuwait</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3444" END="3449">moving</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-84-0" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-85-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV26" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-2" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-87" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV26-1">
+      <extent>
+        <charseq START="3580" END="3590">invade Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3580" END="3585">invade</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-11" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-87-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV27" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-64" ROLE="Target"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV27-1">
+      <extent>
+        <charseq START="3969" END="4026">hostilities were expected during the deployment, the 173rd</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3969" END="3979">hostilities</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-64-2" ROLE="Target"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV28" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-95" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030327.0376-97" ROLE="Attacker"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV28-1">
+      <extent>
+        <charseq START="4111" END="4116">combat</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4111" END="4116">combat</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-97-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030327.0376-EV28-2">
+      <extent>
+        <charseq START="4744" END="4746">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4744" END="4746">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-95-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV29" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-13" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030327.0376-49" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030327.0376-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV29-1">
+      <extent>
+        <charseq START="4520" END="4525">target</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4520" END="4525">target</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-13-3" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-49-7" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-12" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV30" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-10" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030327.0376-10" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV30-1">
+      <extent>
+        <charseq START="4676" END="4723">relocated
+from the Mosul area to the Tikrit area</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4676" END="4684">relocated</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-10-2" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-10-3" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV32" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-115" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030327.0376-31" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030327.0376-2" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV32-1">
+      <extent>
+        <charseq START="5008" END="5023">send more troops</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5008" END="5011">send</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-115-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-31-4" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-2-15" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV33" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-31" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030327.0376-118" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV33-1">
+      <extent>
+        <charseq START="5069" END="5074">moving</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5069" END="5074">moving</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-31-4" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-118-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030327.0376-EV34" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030327.0376-118" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030327.0376-117" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030327.0376-31" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030327.0376-EV34-1">
+      <extent>
+        <charseq START="5142" END="5172">sending large additional forces</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5142" END="5148">sending</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-118-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-117-1" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030327.0376-31-6" ROLE="Destination"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

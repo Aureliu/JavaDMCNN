@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>ProcessDocuments</title>
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">ProcessDocuments</font></font></h1>
+The ProcessDocuments utility provides a general
+facility for processing a set of documents and then writing out these
+documents with some of the resulting annotations encoded in XML.
+It is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big>
+ <span style="font-family: monospace;"><b>xjet Jet.ProcessDocuments</b></span>
+ <i>propsFile docList inputDir inputSuffix outputDir outputSuffix</i>
+ </big></div><br>
+where
+<dl>
+  <dt><i>propsFile</i></dt>
+  <dd>is the Jet properties file specifying how each document
+      is to be processed</dd>
+  <dt><i>docList</i></dt>
+  <dd>is a file containing a list of document file names, one per line</dd>
+  <dt><i>inputDir</i></dt>
+  <dd>is the directory containing the files to be processed</dd>
+  <dt><i>inputSuffix</i></dt>
+  <dd>is the file extension to be added to document name to obtain name of output file</dd>
+  <dt><i>outputDir</i></dt>
+  <dd>is the directory containing output files</dd>
+  <dt><i>outputSuffix</i></dt>
+  <dd>is the file extension to be added to document name to obtain name of output file</dd>
+</dl>
+For example, if <tt>doclist</tt> contains <br><br>
+<div style="margin-left: 40px;">
+<tt>a<br>b<br>c<br></tt></div><br>
+then <br><br>
+<tt>xjet Jet.ProcessDocuments props doclist in txt out nam</tt><br><br>
+will <br><br>
+<div style="margin-left: 40px;">
+read <tt>in/a.txt</tt> and write <tt>out/a.nam</tt><br>
+read <tt>in/b.txt</tt> and write <tt>out/b.nam</tt><br>
+read <tt>in/c.txt</tt> and write <tt>out/c.nam</tt></div><br>
+<p>
+The set of annotations which are written out as XML tags in the
+output file are determined by property <tt>WriteSGML.type</tt>
+in the props file.  The value of this property may be
+a single annotation type, a comma-separated list of
+annotation types, or "<tt>all</tt>".
+</body>
+</html>

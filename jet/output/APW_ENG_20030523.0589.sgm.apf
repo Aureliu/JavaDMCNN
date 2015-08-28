@@ -1,0 +1,3092 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030523.0589.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030523.0589">
+  <entity ID="APW_ENG_20030523.0589-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="121" END="125">CORSO</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="125">CORSO</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="507" END="511">Corso</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="511">Corso</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1135" END="1139">Corso</charseq>
+      </extent>
+      <head>
+        <charseq START="1135" END="1139">Corso</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1571" END="1575">Corso</charseq>
+      </extent>
+      <head>
+        <charseq START="1571" END="1575">Corso</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="1582" END="1585">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1582" END="1585">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-1-5" ROLE="GPE">
+      <extent>
+        <charseq START="3949" END="3953">Corso</charseq>
+      </extent>
+      <head>
+        <charseq START="3949" END="3953">Corso</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-1-6" ROLE="GPE">
+      <extent>
+        <charseq START="4162" END="4165">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4162" END="4165">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-1-7" ROLE="GPE">
+      <extent>
+        <charseq START="4190" END="4193">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4190" END="4193">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-1-8" ROLE="GPE">
+      <extent>
+        <charseq START="6098" END="6102">Corso</charseq>
+      </extent>
+      <head>
+        <charseq START="6098" END="6102">Corso</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="CORSO">
+        <charseq START="121" END="125">CORSO</charseq>
+      </name>
+      <name NAME="Corso">
+        <charseq START="507" END="511">Corso</charseq>
+      </name>
+      <name NAME="Corso">
+        <charseq START="1135" END="1139">Corso</charseq>
+      </name>
+      <name NAME="Corso">
+        <charseq START="1571" END="1575">Corso</charseq>
+      </name>
+      <name NAME="Corso">
+        <charseq START="3949" END="3953">Corso</charseq>
+      </name>
+      <name NAME="Corso">
+        <charseq START="6098" END="6102">Corso</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="128" END="134">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="134">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="189" END="195">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="195">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="2817" END="2823">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="2817" END="2823">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="3083" END="3090">Algerian</charseq>
+      </extent>
+      <head>
+        <charseq START="3083" END="3090">Algerian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="3371" END="3377">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="3371" END="3377">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="5161" END="5167">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="5161" END="5167">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="5306" END="5312">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="5306" END="5312">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Algeria">
+        <charseq START="128" END="134">Algeria</charseq>
+      </name>
+      <name NAME="Algeria">
+        <charseq START="189" END="195">Algeria</charseq>
+      </name>
+      <name NAME="Algeria">
+        <charseq START="2817" END="2823">Algeria</charseq>
+      </name>
+      <name NAME="Algerian">
+        <charseq START="3083" END="3090">Algerian</charseq>
+      </name>
+      <name NAME="Algeria">
+        <charseq START="3371" END="3377">Algeria</charseq>
+      </name>
+      <name NAME="Algeria">
+        <charseq START="5161" END="5167">Algeria</charseq>
+      </name>
+      <name NAME="Algeria">
+        <charseq START="5306" END="5312">Algeria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-3-0">
+      <extent>
+        <charseq START="137" END="138">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="138">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="137" END="138">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-4-0">
+      <extent>
+        <charseq START="262" END="278">a 2-year-old girl</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="278">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-4-1">
+      <extent>
+        <charseq START="313" END="315">her</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="315">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-5-0">
+      <extent>
+        <charseq START="313" END="333">her crumbled building</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="333">building</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-6-0">
+      <extent>
+        <charseq START="394" END="417">volunteer rescue workers</charseq>
+      </extent>
+      <head>
+        <charseq START="411" END="417">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="424" END="428">Spain</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="428">Spain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Spain">
+        <charseq START="424" END="428">Spain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-8-0">
+      <extent>
+        <charseq START="451" END="462">Emilie Kaidi</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="462">Emilie Kaidi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-8-1">
+      <extent>
+        <charseq START="469" END="471">her</charseq>
+      </extent>
+      <head>
+        <charseq START="469" END="471">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-8-2">
+      <extent>
+        <charseq START="561" END="566">Emilie</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="566">Emilie</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-8-3">
+      <extent>
+        <charseq START="721" END="726">Emilie</charseq>
+      </extent>
+      <head>
+        <charseq START="721" END="726">Emilie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Emilie Kaidi">
+        <charseq START="451" END="462">Emilie Kaidi</charseq>
+      </name>
+      <name NAME="Emilie">
+        <charseq START="561" END="566">Emilie</charseq>
+      </name>
+      <name NAME="Emilie">
+        <charseq START="721" END="726">Emilie</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-9" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-9-0">
+      <extent>
+        <charseq START="490" END="494">floor</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="494">floor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-10-0">
+      <extent>
+        <charseq START="514" END="541">one of the hardest hit areas</charseq>
+      </extent>
+      <head>
+        <charseq START="514" END="516">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-11-0">
+      <extent>
+        <charseq START="521" END="541">the hardest hit areas</charseq>
+      </extent>
+      <head>
+        <charseq START="537" END="541">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="557">Algiers</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="557">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="1346" END="1352">Algiers</charseq>
+      </extent>
+      <head>
+        <charseq START="1346" END="1352">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-12-2" ROLE="GPE">
+      <extent>
+        <charseq START="2051" END="2057">Algiers</charseq>
+      </extent>
+      <head>
+        <charseq START="2051" END="2057">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-12-3" ROLE="GPE">
+      <extent>
+        <charseq START="2109" END="2113">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2109" END="2113">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-12-4" ROLE="GPE">
+      <extent>
+        <charseq START="3788" END="3794">Algiers</charseq>
+      </extent>
+      <head>
+        <charseq START="3788" END="3794">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-12-5" ROLE="GPE">
+      <extent>
+        <charseq START="4291" END="4297">Algiers</charseq>
+      </extent>
+      <head>
+        <charseq START="4291" END="4297">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-12-6" ROLE="GPE">
+      <extent>
+        <charseq START="4896" END="4902">Algiers</charseq>
+      </extent>
+      <head>
+        <charseq START="4896" END="4902">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Algiers">
+        <charseq START="551" END="557">Algiers</charseq>
+      </name>
+      <name NAME="Algiers">
+        <charseq START="1346" END="1352">Algiers</charseq>
+      </name>
+      <name NAME="Algiers">
+        <charseq START="2051" END="2057">Algiers</charseq>
+      </name>
+      <name NAME="Algiers">
+        <charseq START="3788" END="3794">Algiers</charseq>
+      </name>
+      <name NAME="Algiers">
+        <charseq START="4291" END="4297">Algiers</charseq>
+      </name>
+      <name NAME="Algiers">
+        <charseq START="4896" END="4902">Algiers</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-13-0">
+      <extent>
+        <charseq START="561" END="576">Emilie&apos;s parents</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="576">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-13-1">
+      <extent>
+        <charseq START="635" END="639">their</charseq>
+      </extent>
+      <head>
+        <charseq START="635" END="639">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="635" END="644">their town</charseq>
+      </extent>
+      <head>
+        <charseq START="641" END="644">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-15-0">
+      <extent>
+        <charseq START="656" END="667">older sister</charseq>
+      </extent>
+      <head>
+        <charseq START="662" END="667">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-16-0">
+      <extent>
+        <charseq START="670" END="684">4-year-old Lisa</charseq>
+      </extent>
+      <head>
+        <charseq START="681" END="684">Lisa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lisa">
+        <charseq START="681" END="684">Lisa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-17-0">
+      <extent>
+        <charseq START="854" END="862">Villagers</charseq>
+      </extent>
+      <head>
+        <charseq START="854" END="862">Villagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-17-1">
+      <extent>
+        <charseq START="1537" END="1545">Villagers</charseq>
+      </extent>
+      <head>
+        <charseq START="1537" END="1545">Villagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="945" END="958">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="949" END="958">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1012" END="1020">countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1020">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-19-1" ROLE="GPE">
+      <extent>
+        <charseq START="5228" END="5236">countries</charseq>
+      </extent>
+      <head>
+        <charseq START="5228" END="5236">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-20" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-20-0">
+      <extent>
+        <charseq START="1029" END="1037">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1037">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-20-1">
+      <extent>
+        <charseq START="6431" END="6439">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="6435" END="6439">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-21-0">
+      <extent>
+        <charseq START="1109" END="1120">Ismail Lizir</charseq>
+      </extent>
+      <head>
+        <charseq START="1109" END="1120">Ismail Lizir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ismail Lizir">
+        <charseq START="1109" END="1120">Ismail Lizir</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="1142" END="1167">one of the towns destroyed</charseq>
+      </extent>
+      <head>
+        <charseq START="1142" END="1144">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1149" END="1157">the towns</charseq>
+      </extent>
+      <head>
+        <charseq START="1153" END="1157">towns</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-23-1" ROLE="GPE">
+      <extent>
+        <charseq START="1550" END="1564">destroyed towns</charseq>
+      </extent>
+      <head>
+        <charseq START="1560" END="1564">towns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-24-0">
+      <extent>
+        <charseq START="1190" END="1195">killer</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1195">killer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-25-0">
+      <extent>
+        <charseq START="1270" END="1286">local authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="1276" END="1286">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-26" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-26-0">
+      <extent>
+        <charseq START="1333" END="1336">area</charseq>
+      </extent>
+      <head>
+        <charseq START="1333" END="1336">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-27-0">
+      <extent>
+        <charseq START="1363" END="1384">more than 1,600 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1379" END="1384">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-28-0">
+      <extent>
+        <charseq START="1454" END="1469">countless bodies</charseq>
+      </extent>
+      <head>
+        <charseq START="1464" END="1469">bodies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-28-1">
+      <extent>
+        <charseq START="1690" END="1695">bodies</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1695">bodies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-28-2">
+      <extent>
+        <charseq START="3520" END="3534">decaying bodies</charseq>
+      </extent>
+      <head>
+        <charseq START="3529" END="3534">bodies</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-28-3">
+      <extent>
+        <charseq START="4586" END="4591">bodies</charseq>
+      </extent>
+      <head>
+        <charseq START="4586" END="4591">bodies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-29-0">
+      <extent>
+        <charseq START="1676" END="1684">survivors</charseq>
+      </extent>
+      <head>
+        <charseq START="1676" END="1684">survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-29-1">
+      <extent>
+        <charseq START="2135" END="2143">survivors</charseq>
+      </extent>
+      <head>
+        <charseq START="2135" END="2143">survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-29-2">
+      <extent>
+        <charseq START="5561" END="5569">survivors</charseq>
+      </extent>
+      <head>
+        <charseq START="5561" END="5569">survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-30" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-30-0">
+      <extent>
+        <charseq START="1734" END="1743">many
+areas</charseq>
+      </extent>
+      <head>
+        <charseq START="1739" END="1743">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-31-0">
+      <extent>
+        <charseq START="1765" END="1778">Some villagers</charseq>
+      </extent>
+      <head>
+        <charseq START="1770" END="1778">villagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-31-1">
+      <extent>
+        <charseq START="1843" END="1847">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1843" END="1847">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-31-2">
+      <extent>
+        <charseq START="3892" END="3900">Villagers</charseq>
+      </extent>
+      <head>
+        <charseq START="3892" END="3900">Villagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-32-0">
+      <extent>
+        <charseq START="1973" END="1976">ones</charseq>
+      </extent>
+      <head>
+        <charseq START="1973" END="1976">ones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-33-0">
+      <extent>
+        <charseq START="2014" END="2041">Prime Minister Ahmed Ouyahia</charseq>
+      </extent>
+      <head>
+        <charseq START="2029" END="2041">Ahmed Ouyahia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-33-1">
+      <extent>
+        <charseq START="2014" END="2027">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2014" END="2027">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-33-2">
+      <extent>
+        <charseq START="2147" END="2164">The prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2157" END="2164">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ahmed Ouyahia">
+        <charseq START="2029" END="2041">Ahmed Ouyahia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-34-0">
+      <extent>
+        <charseq START="2213" END="2219">victims</charseq>
+      </extent>
+      <head>
+        <charseq START="2213" END="2219">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-35-0">
+      <extent>
+        <charseq START="2237" END="2253">those whose homes</charseq>
+      </extent>
+      <head>
+        <charseq START="2249" END="2253">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-36-0">
+      <extent>
+        <charseq START="2353" END="2364">Yoscef Manel</charseq>
+      </extent>
+      <head>
+        <charseq START="2353" END="2364">Yoscef Manel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yoscef Manel">
+        <charseq START="2353" END="2364">Yoscef Manel</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-37" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-37-0">
+      <extent>
+        <charseq START="2411" END="2421">Helicopters</charseq>
+      </extent>
+      <head>
+        <charseq START="2411" END="2421">Helicopters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-38-0">
+      <extent>
+        <charseq START="2441" END="2461">the interior minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2454" END="2461">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-39-0">
+      <extent>
+        <charseq START="2445" END="2452">interior</charseq>
+      </extent>
+      <head>
+        <charseq START="2445" END="2452">interior</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-39-1">
+      <extent>
+        <charseq START="3831" END="3851">the Interior Ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="3835" END="3851">Interior Ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="interior">
+        <charseq START="2445" END="2452">interior</charseq>
+      </name>
+      <name NAME="Interior Ministry">
+        <charseq START="3835" END="3851">Interior Ministry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-40-0" ROLE="GPE">
+      <extent>
+        <charseq START="2509" END="2522">The government</charseq>
+      </extent>
+      <head>
+        <charseq START="2513" END="2522">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-40-1" ROLE="GPE">
+      <extent>
+        <charseq START="5371" END="5384">The government</charseq>
+      </extent>
+      <head>
+        <charseq START="5375" END="5384">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-41" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-41-0">
+      <extent>
+        <charseq START="2553" END="2572">dozens of ambulances</charseq>
+      </extent>
+      <head>
+        <charseq START="2553" END="2558">dozens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-42" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-42-0">
+      <extent>
+        <charseq START="2563" END="2572">ambulances</charseq>
+      </extent>
+      <head>
+        <charseq START="2563" END="2572">ambulances</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-42-1">
+      <extent>
+        <charseq START="2685" END="2694">ambulances</charseq>
+      </extent>
+      <head>
+        <charseq START="2685" END="2694">ambulances</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-43-0">
+      <extent>
+        <charseq START="2575" END="2586">3,000 police</charseq>
+      </extent>
+      <head>
+        <charseq START="2581" END="2586">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-44" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-44-0">
+      <extent>
+        <charseq START="2592" END="2606">security agents</charseq>
+      </extent>
+      <head>
+        <charseq START="2601" END="2606">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-45-0">
+      <extent>
+        <charseq START="2612" END="2629">electrical workers</charseq>
+      </extent>
+      <head>
+        <charseq START="2623" END="2629">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-46" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-46-0">
+      <extent>
+        <charseq START="2652" END="2659">The army</charseq>
+      </extent>
+      <head>
+        <charseq START="2656" END="2659">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="army">
+        <charseq START="2656" END="2659">army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-47" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-47-0">
+      <extent>
+        <charseq START="2678" END="2682">tents</charseq>
+      </extent>
+      <head>
+        <charseq START="2678" END="2682">tents</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-47-1">
+      <extent>
+        <charseq START="3025" END="3029">tents</charseq>
+      </extent>
+      <head>
+        <charseq START="3025" END="3029">tents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-48" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-48-0">
+      <extent>
+        <charseq START="2727" END="2738">water trucks</charseq>
+      </extent>
+      <head>
+        <charseq START="2733" END="2738">trucks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-49" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-49-0">
+      <extent>
+        <charseq START="2752" END="2761">the rounds</charseq>
+      </extent>
+      <head>
+        <charseq START="2756" END="2761">rounds</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-50" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-50-0" ROLE="GPE">
+      <extent>
+        <charseq START="2766" END="2782">stricken villages</charseq>
+      </extent>
+      <head>
+        <charseq START="2775" END="2782">villages</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-51-0" ROLE="GPE">
+      <extent>
+        <charseq START="2848" END="2862">other
+countries</charseq>
+      </extent>
+      <head>
+        <charseq START="2854" END="2862">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-52" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-52-0" ROLE="GPE">
+      <extent>
+        <charseq START="2876" END="2882">Germany</charseq>
+      </extent>
+      <head>
+        <charseq START="2876" END="2882">Germany</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Germany">
+        <charseq START="2876" END="2882">Germany</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-53" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-53-0">
+      <extent>
+        <charseq START="2893" END="2908">a field hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="2901" END="2908">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-54-0" ROLE="GPE">
+      <extent>
+        <charseq START="2911" END="2916">Sweden</charseq>
+      </extent>
+      <head>
+        <charseq START="2911" END="2916">Sweden</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sweden">
+        <charseq START="2911" END="2916">Sweden</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-55" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-55-0" ROLE="GPE">
+      <extent>
+        <charseq START="2922" END="2932">Switzerland</charseq>
+      </extent>
+      <head>
+        <charseq START="2922" END="2932">Switzerland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Switzerland">
+        <charseq START="2922" END="2932">Switzerland</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-56" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-56-0" ROLE="GPE">
+      <extent>
+        <charseq START="2953" END="2958">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="2953" END="2958">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="2953" END="2958">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-57-0">
+      <extent>
+        <charseq START="2971" END="2984">rescue experts</charseq>
+      </extent>
+      <head>
+        <charseq START="2978" END="2984">experts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-58" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-58-0" ROLE="GPE">
+      <extent>
+        <charseq START="2987" END="2992">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="2987" END="2992">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turkey">
+        <charseq START="2987" END="2992">Turkey</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-59" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-59-0">
+      <extent>
+        <charseq START="3010" END="3022">a search team</charseq>
+      </extent>
+      <head>
+        <charseq START="3019" END="3022">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-60-0">
+      <extent>
+        <charseq START="3046" END="3074">U.S. President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="3061" END="3074">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-60-1">
+      <extent>
+        <charseq START="3051" END="3059">President</charseq>
+      </extent>
+      <head>
+        <charseq START="3051" END="3059">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-60-2">
+      <extent>
+        <charseq START="3180" END="3183">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="3180" END="3183">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="3061" END="3074">George W. Bush</charseq>
+      </name>
+      <name NAME="Bush">
+        <charseq START="3180" END="3183">Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-61-0">
+      <extent>
+        <charseq START="3083" END="3121">Algerian President Abdelaziz
+Bouteflika</charseq>
+      </extent>
+      <head>
+        <charseq START="3102" END="3121">Abdelaziz
+Bouteflika</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-61-1">
+      <extent>
+        <charseq START="3092" END="3100">President</charseq>
+      </extent>
+      <head>
+        <charseq START="3092" END="3100">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-61-2">
+      <extent>
+        <charseq START="3193" END="3202">Bouteflika</charseq>
+      </extent>
+      <head>
+        <charseq START="3193" END="3202">Bouteflika</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-61-3">
+      <extent>
+        <charseq START="5493" END="5522">President
+Abdelaziz Bouteflika</charseq>
+      </extent>
+      <head>
+        <charseq START="5503" END="5522">Abdelaziz Bouteflika</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-61-4">
+      <extent>
+        <charseq START="5493" END="5501">President</charseq>
+      </extent>
+      <head>
+        <charseq START="5493" END="5501">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-61-5">
+      <extent>
+        <charseq START="5678" END="5687">Bouteflika</charseq>
+      </extent>
+      <head>
+        <charseq START="5678" END="5687">Bouteflika</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abdelaziz Bouteflika">
+        <charseq START="3102" END="3121">Abdelaziz
+Bouteflika</charseq>
+      </name>
+      <name NAME="Bouteflika">
+        <charseq START="3193" END="3202">Bouteflika</charseq>
+      </name>
+      <name NAME="Abdelaziz Bouteflika">
+        <charseq START="5503" END="5522">Abdelaziz Bouteflika</charseq>
+      </name>
+      <name NAME="Bouteflika">
+        <charseq START="5678" END="5687">Bouteflika</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-62" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-62-0">
+      <extent>
+        <charseq START="3134" END="3161">the official APS news agency</charseq>
+      </extent>
+      <head>
+        <charseq START="3147" END="3161">APS news agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-62-1">
+      <extent>
+        <charseq START="3818" END="3820">APS</charseq>
+      </extent>
+      <head>
+        <charseq START="3818" END="3820">APS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-62-2">
+      <extent>
+        <charseq START="5759" END="5761">APS</charseq>
+      </extent>
+      <head>
+        <charseq START="5759" END="5761">APS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="APS news agency">
+        <charseq START="3147" END="3161">APS news agency</charseq>
+      </name>
+      <name NAME="APS">
+        <charseq START="3818" END="3820">APS</charseq>
+      </name>
+      <name NAME="APS">
+        <charseq START="5759" END="5761">APS</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-63-0">
+      <extent>
+        <charseq START="3261" END="3268">Rescuers</charseq>
+      </extent>
+      <head>
+        <charseq START="3261" END="3268">Rescuers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-63-1">
+      <extent>
+        <charseq START="3409" END="3416">rescuers</charseq>
+      </extent>
+      <head>
+        <charseq START="3409" END="3416">rescuers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-64-0">
+      <extent>
+        <charseq START="3330" END="3343">more survivors</charseq>
+      </extent>
+      <head>
+        <charseq START="3335" END="3343">survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-65-0">
+      <extent>
+        <charseq START="3347" END="3355">Saa Sayah</charseq>
+      </extent>
+      <head>
+        <charseq START="3347" END="3355">Saa Sayah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-65-1">
+      <extent>
+        <charseq START="3571" END="3572">he</charseq>
+      </extent>
+      <head>
+        <charseq START="3571" END="3572">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saa Sayah">
+        <charseq START="3347" END="3355">Saa Sayah</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-66-0">
+      <extent>
+        <charseq START="3358" END="3366">a captain</charseq>
+      </extent>
+      <head>
+        <charseq START="3360" END="3366">captain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-67-0">
+      <extent>
+        <charseq START="3371" END="3401">Algeria&apos;s civil protection unit</charseq>
+      </extent>
+      <head>
+        <charseq START="3398" END="3401">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-68" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-68-0">
+      <extent>
+        <charseq START="3600" END="3637">four-story building that had collapsed</charseq>
+      </extent>
+      <head>
+        <charseq START="3611" END="3618">building</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-69" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-69-0" ROLE="GPE">
+      <extent>
+        <charseq START="3642" END="3650">Boumerdes</charseq>
+      </extent>
+      <head>
+        <charseq START="3642" END="3650">Boumerdes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-69-1" ROLE="GPE">
+      <extent>
+        <charseq START="3744" END="3752">Boumerdes</charseq>
+      </extent>
+      <head>
+        <charseq START="3744" END="3752">Boumerdes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-69-2" ROLE="GPE">
+      <extent>
+        <charseq START="3730" END="3752">The region of Boumerdes</charseq>
+      </extent>
+      <head>
+        <charseq START="3734" END="3739">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Boumerdes">
+        <charseq START="3642" END="3650">Boumerdes</charseq>
+      </name>
+      <name NAME="Boumerdes">
+        <charseq START="3744" END="3752">Boumerdes</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-70" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-70-0">
+      <extent>
+        <charseq START="3681" END="3691">four bodies</charseq>
+      </extent>
+      <head>
+        <charseq START="3686" END="3691">bodies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-71-0">
+      <extent>
+        <charseq START="3868" END="3877">955 people</charseq>
+      </extent>
+      <head>
+        <charseq START="3872" END="3877">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-71-1">
+      <extent>
+        <charseq START="4041" END="4043">her</charseq>
+      </extent>
+      <head>
+        <charseq START="4041" END="4043">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-71-2">
+      <extent>
+        <charseq START="4235" END="4240">people</charseq>
+      </extent>
+      <head>
+        <charseq START="4235" END="4240">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-71-3">
+      <extent>
+        <charseq START="4267" END="4272">People</charseq>
+      </extent>
+      <head>
+        <charseq START="4267" END="4272">People</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-72" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-72-0">
+      <extent>
+        <charseq START="4070" END="4081">the pavement</charseq>
+      </extent>
+      <head>
+        <charseq START="4074" END="4081">pavement</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-73-0">
+      <extent>
+        <charseq START="4203" END="4215">Malek
+Fadalia</charseq>
+      </extent>
+      <head>
+        <charseq START="4203" END="4215">Malek
+Fadalia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Malek Fadalia">
+        <charseq START="4203" END="4215">Malek
+Fadalia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-74" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-74-0">
+      <extent>
+        <charseq START="4310" END="4325">the damaged area</charseq>
+      </extent>
+      <head>
+        <charseq START="4322" END="4325">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-75" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-75-0">
+      <extent>
+        <charseq START="4328" END="4331">many</charseq>
+      </extent>
+      <head>
+        <charseq START="4328" END="4331">many</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-76" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-76-0">
+      <extent>
+        <charseq START="4344" END="4350">streets</charseq>
+      </extent>
+      <head>
+        <charseq START="4344" END="4350">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-77" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-77-0">
+      <extent>
+        <charseq START="4356" END="4367">public parks</charseq>
+      </extent>
+      <head>
+        <charseq START="4363" END="4367">parks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-78" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-78-0">
+      <extent>
+        <charseq START="4463" END="4475">the buildings</charseq>
+      </extent>
+      <head>
+        <charseq START="4467" END="4475">buildings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-79" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-79-0">
+      <extent>
+        <charseq START="4498" END="4503">Police</charseq>
+      </extent>
+      <head>
+        <charseq START="4498" END="4503">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-80-0">
+      <extent>
+        <charseq START="4538" END="4544">thieves</charseq>
+      </extent>
+      <head>
+        <charseq START="4538" END="4544">thieves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-81" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-81-0">
+      <extent>
+        <charseq START="4559" END="4573">abandoned homes</charseq>
+      </extent>
+      <head>
+        <charseq START="4569" END="4573">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-82" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-82-0">
+      <extent>
+        <charseq START="4577" END="4583">Victims</charseq>
+      </extent>
+      <head>
+        <charseq START="4577" END="4583">Victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-83" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-83-0">
+      <extent>
+        <charseq START="4638" END="4644">morgues</charseq>
+      </extent>
+      <head>
+        <charseq START="4638" END="4644">morgues</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-84-0">
+      <extent>
+        <charseq START="4673" END="4689">missing relatives</charseq>
+      </extent>
+      <head>
+        <charseq START="4681" END="4689">relatives</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-84-1">
+      <extent>
+        <charseq START="4699" END="4703">their</charseq>
+      </extent>
+      <head>
+        <charseq START="4699" END="4703">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-84-2">
+      <extent>
+        <charseq START="4742" END="4745">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4742" END="4745">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-85-0">
+      <extent>
+        <charseq START="4758" END="4761">body</charseq>
+      </extent>
+      <head>
+        <charseq START="4758" END="4761">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-85-1">
+      <extent>
+        <charseq START="4766" END="4769">body</charseq>
+      </extent>
+      <head>
+        <charseq START="4766" END="4769">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-86" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-86-0" ROLE="GPE">
+      <extent>
+        <charseq START="4878" END="4886">epicenter</charseq>
+      </extent>
+      <head>
+        <charseq START="4878" END="4886">epicenter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-87" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-87-0">
+      <extent>
+        <charseq START="4937" END="4949">North African</charseq>
+      </extent>
+      <head>
+        <charseq START="4937" END="4949">North African</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="North African">
+        <charseq START="4937" END="4949">North African</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-88" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-88-0" ROLE="GPE">
+      <extent>
+        <charseq START="5003" END="5013">the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="5007" END="5013">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-88-1" ROLE="GPE">
+      <extent>
+        <charseq START="5921" END="5931">the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="5925" END="5931">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030523.0589-88-2" ROLE="GPE">
+      <extent>
+        <charseq START="5954" END="5955">it</charseq>
+      </extent>
+      <head>
+        <charseq START="5954" END="5955">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-89" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-89-0">
+      <extent>
+        <charseq START="5064" END="5089">the U.S. Geological Survey</charseq>
+      </extent>
+      <head>
+        <charseq START="5068" END="5089">U.S. Geological Survey</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-89-1">
+      <extent>
+        <charseq START="6374" END="6415">The U.S. Geological Survey, which monitors</charseq>
+      </extent>
+      <head>
+        <charseq START="6378" END="6399">U.S. Geological Survey</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S. Geological Survey">
+        <charseq START="5068" END="5089">U.S. Geological Survey</charseq>
+      </name>
+      <name NAME="U.S. Geological Survey">
+        <charseq START="6378" END="6399">U.S. Geological Survey</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-90" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-90-0">
+      <extent>
+        <charseq START="5241" END="5244">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="5241" END="5244">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asia">
+        <charseq START="5241" END="5244">Asia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-91" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-91-0">
+      <extent>
+        <charseq START="5247" END="5261">the Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="5251" END="5261">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Middle East">
+        <charseq START="5251" END="5261">Middle East</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-92" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-92-0">
+      <extent>
+        <charseq START="5267" END="5277">the Pacific</charseq>
+      </extent>
+      <head>
+        <charseq START="5271" END="5277">Pacific</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pacific">
+        <charseq START="5271" END="5277">Pacific</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-93" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-93-0">
+      <extent>
+        <charseq START="5280" END="5293">France Telecom</charseq>
+      </extent>
+      <head>
+        <charseq START="5280" END="5293">France Telecom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France Telecom">
+        <charseq START="5280" END="5293">France Telecom</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-94" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-94-0">
+      <extent>
+        <charseq START="5404" END="5421">Islamic insurgents</charseq>
+      </extent>
+      <head>
+        <charseq START="5412" END="5421">insurgents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-95" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-95-0">
+      <extent>
+        <charseq START="5578" END="5599">Muslim fundamentalists</charseq>
+      </extent>
+      <head>
+        <charseq START="5585" END="5599">fundamentalists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-96" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-96-0">
+      <extent>
+        <charseq START="5724" END="5728">world</charseq>
+      </extent>
+      <head>
+        <charseq START="5724" END="5728">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-97" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-97-0">
+      <extent>
+        <charseq START="5724" END="5736">world leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="5730" END="5736">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-98" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-98-0" ROLE="GPE">
+      <extent>
+        <charseq START="5741" END="5746">France</charseq>
+      </extent>
+      <head>
+        <charseq START="5741" END="5746">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="France">
+        <charseq START="5741" END="5746">France</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-99" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-99-0">
+      <extent>
+        <charseq START="5774" END="5787">Many Algerians</charseq>
+      </extent>
+      <head>
+        <charseq START="5779" END="5787">Algerians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-100" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-100-0" ROLE="GPE">
+      <extent>
+        <charseq START="5811" END="5839">the wobbly state of buildings</charseq>
+      </extent>
+      <head>
+        <charseq START="5822" END="5826">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-101" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-101-0">
+      <extent>
+        <charseq START="5831" END="5839">buildings</charseq>
+      </extent>
+      <head>
+        <charseq START="5831" END="5839">buildings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-102" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-102-0" ROLE="GPE">
+      <extent>
+        <charseq START="5867" END="5875">a country</charseq>
+      </extent>
+      <head>
+        <charseq START="5869" END="5875">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-103" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-103-0" ROLE="GPE">
+      <extent>
+        <charseq START="5909" END="5931">a
+suburb of the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="5911" END="5916">suburb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-104" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-104-0">
+      <extent>
+        <charseq START="5934" END="5942">residents</charseq>
+      </extent>
+      <head>
+        <charseq START="5934" END="5942">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-105" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-105-0">
+      <extent>
+        <charseq START="5977" END="5990">three families</charseq>
+      </extent>
+      <head>
+        <charseq START="5983" END="5990">families</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-106" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-106-0">
+      <extent>
+        <charseq START="5995" END="6011">roughly 14 people</charseq>
+      </extent>
+      <head>
+        <charseq START="6006" END="6011">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-107" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-107-0">
+      <extent>
+        <charseq START="6030" END="6054">a three-bedroom
+apartment</charseq>
+      </extent>
+      <head>
+        <charseq START="6046" END="6054">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-107-1">
+      <extent>
+        <charseq START="6127" END="6135">apartment</charseq>
+      </extent>
+      <head>
+        <charseq START="6127" END="6135">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-108" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-108-0">
+      <extent>
+        <charseq START="6057" END="6062">others</charseq>
+      </extent>
+      <head>
+        <charseq START="6057" END="6062">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-109" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-109-0">
+      <extent>
+        <charseq START="6114" END="6142">14 identical apartment houses</charseq>
+      </extent>
+      <head>
+        <charseq START="6137" END="6142">houses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-110" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-110-0">
+      <extent>
+        <charseq START="6180" END="6208">the same construction company</charseq>
+      </extent>
+      <head>
+        <charseq START="6202" END="6208">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-111" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-111-0">
+      <extent>
+        <charseq START="6260" END="6274">older buildings</charseq>
+      </extent>
+      <head>
+        <charseq START="6266" END="6274">buildings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-112" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030523.0589-112-0">
+      <extent>
+        <charseq START="6297" END="6307">Many people</charseq>
+      </extent>
+      <head>
+        <charseq START="6302" END="6307">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030523.0589-113" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030523.0589-113-0">
+      <extent>
+        <charseq START="6497" END="6507">kh-ps-jc-eg</charseq>
+      </extent>
+      <head>
+        <charseq START="6497" END="6507">kh-ps-jc-eg</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="kh-ps-jc-eg">
+        <charseq START="6497" END="6507">kh-ps-jc-eg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20030523.0589-T0" VAL="2003-05-23">
+    <timex2_mention ID="APW_ENG_20030523.0589-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030523</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T1" VAL="P2D">
+    <timex2_mention ID="APW_ENG_20030523.0589-T1-1">
+      <extent>
+        <charseq START="197" END="204">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T2" VAL="2003-05-23">
+    <timex2_mention ID="APW_ENG_20030523.0589-T2-1">
+      <extent>
+        <charseq START="252" END="257">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T3" VAL="2003-05-21">
+    <timex2_mention ID="APW_ENG_20030523.0589-T3-1">
+      <extent>
+        <charseq START="591" END="599">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T4" VAL="2003-05-23">
+    <timex2_mention ID="APW_ENG_20030523.0589-T4-1">
+      <extent>
+        <charseq START="963" END="968">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T5" VAL="2003-05-21">
+    <timex2_mention ID="APW_ENG_20030523.0589-T5-1">
+      <extent>
+        <charseq START="1172" END="1180">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T6" VAL="P3D">
+    <timex2_mention ID="APW_ENG_20030523.0589-T6-1">
+      <extent>
+        <charseq START="1228" END="1237">three days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T7" VAL="7207">
+    <timex2_mention ID="APW_ENG_20030523.0589-T7-1">
+      <extent>
+        <charseq START="1398" END="1402">7,207</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T8" VAL="7000">
+    <timex2_mention ID="APW_ENG_20030523.0589-T8-1">
+      <extent>
+        <charseq START="2195" END="2199">7,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T9" VAL="3000">
+    <timex2_mention ID="APW_ENG_20030523.0589-T9-1">
+      <extent>
+        <charseq START="2575" END="2579">3,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T10" VAL="2003-05-23">
+    <timex2_mention ID="APW_ENG_20030523.0589-T10-1">
+      <extent>
+        <charseq START="3126" END="3131">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T11" VAL="2003-05-23">
+    <timex2_mention ID="APW_ENG_20030523.0589-T11-1">
+      <extent>
+        <charseq START="3285" END="3290">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T12" VAL="2003-05-23">
+    <timex2_mention ID="APW_ENG_20030523.0589-T12-1">
+      <extent>
+        <charseq START="4369" END="4374">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T13" VAL="2003-05-21">
+    <timex2_mention ID="APW_ENG_20030523.0589-T13-1">
+      <extent>
+        <charseq START="4858" END="4866">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T14" VAL="5000">
+    <timex2_mention ID="APW_ENG_20030523.0589-T14-1">
+      <extent>
+        <charseq START="5028" END="5032">5,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T15" VAL="1980-10">
+    <timex2_mention ID="APW_ENG_20030523.0589-T15-1">
+      <extent>
+        <charseq START="5037" END="5048">October 1980</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T16" VAL="2004">
+    <timex2_mention ID="APW_ENG_20030523.0589-T16-1">
+      <extent>
+        <charseq START="5470" END="5478">next year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030523.0589-T17" VAL="2003-W22">
+    <timex2_mention ID="APW_ENG_20030523.0589-T17-1">
+      <extent>
+        <charseq START="5748" END="5756">next week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030523.0589-R1" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R1-1">
+      <extent>
+        <charseq START="262" END="333">a 2-year-old girl
+emerged alive from the rubble of her crumbled building</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="262" END="278">a 2-year-old girl</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="313" END="333">her crumbled building</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030523.0589-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R2-1">
+      <extent>
+        <charseq START="313" END="333">her crumbled building</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="313" END="315">her</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="313" END="333">her crumbled building</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030523.0589-6" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R3-1">
+      <extent>
+        <charseq START="394" END="428">volunteer rescue workers from Spain</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="394" END="417">volunteer rescue workers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="424" END="428">Spain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R4-1">
+      <extent>
+        <charseq START="514" END="541">one of the hardest hit areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="514" END="541">one of the hardest hit areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="521" END="541">the hardest hit areas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R5-1">
+      <extent>
+        <charseq START="521" END="557">the hardest hit areas east of Algiers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="521" END="541">the hardest hit areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="551" END="557">Algiers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R6" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="APW_ENG_20030523.0589-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R6-1">
+      <extent>
+        <charseq START="561" END="576">Emilie&apos;s parents</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-8-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="561" END="566">Emilie</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="561" END="576">Emilie&apos;s parents</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030523.0589-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-14" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R7-1">
+      <extent>
+        <charseq START="635" END="644">their town</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="635" END="639">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="635" END="644">their town</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-20" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R8-1">
+      <extent>
+        <charseq START="1012" END="1037">countries around the world</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1012" END="1020">countries</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1029" END="1037">the world</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-17" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-23" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R9-1">
+      <extent>
+        <charseq START="1537" END="1564">Villagers in destroyed towns</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1537" END="1545">Villagers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1550" END="1564">destroyed towns</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R10-1">
+      <extent>
+        <charseq START="1550" END="1575">destroyed towns like Corso</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1550" END="1564">destroyed towns</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-1-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1571" END="1575">Corso</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R11" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030523.0589-38" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-39" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R11-1">
+      <extent>
+        <charseq START="2441" END="2461">the interior minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-38-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2441" END="2461">the interior minister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-39-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2445" END="2452">interior</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-53" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-54" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R12-1">
+      <extent>
+        <charseq START="2893" END="2916">a field hospital, Sweden</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-53-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2893" END="2908">a field hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-54-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2911" END="2916">Sweden</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-53" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-55" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R13-1">
+      <extent>
+        <charseq START="2893" END="2932">a field hospital, Sweden and
+Switzerland</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-53-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2893" END="2908">a field hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-55-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2922" END="2932">Switzerland</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030523.0589-61" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R14-1">
+      <extent>
+        <charseq START="3083" END="3100">Algerian President</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-61-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3092" END="3100">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-2-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="3083" END="3090">Algerian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R15" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-66" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R15-1">
+      <extent>
+        <charseq START="3358" END="3377">a captain in Algeria</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-66-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3358" END="3366">a captain</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-2-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="3371" END="3377">Algeria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030523.0589-67" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R16-1">
+      <extent>
+        <charseq START="3371" END="3401">Algeria&apos;s civil protection unit</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-67-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3371" END="3401">Algeria&apos;s civil protection unit</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-2-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="3371" END="3377">Algeria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R17" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-68" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-69" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R17-1">
+      <extent>
+        <charseq START="3600" END="3650">four-story building that had collapsed in Boumerdes</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-68-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3600" END="3637">four-story building that had collapsed</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-69-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3642" END="3650">Boumerdes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R18" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-80" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-81" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R18-1">
+      <extent>
+        <charseq START="4538" END="4573">thieves from
+looting abandoned homes</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-80-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4538" END="4544">thieves</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-81-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4559" END="4573">abandoned homes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R19" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-28" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-83" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R19-1">
+      <extent>
+        <charseq START="4586" END="4644">bodies were wrapped in blankets and plastic bags at morgues</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-28-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="4586" END="4591">bodies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-83-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4638" END="4644">morgues</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R20" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-90" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R20-1">
+      <extent>
+        <charseq START="5228" END="5244">countries in Asia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5228" END="5236">countries</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-90-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5241" END="5244">Asia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R21" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-90" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-91" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R21-1">
+      <extent>
+        <charseq START="5241" END="5261">Asia, the Middle East</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-90-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5241" END="5244">Asia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-91-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5247" END="5261">the Middle East</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R22" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030523.0589-97" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-96" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R22-1">
+      <extent>
+        <charseq START="5724" END="5736">world leaders</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-97-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5724" END="5736">world leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-96-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5724" END="5728">world</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R23" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030523.0589-97" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-98" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R23-1">
+      <extent>
+        <charseq START="5724" END="5746">world leaders in France</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-97-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5724" END="5736">world leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-98-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5741" END="5746">France</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R24" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030523.0589-100" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-101" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R24-1">
+      <extent>
+        <charseq START="5811" END="5839">the wobbly state of buildings</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-100-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5811" END="5839">the wobbly state of buildings</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-101-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5831" END="5839">buildings</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R25" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="APW_ENG_20030523.0589-104" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-88" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R25-1">
+      <extent>
+        <charseq START="5921" END="5942">the capital, residents</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-104-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5934" END="5942">residents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-88-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5921" END="5931">the capital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R26" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-106" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-107" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R26-1">
+      <extent>
+        <charseq START="5995" END="6054">roughly 14 people  _  to cram into a three-bedroom
+apartment</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-106-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5995" END="6011">roughly 14 people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-107-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="6030" END="6054">a three-bedroom
+apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R27" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030523.0589-108" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-107" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R27-1">
+      <extent>
+        <charseq START="6030" END="6062">a three-bedroom
+apartment; others</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-108-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="6057" END="6062">others</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-107-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="6030" END="6054">a three-bedroom
+apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R28" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-91" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R28-1">
+      <extent>
+        <charseq START="5228" END="5261">countries in Asia, the Middle East</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5228" END="5236">countries</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-91-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5247" END="5261">the Middle East</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030523.0589-R29" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030523.0589-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030523.0589-92" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030523.0589-R29-1">
+      <extent>
+        <charseq START="5228" END="5277">countries in Asia, the Middle East and the Pacific</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5228" END="5236">countries</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030523.0589-92-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5267" END="5277">the Pacific</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030523.0589-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-T2" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030523.0589-2" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV1-1">
+      <extent>
+        <charseq START="152" END="156">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="152" END="156">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-2-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV2" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030523.0589-EV2-1">
+      <extent>
+        <charseq START="317" END="324">crumbled</charseq>
+      </extent>
+      <anchor>
+        <charseq START="317" END="324">crumbled</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV3" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-9" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV3-1">
+      <extent>
+        <charseq START="473" END="481">collapsed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="473" END="481">collapsed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-9-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-13" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T3" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV4-1">
+      <extent>
+        <charseq START="625" END="633">destroyed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="625" END="633">destroyed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-13-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-24" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T5" ROLE="Time-Starting"/>
+    <event_argument REFID="APW_ENG_20030523.0589-23" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV5-1">
+      <extent>
+        <charseq START="1093" END="1099">hammers</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1093" END="1099">hammers</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-24-0" ROLE="Target"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030523.0589-EV5-2">
+      <extent>
+        <charseq START="1159" END="1167">destroyed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1159" END="1167">destroyed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-24-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T5-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-23-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-27" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T7" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV7-1">
+      <extent>
+        <charseq START="1355" END="1384">killing more than 1,600 people</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1355" END="1361">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-27-0" ROLE="Victim"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T7-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV8" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-27" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV8-1">
+      <extent>
+        <charseq START="1404" END="1410">injured</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1404" END="1410">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-27-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030523.0589-EV9-1">
+      <extent>
+        <charseq START="1495" END="1499">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1495" END="1499">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-17" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030523.0589-23" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV10-1">
+      <extent>
+        <charseq START="1550" END="1558">destroyed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1550" END="1558">destroyed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-17-1" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-23-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-31" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV11-1">
+      <extent>
+        <charseq START="1823" END="1827">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1823" END="1827">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-31-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV12" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030523.0589-EV12-1">
+      <extent>
+        <charseq START="1895" END="1898">move</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1895" END="1898">move</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-32" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV13-1">
+      <extent>
+        <charseq START="1961" END="1965">dying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1961" END="1965">dying</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-32-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV14" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030523.0589-EV14-1">
+      <extent>
+        <charseq START="2297" END="2303">visited</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2297" END="2303">visited</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV15" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030523.0589-EV15-1">
+      <extent>
+        <charseq START="2333" END="2337">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2333" END="2337">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV16" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-37" ROLE="Vehicle"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV16-1">
+      <extent>
+        <charseq START="2411" END="2426">Helicopters
+flew</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2423" END="2426">flew</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-37-0" ROLE="Vehicle"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-41" ROLE="Vehicle"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T9" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV17-1">
+      <extent>
+        <charseq START="2546" END="2572">moving dozens of ambulances</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2546" END="2551">moving</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-41-0" ROLE="Vehicle"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T9-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV18" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-55" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030523.0589-53" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV18-1">
+      <extent>
+        <charseq START="2922" END="2937">Switzerland sent</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2934" END="2937">sent</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-55-0" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-53-0" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV19" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-69" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV19-1">
+      <extent>
+        <charseq START="3629" END="3637">collapsed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3629" END="3637">collapsed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-69-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV20" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-71" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030523.0589-62" ROLE="Agent"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV20-1">
+      <extent>
+        <charseq START="3868" END="3882">955 people died</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3879" END="3882">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-71-0" ROLE="Victim"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-62-1" ROLE="Agent"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV21" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-71" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV21-1">
+      <extent>
+        <charseq START="4267" END="4282">People are
+dying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4278" END="4282">dying</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-71-3" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV22" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-84" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV22-1">
+      <extent>
+        <charseq START="4742" END="4751">they moved</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4747" END="4751">moved</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-84-2" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV23" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-T15" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030523.0589-88" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV23-1">
+      <extent>
+        <charseq START="5015" END="5020">killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5015" END="5020">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T15-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-88-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV24" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-94" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T16" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV24-1">
+      <extent>
+        <charseq START="5395" END="5421">battling Islamic insurgents</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5395" END="5402">battling</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-94-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T16-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV25" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-40" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T16" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV25-1">
+      <extent>
+        <charseq START="5456" END="5464">elections</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5456" END="5464">elections</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-40-1" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T16-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV26" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-97" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030523.0589-98" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030523.0589-T17" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV26-1">
+      <extent>
+        <charseq START="5714" END="5746">summit of world leaders in France</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5714" END="5719">summit</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-97-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-98-0" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-T17-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030523.0589-EV27" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030523.0589-107" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030523.0589-EV27-1">
+      <extent>
+        <charseq START="6227" END="6235">collapsed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="6227" END="6235">collapsed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030523.0589-107-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

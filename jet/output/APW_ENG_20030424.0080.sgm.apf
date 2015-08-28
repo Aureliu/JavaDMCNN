@@ -1,0 +1,1547 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030424.0080.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030424.0080">
+  <entity ID="APW_ENG_20030424.0080-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="123" END="131">LAS VEGAS</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="131">LAS VEGAS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="177" END="198">its bankrupt Las Vegas</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="198">Las Vegas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LAS VEGAS">
+        <charseq START="123" END="131">LAS VEGAS</charseq>
+      </name>
+      <name NAME="Las Vegas">
+        <charseq START="190" END="198">Las Vegas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-2-0">
+      <extent>
+        <charseq START="134" END="135">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="135">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="134" END="135">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-3-0">
+      <extent>
+        <charseq START="139" END="156">Aladdin Gaming LLC</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="156">Aladdin Gaming LLC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-3-1">
+      <extent>
+        <charseq START="177" END="179">its</charseq>
+      </extent>
+      <head>
+        <charseq START="177" END="179">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-3-2">
+      <extent>
+        <charseq START="712" END="718">Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="718">Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-3-3">
+      <extent>
+        <charseq START="810" END="816">Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="816">Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-3-4">
+      <extent>
+        <charseq START="1007" END="1013">Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="1007" END="1013">Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Aladdin Gaming LLC">
+        <charseq START="139" END="156">Aladdin Gaming LLC</charseq>
+      </name>
+      <name NAME="Aladdin">
+        <charseq START="712" END="718">Aladdin</charseq>
+      </name>
+      <name NAME="Aladdin">
+        <charseq START="810" END="816">Aladdin</charseq>
+      </name>
+      <name NAME="Aladdin">
+        <charseq START="1007" END="1013">Aladdin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-4-0">
+      <extent>
+        <charseq START="200" END="205">casino</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="205">casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-5-0">
+      <extent>
+        <charseq START="207" END="211">hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="211">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-5-1">
+      <extent>
+        <charseq START="289" END="293">hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="293">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-5-2">
+      <extent>
+        <charseq START="540" END="544">hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="544">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-5-3">
+      <extent>
+        <charseq START="1640" END="1644">hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="1640" END="1644">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-6-0">
+      <extent>
+        <charseq START="216" END="257">a joint venture involving Planet Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="230">venture</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-6-1">
+      <extent>
+        <charseq START="673" END="683">the venture</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="683">venture</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-6-2">
+      <extent>
+        <charseq START="967" END="977">the venture</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="977">venture</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-7-0">
+      <extent>
+        <charseq START="242" END="257">Planet Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="257">Planet Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-7-1">
+      <extent>
+        <charseq START="415" END="449">Planet Hollywood Hotel
+&amp;amp; Casino</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="449">Planet Hollywood Hotel
+&amp;amp; Casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-7-2">
+      <extent>
+        <charseq START="553" END="568">Planet Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="568">Planet Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-7-3">
+      <extent>
+        <charseq START="1515" END="1549">Planet Hollywood, which has no role</charseq>
+      </extent>
+      <head>
+        <charseq START="1515" END="1530">Planet Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-7-4">
+      <extent>
+        <charseq START="1706" END="1721">Planet Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="1706" END="1721">Planet Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-7-5">
+      <extent>
+        <charseq START="2579" END="2594">Planet Hollywood</charseq>
+      </extent>
+      <head>
+        <charseq START="2579" END="2594">Planet Hollywood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Planet Hollywood">
+        <charseq START="242" END="257">Planet Hollywood</charseq>
+      </name>
+      <name NAME="Planet Hollywood Hotel &amp;amp; Casino">
+        <charseq START="415" END="449">Planet Hollywood Hotel
+&amp;amp; Casino</charseq>
+      </name>
+      <name NAME="Planet Hollywood">
+        <charseq START="553" END="568">Planet Hollywood</charseq>
+      </name>
+      <name NAME="Planet Hollywood">
+        <charseq START="1515" END="1530">Planet Hollywood</charseq>
+      </name>
+      <name NAME="Planet Hollywood">
+        <charseq START="1706" END="1721">Planet Hollywood</charseq>
+      </name>
+      <name NAME="Planet Hollywood">
+        <charseq START="2579" END="2594">Planet Hollywood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-8-0">
+      <extent>
+        <charseq START="261" END="262">co</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="262">co</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-8-1">
+      <extent>
+        <charseq START="1692" END="1693">co</charseq>
+      </extent>
+      <head>
+        <charseq START="1692" END="1693">co</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-9-0">
+      <extent>
+        <charseq START="264" END="270">founder</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="270">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-9-1">
+      <extent>
+        <charseq START="1695" END="1701">founder</charseq>
+      </extent>
+      <head>
+        <charseq START="1695" END="1701">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-10-0">
+      <extent>
+        <charseq START="276" END="299">the Starwood hotel chain</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="299">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="280" END="287">Starwood</charseq>
+      </extent>
+      <head>
+        <charseq START="280" END="287">Starwood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="1619" END="1626">Starwood</charseq>
+      </extent>
+      <head>
+        <charseq START="1619" END="1626">Starwood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-11-2" ROLE="GPE">
+      <extent>
+        <charseq START="1665" END="1667">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1665" END="1667">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-11-3" ROLE="GPE">
+      <extent>
+        <charseq START="2059" END="2066">Starwood</charseq>
+      </extent>
+      <head>
+        <charseq START="2059" END="2066">Starwood</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-11-4" ROLE="GPE">
+      <extent>
+        <charseq START="2075" END="2077">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2075" END="2077">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Starwood">
+        <charseq START="280" END="287">Starwood</charseq>
+      </name>
+      <name NAME="Starwood">
+        <charseq START="1619" END="1626">Starwood</charseq>
+      </name>
+      <name NAME="Starwood">
+        <charseq START="2059" END="2066">Starwood</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-12" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-12-0">
+      <extent>
+        <charseq START="346" END="366">Arabian Nights-themed</charseq>
+      </extent>
+      <head>
+        <charseq START="346" END="366">Arabian Nights-themed</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arabian Nights-themed">
+        <charseq START="346" END="366">Arabian Nights-themed</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="378" END="396">the Las Vegas Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="396">Las Vegas Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Las Vegas Strip">
+        <charseq START="382" END="396">Las Vegas Strip</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-14-0">
+      <extent>
+        <charseq START="484" END="517">Starwood Hotels &amp;amp;
+Resorts Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="517">Starwood Hotels &amp;amp;
+Resorts Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-14-1">
+      <extent>
+        <charseq START="527" END="529">its</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="529">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Starwood Hotels &amp;amp; Resorts Inc.">
+        <charseq START="484" END="517">Starwood Hotels &amp;amp;
+Resorts Inc.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="531" END="538">Sheraton</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="538">Sheraton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="1669" END="1676">Sheraton</charseq>
+      </extent>
+      <head>
+        <charseq START="1669" END="1676">Sheraton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sheraton">
+        <charseq START="531" END="538">Sheraton</charseq>
+      </name>
+      <name NAME="Sheraton">
+        <charseq START="1669" END="1676">Sheraton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-16-0">
+      <extent>
+        <charseq START="553" END="584">Planet Hollywood CEO
+Robert Earl</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="584">Robert Earl</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-16-1">
+      <extent>
+        <charseq START="1686" END="1689">Earl</charseq>
+      </extent>
+      <head>
+        <charseq START="1686" END="1689">Earl</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-16-2">
+      <extent>
+        <charseq START="1823" END="1824">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1823" END="1824">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Robert Earl">
+        <charseq START="574" END="584">Robert Earl</charseq>
+      </name>
+      <name NAME="Earl">
+        <charseq START="1686" END="1689">Earl</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="590" END="597">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="597">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-17-1" ROLE="GPE">
+      <extent>
+        <charseq START="2328" END="2335">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="2328" END="2335">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-17-2" ROLE="GPE">
+      <extent>
+        <charseq START="2409" END="2412">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2409" END="2412">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="590" END="597">New York</charseq>
+      </name>
+      <name NAME="New York">
+        <charseq START="2328" END="2335">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-18-0">
+      <extent>
+        <charseq START="590" END="639">New York investment firm Bay Harbour Management LC</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="639">Bay Harbour Management LC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-18-1">
+      <extent>
+        <charseq START="610" END="613">firm</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="613">firm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bay Harbour Management LC">
+        <charseq START="615" END="639">Bay Harbour Management LC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-19-0">
+      <extent>
+        <charseq START="650" END="683">members of a member of the venture</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="656">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-20-0">
+      <extent>
+        <charseq START="661" END="668">a member</charseq>
+      </extent>
+      <head>
+        <charseq START="663" END="668">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-21-0">
+      <extent>
+        <charseq START="687" END="695">The group</charseq>
+      </extent>
+      <head>
+        <charseq START="691" END="695">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-22-0">
+      <extent>
+        <charseq START="712" END="758">Aladdin&apos;s 7,000-seat Theatre of Performing
+Arts</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="758">Theatre of Performing
+Arts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Theatre of Performing Arts">
+        <charseq START="733" END="758">Theatre of Performing
+Arts</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-23-0">
+      <extent>
+        <charseq START="781" END="805">a lot of different people</charseq>
+      </extent>
+      <head>
+        <charseq START="783" END="785">lot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-24-0">
+      <extent>
+        <charseq START="790" END="805">different people</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="805">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-25-0">
+      <extent>
+        <charseq START="810" END="826">Aladdin president</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="826">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-26-0">
+      <extent>
+        <charseq START="839" END="866">chief executive Bill Timmins</charseq>
+      </extent>
+      <head>
+        <charseq START="855" END="866">Bill Timmins</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-26-1">
+      <extent>
+        <charseq START="845" END="853">executive</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="853">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-26-2">
+      <extent>
+        <charseq START="2039" END="2047">executive</charseq>
+      </extent>
+      <head>
+        <charseq START="2039" END="2047">executive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bill Timmins">
+        <charseq START="855" END="866">Bill Timmins</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-27-0">
+      <extent>
+        <charseq START="900" END="909">the entity</charseq>
+      </extent>
+      <head>
+        <charseq START="904" END="909">entity</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-28-0">
+      <extent>
+        <charseq START="1043" END="1050">The trio</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1050">trio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-29-0">
+      <extent>
+        <charseq START="1084" END="1093">the casino</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1093">casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-29-1">
+      <extent>
+        <charseq START="1729" END="1738">the casino</charseq>
+      </extent>
+      <head>
+        <charseq START="1733" END="1738">casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-30-0">
+      <extent>
+        <charseq START="1097" END="1118">The 2,567-room Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="1101" END="1118">2,567-room Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="2,567-room Aladdin">
+        <charseq START="1101" END="1118">2,567-room Aladdin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-31-0">
+      <extent>
+        <charseq START="1239" END="1287">a bankruptcy judge, who can allow other companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1252" END="1256">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-32-0">
+      <extent>
+        <charseq START="1273" END="1287">other companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1287">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-33" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-33-0">
+      <extent>
+        <charseq START="1323" END="1367">the $35 million Northwind Aladdin power
+plant</charseq>
+      </extent>
+      <head>
+        <charseq START="1363" END="1367">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-34-0">
+      <extent>
+        <charseq START="1339" END="1355">Northwind Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="1339" END="1355">Northwind Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-34-1">
+      <extent>
+        <charseq START="1372" END="1378">Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="1372" END="1378">Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-34-2">
+      <extent>
+        <charseq START="2160" END="2166">Aladdin</charseq>
+      </extent>
+      <head>
+        <charseq START="2160" END="2166">Aladdin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Northwind Aladdin">
+        <charseq START="1339" END="1355">Northwind Aladdin</charseq>
+      </name>
+      <name NAME="Aladdin">
+        <charseq START="1372" END="1378">Aladdin</charseq>
+      </name>
+      <name NAME="Aladdin">
+        <charseq START="2160" END="2166">Aladdin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-35-0">
+      <extent>
+        <charseq START="1464" END="1474">The company</charseq>
+      </extent>
+      <head>
+        <charseq START="1468" END="1474">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-36-0">
+      <extent>
+        <charseq START="1493" END="1511">all
+2,600 employees</charseq>
+      </extent>
+      <head>
+        <charseq START="1503" END="1511">employees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-37-0">
+      <extent>
+        <charseq START="1917" END="1926">Mike Mecca</charseq>
+      </extent>
+      <head>
+        <charseq START="1917" END="1926">Mike Mecca</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mike Mecca">
+        <charseq START="1917" END="1926">Mike Mecca</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-38-0">
+      <extent>
+        <charseq START="1929" END="1989">former general manager of the Green Valley Ranch
+hotel-casino</charseq>
+      </extent>
+      <head>
+        <charseq START="1944" END="1950">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-39" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-39-0">
+      <extent>
+        <charseq START="1955" END="1989">the Green Valley Ranch
+hotel-casino</charseq>
+      </extent>
+      <head>
+        <charseq START="1959" END="1989">Green Valley Ranch
+hotel-casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-39-1">
+      <extent>
+        <charseq START="2365" END="2380">the hotel-casino</charseq>
+      </extent>
+      <head>
+        <charseq START="2369" END="2380">hotel-casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Green Valley Ranch hotel-casino">
+        <charseq START="1959" END="1989">Green Valley Ranch
+hotel-casino</charseq>
+      </name>
+      <name NAME="hotel-casino">
+        <charseq START="2369" END="2380">hotel-casino</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-40-0" ROLE="GPE">
+      <extent>
+        <charseq START="1994" END="2002">Henderson</charseq>
+      </extent>
+      <head>
+        <charseq START="1994" END="2002">Henderson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Henderson">
+        <charseq START="1994" END="2002">Henderson</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-41-0">
+      <extent>
+        <charseq START="2019" END="2027">president</charseq>
+      </extent>
+      <head>
+        <charseq START="2019" END="2027">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-42-0">
+      <extent>
+        <charseq START="2033" END="2055">chief
+executive officer</charseq>
+      </extent>
+      <head>
+        <charseq START="2049" END="2055">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-43-0">
+      <extent>
+        <charseq START="2079" END="2105">Starwood Vacation Ownership</charseq>
+      </extent>
+      <head>
+        <charseq START="2079" END="2105">Starwood Vacation Ownership</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Starwood Vacation Ownership">
+        <charseq START="2079" END="2105">Starwood Vacation Ownership</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-44-0">
+      <extent>
+        <charseq START="2136" END="2155">600 time-share units</charseq>
+      </extent>
+      <head>
+        <charseq START="2151" END="2155">units</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-45" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-45-0">
+      <extent>
+        <charseq START="2208" END="2240">the adjoining Desert Passage Mall</charseq>
+      </extent>
+      <head>
+        <charseq START="2222" END="2240">Desert Passage Mall</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Desert Passage Mall">
+        <charseq START="2222" END="2240">Desert Passage Mall</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-46-0">
+      <extent>
+        <charseq START="2261" END="2274">Aladdin Bazaar</charseq>
+      </extent>
+      <head>
+        <charseq START="2261" END="2274">Aladdin Bazaar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Aladdin Bazaar">
+        <charseq START="2261" END="2274">Aladdin Bazaar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-47-0">
+      <extent>
+        <charseq START="2278" END="2289">Marc Falcone</charseq>
+      </extent>
+      <head>
+        <charseq START="2278" END="2289">Marc Falcone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030424.0080-47-1">
+      <extent>
+        <charseq START="2432" END="2433">he</charseq>
+      </extent>
+      <head>
+        <charseq START="2432" END="2433">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marc Falcone">
+        <charseq START="2278" END="2289">Marc Falcone</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-48-0">
+      <extent>
+        <charseq START="2292" END="2323">a Deutsche Bank gambling analyst</charseq>
+      </extent>
+      <head>
+        <charseq START="2317" END="2323">analyst</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-49" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-49-0">
+      <extent>
+        <charseq START="2294" END="2306">Deutsche Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="2294" END="2306">Deutsche Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Deutsche Bank">
+        <charseq START="2294" END="2306">Deutsche Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030424.0080-50-0">
+      <extent>
+        <charseq START="2451" END="2466">the bond
+holders</charseq>
+      </extent>
+      <head>
+        <charseq START="2460" END="2466">holders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030424.0080-51" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030424.0080-51-0">
+      <extent>
+        <charseq START="2629" END="2665">Starwood Hotels and Resorts Worldwide</charseq>
+      </extent>
+      <head>
+        <charseq START="2629" END="2665">Starwood Hotels and Resorts Worldwide</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Starwood Hotels and Resorts Worldwide">
+        <charseq START="2629" END="2665">Starwood Hotels and Resorts Worldwide</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030424.0080-V6" TYPE="Job-Title">
+    <value_mention ID="APW_ENG_20030424.0080-V6-1">
+      <extent>
+        <charseq START="1929" END="1989">former general manager of the Green Valley Ranch
+hotel-casino</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030424.0080-V11" TYPE="Contact-Info" SUBTYPE="URL">
+    <value_mention ID="APW_ENG_20030424.0080-V11-1">
+      <extent>
+        <charseq START="2597" END="2626">http://www.planethollywood.com</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030424.0080-V12" TYPE="Contact-Info" SUBTYPE="URL">
+    <value_mention ID="APW_ENG_20030424.0080-V12-1">
+      <extent>
+        <charseq START="2668" END="2690">http://www.starwood.com</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030424.0080-T0" VAL="2003-04-24">
+    <timex2_mention ID="APW_ENG_20030424.0080-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030424</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030424.0080-T1" VAL="2003-04-23">
+    <timex2_mention ID="APW_ENG_20030424.0080-T1-1">
+      <extent>
+        <charseq START="322" END="330">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030424.0080-T2" VAL="7000">
+    <timex2_mention ID="APW_ENG_20030424.0080-T2-1">
+      <extent>
+        <charseq START="722" END="726">7,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030424.0080-T3" VAL="2567">
+    <timex2_mention ID="APW_ENG_20030424.0080-T3-1">
+      <extent>
+        <charseq START="1101" END="1105">2,567</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030424.0080-T4" VAL="2000-08">
+    <timex2_mention ID="APW_ENG_20030424.0080-T4-1">
+      <extent>
+        <charseq START="1130" END="1140">August 2000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030424.0080-T5" VAL="2001-09">
+    <timex2_mention ID="APW_ENG_20030424.0080-T5-1">
+      <extent>
+        <charseq START="1192" END="1205">September 2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030424.0080-T6" VAL="2600">
+    <timex2_mention ID="APW_ENG_20030424.0080-T6-1">
+      <extent>
+        <charseq START="1497" END="1501">2,600</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030424.0080-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030424.0080-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R1-1">
+      <extent>
+        <charseq START="280" END="293">Starwood hotel</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="280" END="287">Starwood</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="289" END="293">hotel</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030424.0080-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R2-1">
+      <extent>
+        <charseq START="276" END="299">the Starwood hotel chain</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="276" END="299">the Starwood hotel chain</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="280" END="287">Starwood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-16" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R3-1">
+      <extent>
+        <charseq START="553" END="584">Planet Hollywood CEO
+Robert Earl</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="553" END="584">Planet Hollywood CEO
+Robert Earl</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-7-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="553" END="568">Planet Hollywood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030424.0080-18" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R4-1">
+      <extent>
+        <charseq START="590" END="613">New York investment firm</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="610" END="613">firm</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="590" END="597">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-20" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R5-1">
+      <extent>
+        <charseq START="650" END="683">members of a member of the venture</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="661" END="668">a member</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="650" END="683">members of a member of the venture</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R6" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-20" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-6" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R6-1">
+      <extent>
+        <charseq START="661" END="683">a member of the venture</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="661" END="668">a member</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="673" END="683">the venture</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R7" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030424.0080-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-3" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R7-1">
+      <extent>
+        <charseq START="712" END="758">Aladdin&apos;s 7,000-seat Theatre of Performing
+Arts</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="712" END="758">Aladdin&apos;s 7,000-seat Theatre of Performing
+Arts</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-3-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="712" END="718">Aladdin</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R8" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-25" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-3" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R8-1">
+      <extent>
+        <charseq START="810" END="826">Aladdin president</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="810" END="826">Aladdin president</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-3-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="810" END="816">Aladdin</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030424.0080-28" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-29" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R9-1">
+      <extent>
+        <charseq START="1043" END="1093">The trio also will invest $90 million in
+the casino</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-28-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1043" END="1050">The trio</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-29-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1084" END="1093">the casino</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030424.0080-34" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-33" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R10-1">
+      <extent>
+        <charseq START="1323" END="1367">the $35 million Northwind Aladdin power
+plant</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-34-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1339" END="1355">Northwind Aladdin</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-33-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1323" END="1367">the $35 million Northwind Aladdin power
+plant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R11" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-36" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-35" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R11-1">
+      <extent>
+        <charseq START="1464" END="1511">The company agreed to retain all
+2,600 employees</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-36-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1493" END="1511">all
+2,600 employees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-35-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1464" END="1474">The company</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R12" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R12-1">
+      <extent>
+        <charseq START="1695" END="1721">founder of Planet Hollywood</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1695" END="1701">founder</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-7-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1706" END="1721">Planet Hollywood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-38" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-39" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R13-1">
+      <extent>
+        <charseq START="1929" END="1989">former general manager of the Green Valley Ranch
+hotel-casino</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-38-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1929" END="1989">former general manager of the Green Valley Ranch
+hotel-casino</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-39-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1955" END="1989">the Green Valley Ranch
+hotel-casino</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030424.0080-39" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-40" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R14-1">
+      <extent>
+        <charseq START="1955" END="2002">the Green Valley Ranch
+hotel-casino in Henderson</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-39-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1955" END="1989">the Green Valley Ranch
+hotel-casino</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-40-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1994" END="2002">Henderson</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R15" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030424.0080-26" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-42" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R15-1">
+      <extent>
+        <charseq START="2033" END="2055">chief
+executive officer</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-26-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="2039" END="2047">executive</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-42-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2033" END="2055">chief
+executive officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R16" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030424.0080-43" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R16-1">
+      <extent>
+        <charseq START="2075" END="2105">its Starwood Vacation Ownership</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-43-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2079" END="2105">Starwood Vacation Ownership</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-11-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="2075" END="2077">its</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R17" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030424.0080-48" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-49" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R17-1">
+      <extent>
+        <charseq START="2292" END="2323">a Deutsche Bank gambling analyst</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2292" END="2323">a Deutsche Bank gambling analyst</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-49-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2294" END="2306">Deutsche Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030424.0080-R18" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030424.0080-48" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030424.0080-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030424.0080-R18-1">
+      <extent>
+        <charseq START="2292" END="2335">a Deutsche Bank gambling analyst in New York</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2292" END="2323">a Deutsche Bank gambling analyst</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030424.0080-17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2328" END="2335">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030424.0080-EV1" TYPE="Business" SUBTYPE="Declare-Bankruptcy" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030424.0080-4" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030424.0080-EV1-1">
+      <extent>
+        <charseq START="181" END="188">bankrupt</charseq>
+      </extent>
+      <anchor>
+        <charseq START="181" END="188">bankrupt</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-4-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030424.0080-EV2" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030424.0080-33" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030424.0080-22" ROLE="Artifact"/>
+    <event_argument REFID="APW_ENG_20030424.0080-3" ROLE="Seller"/>
+    <event_argument REFID="APW_ENG_20030424.0080-21" ROLE="Buyer"/>
+    <event_mention ID="APW_ENG_20030424.0080-EV2-1">
+      <extent>
+        <charseq START="705" END="758">buying Aladdin&apos;s 7,000-seat Theatre of Performing
+Arts</charseq>
+      </extent>
+      <anchor>
+        <charseq START="705" END="710">buying</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-22-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-3-2" ROLE="Seller"/>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-21-0" ROLE="Buyer"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030424.0080-EV2-2">
+      <extent>
+        <charseq START="1316" END="1367">buying the $35 million Northwind Aladdin power
+plant</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1316" END="1321">buying</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-33-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030424.0080-EV3" TYPE="Business" SUBTYPE="Declare-Bankruptcy" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030424.0080-31" ROLE="Org"/>
+    <event_argument REFID="APW_ENG_20030424.0080-T5" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030424.0080-EV3-1">
+      <extent>
+        <charseq START="1167" END="1176">bankruptcy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1167" END="1176">bankruptcy</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-T5-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030424.0080-EV3-2">
+      <extent>
+        <charseq START="1241" END="1250">bankruptcy</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1241" END="1250">bankruptcy</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-31-0" ROLE="Org"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030424.0080-EV6" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030424.0080-37" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030424.0080-V6" ROLE="Position"/>
+    <event_mention ID="APW_ENG_20030424.0080-EV6-1">
+      <extent>
+        <charseq START="1917" END="1934">Mike Mecca, former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1929" END="1934">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-37-0" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030424.0080-V6-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

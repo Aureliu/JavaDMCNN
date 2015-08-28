@@ -1,0 +1,157 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>English Lexicon Entries</title>
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h1>
+<font face="Arial Alternative"><font color="#3333FF">The Lexicon and Lexical
+Lookup</font></font></h1>
+<b><i>Still to mention:&nbsp; multi-word entries, matching;&nbsp; case
+sensitivity;&nbsp; pa forms</i></b>
+<p>The primary source of grammatical information about individual words
+is the lexicon.&nbsp; A lexical entry for a word will give its part of
+speech and various features of the word.&nbsp; The lexical lookup annotator
+processes a span of text which has already been divided into tokens, marked
+by <b>token</b> annotations (thus you <i>must</i> run a tokenizer prior
+to lexical lookup).&nbsp; It looks up each token in the lexicon and adds
+a <b>constit</b> annotation for each definition it finds.&nbsp; The attributes
+of the <b>constit</b> annotation are taken from the features of the lexical
+entry.
+<h2>
+Basic Lexical Entry Format</h2>
+The simplest form for a lexical entry is
+<p>&nbsp;&nbsp;&nbsp;&nbsp; word,, cat = part-of-speech;
+<p>where part-of-speech is some pre-terminal symbol in the grammar (note
+the double comma!).&nbsp; For example,
+<blockquote>my,,&nbsp; cat = art;
+<br>old,,&nbsp; cat = adj;
+<br>dog,,&nbsp; cat = n;
+<br>dogs,, cat = n;
+<br>chases,, cat = v;
+<br>cars,, cat=n;</blockquote>
+The entry may give additional features for the word, in the form <i>feature=value</i>;&nbsp;
+for example
+<blockquote>dog,, cat=n, number=singular;
+<br>dogs,, cat=n, number=plural;</blockquote>
+Thus if the word "dog" appears in a sentence, lexical lookup will assign
+it the annotation &lt;<b>constit</b> <b>cat</b>=n <b>number</b>=singular>dog&lt;/cat>.&nbsp;
+If a word has multiple parts of speech, it should have several entries
+in the lexicon:
+<blockquote>walk,, cat=v, number=plural;
+<br>walk,, cat=n, number=singular;</blockquote>
+When "walk" appears in a sentence, lexical lookup will add <i>two</i> <b>constit</b>
+annotations, one for each definition.
+<h2>
+English Lexicon Entries</h2>
+In order to keep the size of the <i>external lexicon</i> small, it is convenient
+to have a single entry for a noun or verb rather than have to write a separate
+entry for each inflected form.&nbsp; For example, we want to have one entry
+for "repeat" rather than separate entries for "repeat", "repeats", "repeated",
+and "repeating".&nbsp; JET supports this by having a small set of standard
+entry types;&nbsp; each entry type is automatically expanded into the various
+inflected forms in the internal lexicon.
+<p>The basic form of an entry is
+<blockquote>defined-item, type, feature = value, feature = value, ... ;</blockquote>
+The <i>defined-item</i> is the word or word sequence being defined.&nbsp;
+It may be a single word, a sequence of words, or a string enclosed in double
+quotes (").&nbsp; If the defined item contains any characters other than
+letters, it must be enclosed in quotes.&nbsp; Thus:
+<blockquote>cat, noun;
+<br>floppy disk, noun;
+<br>"cat 'o nine tails", noun;</blockquote>
+The <i>type</i> field may be <b>noun</b>, <b>verb</b>, <b>adj</b>, or <b>adv</b>,
+or may be empty.&nbsp; If the field is empty, the attribute / value pairs
+are used directly to create the internal lexicon entry.&nbsp; In this case,
+there should be at least a <b>cat</b> feature, indicating the word category
+of the lexical item:
+<blockquote>of,, cat=p.</blockquote>
+Each feature value may be an integer, a symbol (a sequence of letters beginning
+with a lower-case letter), or a string (enclosed in double quotes).&nbsp;
+For features representing inflected forms, if the value is a single word,
+it may be written as a symbol or string:
+<blockquote>ox, noun, plural = oxen;</blockquote>
+or
+<blockquote>ox, noun, plural = "oxen";</blockquote>
+If the inflected form consists of more than one word, or includes a non-letter,
+it <i>must</i> be enclosed in quotes:
+<blockquote>musk ox, noun, plural = "musk oxen";</blockquote>
+The entry types and their features are described below.&nbsp; All features
+are optional.
+<h3>
+Noun</h3>
+
+<blockquote>base-form, <b>noun</b>, <b>plural</b> = plural, <b>attributes</b>
+= attributes, <b>xn</b> = xn;</blockquote>
+defines a noun (word category <b>n</b>) whose singular form is <i>base-form.</i>&nbsp;
+Its plural form is determined as follows:&nbsp; if <i>plural</i> is <b>none</b>,
+no plural is defined;&nbsp; if <i>plural</i> is given explicitly, it is
+used as the plural form;&nbsp; otherwise the plural form is determined
+from the base form as follows:
+<blockquote>if it ends in 'x', 'z', 's', 'ch', or 'sh', add 'es'
+<br>if it ends in a vowel + 'y', add 's'
+<br>if it ends in a consonant + 'y', change the 'y' to 'ies'
+<br>otherwise add 's'</blockquote>
+
+<h3>
+Verb</h3>
+
+<blockquote>base-form, <b>verb</b>, <b>thirdSing</b> = singular, <b>plural</b>
+= plural, <b>past</b> = past, <b>pastPart</b> = past-participle, <b>presPart</b>
+= present-participle, <b>attributes</b> = attributes, <b>xn</b> = xn;</blockquote>
+defines a verb whose infinitival form is <i>base-form</i>.&nbsp; The following
+inflected forms are generated:
+<ul>
+<li>
+a base form, with word category <b>v</b></li>
+
+<li>
+third person singular, present tense (word category <b>tv</b> with <b>number</b>
+feature = singular):</li>
+
+<br>if not given explicitly, generated following the same rules as plural
+nouns
+<li>
+present tense, plural (also intended to cover first and second persons,
+singular) (word category <b>tv</b> with <b>number</b> feature = <b>plural</b>):</li>
+
+<br>if not given explicitly, assumed to be identical to the base form
+<li>
+past tense (word category <b>tv</b>):</li>
+
+<br>if not given explicitly generated from the base form by the following
+rules
+<br>&nbsp;&nbsp;&nbsp; if it ends in 'e', add 'd'
+<br>&nbsp;&nbsp;&nbsp; if it ends in a vowel + 'y', add 'ed'
+<br>&nbsp;&nbsp;&nbsp; if it ends in a consonant + 'y', change the 'y'
+to 'i' and add 'ed'
+<br>&nbsp;&nbsp;&nbsp; otherwise add 'ed'
+<li>
+present participle (word category <b>ving</b>):</li>
+
+<br>if not given explicitly, generated from the base form by the following
+rule
+<br>&nbsp;&nbsp;&nbsp; if it ends in 'e', drop the 'e' and add 'ing'
+<br>&nbsp;&nbsp;&nbsp; otherwise add 'ing'
+<li>
+past participle (word category <b>ven</b>):</li>
+
+<br>if not given explicitly, generated from the base form following the
+same rules as the past tense</ul>
+
+<h3>
+Adjective</h3>
+
+<blockquote>form, <b>adj</b>, <b>attributes</b> = attributes;</blockquote>
+defines an adjective (word category <b>adj</b>) with the specified <i>attributes</i>.
+<h3>
+Adverb</h3>
+
+<blockquote>form, <b>adv</b>, <b>attributes</b> = attributes;</blockquote>
+defines an adverb (word category <b>adv</b>) with the specified <i>attributes</i>.
+</body>
+</html>

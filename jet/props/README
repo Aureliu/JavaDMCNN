@@ -1,0 +1,41 @@
+April 18, 2015
+
+props files: new organization
+distribute only *.jet files
+
+Property files for NLP class
+
+tinyParse.jet
+tagPOS.jet
+tagNames.jet
+chunk.jet
+chunk-art.jet
+resolve.jet
+
+Property files for running ACE
+
+ace2004Chunker.jet
+ace2005Chunker.jet
+
+-------------------------------------------------
+old files
+
+ace11chunker.properties
+GALE08.      -- runs Bikel parser, uses parse+glarf for even
+		(not good for distribution)
+MEace06      -- same but older (kNN) relation tagger
+MEace04      -- older (2004) models
+MEace06glarf -- runs chunker, uses glarf for events
+
+Property files for KDD contract: kdd11, kdd12, kdd13
+
+Misc.
+ace 07 tag names.properties
+ace07ptb-glarf.properties
+lineByLine tag names.properties -- deleted
+
+Plans
+
+* options: add statistical ref resolution
+
+* create version using dep parser for events / relations / refres  / synfun

@@ -1,0 +1,651 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030424.0230.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030424.0230">
+  <entity ID="AFP_ENG_20030424.0230-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="152" END="156">LAGOS</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="156">LAGOS</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="1132" END="1157">the
+economic capital Lagos</charseq>
+      </extent>
+      <head>
+        <charseq START="1153" END="1157">Lagos</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1145" END="1151">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="1145" END="1151">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LAGOS">
+        <charseq START="152" END="156">LAGOS</charseq>
+      </name>
+      <name NAME="Lagos">
+        <charseq START="1153" END="1157">Lagos</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-2-0">
+      <extent>
+        <charseq START="169" END="171">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="169" END="171">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-2-1">
+      <extent>
+        <charseq START="344" END="346">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="344" END="346">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="169" END="171">AFP</charseq>
+      </name>
+      <name NAME="AFP">
+        <charseq START="344" END="346">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-3-0">
+      <extent>
+        <charseq START="175" END="190">Forty-six people</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="190">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-4-0">
+      <extent>
+        <charseq START="228" END="240">two passenger</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="240">passenger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="275" END="281">Nigeria</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="281">Nigeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="926" END="932">Nigeria</charseq>
+      </extent>
+      <head>
+        <charseq START="926" END="932">Nigeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="1072" END="1088">southwest Nigeria</charseq>
+      </extent>
+      <head>
+        <charseq START="1082" END="1088">Nigeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nigeria">
+        <charseq START="275" END="281">Nigeria</charseq>
+      </name>
+      <name NAME="Nigeria">
+        <charseq START="926" END="932">Nigeria</charseq>
+      </name>
+      <name NAME="Nigeria">
+        <charseq START="1082" END="1088">Nigeria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="275" END="297">Nigeria&apos;s capital Abuja</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="297">Abuja</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abuja">
+        <charseq START="293" END="297">Abuja</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="285" END="291">capital</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="291">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-8-0">
+      <extent>
+        <charseq START="300" END="337">national
+police spokesman Chris Olakpe</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="337">Chris Olakpe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-8-1">
+      <extent>
+        <charseq START="316" END="324">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="324">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-8-2">
+      <extent>
+        <charseq START="350" END="355">Olakpe</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="355">Olakpe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-8-3">
+      <extent>
+        <charseq START="664" END="669">Olakpe</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="669">Olakpe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Chris Olakpe">
+        <charseq START="326" END="337">Chris Olakpe</charseq>
+      </name>
+      <name NAME="Olakpe">
+        <charseq START="350" END="355">Olakpe</charseq>
+      </name>
+      <name NAME="Olakpe">
+        <charseq START="664" END="669">Olakpe</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-9-0">
+      <extent>
+        <charseq START="309" END="314">police</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="314">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-10-0">
+      <extent>
+        <charseq START="465" END="468">Giri</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="468">Giri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Giri">
+        <charseq START="465" END="468">Giri</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-11" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-11-0">
+      <extent>
+        <charseq START="465" END="477">Giri junction</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="477">junction</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-12" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-12-0">
+      <extent>
+        <charseq START="489" END="498">Gwagwalada</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="498">Gwagwalada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-12-1">
+      <extent>
+        <charseq START="627" END="660">the Gwagwalada Specialist
+Hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="660">Gwagwalada Specialist
+Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gwagwalada">
+        <charseq START="489" END="498">Gwagwalada</charseq>
+      </name>
+      <name NAME="Gwagwalada Specialist Hospital">
+        <charseq START="631" END="660">Gwagwalada Specialist
+Hospital</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="519">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="516" END="519">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-14-0">
+      <extent>
+        <charseq START="523" END="536">Earlier police</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="536">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-15-0">
+      <extent>
+        <charseq START="556" END="568">39 passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="568">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-16-0">
+      <extent>
+        <charseq START="745" END="757">investigators</charseq>
+      </extent>
+      <head>
+        <charseq START="745" END="757">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030424.0230-17-0">
+      <extent>
+        <charseq START="782" END="799">one of the drivers</charseq>
+      </extent>
+      <head>
+        <charseq START="782" END="784">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-18-0">
+      <extent>
+        <charseq START="789" END="799">the drivers</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="799">drivers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-19" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-19-0">
+      <extent>
+        <charseq START="945" END="954">poor roads</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="954">roads</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-20-0">
+      <extent>
+        <charseq START="1014" END="1027">some 30 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1022" END="1027">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-21" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-21-0">
+      <extent>
+        <charseq START="1044" END="1059">an eight-vehicle</charseq>
+      </extent>
+      <head>
+        <charseq START="1053" END="1059">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030424.0230-22-0">
+      <extent>
+        <charseq START="1102" END="1113">Lagos-Ibadan</charseq>
+      </extent>
+      <head>
+        <charseq START="1102" END="1113">Lagos-Ibadan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Lagos-Ibadan">
+        <charseq START="1102" END="1113">Lagos-Ibadan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-23-0">
+      <extent>
+        <charseq START="1169" END="1179">the victims</charseq>
+      </extent>
+      <head>
+        <charseq START="1173" END="1179">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-24" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030424.0230-24-0">
+      <extent>
+        <charseq START="1254" END="1273">some of the vehicles</charseq>
+      </extent>
+      <head>
+        <charseq START="1254" END="1257">some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030424.0230-25" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030424.0230-25-0">
+      <extent>
+        <charseq START="1262" END="1273">the vehicles</charseq>
+      </extent>
+      <head>
+        <charseq START="1266" END="1273">vehicles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="AFP_ENG_20030424.0230-T0" VAL="2003-04-24">
+    <timex2_mention ID="AFP_ENG_20030424.0230-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030424</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030424.0230-T1" VAL="2003-04-24">
+    <timex2_mention ID="AFP_ENG_20030424.0230-T1-1">
+      <extent>
+        <charseq START="159" END="166">April 24</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030424.0230-T2" VAL="2003-04-22">
+    <timex2_mention ID="AFP_ENG_20030424.0230-T2-1">
+      <extent>
+        <charseq START="454" END="460">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030424.0230-T3" VAL="2003-04-10">
+    <timex2_mention ID="AFP_ENG_20030424.0230-T3-1">
+      <extent>
+        <charseq START="999" END="1011">Two weeks ago</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030424.0230-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030424.0230-6" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030424.0230-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030424.0230-R1-1">
+      <extent>
+        <charseq START="275" END="297">Nigeria&apos;s capital Abuja</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="275" END="297">Nigeria&apos;s capital Abuja</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="275" END="281">Nigeria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030424.0230-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030424.0230-8" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030424.0230-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030424.0230-R2-1">
+      <extent>
+        <charseq START="300" END="337">national
+police spokesman Chris Olakpe</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="300" END="337">national
+police spokesman Chris Olakpe</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="309" END="314">police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030424.0230-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030424.0230-11" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030424.0230-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030424.0230-R3-1">
+      <extent>
+        <charseq START="465" END="477">Giri junction</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="465" END="477">Giri junction</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="465" END="468">Giri</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030424.0230-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030424.0230-20" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030424.0230-21" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030424.0230-R4-1">
+      <extent>
+        <charseq START="1014" END="1059">some 30 people were killed in an eight-vehicle</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1014" END="1027">some 30 people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1044" END="1059">an eight-vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030424.0230-R5" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="AFP_ENG_20030424.0230-22" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030424.0230-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030424.0230-R5-1">
+      <extent>
+        <charseq START="1102" END="1157">Lagos-Ibadan expressway, near the
+economic capital Lagos</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1102" END="1113">Lagos-Ibadan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030424.0230-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1132" END="1157">the
+economic capital Lagos</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030424.0230-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-3" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030424.0230-5" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV1-1">
+      <extent>
+        <charseq START="175" END="202">Forty-six people were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="197" END="202">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-3-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-5-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030424.0230-EV2" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-4" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030424.0230-5" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030424.0230-3" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV2-1">
+      <extent>
+        <charseq START="215" END="240">injured when two passenger</charseq>
+      </extent>
+      <anchor>
+        <charseq START="215" END="221">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-4-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-5-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-3-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030424.0230-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-15" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV3-1">
+      <extent>
+        <charseq START="556" END="577">39 passengers had died</charseq>
+      </extent>
+      <anchor>
+        <charseq START="574" END="577">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-15-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030424.0230-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-12" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030424.0230-15" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV4-1">
+      <extent>
+        <charseq START="592" END="598">injured</charseq>
+      </extent>
+      <anchor>
+        <charseq START="592" END="598">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-12-1" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-15-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030424.0230-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-20" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030424.0230-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030424.0230-5" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV5-1">
+      <extent>
+        <charseq START="999" END="1039">Two weeks ago, some 30 people were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1034" END="1039">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-20-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-5-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030424.0230-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-23" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV6-1">
+      <extent>
+        <charseq START="1198" END="1201">died</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1198" END="1201">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-23-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030424.0230-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030424.0230-25" ROLE="Vehicle"/>
+    <event_mention ID="AFP_ENG_20030424.0230-EV7-1">
+      <extent>
+        <charseq START="1262" END="1287">the vehicles were carrying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1280" END="1287">carrying</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030424.0230-25-0" ROLE="Vehicle"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

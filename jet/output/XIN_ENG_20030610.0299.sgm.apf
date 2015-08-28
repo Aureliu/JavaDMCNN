@@ -1,0 +1,720 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030610.0299.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030610.0299">
+  <entity ID="XIN_ENG_20030610.0299-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="120" END="129">WASHINGTON</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="129">WASHINGTON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="WASHINGTON">
+        <charseq START="120" END="129">WASHINGTON</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-2-0">
+      <extent>
+        <charseq START="141" END="146">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="146">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="141" END="146">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-3-0">
+      <extent>
+        <charseq START="150" END="159">Sam Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="150" END="159">Sam Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-3-1">
+      <extent>
+        <charseq START="286" END="291">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="291">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-3-2">
+      <extent>
+        <charseq START="570" END="575">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="575">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030610.0299-3-3">
+      <extent>
+        <charseq START="604" END="606">his</charseq>
+      </extent>
+      <head>
+        <charseq START="604" END="606">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-3-4">
+      <extent>
+        <charseq START="887" END="892">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="887" END="892">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030610.0299-3-5">
+      <extent>
+        <charseq START="934" END="936">his</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="936">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-3-6">
+      <extent>
+        <charseq START="1047" END="1052">Waksal</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1052">Waksal</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030610.0299-3-7">
+      <extent>
+        <charseq START="1101" END="1103">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1101" END="1103">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030610.0299-3-8">
+      <extent>
+        <charseq START="1137" END="1139">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1137" END="1139">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sam Waksal">
+        <charseq START="150" END="159">Sam Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="286" END="291">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="570" END="575">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="887" END="892">Waksal</charseq>
+      </name>
+      <name NAME="Waksal">
+        <charseq START="1047" END="1052">Waksal</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-4-0">
+      <extent>
+        <charseq START="162" END="201">founder of the US pharmaceutical company</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="168">founder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-5-0">
+      <extent>
+        <charseq START="173" END="201">the US pharmaceutical company</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="201">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="177" END="178">US</charseq>
+      </extent>
+      <head>
+        <charseq START="177" END="178">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="1458" END="1459">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1458" END="1459">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="177" END="178">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1458" END="1459">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-7-0">
+      <extent>
+        <charseq START="203" END="217">ImClone Systems</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="217">ImClone Systems</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-7-1">
+      <extent>
+        <charseq START="709" END="715">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="715">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-7-2">
+      <extent>
+        <charseq START="1221" END="1227">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1227">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-7-3">
+      <extent>
+        <charseq START="1303" END="1309">ImClone</charseq>
+      </extent>
+      <head>
+        <charseq START="1303" END="1309">ImClone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ImClone Systems">
+        <charseq START="203" END="217">ImClone Systems</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="709" END="715">ImClone</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="1221" END="1227">ImClone</charseq>
+      </name>
+      <name NAME="ImClone">
+        <charseq START="1303" END="1309">ImClone</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-8-0">
+      <extent>
+        <charseq START="268" END="274">insider</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="274">insider</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-9-0">
+      <extent>
+        <charseq START="430" END="453">the Manhattan courthouse</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="453">courthouse</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-9-1">
+      <extent>
+        <charseq START="836" END="849">the
+courthouse</charseq>
+      </extent>
+      <head>
+        <charseq START="840" END="849">courthouse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-10" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="434" END="442">Manhattan</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="442">Manhattan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Manhattan">
+        <charseq START="434" END="442">Manhattan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="458" END="465">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="465">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="854" END="861">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="854" END="861">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="458" END="465">New York</charseq>
+      </name>
+      <name NAME="New York">
+        <charseq START="854" END="861">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-12-0">
+      <extent>
+        <charseq START="550" END="557">analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="557">analysts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-13-0">
+      <extent>
+        <charseq START="604" END="614">his company</charseq>
+      </extent>
+      <head>
+        <charseq START="608" END="614">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-14-0">
+      <extent>
+        <charseq START="695" END="705">many people</charseq>
+      </extent>
+      <head>
+        <charseq START="700" END="705">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-15" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-15-0">
+      <extent>
+        <charseq START="786" END="800">cancer patients</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="800">patients</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-16-0">
+      <extent>
+        <charseq START="1137" END="1147">his company</charseq>
+      </extent>
+      <head>
+        <charseq START="1141" END="1147">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-17-0">
+      <extent>
+        <charseq START="1261" END="1292">the Food and Drug Administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1265" END="1292">Food and Drug Administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Food and Drug Administration">
+        <charseq START="1265" END="1292">Food and Drug Administration</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-18-0">
+      <extent>
+        <charseq START="1456" END="1465">a US media</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1465">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030610.0299-19-0">
+      <extent>
+        <charseq START="1471" END="1490">domestic design diva</charseq>
+      </extent>
+      <head>
+        <charseq START="1487" END="1490">diva</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030610.0299-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030610.0299-20-0">
+      <extent>
+        <charseq START="1493" END="1506">Martha
+Stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="1493" END="1506">Martha
+Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Martha Stewart">
+        <charseq START="1493" END="1506">Martha
+Stewart</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030610.0299-V1" TYPE="Sentence ">
+    <value_mention ID="XIN_ENG_20030610.0299-V1-1">
+      <extent>
+        <charseq START="236" END="244">87 months</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="XIN_ENG_20030610.0299-V3" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="XIN_ENG_20030610.0299-V3-1">
+      <extent>
+        <charseq START="317" END="343">more than 4 million dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="XIN_ENG_20030610.0299-V6" TYPE="Crime">
+    <value_mention ID="XIN_ENG_20030610.0299-V6-1">
+      <extent>
+        <charseq START="1083" END="1111">charges
+involving his efforts</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030610.0299-T0" VAL="2003-06-10">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030610</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T1" VAL="2003-06-10">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T1-1">
+      <extent>
+        <charseq START="132" END="138">June 10</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T2" VAL="P87M">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T2-1">
+      <extent>
+        <charseq START="236" END="244">87 months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T3" VAL="2003-06-10">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T3-1">
+      <extent>
+        <charseq START="256" END="262">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T4" VAL="PT2H">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T4-1">
+      <extent>
+        <charseq START="398" END="406">two hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T5" VAL="2002">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T5-1">
+      <extent>
+        <charseq START="981" END="989">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T6" VAL="2003-10">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T6-1">
+      <extent>
+        <charseq START="1072" END="1078">October</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030610.0299-T7" VAL="2001">
+    <timex2_mention ID="XIN_ENG_20030610.0299-T7-1">
+      <extent>
+        <charseq START="1166" END="1169">2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030610.0299-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030610.0299-4" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R1-1">
+      <extent>
+        <charseq START="162" END="201">founder of the US pharmaceutical company</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="162" END="201">founder of the US pharmaceutical company</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="173" END="201">the US pharmaceutical company</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030610.0299-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="XIN_ENG_20030610.0299-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R2-1">
+      <extent>
+        <charseq START="173" END="201">the US pharmaceutical company</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="173" END="201">the US pharmaceutical company</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="177" END="178">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030610.0299-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030610.0299-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R3-1">
+      <extent>
+        <charseq START="430" END="453">the Manhattan courthouse</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="430" END="453">the Manhattan courthouse</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="434" END="442">Manhattan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030610.0299-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030610.0299-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-11" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R4-1">
+      <extent>
+        <charseq START="430" END="465">the Manhattan courthouse in New York</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="430" END="453">the Manhattan courthouse</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="458" END="465">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="XIN_ENG_20030610.0299-R4-2">
+      <extent>
+        <charseq START="836" END="861">the
+courthouse in New York</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="836" END="849">the
+courthouse</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="854" END="861">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030610.0299-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-13" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R5-1">
+      <extent>
+        <charseq START="604" END="614">his company</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-3-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="604" END="606">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="604" END="614">his company</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030610.0299-R6" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R6-1">
+      <extent>
+        <charseq START="1137" END="1147">his company</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-3-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="1137" END="1139">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1137" END="1147">his company</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030610.0299-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="XIN_ENG_20030610.0299-18" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030610.0299-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030610.0299-R7-1">
+      <extent>
+        <charseq START="1456" END="1465">a US media</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1456" END="1465">a US media</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030610.0299-6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1458" END="1459">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030610.0299-EV1" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Defendant"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-V1" ROLE="Sentence"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-T3" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030610.0299-EV1-1">
+      <extent>
+        <charseq START="150" END="244">Sam Waksal, founder of the US pharmaceutical company ImClone Systems
+was sentenced to 87 months</charseq>
+      </extent>
+      <anchor>
+        <charseq START="223" END="231">sentenced</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-3-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-V1-1" ROLE="Sentence"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030610.0299-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Giver"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-V3" ROLE="Money"/>
+    <event_mention ID="XIN_ENG_20030610.0299-EV2-1">
+      <extent>
+        <charseq START="286" END="315">Waksal was also ordered to pay</charseq>
+      </extent>
+      <anchor>
+        <charseq START="313" END="315">pay</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-3-1" ROLE="Giver"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-V3-1" ROLE="Money"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030610.0299-EV3" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030610.0299-V3" ROLE="Money"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Entity"/>
+    <event_mention ID="XIN_ENG_20030610.0299-EV3-1">
+      <extent>
+        <charseq START="286" END="352">Waksal was also ordered to pay more than 4 million dollars in fines</charseq>
+      </extent>
+      <anchor>
+        <charseq START="348" END="352">fines</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-V3-1" ROLE="Money"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-3-1" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030610.0299-EV4" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Person"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-9" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030610.0299-EV4-1">
+      <extent>
+        <charseq START="822" END="829">released</charseq>
+      </extent>
+      <anchor>
+        <charseq START="822" END="829">released</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-3-4" ROLE="Person"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-9-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030610.0299-EV5" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030610.0299-3" ROLE="Defendant"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-T5" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030610.0299-V6" ROLE="Crime"/>
+    <event_mention ID="XIN_ENG_20030610.0299-EV5-1">
+      <extent>
+        <charseq START="981" END="1089">last year and the ensuing cracking down on
+corporate malfeasance, Waksal pleaded guilty in October to charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1083" END="1089">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-3-6" ROLE="Defendant"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030610.0299-V6-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

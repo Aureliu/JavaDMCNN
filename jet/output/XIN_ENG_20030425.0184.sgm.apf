@@ -1,0 +1,712 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030425.0184.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030425.0184">
+  <entity ID="XIN_ENG_20030425.0184-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="110" END="118">ISLAMABAD</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="118">ISLAMABAD</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="ISLAMABAD">
+        <charseq START="110" END="118">ISLAMABAD</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-2-0">
+      <extent>
+        <charseq START="131" END="136">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="136">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="131" END="136">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="176" END="183">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="183">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="203" END="205">its</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="205">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="226" END="230">their</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="230">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="460" END="467">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="467">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="488" END="495">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="495">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-5" ROLE="GPE">
+      <extent>
+        <charseq START="872" END="879">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="872" END="879">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-6" ROLE="GPE">
+      <extent>
+        <charseq START="957" END="964">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="964">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-7" ROLE="GPE">
+      <extent>
+        <charseq START="1189" END="1196">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1189" END="1196">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-8" ROLE="GPE">
+      <extent>
+        <charseq START="1273" END="1280">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1273" END="1280">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-3-9" ROLE="GPE">
+      <extent>
+        <charseq START="1296" END="1299">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1296" END="1299">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-3-10" ROLE="GPE">
+      <extent>
+        <charseq START="1306" END="1310">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1306" END="1310">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-3-11" ROLE="GPE">
+      <extent>
+        <charseq START="1336" END="1339">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1336" END="1339">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-3-12" ROLE="GPE">
+      <extent>
+        <charseq START="1357" END="1364">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1357" END="1364">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pakistan">
+        <charseq START="176" END="183">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="460" END="467">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="488" END="495">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="872" END="879">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="957" END="964">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="1189" END="1196">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="1273" END="1280">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="1357" END="1364">Pakistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-4" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-4-0">
+      <extent>
+        <charseq START="203" END="210">its
+land</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="210">land</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-5-0">
+      <extent>
+        <charseq START="252" END="291">Information Minister
+Sheikh Rashid Ahmed</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="291">Sheikh Rashid Ahmed</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-5-1">
+      <extent>
+        <charseq START="264" END="271">Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="271">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-5-2">
+      <extent>
+        <charseq START="310" END="321">Rashid Ahmed</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="321">Rashid Ahmed</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-5-3">
+      <extent>
+        <charseq START="345" END="347">his</charseq>
+      </extent>
+      <head>
+        <charseq START="345" END="347">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-5-4">
+      <extent>
+        <charseq START="471" END="476">Rashid</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="476">Rashid</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-5-5">
+      <extent>
+        <charseq START="632" END="633">he</charseq>
+      </extent>
+      <head>
+        <charseq START="632" END="633">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-5-6">
+      <extent>
+        <charseq START="967" END="968">he</charseq>
+      </extent>
+      <head>
+        <charseq START="967" END="968">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sheikh Rashid Ahmed">
+        <charseq START="273" END="291">Sheikh Rashid Ahmed</charseq>
+      </name>
+      <name NAME="Rashid Ahmed">
+        <charseq START="310" END="321">Rashid Ahmed</charseq>
+      </name>
+      <name NAME="Rashid">
+        <charseq START="471" END="476">Rashid</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="392" END="397">Afghan</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="397">Afghan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="561">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="561">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="910" END="920">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="910" END="920">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="925" END="926">it</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="926">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="1018" END="1028">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1028">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-6-5" ROLE="GPE">
+      <extent>
+        <charseq START="1033" END="1035">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1035">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Afghan">
+        <charseq START="392" END="397">Afghan</charseq>
+      </name>
+      <name NAME="Afghanistan">
+        <charseq START="551" END="561">Afghanistan</charseq>
+      </name>
+      <name NAME="Afghanistan">
+        <charseq START="910" END="920">Afghanistan</charseq>
+      </name>
+      <name NAME="Afghanistan">
+        <charseq START="1018" END="1028">Afghanistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-7-0">
+      <extent>
+        <charseq START="392" END="420">Afghan President Hamid Karzai</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="420">Hamid Karzai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-7-1">
+      <extent>
+        <charseq START="399" END="407">President</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="407">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hamid Karzai">
+        <charseq START="409" END="420">Hamid Karzai</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-8-0">
+      <extent>
+        <charseq START="436" END="467">the
+Associated Press of Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="440" END="455">Associated Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Associated Press">
+        <charseq START="440" END="455">Associated Press</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="526" END="561">the brotherly
+country of Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="540" END="546">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-10" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-10-0">
+      <extent>
+        <charseq START="613" END="620">pipeline</charseq>
+      </extent>
+      <head>
+        <charseq START="613" END="620">pipeline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="641" END="670">four countries including Qatar</charseq>
+      </extent>
+      <head>
+        <charseq START="646" END="654">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="666" END="670">Qatar</charseq>
+      </extent>
+      <head>
+        <charseq START="666" END="670">Qatar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Qatar">
+        <charseq START="666" END="670">Qatar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="673" END="684">Turkmenistan</charseq>
+      </extent>
+      <head>
+        <charseq START="673" END="684">Turkmenistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turkmenistan">
+        <charseq START="673" END="684">Turkmenistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="690" END="693">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="690" END="693">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iran">
+        <charseq START="690" END="693">Iran</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="789" END="815">the participating countries</charseq>
+      </extent>
+      <head>
+        <charseq START="807" END="815">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="1048" END="1070">Central Asian countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1062" END="1070">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-16-0">
+      <extent>
+        <charseq START="840" END="865">President Pervez Musharraf</charseq>
+      </extent>
+      <head>
+        <charseq START="850" END="865">Pervez Musharraf</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030425.0184-16-1">
+      <extent>
+        <charseq START="840" END="848">President</charseq>
+      </extent>
+      <head>
+        <charseq START="840" END="848">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-16-2">
+      <extent>
+        <charseq START="1124" END="1132">Musharraf</charseq>
+      </extent>
+      <head>
+        <charseq START="1124" END="1132">Musharraf</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pervez Musharraf">
+        <charseq START="850" END="865">Pervez Musharraf</charseq>
+      </name>
+      <name NAME="Musharraf">
+        <charseq START="1124" END="1132">Musharraf</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-17" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-17-0">
+      <extent>
+        <charseq START="1048" END="1060">Central Asian</charseq>
+      </extent>
+      <head>
+        <charseq START="1048" END="1060">Central Asian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Central Asian">
+        <charseq START="1048" END="1060">Central Asian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-18" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-18-0">
+      <extent>
+        <charseq START="1114" END="1121">al-Qaeda</charseq>
+      </extent>
+      <head>
+        <charseq START="1114" END="1121">al-Qaeda</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030425.0184-18-1">
+      <extent>
+        <charseq START="1244" END="1248">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1244" END="1248">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="al-Qaeda">
+        <charseq START="1114" END="1121">al-Qaeda</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030425.0184-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030425.0184-19-0">
+      <extent>
+        <charseq START="1151" END="1159">Pakistani</charseq>
+      </extent>
+      <head>
+        <charseq START="1151" END="1159">Pakistani</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pakistani">
+        <charseq START="1151" END="1159">Pakistani</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030425.0184-V2" TYPE="Job-Title">
+    <value_mention ID="XIN_ENG_20030425.0184-V2-1">
+      <extent>
+        <charseq START="399" END="407">President</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030425.0184-T0" VAL="2003-04-25">
+    <timex2_mention ID="XIN_ENG_20030425.0184-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030425</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030425.0184-T1" VAL="2003-04-25">
+    <timex2_mention ID="XIN_ENG_20030425.0184-T1-1">
+      <extent>
+        <charseq START="121" END="128">April 25</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030425.0184-T2" VAL="2003-04-25">
+    <timex2_mention ID="XIN_ENG_20030425.0184-T2-1">
+      <extent>
+        <charseq START="301" END="306">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030425.0184-T3" VAL="2003-04-24">
+    <timex2_mention ID="XIN_ENG_20030425.0184-T3-1">
+      <extent>
+        <charseq START="830" END="837">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030425.0184-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030425.0184-4" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030425.0184-3" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030425.0184-R1-1">
+      <extent>
+        <charseq START="203" END="210">its
+land</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="203" END="210">its
+land</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="203" END="205">its</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030425.0184-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030425.0184-7" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030425.0184-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030425.0184-R2-1">
+      <extent>
+        <charseq START="392" END="407">Afghan President</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="399" END="407">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="392" END="397">Afghan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030425.0184-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="XIN_ENG_20030425.0184-8" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030425.0184-3" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030425.0184-R3-1">
+      <extent>
+        <charseq START="436" END="467">the
+Associated Press of Pakistan</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="436" END="467">the
+Associated Press of Pakistan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-3-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="460" END="467">Pakistan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030425.0184-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030425.0184-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030425.0184-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030425.0184-R4-1">
+      <extent>
+        <charseq START="967" END="1028">he said, would benefit immensely from stability in
+Afghanistan</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-5-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="967" END="968">he</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-6-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1018" END="1028">Afghanistan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030425.0184-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030425.0184-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030425.0184-17" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030425.0184-R5-1">
+      <extent>
+        <charseq START="1048" END="1070">Central Asian countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1048" END="1070">Central Asian countries</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1048" END="1060">Central Asian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030425.0184-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030425.0184-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030425.0184-3" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030425.0184-R6-1">
+      <extent>
+        <charseq START="1151" END="1196">Pakistani would be
+allowed to live in Pakistan</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1151" END="1159">Pakistani</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030425.0184-3-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="1189" END="1196">Pakistan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030425.0184-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030425.0184-6" ROLE="Entity"/>
+    <event_argument REFID="XIN_ENG_20030425.0184-V2" ROLE="Position"/>
+    <event_mention ID="XIN_ENG_20030425.0184-EV1-1">
+      <extent>
+        <charseq START="383" END="397">visit by Afghan</charseq>
+      </extent>
+      <anchor>
+        <charseq START="383" END="387">visit</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030425.0184-6-0" ROLE="Entity"/>
+      <event_mention_argument REFID="XIN_ENG_20030425.0184-V2-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

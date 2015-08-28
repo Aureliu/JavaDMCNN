@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>CollectionView</title>
+  <meta content="Ralph Grishman" name="author">
+  <meta content="Jet Utility" name="description">
+</head>
+<body style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);"
+ link="#ff0000" vlink="#800080" alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">CollectionView</font></font></h1>
+<font color="#000000">The CollectionView provides the ability to
+display selected documents in a collection.&nbsp; It is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">jet
+-CollectionView</span></font></big><font color="#000000">&nbsp; <span
+ style="font-style: italic;">collection</span></font><br>
+</div>
+<font color="#000000"><br>
+where <span style="font-style: italic;">collection</span> is the name
+of
+a file specifying the collection of documents.&nbsp; <span
+ style="font-style: italic;">collection</span>
+should contain a list of the file names of the XML-annotated document
+files, one file name per line.&nbsp; File names may either be absolute
+paths or relative paths;&nbsp; relative paths are interpreted relative
+to the directory containing <span style="font-style: italic;">collection.&nbsp;
+</span></font><font color="#000000">A
+character encoding <span style="font-style: italic;">charset </span>(other
+than the default, ISO-LATIN-1) for the documents can be
+specified </font><font color="#000000">by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">jet -</span></font></big><span
+ style="font-weight: bold;"><span style="font-family: monospace;"><big><font
+ style="font-weight: bold;" color="#000000"><span
+ style="font-family: monospace;">Collection</span></font></big></span></span><big><font
+ style="font-weight: bold;" color="#000000"><span
+ style="font-family: monospace;">View
+-encoding</span></font></big><font color="#000000"> <span
+ style="font-style: italic;">charset</span>&nbsp; <span
+ style="font-style: italic;">collection</span></font><br>
+</div>
+<font color="#000000"><br>
+</font><font color="#000000">CollectionView displays a list with the
+name of each file followed by two buttons, one labeled "view
+annotations" and the other "view entities".&nbsp; Pressing "view
+annotations" brings up a window where one can view all the annotations
+in a document of a selected type.&nbsp; Pressing "view entities" brings
+up a coreference viewer for the document, as invoked by </font><font
+ color="#000000"><a style="font-family: monospace;"
+ href="CorefView.html">CorefView</a></font><font color="#000000">.<br>
+</font><font color="#000000"><br>
+</font><br>
+</body>
+</html>

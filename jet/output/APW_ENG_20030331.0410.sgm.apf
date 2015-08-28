@@ -1,0 +1,1340 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030331.0410.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030331.0410">
+  <entity ID="APW_ENG_20030331.0410-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="124" END="133">COPENHAGEN</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="133">COPENHAGEN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="458" END="467">Copenhagen</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="467">Copenhagen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="COPENHAGEN">
+        <charseq START="124" END="133">COPENHAGEN</charseq>
+      </name>
+      <name NAME="Copenhagen">
+        <charseq START="458" END="467">Copenhagen</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="136" END="142">Denmark</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="142">Denmark</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="279" END="285">Denmark</charseq>
+      </extent>
+      <head>
+        <charseq START="279" END="285">Denmark</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1401" END="1407">Denmark</charseq>
+      </extent>
+      <head>
+        <charseq START="1401" END="1407">Denmark</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1431" END="1432">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1431" END="1432">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1514" END="1519">Danish</charseq>
+      </extent>
+      <head>
+        <charseq START="1514" END="1519">Danish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Denmark">
+        <charseq START="136" END="142">Denmark</charseq>
+      </name>
+      <name NAME="Denmark">
+        <charseq START="279" END="285">Denmark</charseq>
+      </name>
+      <name NAME="Denmark">
+        <charseq START="1401" END="1407">Denmark</charseq>
+      </name>
+      <name NAME="Danish">
+        <charseq START="1514" END="1519">Danish</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-3-0">
+      <extent>
+        <charseq START="145" END="146">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="146">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="145" END="146">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="150" END="162">Former Danish</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="162">Danish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Danish">
+        <charseq START="157" END="162">Danish</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-0">
+      <extent>
+        <charseq START="164" END="190">international Stig Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="190">Stig Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-1">
+      <extent>
+        <charseq START="200" END="202">his</charseq>
+      </extent>
+      <head>
+        <charseq START="200" END="202">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-2">
+      <extent>
+        <charseq START="311" END="318">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="318">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-3">
+      <extent>
+        <charseq START="470" END="471">He</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="471">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-4">
+      <extent>
+        <charseq START="581" END="588">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="588">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-5">
+      <extent>
+        <charseq START="702" END="717">Neither Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="710" END="717">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-6">
+      <extent>
+        <charseq START="790" END="797">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="797">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-7">
+      <extent>
+        <charseq START="843" END="845">him</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="845">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-8">
+      <extent>
+        <charseq START="853" END="854">he</charseq>
+      </extent>
+      <head>
+        <charseq START="853" END="854">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-9">
+      <extent>
+        <charseq START="910" END="917">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="910" END="917">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-10">
+      <extent>
+        <charseq START="956" END="958">his</charseq>
+      </extent>
+      <head>
+        <charseq START="956" END="958">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-11">
+      <extent>
+        <charseq START="1003" END="1010">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="1003" END="1010">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-12">
+      <extent>
+        <charseq START="1031" END="1033">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1033">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-13">
+      <extent>
+        <charseq START="1044" END="1051">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1051">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-14">
+      <extent>
+        <charseq START="1119" END="1126">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="1119" END="1126">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-5-15">
+      <extent>
+        <charseq START="1163" END="1164">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1163" END="1164">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-5-16">
+      <extent>
+        <charseq START="1494" END="1501">Toefting</charseq>
+      </extent>
+      <head>
+        <charseq START="1494" END="1501">Toefting</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Stig Toefting">
+        <charseq START="178" END="190">Stig Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="311" END="318">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="581" END="588">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="710" END="717">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="790" END="797">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="910" END="917">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="1003" END="1010">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="1044" END="1051">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="1119" END="1126">Toefting</charseq>
+      </name>
+      <name NAME="Toefting">
+        <charseq START="1494" END="1501">Toefting</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-6-0">
+      <extent>
+        <charseq START="264" END="267">jail</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="267">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-7-0">
+      <extent>
+        <charseq START="279" END="291">Denmark&apos;s TV2</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="291">TV2</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-7-1">
+      <extent>
+        <charseq START="568" END="570">TV2</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="570">TV2</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="TV2">
+        <charseq START="289" END="291">TV2</charseq>
+      </name>
+      <name NAME="TV2">
+        <charseq START="568" END="570">TV2</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-8-0">
+      <extent>
+        <charseq START="374" END="383">restaurant</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="383">restaurant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-9-0">
+      <extent>
+        <charseq START="374" END="391">restaurant workers</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="391">workers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-10-0">
+      <extent>
+        <charseq START="417" END="440">national squad teammates</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="440">teammates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-11-0">
+      <extent>
+        <charseq START="426" END="430">squad</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="430">squad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="445" END="455">the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="455">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-13-0">
+      <extent>
+        <charseq START="581" END="611">Toefting&apos;s lawyer Anders Nemeth</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="611">Anders Nemeth</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-13-1">
+      <extent>
+        <charseq START="722" END="727">Nemeth</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="727">Nemeth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Anders Nemeth">
+        <charseq START="599" END="611">Anders Nemeth</charseq>
+      </name>
+      <name NAME="Nemeth">
+        <charseq START="722" END="727">Nemeth</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-14-0">
+      <extent>
+        <charseq START="592" END="597">lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="592" END="597">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-15-0">
+      <extent>
+        <charseq START="628" END="654">that
+33-year-old midfielder</charseq>
+      </extent>
+      <head>
+        <charseq START="645" END="654">midfielder</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-15-1">
+      <extent>
+        <charseq START="675" END="677">his</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="677">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="804" END="810">English</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="810">English</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="English">
+        <charseq START="804" END="810">English</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-17" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-17-0">
+      <extent>
+        <charseq START="804" END="837">English Premier League club Bolton</charseq>
+      </extent>
+      <head>
+        <charseq START="832" END="837">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-17-1">
+      <extent>
+        <charseq START="827" END="830">club</charseq>
+      </extent>
+      <head>
+        <charseq START="827" END="830">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-17-2">
+      <extent>
+        <charseq START="935" END="940">Bolton</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="940">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-17-3">
+      <extent>
+        <charseq START="970" END="977">The club</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="977">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-17-4">
+      <extent>
+        <charseq START="984" END="985">it</charseq>
+      </extent>
+      <head>
+        <charseq START="984" END="985">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-17-5">
+      <extent>
+        <charseq START="1068" END="1073">Bolton</charseq>
+      </extent>
+      <head>
+        <charseq START="1068" END="1073">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bolton">
+        <charseq START="832" END="837">Bolton</charseq>
+      </name>
+      <name NAME="Bolton">
+        <charseq START="935" END="940">Bolton</charseq>
+      </name>
+      <name NAME="Bolton">
+        <charseq START="1068" END="1073">Bolton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-18" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-18-0">
+      <extent>
+        <charseq START="812" END="825">Premier League</charseq>
+      </extent>
+      <head>
+        <charseq START="812" END="825">Premier League</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Premier League">
+        <charseq START="812" END="825">Premier League</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1097" END="1102">German</charseq>
+      </extent>
+      <head>
+        <charseq START="1097" END="1102">German</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-19-1" ROLE="GPE">
+      <extent>
+        <charseq START="1258" END="1263">German</charseq>
+      </extent>
+      <head>
+        <charseq START="1258" END="1263">German</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="German">
+        <charseq START="1097" END="1102">German</charseq>
+      </name>
+      <name NAME="German">
+        <charseq START="1258" END="1263">German</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-20-0">
+      <extent>
+        <charseq START="1097" END="1115">German club
+Hamburg</charseq>
+      </extent>
+      <head>
+        <charseq START="1109" END="1115">Hamburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-20-1">
+      <extent>
+        <charseq START="1104" END="1107">club</charseq>
+      </extent>
+      <head>
+        <charseq START="1104" END="1107">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hamburg">
+        <charseq START="1109" END="1115">Hamburg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-21" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-21-0">
+      <extent>
+        <charseq START="1219" END="1223">a fan</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1223">fan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-21-1">
+      <extent>
+        <charseq START="1237" END="1239">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1237" END="1239">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030331.0410-22-0">
+      <extent>
+        <charseq START="1258" END="1277">German club Duisburg</charseq>
+      </extent>
+      <head>
+        <charseq START="1270" END="1277">Duisburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-22-1">
+      <extent>
+        <charseq START="1265" END="1268">club</charseq>
+      </extent>
+      <head>
+        <charseq START="1265" END="1268">club</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Duisburg">
+        <charseq START="1270" END="1277">Duisburg</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-23-0">
+      <extent>
+        <charseq START="1281" END="1298">The popular player</charseq>
+      </extent>
+      <head>
+        <charseq START="1293" END="1298">player</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-23-1">
+      <extent>
+        <charseq START="1314" END="1316">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1314" END="1316">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030331.0410-23-2">
+      <extent>
+        <charseq START="1374" END="1376">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1374" END="1376">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-24" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-24-0">
+      <extent>
+        <charseq START="1401" END="1423">Denmark&apos;s
+national team</charseq>
+      </extent>
+      <head>
+        <charseq START="1420" END="1423">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030331.0410-25" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030331.0410-25-0">
+      <extent>
+        <charseq START="1510" END="1525">the Danish squad</charseq>
+      </extent>
+      <head>
+        <charseq START="1521" END="1525">squad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030331.0410-V1" TYPE="Crime">
+    <value_mention ID="APW_ENG_20030331.0410-V1-1">
+      <extent>
+        <charseq START="217" END="223">assault</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="APW_ENG_20030331.0410-V4" TYPE="Sentence ">
+    <value_mention ID="APW_ENG_20030331.0410-V4-1">
+      <extent>
+        <charseq START="490" END="500">four months</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030331.0410-T0" VAL="2003-03-31">
+    <timex2_mention ID="APW_ENG_20030331.0410-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030331</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T1" VAL="2003-03-31">
+    <timex2_mention ID="APW_ENG_20030331.0410-T1-1">
+      <extent>
+        <charseq START="302" END="307">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T2" VAL="2002-10">
+    <timex2_mention ID="APW_ENG_20030331.0410-T2-1">
+      <extent>
+        <charseq START="337" END="348">October 2002</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T3" VAL="P4M">
+    <timex2_mention ID="APW_ENG_20030331.0410-T3-1">
+      <extent>
+        <charseq START="490" END="500">four months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T4" VAL="2003-04-10">
+    <timex2_mention ID="APW_ENG_20030331.0410-T4-1">
+      <extent>
+        <charseq START="557" END="564">April 10</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T5" VAL="2003-03">
+    <timex2_mention ID="APW_ENG_20030331.0410-T5-1">
+      <extent>
+        <charseq START="778" END="787">this month</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T6" VAL="2002-02">
+    <timex2_mention ID="APW_ENG_20030331.0410-T6-1">
+      <extent>
+        <charseq START="1078" END="1090">February 2002</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T7" VAL="1999">
+    <timex2_mention ID="APW_ENG_20030331.0410-T7-1">
+      <extent>
+        <charseq START="1158" END="1161">1999</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T8" VAL="2002">
+    <timex2_mention ID="APW_ENG_20030331.0410-T8-1">
+      <extent>
+        <charseq START="1477" END="1480">2002</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030331.0410-T9" VAL="1993">
+    <timex2_mention ID="APW_ENG_20030331.0410-T9-1">
+      <extent>
+        <charseq START="1530" END="1533">1993</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030331.0410-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030331.0410-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R1-1">
+      <extent>
+        <charseq START="124" END="142">COPENHAGEN, Denmark</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="124" END="133">COPENHAGEN</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="136" END="142">Denmark</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030331.0410-7" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R2-1">
+      <extent>
+        <charseq START="279" END="291">Denmark&apos;s TV2</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="279" END="291">Denmark&apos;s TV2</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="279" END="285">Denmark</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R3" TYPE="PER-SOC" SUBTYPE="Lasting-Personal">
+    <relation_argument REFID="APW_ENG_20030331.0410-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R3-1">
+      <extent>
+        <charseq START="311" END="440">Toefting was convicted in October 2002 of assaulting a pair of
+restaurant workers during a night out with national squad teammates</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="311" END="318">Toefting</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="417" END="440">national squad teammates</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030331.0410-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R4-1">
+      <extent>
+        <charseq START="374" END="391">restaurant workers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="374" END="391">restaurant workers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="374" END="383">restaurant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R5" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="APW_ENG_20030331.0410-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-11" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R5-1">
+      <extent>
+        <charseq START="417" END="440">national squad teammates</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="417" END="440">national squad teammates</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="426" END="430">squad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030331.0410-10" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R6-1">
+      <extent>
+        <charseq START="417" END="455">national squad teammates
+in the capital</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="417" END="440">national squad teammates</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="445" END="455">the capital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030331.0410-12" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R7-1">
+      <extent>
+        <charseq START="445" END="467">the capital, Copenhagen</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="445" END="455">the capital</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="458" END="467">Copenhagen</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R8" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030331.0410-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R8-1">
+      <extent>
+        <charseq START="581" END="611">Toefting&apos;s lawyer Anders Nemeth</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="581" END="588">Toefting</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="581" END="611">Toefting&apos;s lawyer Anders Nemeth</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030331.0410-17" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-16" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R9-1">
+      <extent>
+        <charseq START="804" END="837">English Premier League club Bolton</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="804" END="837">English Premier League club Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="804" END="810">English</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030331.0410-17" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R10-1">
+      <extent>
+        <charseq START="804" END="837">English Premier League club Bolton</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="804" END="837">English Premier League club Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="812" END="825">Premier League</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R11" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="APW_ENG_20030331.0410-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R11-1">
+      <extent>
+        <charseq START="804" END="845">English Premier League club Bolton
+let him</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-7" ROLE="Arg-1">
+          <extent>
+            <charseq START="843" END="845">him</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="804" END="837">English Premier League club Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030331.0410-R11-2">
+      <extent>
+        <charseq START="910" END="940">Toefting would return to Bolton</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-9" ROLE="Arg-1">
+          <extent>
+            <charseq START="910" END="917">Toefting</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-17-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="935" END="940">Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030331.0410-R11-3">
+      <extent>
+        <charseq START="1044" END="1073">Toefting transferred to Bolton</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-13" ROLE="Arg-1">
+          <extent>
+            <charseq START="1044" END="1051">Toefting</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-17-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1068" END="1073">Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R12" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="APW_ENG_20030331.0410-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-20" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R12-1">
+      <extent>
+        <charseq START="1044" END="1115">Toefting transferred to Bolton in February 2002 from German club
+Hamburg</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-13" ROLE="Arg-1">
+          <extent>
+            <charseq START="1044" END="1051">Toefting</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1097" END="1115">German club
+Hamburg</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R13" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030331.0410-20" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R13-1">
+      <extent>
+        <charseq START="1097" END="1107">German club</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1104" END="1107">club</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1097" END="1102">German</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030331.0410-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-19" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R14-1">
+      <extent>
+        <charseq START="1258" END="1268">German club</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1265" END="1268">club</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-19-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1258" END="1263">German</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R15" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="APW_ENG_20030331.0410-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-24" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R15-1">
+      <extent>
+        <charseq START="1281" END="1423">The popular player  _  known for his temperament and the words ``No
+Regret&apos;&apos; tattooed across his chest  _  retired from Denmark&apos;s
+national team</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1281" END="1298">The popular player</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1401" END="1423">Denmark&apos;s
+national team</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R16" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030331.0410-24" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R16-1">
+      <extent>
+        <charseq START="1401" END="1423">Denmark&apos;s
+national team</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1401" END="1423">Denmark&apos;s
+national team</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-2-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1401" END="1407">Denmark</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R17" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation">
+    <relation_argument REFID="APW_ENG_20030331.0410-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-25" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R17-1">
+      <extent>
+        <charseq START="1494" END="1525">Toefting joined the Danish squad</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-5-16" ROLE="Arg-1">
+          <extent>
+            <charseq START="1494" END="1501">Toefting</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-25-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1510" END="1525">the Danish squad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030331.0410-R18" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030331.0410-25" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030331.0410-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030331.0410-R18-1">
+      <extent>
+        <charseq START="1510" END="1525">the Danish squad</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1510" END="1525">the Danish squad</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030331.0410-2-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1514" END="1519">Danish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030331.0410-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-17" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030331.0410-5" ROLE="Person"/>
+    <event_argument REFID="APW_ENG_20030331.0410-T5" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV1-1">
+      <extent>
+        <charseq START="150" END="155">Former</charseq>
+      </extent>
+      <anchor>
+        <charseq START="150" END="155">Former</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-0" ROLE="Person"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030331.0410-EV1-2">
+      <extent>
+        <charseq START="778" END="848">this month, Toefting said English Premier League club Bolton
+let him go</charseq>
+      </extent>
+      <anchor>
+        <charseq START="847" END="848">go</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-17-0" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-6" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-T5-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-21" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030331.0410-5" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030331.0410-T7" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030331.0410-9" ROLE="Target"/>
+    <event_argument REFID="APW_ENG_20030331.0410-T2" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030331.0410-12" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030331.0410-V1" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV2-1">
+      <extent>
+        <charseq START="164" END="198">international Stig Toefting dropped</charseq>
+      </extent>
+      <anchor>
+        <charseq START="192" END="198">dropped</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-V1-1" ROLE="Crime"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030331.0410-EV2-2">
+      <extent>
+        <charseq START="164" END="223">international Stig Toefting dropped his appeal of an
+assault</charseq>
+      </extent>
+      <anchor>
+        <charseq START="217" END="223">assault</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030331.0410-EV2-3">
+      <extent>
+        <charseq START="353" END="391">assaulting a pair of
+restaurant workers</charseq>
+      </extent>
+      <anchor>
+        <charseq START="353" END="362">assaulting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-9-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-2" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-12-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030331.0410-EV2-4">
+      <extent>
+        <charseq START="1026" END="1029">drop</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1026" END="1029">drop</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-11" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030331.0410-EV2-5">
+      <extent>
+        <charseq START="1208" END="1223">assaulting a fan</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1208" END="1217">assaulting</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-21-0" ROLE="Target"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-15" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-T7-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV3" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-V1" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV3-1">
+      <extent>
+        <charseq START="204" END="223">appeal of an
+assault</charseq>
+      </extent>
+      <anchor>
+        <charseq START="204" END="209">appeal</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-V1-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV5" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-5" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030331.0410-V1" ROLE="Crime"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV5-1">
+      <extent>
+        <charseq START="164" END="234">international Stig Toefting dropped his appeal of an
+assault conviction</charseq>
+      </extent>
+      <anchor>
+        <charseq START="225" END="234">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-V1-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV7" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-5" ROLE="Defendant"/>
+    <event_argument REFID="APW_ENG_20030331.0410-V4" ROLE="Sentence"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV7-1">
+      <extent>
+        <charseq START="470" END="500">He was sentenced to four months</charseq>
+      </extent>
+      <anchor>
+        <charseq START="477" END="485">sentenced</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-3" ROLE="Defendant"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-V4-1" ROLE="Sentence"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV9" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-T5" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV9-1">
+      <extent>
+        <charseq START="878" END="883">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="878" END="883">appeal</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-T5-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV10" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-17" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030331.0410-T6" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030331.0410-5" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV10-1">
+      <extent>
+        <charseq START="910" END="940">Toefting would return to Bolton</charseq>
+      </extent>
+      <anchor>
+        <charseq START="925" END="930">return</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-9" ROLE="Person"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-17-2" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030331.0410-EV10-2">
+      <extent>
+        <charseq START="1053" END="1090">transferred to Bolton in February 2002</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1053" END="1063">transferred</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-17-5" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-5-13" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV12" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030331.0410-EV12-1">
+      <extent>
+        <charseq START="1035" END="1040">appeal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1035" END="1040">appeal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030331.0410-EV15" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030331.0410-2" ROLE="Entity"/>
+    <event_argument REFID="APW_ENG_20030331.0410-T8" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030331.0410-EV15-1">
+      <extent>
+        <charseq START="1388" END="1407">retired from Denmark</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1388" END="1394">retired</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-2-2" ROLE="Entity"/>
+      <event_mention_argument REFID="APW_ENG_20030331.0410-T8-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

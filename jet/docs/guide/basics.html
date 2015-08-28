@@ -1,0 +1,53 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>Basic Concepts of Jet</title>
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h2>
+<font face="Arial Alternative"><font color="#3333FF">Jet:&nbsp; Basic Concepts</font></font></h2>
+Jet is based on the concepts of annotation, annotated documents, and annotators
+as developed for the Tipster Architecture.&nbsp; An <i>annotation</i> is
+a piece of information about a portion of a document.&nbsp; It consists
+of
+<ul>
+<li>
+a pointer to a portion of a document (a start and end position)</li>
+
+<li>
+the <i>type</i> of the annotation</li>
+
+<li>
+a set of <i>features</i> of the annotation, and their values</li>
+</ul>
+For example, in "My mouse eats cheese.", to indicate that "My mouse" is
+a noun phrase, we would record an annotation with start = 0 and end = 10
+(end points to the position past the end of the annotation, and includes
+the white space following the token), type = "constit" (constituent), and
+feature "cat" (category) with value "np".
+<p>A <i>document</i> consists of some text (a character string) and some
+annotations on that text.&nbsp; In processing the document, we normally
+do not alter the text;&nbsp; rather, we add annotations to it.
+<p>An <i>annotator</i> is a procedure (method) which analyzes a document,
+including the annotations already on it, and adds new annotations to the
+document.&nbsp; (It can also delete annotations, although that is less
+common.)&nbsp; The processing of a document is organized as a series of
+annotation steps, each performed by one annotator.&nbsp; For example, processing
+may begin with a text zoner (which finds the portion of the document containing
+the text to be further analyzed), a sentence splitter (which divides that
+portion into sentences), and a part-of-speech tagger.
+<p>An <i>external document </i>is a document which exists outside of a
+Jet system, typically as a file or a Web page.&nbsp; When an external document
+is <i>opened</i> (converted to an (internal) document), some of the information
+from the external document may be converted to annotations.&nbsp; Several
+different formats of external documents are recognized.&nbsp; The most
+common uses XML-like tags, such as "<tt>&lt;constit cat="np"> ... &lt;/constit>"</tt>
+to indicate that some words form an NP constituent.&nbsp; Another format,
+for part-of-speech information only, represents data as <i>token</i>/<i>POStag</i>
+(for example, "<tt>The/DT cat/NN chases/VBZ mice/NNS</tt>").
+</body>
+</html>

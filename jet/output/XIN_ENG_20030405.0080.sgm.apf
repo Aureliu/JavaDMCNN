@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030405.0080.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030405.0080">
+  <entity ID="XIN_ENG_20030405.0080-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="103" END="108">TEHRAN</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="108">TEHRAN</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="TEHRAN">
+        <charseq START="103" END="108">TEHRAN</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-2-0">
+      <extent>
+        <charseq START="120" END="125">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="125">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="120" END="125">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-3-0">
+      <extent>
+        <charseq START="129" END="173">Visiting Spanish Foreign Minister Ana Palacio</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="173">Ana Palacio</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-3-1">
+      <extent>
+        <charseq START="146" END="161">Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="161">Foreign Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-3-2">
+      <extent>
+        <charseq START="402" END="408">Palacio</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="408">Palacio</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-3-3">
+      <extent>
+        <charseq START="858" END="864">Palacio</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="864">Palacio</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-3-4">
+      <extent>
+        <charseq START="967" END="994">The Spanish foreign minister</charseq>
+      </extent>
+      <head>
+        <charseq START="987" END="994">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ana Palacio">
+        <charseq START="163" END="173">Ana Palacio</charseq>
+      </name>
+      <name NAME="Palacio">
+        <charseq START="402" END="408">Palacio</charseq>
+      </name>
+      <name NAME="Palacio">
+        <charseq START="858" END="864">Palacio</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="138" END="144">Spanish</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="144">Spanish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="629" END="635">Spanish</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="635">Spanish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="971" END="977">Spanish</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="977">Spanish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Spanish">
+        <charseq START="138" END="144">Spanish</charseq>
+      </name>
+      <name NAME="Spanish">
+        <charseq START="629" END="635">Spanish</charseq>
+      </name>
+      <name NAME="Spanish">
+        <charseq START="971" END="977">Spanish</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-5-0">
+      <extent>
+        <charseq START="259" END="276">the
+United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="276">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-5-1">
+      <extent>
+        <charseq START="424" END="441">the United
+Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="441">United
+Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United Nations">
+        <charseq START="263" END="276">United Nations</charseq>
+      </name>
+      <name NAME="United Nations">
+        <charseq START="428" END="441">United
+Nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="287" END="297">Saddam Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="297">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="497" END="513">the
+war-torn Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="513">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="570" END="574">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="574">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="813" END="817">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="813" END="817">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-4" ROLE="GPE">
+      <extent>
+        <charseq START="950" END="954">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="954">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-5" ROLE="GPE">
+      <extent>
+        <charseq START="1162" END="1165">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1162" END="1165">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-6" ROLE="GPE">
+      <extent>
+        <charseq START="1210" END="1244">Iraq of weapons of mass destruction</charseq>
+      </extent>
+      <head>
+        <charseq START="1210" END="1213">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-6-7" ROLE="GPE">
+      <extent>
+        <charseq START="1248" END="1251">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1248" END="1251">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="294" END="297">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="510" END="513">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="570" END="574">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="813" END="817">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="950" END="954">Iraqi</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1162" END="1165">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1210" END="1213">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="1248" END="1251">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-7-0">
+      <extent>
+        <charseq START="319" END="355">her Iranian counterpart Kamal Kharazi</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="355">Kamal Kharazi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-7-1">
+      <extent>
+        <charseq START="331" END="341">counterpart</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="341">counterpart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kamal Kharazi">
+        <charseq START="343" END="355">Kamal Kharazi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="323" END="329">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="329">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="749" END="752">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="752">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="913" END="919">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="919">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="1021" END="1027">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1027">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iranian">
+        <charseq START="323" END="329">Iranian</charseq>
+      </name>
+      <name NAME="Iran">
+        <charseq START="749" END="752">Iran</charseq>
+      </name>
+      <name NAME="Iranian">
+        <charseq START="913" END="919">Iranian</charseq>
+      </name>
+      <name NAME="Iranian">
+        <charseq START="1021" END="1027">Iranian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-9-0">
+      <extent>
+        <charseq START="566" END="581">the Iraqi people</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="581">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="625" END="646">The Spanish government</charseq>
+      </extent>
+      <head>
+        <charseq START="637" END="646">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-11-0" ROLE="GPE">
+      <extent>
+        <charseq START="710" END="711">US</charseq>
+      </extent>
+      <head>
+        <charseq START="710" END="711">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-11-1" ROLE="GPE">
+      <extent>
+        <charseq START="1109" END="1125">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1113" END="1125">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="710" END="711">US</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="1113" END="1125">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="755" END="760">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="755" END="760">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan">
+        <charseq START="755" END="760">Jordan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-13-0" ROLE="GPE">
+      <extent>
+        <charseq START="763" END="767">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="763" END="767">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Syria">
+        <charseq START="763" END="767">Syria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="773" END="778">Turkey</charseq>
+      </extent>
+      <head>
+        <charseq START="773" END="778">Turkey</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Turkey">
+        <charseq START="773" END="778">Turkey</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-15-0">
+      <extent>
+        <charseq START="791" END="798">shelters</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="798">shelters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-16-0">
+      <extent>
+        <charseq START="804" END="826">possible Iraqi
+refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="819" END="826">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="840" END="854">those countries</charseq>
+      </extent>
+      <head>
+        <charseq START="846" END="854">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-18-0">
+      <extent>
+        <charseq START="913" END="929">Iranian
+officials</charseq>
+      </extent>
+      <head>
+        <charseq START="921" END="929">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-19-0">
+      <extent>
+        <charseq START="950" END="963">Iraqi refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="956" END="963">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-20-0">
+      <extent>
+        <charseq START="1021" END="1054">Iranian
+President Mohammad Khatami</charseq>
+      </extent>
+      <head>
+        <charseq START="1039" END="1054">Mohammad Khatami</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-20-1">
+      <extent>
+        <charseq START="1029" END="1037">President</charseq>
+      </extent>
+      <head>
+        <charseq START="1029" END="1037">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammad Khatami">
+        <charseq START="1039" END="1054">Mohammad Khatami</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030405.0080-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1131" END="1137">Britain</charseq>
+      </extent>
+      <head>
+        <charseq START="1131" END="1137">Britain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Britain">
+        <charseq START="1131" END="1137">Britain</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-22" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-22-0">
+      <extent>
+        <charseq START="1218" END="1224">weapons</charseq>
+      </extent>
+      <head>
+        <charseq START="1218" END="1224">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-23-0">
+      <extent>
+        <charseq START="1267" END="1278">the invaders</charseq>
+      </extent>
+      <head>
+        <charseq START="1271" END="1278">invaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-24-0">
+      <extent>
+        <charseq START="1283" END="1292">&quot;criminals</charseq>
+      </extent>
+      <head>
+        <charseq START="1284" END="1292">criminals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-25-0">
+      <extent>
+        <charseq START="1300" END="1307">villains</charseq>
+      </extent>
+      <head>
+        <charseq START="1300" END="1307">villains</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030405.0080-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030405.0080-26-0">
+      <extent>
+        <charseq START="1324" END="1350">the international community</charseq>
+      </extent>
+      <head>
+        <charseq START="1342" END="1350">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030405.0080-V4" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="XIN_ENG_20030405.0080-V4-1">
+      <extent>
+        <charseq START="687" END="702">20
+million euros</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="XIN_ENG_20030405.0080-V5" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="XIN_ENG_20030405.0080-V5-1">
+      <extent>
+        <charseq START="710" END="719">US dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030405.0080-T0" VAL="2003-04-05">
+    <timex2_mention ID="XIN_ENG_20030405.0080-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030405</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030405.0080-T1" VAL="2003-04-05">
+    <timex2_mention ID="XIN_ENG_20030405.0080-T1-1">
+      <extent>
+        <charseq START="111" END="117">April 5</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030405.0080-T2" VAL="2003-04-05">
+    <timex2_mention ID="XIN_ENG_20030405.0080-T2-1">
+      <extent>
+        <charseq START="183" END="190">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030405.0080-T3" VAL="2003-04-04">
+    <timex2_mention ID="XIN_ENG_20030405.0080-T3-1">
+      <extent>
+        <charseq START="879" END="884">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030405.0080-T4" VAL="2003-03-20">
+    <timex2_mention ID="XIN_ENG_20030405.0080-T4-1">
+      <extent>
+        <charseq START="1170" END="1177">March 20</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030405.0080-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030405.0080-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R1-1">
+      <extent>
+        <charseq START="129" END="173">Visiting Spanish Foreign Minister Ana Palacio</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="129" END="173">Visiting Spanish Foreign Minister Ana Palacio</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="138" END="144">Spanish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="XIN_ENG_20030405.0080-R1-2">
+      <extent>
+        <charseq START="967" END="994">The Spanish foreign minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-3-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="967" END="994">The Spanish foreign minister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-4-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="971" END="977">Spanish</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030405.0080-7" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R2-1">
+      <extent>
+        <charseq START="323" END="341">Iranian counterpart</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="331" END="341">counterpart</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="323" END="329">Iranian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030405.0080-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R3-1">
+      <extent>
+        <charseq START="566" END="581">the Iraqi people</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="566" END="581">the Iraqi people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-6-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="570" END="574">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030405.0080-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-15" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R4-1">
+      <extent>
+        <charseq START="791" END="826">shelters for possible Iraqi
+refugees</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="804" END="826">possible Iraqi
+refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="791" END="798">shelters</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030405.0080-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R5-1">
+      <extent>
+        <charseq START="804" END="826">possible Iraqi
+refugees</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="804" END="826">possible Iraqi
+refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-6-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="813" END="817">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030405.0080-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-17" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R6-1">
+      <extent>
+        <charseq START="804" END="854">possible Iraqi
+refugees flocking to those countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="804" END="826">possible Iraqi
+refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="840" END="854">those countries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R7" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030405.0080-18" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R7-1">
+      <extent>
+        <charseq START="913" END="929">Iranian
+officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="913" END="929">Iranian
+officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="913" END="919">Iranian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030405.0080-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R8-1">
+      <extent>
+        <charseq START="950" END="963">Iraqi refugees</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="950" END="963">Iraqi refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-6-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="950" END="954">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R9" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030405.0080-20" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R9-1">
+      <extent>
+        <charseq START="1021" END="1037">Iranian
+President</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1029" END="1037">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-8-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1021" END="1027">Iranian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030405.0080-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030405.0080-6" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030405.0080-22" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030405.0080-R10-1">
+      <extent>
+        <charseq START="1210" END="1244">Iraq of weapons of mass destruction</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-6-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="1210" END="1244">Iraq of weapons of mass destruction</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030405.0080-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1218" END="1224">weapons</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030405.0080-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030405.0080-4" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030405.0080-T2" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030405.0080-3" ROLE="Artifact"/>
+    <event_mention ID="XIN_ENG_20030405.0080-EV1-1">
+      <extent>
+        <charseq START="129" END="136">Visiting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="129" END="136">Visiting</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-4-0" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-3-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030405.0080-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030405.0080-9" ROLE="Entity"/>
+    <event_argument REFID="XIN_ENG_20030405.0080-7" ROLE="Entity"/>
+    <event_mention ID="XIN_ENG_20030405.0080-EV2-1">
+      <extent>
+        <charseq START="308" END="355">talks with her Iranian counterpart Kamal Kharazi</charseq>
+      </extent>
+      <anchor>
+        <charseq START="308" END="312">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-7-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030405.0080-EV2-2">
+      <extent>
+        <charseq START="617" END="621">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="617" END="621">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-9-0" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030405.0080-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030405.0080-6" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030405.0080-EV3-1">
+      <extent>
+        <charseq START="475" END="477">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="475" END="477">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-6-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030405.0080-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030405.0080-3" ROLE="Artifact"/>
+    <event_argument REFID="XIN_ENG_20030405.0080-T3" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030405.0080-EV5-1">
+      <extent>
+        <charseq START="858" END="872">Palacio arrived</charseq>
+      </extent>
+      <anchor>
+        <charseq START="866" END="872">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-3-3" ROLE="Artifact"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030405.0080-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030405.0080-6" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030405.0080-21" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030405.0080-T4" ROLE="Time-Starting"/>
+    <event_mention ID="XIN_ENG_20030405.0080-EV6-1">
+      <extent>
+        <charseq START="1139" END="1146">launched</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1139" END="1146">launched</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-21-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-T4-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-6-5" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030405.0080-EV6-2">
+      <extent>
+        <charseq START="1150" END="1165">war against Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1150" END="1152">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-6-5" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-21-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030405.0080-T4-1" ROLE="Time-Starting"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

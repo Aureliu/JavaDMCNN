@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030508.0091.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030508.0091">
+  <entity ID="XIN_ENG_20030508.0091-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="109" END="113">AMMAN</charseq>
+      </extent>
+      <head>
+        <charseq START="109" END="113">AMMAN</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="132" END="136">Amman</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="136">Amman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="433" END="437">Amman</charseq>
+      </extent>
+      <head>
+        <charseq START="433" END="437">Amman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="898" END="902">Amman</charseq>
+      </extent>
+      <head>
+        <charseq START="898" END="902">Amman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-1-4" ROLE="GPE">
+      <extent>
+        <charseq START="1349" END="1353">Amman</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1353">Amman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AMMAN">
+        <charseq START="109" END="113">AMMAN</charseq>
+      </name>
+      <name NAME="Amman">
+        <charseq START="132" END="136">Amman</charseq>
+      </name>
+      <name NAME="Amman">
+        <charseq START="433" END="437">Amman</charseq>
+      </name>
+      <name NAME="Amman">
+        <charseq START="898" END="902">Amman</charseq>
+      </name>
+      <name NAME="Amman">
+        <charseq START="1349" END="1353">Amman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-2-0">
+      <extent>
+        <charseq START="123" END="128">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="128">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="123" END="128">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="196" END="201">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="201">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="336" END="344">Jordanian</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="344">Jordanian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="513" END="518">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="518">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="1103" END="1111">Jordanian</charseq>
+      </extent>
+      <head>
+        <charseq START="1103" END="1111">Jordanian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-3-4" ROLE="GPE">
+      <extent>
+        <charseq START="1236" END="1241">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="1236" END="1241">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan">
+        <charseq START="196" END="201">Jordan</charseq>
+      </name>
+      <name NAME="Jordanian">
+        <charseq START="336" END="344">Jordanian</charseq>
+      </name>
+      <name NAME="Jordan">
+        <charseq START="513" END="518">Jordan</charseq>
+      </name>
+      <name NAME="Jordanian">
+        <charseq START="1103" END="1111">Jordanian</charseq>
+      </name>
+      <name NAME="Jordan">
+        <charseq START="1236" END="1241">Jordan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-4-0">
+      <extent>
+        <charseq START="221" END="232">Jordan Times</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="232">Jordan Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-4-1">
+      <extent>
+        <charseq START="444" END="448">Times</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="448">Times</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan Times">
+        <charseq START="221" END="232">Jordan Times</charseq>
+      </name>
+      <name NAME="Times">
+        <charseq START="444" END="448">Times</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="332" END="355">the Jordanian government</charseq>
+      </extent>
+      <head>
+        <charseq START="346" END="355">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="1099" END="1122">the Jordanian government</charseq>
+      </extent>
+      <head>
+        <charseq START="1113" END="1122">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-6-0">
+      <extent>
+        <charseq START="404" END="416">the newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="416">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-7-0">
+      <extent>
+        <charseq START="420" END="428">Officials</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="428">Officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="521" END="554">a Mideast kingdom neighboring Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="537">kingdom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-9-0">
+      <extent>
+        <charseq START="523" END="529">Mideast</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="529">Mideast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mideast">
+        <charseq START="523" END="529">Mideast</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="554">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="554">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="755" END="759">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="755" END="759">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-10-2" ROLE="GPE">
+      <extent>
+        <charseq START="1139" END="1143">Iraqi</charseq>
+      </extent>
+      <head>
+        <charseq START="1139" END="1143">Iraqi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="551" END="554">Iraq</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="755" END="759">Iraqi</charseq>
+      </name>
+      <name NAME="Iraqi">
+        <charseq START="1139" END="1143">Iraqi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-11-0">
+      <extent>
+        <charseq START="559" END="571">the northeast</charseq>
+      </extent>
+      <head>
+        <charseq START="563" END="571">northeast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-12-0">
+      <extent>
+        <charseq START="575" END="597">The US State Department</charseq>
+      </extent>
+      <head>
+        <charseq START="579" END="597">US State Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-12-1">
+      <extent>
+        <charseq START="819" END="841">the US State Department</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="841">US State Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US State Department">
+        <charseq START="579" END="597">US State Department</charseq>
+      </name>
+      <name NAME="US State Department">
+        <charseq START="823" END="841">US State Department</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-13-0">
+      <extent>
+        <charseq START="639" END="649">US
+citizens</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="649">citizens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-14-0">
+      <extent>
+        <charseq START="755" END="784">Iraqi President Saddam
+Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="784">Saddam
+Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-14-1">
+      <extent>
+        <charseq START="761" END="769">President</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="769">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="771" END="784">Saddam
+Hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="905" END="910">Beirut</charseq>
+      </extent>
+      <head>
+        <charseq START="905" END="910">Beirut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Beirut">
+        <charseq START="905" END="910">Beirut</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="913" END="920">Damascus</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="920">Damascus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Damascus">
+        <charseq START="913" END="920">Damascus</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="923" END="931">Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="931">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jerusalem">
+        <charseq START="923" END="931">Jerusalem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="937" END="944">Tel Aviv</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="944">Tel Aviv</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tel Aviv">
+        <charseq START="937" END="944">Tel Aviv</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-19-0">
+      <extent>
+        <charseq START="955" END="969">the White House</charseq>
+      </extent>
+      <head>
+        <charseq START="959" END="969">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="959" END="969">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-20-0">
+      <extent>
+        <charseq START="1005" END="1014">dependents</charseq>
+      </extent>
+      <head>
+        <charseq START="1005" END="1014">dependents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-21-0">
+      <extent>
+        <charseq START="1020" END="1037">nonessential staff</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1037">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-22-0">
+      <extent>
+        <charseq START="1050" END="1061">US
+embassies</charseq>
+      </extent>
+      <head>
+        <charseq START="1053" END="1061">embassies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="1066" END="1080">those countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1072" END="1080">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-24-0">
+      <extent>
+        <charseq START="1133" END="1153">three Iraqi
+diplomats</charseq>
+      </extent>
+      <head>
+        <charseq START="1145" END="1153">diplomats</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-25" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-25-0">
+      <extent>
+        <charseq START="1186" END="1197">a water tank</charseq>
+      </extent>
+      <head>
+        <charseq START="1194" END="1197">tank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-26-0">
+      <extent>
+        <charseq START="1217" END="1222">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="1217" END="1222">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-27-0">
+      <extent>
+        <charseq START="1279" END="1284">Iraqis</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1284">Iraqis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraqis">
+        <charseq START="1279" END="1284">Iraqis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-28-0">
+      <extent>
+        <charseq START="1331" END="1344">a luxury hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="1340" END="1344">hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-29" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030508.0091-29-0">
+      <extent>
+        <charseq START="1374" END="1380">Western</charseq>
+      </extent>
+      <head>
+        <charseq START="1374" END="1380">Western</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Western">
+        <charseq START="1374" END="1380">Western</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030508.0091-30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030508.0091-30-0">
+      <extent>
+        <charseq START="1374" END="1392">Western
+journalists</charseq>
+      </extent>
+      <head>
+        <charseq START="1382" END="1392">journalists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="XIN_ENG_20030508.0091-T0" VAL="2003-05-08">
+    <timex2_mention ID="XIN_ENG_20030508.0091-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030508</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030508.0091-T1" VAL="2003-05-08">
+    <timex2_mention ID="XIN_ENG_20030508.0091-T1-1">
+      <extent>
+        <charseq START="116" END="120">May 8</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030508.0091-T2" VAL="2003-05-08">
+    <timex2_mention ID="XIN_ENG_20030508.0091-T2-1">
+      <extent>
+        <charseq START="246" END="253">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030508.0091-T3" VAL="2003-05-07">
+    <timex2_mention ID="XIN_ENG_20030508.0091-T3-1">
+      <extent>
+        <charseq START="304" END="312">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030508.0091-T4" VAL="2003-03-19">
+    <timex2_mention ID="XIN_ENG_20030508.0091-T4-1">
+      <extent>
+        <charseq START="700" END="707">March 19</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030508.0091-T5" VAL="2003-03">
+    <timex2_mention ID="XIN_ENG_20030508.0091-T5-1">
+      <extent>
+        <charseq START="1092" END="1096">March</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030508.0091-R1" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030508.0091-7" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R1-1">
+      <extent>
+        <charseq START="420" END="437">Officials in Amman</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="420" END="428">Officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-1-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="433" END="437">Amman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030508.0091-8" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R2-1">
+      <extent>
+        <charseq START="521" END="554">a Mideast kingdom neighboring Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="521" END="554">a Mideast kingdom neighboring Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="523" END="529">Mideast</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030508.0091-14" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R3-1">
+      <extent>
+        <charseq START="755" END="769">Iraqi President</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="761" END="769">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="755" END="759">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030508.0091-15" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R4-1">
+      <extent>
+        <charseq START="905" END="920">Beirut, Damascus</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="905" END="910">Beirut</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="913" END="920">Damascus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R5" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030508.0091-20" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-22" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R5-1">
+      <extent>
+        <charseq START="1005" END="1061">dependents and nonessential staff working at US
+embassies</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1005" END="1014">dependents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1050" END="1061">US
+embassies</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030508.0091-21" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-22" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R6-1">
+      <extent>
+        <charseq START="1020" END="1061">nonessential staff working at US
+embassies</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1020" END="1037">nonessential staff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-22-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1050" END="1061">US
+embassies</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030508.0091-22" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-23" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R7-1">
+      <extent>
+        <charseq START="1050" END="1080">US
+embassies in those countries</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1050" END="1061">US
+embassies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-23-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1066" END="1080">those countries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R8" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030508.0091-24" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R8-1">
+      <extent>
+        <charseq START="1133" END="1153">three Iraqi
+diplomats</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1133" END="1153">three Iraqi
+diplomats</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-10-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1139" END="1143">Iraqi</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030508.0091-26" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-3" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R9-1">
+      <extent>
+        <charseq START="1217" END="1241">troops deployed in Jordan</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1217" END="1222">troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-3-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1236" END="1241">Jordan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030508.0091-28" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R10-1">
+      <extent>
+        <charseq START="1331" END="1353">a luxury hotel in Amman</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-28-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1331" END="1344">a luxury hotel</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-1-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1349" END="1353">Amman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030508.0091-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030508.0091-30" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030508.0091-29" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030508.0091-R11-1">
+      <extent>
+        <charseq START="1374" END="1392">Western
+journalists</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1374" END="1392">Western
+journalists</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030508.0091-29-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1374" END="1380">Western</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030508.0091-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030508.0091-3" ROLE="Origin"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-1" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-T2" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030508.0091-EV1-1">
+      <extent>
+        <charseq START="173" END="178">travel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="173" END="178">travel</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-3-0" ROLE="Origin"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-1-1" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030508.0091-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="XIN_ENG_20030508.0091-EV2-1">
+      <extent>
+        <charseq START="688" END="695">violence</charseq>
+      </extent>
+      <anchor>
+        <charseq START="688" END="695">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030508.0091-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030508.0091-17" ROLE="Origin"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-1" ROLE="Destination"/>
+    <event_mention ID="XIN_ENG_20030508.0091-EV3-1">
+      <extent>
+        <charseq START="852" END="857">travel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="852" END="857">travel</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-17-0" ROLE="Origin"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-1-3" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030508.0091-EV4" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030508.0091-20" ROLE="Person"/>
+    <event_mention ID="XIN_ENG_20030508.0091-EV4-1">
+      <extent>
+        <charseq START="992" END="1000">departure</charseq>
+      </extent>
+      <anchor>
+        <charseq START="992" END="1000">departure</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-20-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030508.0091-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030508.0091-24" ROLE="Artifact"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-3" ROLE="Origin"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-T5" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030508.0091-EV5-1">
+      <extent>
+        <charseq START="1124" END="1153">expelled three Iraqi
+diplomats</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1124" END="1131">expelled</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-24-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-3-4" ROLE="Origin"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-T5-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030508.0091-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030508.0091-3" ROLE="Destination"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-T5" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-26" ROLE="Artifact"/>
+    <event_mention ID="XIN_ENG_20030508.0091-EV6-1">
+      <extent>
+        <charseq START="1224" END="1231">deployed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1224" END="1231">deployed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-3-4" ROLE="Destination"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-26-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030508.0091-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030508.0091-28" ROLE="Target"/>
+    <event_argument REFID="XIN_ENG_20030508.0091-1" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030508.0091-EV7-1">
+      <extent>
+        <charseq START="1326" END="1344">bomb a luxury hotel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1326" END="1329">bomb</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-28-0" ROLE="Target"/>
+      <event_mention_argument REFID="XIN_ENG_20030508.0091-1-4" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

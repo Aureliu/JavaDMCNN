@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Probabilistic Constituent Parser</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Probabilistic (Constituent) Parser</font></font></h2>
+<br>
+<table style="text-align: left; width: 500px;" border="1"
+ cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">action
+name<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">statParse</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">resources
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-style: italic;">(Bikel-format) grammar &amp; properties
+files</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">properties<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">StatParser.properties.fileName</span><br
+ style="font-family: monospace;">
+      <span style="font-family: monospace;">StatParser.grammar.fileName</span><span
+ style="font-style: italic;"><br>
+      </span> </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">annotations
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">constit </span><span
+ style="font-style: italic;">(for lexical items)</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 200px;">annotations
+added<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 300px;"><span
+ style="font-family: monospace;">constit</span><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+The statistical parser is an English parser trained on the Penn
+TreeBank.&nbsp; This annotator provides a Jet interface to <a
+ href="http://www.cis.upenn.edu/%7Edbikel/software.html#stat-parser">the
+parser written by Dan Bikel at Penn</a>, which is in turn based on the
+parser by Michael Collins.<br>
+<br>
+statParse adds an annotation of the form <span
+ style="font-family: monospace; font-weight: bold;">&lt;constit cat=</span><span
+ style="font-family: monospace;"></span><span
+ style="font-style: italic;">category</span><span
+ style="font-family: monospace; font-weight: bold;"> children=[</span><span
+ style="font-family: monospace; font-style: italic;"></span><span
+ style="font-style: italic;">child</span><sub
+ style="font-style: italic;">1</sub><span style="font-style: italic;">
+child</span><sub style="font-style: italic;">2</sub><span
+ style="font-style: italic;"> ...</span><span
+ style="font-family: monospace; font-weight: bold;">]&gt;</span> for
+each non-terminal constituent in the parse tree.&nbsp; Here <span
+ style="font-style: italic;">category </span>is the non-terminal
+grammar category and <span
+ style="font-family: monospace; font-weight: bold;"></span><span
+ style="font-family: monospace; font-style: italic;"></span><span
+ style="font-style: italic;">child</span><sub
+ style="font-style: italic;">1</sub><span style="font-style: italic;">
+child</span><sub style="font-style: italic;">2</sub><span
+ style="font-style: italic;"> ...</span> are the annotations of the
+immediate constituent nodes.<br>
+<br>
+</body>
+</html>

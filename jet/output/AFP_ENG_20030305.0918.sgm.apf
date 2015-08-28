@@ -1,0 +1,4555 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030305.0918.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030305.0918">
+  <entity ID="AFP_ENG_20030305.0918-1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-0">
+      <extent>
+        <charseq START="124" END="128">HAIFA</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="128">HAIFA</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-1">
+      <extent>
+        <charseq START="294" END="298">Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="298">Haifa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-1-2">
+      <extent>
+        <charseq START="273" END="298">the northern town of Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="289">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-3">
+      <extent>
+        <charseq START="925" END="929">Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="929">Haifa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-4">
+      <extent>
+        <charseq START="1151" END="1155">Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="1151" END="1155">Haifa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-5">
+      <extent>
+        <charseq START="1659" END="1663">Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="1659" END="1663">Haifa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-6">
+      <extent>
+        <charseq START="2781" END="2785">Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="2781" END="2785">Haifa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-1-7">
+      <extent>
+        <charseq START="3659" END="3663">Haifa</charseq>
+      </extent>
+      <head>
+        <charseq START="3659" END="3663">Haifa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-1-8">
+      <extent>
+        <charseq START="5501" END="5508">the town</charseq>
+      </extent>
+      <head>
+        <charseq START="5505" END="5508">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="HAIFA">
+        <charseq START="124" END="128">HAIFA</charseq>
+      </name>
+      <name NAME="Haifa">
+        <charseq START="294" END="298">Haifa</charseq>
+      </name>
+      <name NAME="Haifa">
+        <charseq START="925" END="929">Haifa</charseq>
+      </name>
+      <name NAME="Haifa">
+        <charseq START="1151" END="1155">Haifa</charseq>
+      </name>
+      <name NAME="Haifa">
+        <charseq START="1659" END="1663">Haifa</charseq>
+      </name>
+      <name NAME="Haifa">
+        <charseq START="2781" END="2785">Haifa</charseq>
+      </name>
+      <name NAME="Haifa">
+        <charseq START="3659" END="3663">Haifa</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="131" END="136">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="136">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="322" END="327">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="327">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="384" END="390">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="390">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="944" END="950">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="944" END="950">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-4" ROLE="GPE">
+      <extent>
+        <charseq START="1302" END="1307">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1302" END="1307">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-5" ROLE="GPE">
+      <extent>
+        <charseq START="1495" END="1501">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1495" END="1501">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-6" ROLE="GPE">
+      <extent>
+        <charseq START="2027" END="2033">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="2027" END="2033">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-7" ROLE="GPE">
+      <extent>
+        <charseq START="2215" END="2221">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="2215" END="2221">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-8" ROLE="GPE">
+      <extent>
+        <charseq START="2497" END="2503">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="2497" END="2503">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-9" ROLE="GPE">
+      <extent>
+        <charseq START="2908" END="2913">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2908" END="2913">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-2-10" ROLE="GPE">
+      <extent>
+        <charseq START="2959" END="2961">its</charseq>
+      </extent>
+      <head>
+        <charseq START="2959" END="2961">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-11" ROLE="GPE">
+      <extent>
+        <charseq START="3073" END="3078">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3073" END="3078">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-12" ROLE="GPE">
+      <extent>
+        <charseq START="3185" END="3190">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3185" END="3190">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-13" ROLE="GPE">
+      <extent>
+        <charseq START="3362" END="3368">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3362" END="3368">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-14" ROLE="GPE">
+      <extent>
+        <charseq START="3565" END="3571">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3565" END="3571">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-15" ROLE="GPE">
+      <extent>
+        <charseq START="3750" END="3755">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3750" END="3755">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-16" ROLE="GPE">
+      <extent>
+        <charseq START="4056" END="4061">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4056" END="4061">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-17" ROLE="GPE">
+      <extent>
+        <charseq START="4578" END="4584">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="4578" END="4584">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-18" ROLE="GPE">
+      <extent>
+        <charseq START="4831" END="4836">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4831" END="4836">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-19" ROLE="GPE">
+      <extent>
+        <charseq START="5196" END="5202">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="5196" END="5202">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-20" ROLE="GPE">
+      <extent>
+        <charseq START="5232" END="5238">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="5232" END="5238">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-2-21" ROLE="GPE">
+      <extent>
+        <charseq START="5463" END="5469">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="5463" END="5469">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israel">
+        <charseq START="131" END="136">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="322" END="327">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="384" END="390">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="944" END="950">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="1302" END="1307">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="1495" END="1501">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="2027" END="2033">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="2215" END="2221">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="2497" END="2503">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2908" END="2913">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3073" END="3078">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3185" END="3190">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3362" END="3368">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3565" END="3571">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3750" END="3755">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4056" END="4061">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="4578" END="4584">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4831" END="4836">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="5196" END="5202">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="5232" END="5238">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="5463" END="5469">Israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-3-0">
+      <extent>
+        <charseq START="148" END="150">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="150">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-3-1">
+      <extent>
+        <charseq START="3556" END="3558">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="3556" END="3558">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="148" END="150">AFP</charseq>
+      </name>
+      <name NAME="AFP">
+        <charseq START="3556" END="3558">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-4-0">
+      <extent>
+        <charseq START="155" END="168">Fifteen people</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="168">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-5-0">
+      <extent>
+        <charseq START="220" END="235">a suicide bomber</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="235">bomber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-5-1">
+      <extent>
+        <charseq START="242" END="248">himself</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="248">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-5-2">
+      <extent>
+        <charseq START="1621" END="1650">The Palestinian suicide bomber</charseq>
+      </extent>
+      <head>
+        <charseq START="1645" END="1650">bomber</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-5-3">
+      <extent>
+        <charseq START="1744" END="1746">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1744" END="1746">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-5-4">
+      <extent>
+        <charseq START="1806" END="1808">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1806" END="1808">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-5-5">
+      <extent>
+        <charseq START="1895" END="1897">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1895" END="1897">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-6" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-6-0">
+      <extent>
+        <charseq START="256" END="268">a
+student bus</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="268">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-7-0">
+      <extent>
+        <charseq START="258" END="264">student</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="264">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-8" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-8-0">
+      <extent>
+        <charseq START="374" END="396">dozens of Israeli tanks</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="379">dozens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-9" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-9-0">
+      <extent>
+        <charseq START="384" END="396">Israeli tanks</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="396">tanks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-10-0">
+      <extent>
+        <charseq START="412" END="434">the
+northern Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="425" END="434">Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-10-1">
+      <extent>
+        <charseq START="1330" END="1333">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1333">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-10-2">
+      <extent>
+        <charseq START="2521" END="2534">the Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="2525" END="2534">Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-10-3">
+      <extent>
+        <charseq START="4637" END="4685">central Gaza targeting a founding
+member of Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4645" END="4648">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-10-4">
+      <extent>
+        <charseq START="5144" END="5147">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="5144" END="5147">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gaza Strip">
+        <charseq START="425" END="434">Gaza Strip</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="1330" END="1333">Gaza</charseq>
+      </name>
+      <name NAME="Gaza Strip">
+        <charseq START="2525" END="2534">Gaza Strip</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="4645" END="4648">Gaza</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="5144" END="5147">Gaza</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-11" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-11-0">
+      <extent>
+        <charseq START="446" END="491">helicopters which fired at least three
+rockets</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="456">helicopters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-12" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-12-0">
+      <extent>
+        <charseq START="470" END="491">at least three
+rockets</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="491">rockets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-13-0">
+      <extent>
+        <charseq START="496" END="512">the Jabaliya area</charseq>
+      </extent>
+      <head>
+        <charseq START="509" END="512">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="500" END="507">Jabaliya</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="507">Jabaliya</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-14-1" ROLE="GPE">
+      <extent>
+        <charseq START="643" END="650">Jabaliya</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="650">Jabaliya</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jabaliya">
+        <charseq START="500" END="507">Jabaliya</charseq>
+      </name>
+      <name NAME="Jabaliya">
+        <charseq START="643" END="650">Jabaliya</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="515" END="525">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="515" END="525">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="561">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="561">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-2" ROLE="GPE">
+      <extent>
+        <charseq START="833" END="843">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="843">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-3" ROLE="GPE">
+      <extent>
+        <charseq START="1625" END="1635">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1625" END="1635">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-4" ROLE="GPE">
+      <extent>
+        <charseq START="2090" END="2100">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2090" END="2100">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-5" ROLE="GPE">
+      <extent>
+        <charseq START="2558" END="2582">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="2562" END="2582">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-6" ROLE="GPE">
+      <extent>
+        <charseq START="2677" END="2687">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2677" END="2687">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-7" ROLE="GPE">
+      <extent>
+        <charseq START="2839" END="2849">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2839" END="2849">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-8" ROLE="GPE">
+      <extent>
+        <charseq START="3268" END="3278">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3268" END="3278">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-9" ROLE="GPE">
+      <extent>
+        <charseq START="4797" END="4821">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="4801" END="4821">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-10" ROLE="GPE">
+      <extent>
+        <charseq START="4869" END="4879">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4869" END="4879">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-11" ROLE="GPE">
+      <extent>
+        <charseq START="4938" END="4948">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4938" END="4948">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-12" ROLE="GPE">
+      <extent>
+        <charseq START="5268" END="5278">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5268" END="5278">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-15-13" ROLE="GPE">
+      <extent>
+        <charseq START="5380" END="5390">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5380" END="5390">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian">
+        <charseq START="515" END="525">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="551" END="561">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="833" END="843">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1625" END="1635">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2090" END="2100">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="2562" END="2582">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2677" END="2687">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2839" END="2849">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3268" END="3278">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="4801" END="4821">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4869" END="4879">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4938" END="4948">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="5268" END="5278">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="5380" END="5390">Palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-16-0">
+      <extent>
+        <charseq START="515" END="542">Palestinian security sources</charseq>
+      </extent>
+      <head>
+        <charseq START="536" END="542">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-17-0">
+      <extent>
+        <charseq START="551" END="577">Palestinian medical sources</charseq>
+      </extent>
+      <head>
+        <charseq START="571" END="577">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-18-0">
+      <extent>
+        <charseq START="584" END="613">60-year-old Mohammed al-Biyari</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="613">Mohammed al-Biyari</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-18-1">
+      <extent>
+        <charseq START="629" END="631">his</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="631">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammed al-Biyari">
+        <charseq START="596" END="613">Mohammed al-Biyari</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-19-0">
+      <extent>
+        <charseq START="629" END="636">his home</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="636">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-20-0">
+      <extent>
+        <charseq START="643" END="663">Jabaliya refugee camp</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="663">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-21-0">
+      <extent>
+        <charseq START="652" END="658">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="658">refugee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-21-1">
+      <extent>
+        <charseq START="779" END="785">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="779" END="785">refugee</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-21-2">
+      <extent>
+        <charseq START="4621" END="4627">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="4621" END="4627">refugee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-22" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-22-0">
+      <extent>
+        <charseq START="672" END="677">rocket</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="677">rocket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-23-0">
+      <extent>
+        <charseq START="688" END="702">another wounded</charseq>
+      </extent>
+      <head>
+        <charseq START="696" END="702">wounded</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-24" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-24-0">
+      <extent>
+        <charseq START="706" END="720">A second rocket</charseq>
+      </extent>
+      <head>
+        <charseq START="715" END="720">rocket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-25" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-25-0">
+      <extent>
+        <charseq START="732" END="740">farmlands</charseq>
+      </extent>
+      <head>
+        <charseq START="732" END="740">farmlands</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-26-0">
+      <extent>
+        <charseq START="760" END="766">a house</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="766">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-27-0">
+      <extent>
+        <charseq START="775" END="790">the refugee camp</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="790">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-28-0">
+      <extent>
+        <charseq START="833" END="860">Palestinian
+security sources</charseq>
+      </extent>
+      <head>
+        <charseq START="854" END="860">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-29-0">
+      <extent>
+        <charseq START="869" END="892">Two 13-year-old children</charseq>
+      </extent>
+      <head>
+        <charseq START="885" END="892">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-30" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-30-0">
+      <extent>
+        <charseq START="921" END="933">the Haifa bus</charseq>
+      </extent>
+      <head>
+        <charseq START="931" END="933">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-30-1">
+      <extent>
+        <charseq START="1074" END="1080">The bus</charseq>
+      </extent>
+      <head>
+        <charseq START="1078" END="1080">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-30-2">
+      <extent>
+        <charseq START="1655" END="1667">the Haifa bus</charseq>
+      </extent>
+      <head>
+        <charseq START="1665" END="1667">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-30-3">
+      <extent>
+        <charseq START="3655" END="3667">the Haifa bus</charseq>
+      </extent>
+      <head>
+        <charseq START="3665" END="3667">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-30-4">
+      <extent>
+        <charseq START="4542" END="4544">bus</charseq>
+      </extent>
+      <head>
+        <charseq START="4542" END="4544">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-31-0">
+      <extent>
+        <charseq START="983" END="1001">most of the victims</charseq>
+      </extent>
+      <head>
+        <charseq START="983" END="986">most</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-31-1">
+      <extent>
+        <charseq START="1008" END="1017">youngsters</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1017">youngsters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-31-2">
+      <extent>
+        <charseq START="1431" END="1433">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1431" END="1433">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-32-0">
+      <extent>
+        <charseq START="991" END="1001">the victims</charseq>
+      </extent>
+      <head>
+        <charseq START="995" END="1001">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-33-0">
+      <extent>
+        <charseq START="1020" END="1027">The army</charseq>
+      </extent>
+      <head>
+        <charseq START="1024" END="1027">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-33-1">
+      <extent>
+        <charseq START="2932" END="2946">occupation army</charseq>
+      </extent>
+      <head>
+        <charseq START="2943" END="2946">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-33-2">
+      <extent>
+        <charseq START="2932" END="2941">occupation</charseq>
+      </extent>
+      <head>
+        <charseq START="2932" END="2941">occupation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="army">
+        <charseq START="1024" END="1027">army</charseq>
+      </name>
+      <name NAME="army">
+        <charseq START="2943" END="2946">army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-34-0">
+      <extent>
+        <charseq START="1034" END="1045">two soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="1038" END="1045">soldiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-35" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-35-0">
+      <extent>
+        <charseq START="1128" END="1166">a residential
+area and Haifa university</charseq>
+      </extent>
+      <head>
+        <charseq START="1157" END="1166">university</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-36" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-36-0">
+      <extent>
+        <charseq START="1142" END="1145">area</charseq>
+      </extent>
+      <head>
+        <charseq START="1142" END="1145">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-37-0">
+      <extent>
+        <charseq START="1196" END="1203">hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="1196" END="1203">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-38-0">
+      <extent>
+        <charseq START="1252" END="1261">six others</charseq>
+      </extent>
+      <head>
+        <charseq START="1256" END="1261">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-39" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-39-0">
+      <extent>
+        <charseq START="1352" END="1359">40 tanks</charseq>
+      </extent>
+      <head>
+        <charseq START="1355" END="1359">tanks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-40" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-40-0">
+      <extent>
+        <charseq START="1365" END="1381">armoured vehicles</charseq>
+      </extent>
+      <head>
+        <charseq START="1374" END="1381">vehicles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-41-0">
+      <extent>
+        <charseq START="1394" END="1420">Prime Minister Ariel Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="1409" END="1420">Ariel Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-41-1">
+      <extent>
+        <charseq START="1394" END="1407">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1394" END="1407">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-41-2">
+      <extent>
+        <charseq START="3122" END="3139">the hawkish Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="3134" END="3139">Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ariel Sharon">
+        <charseq START="1409" END="1420">Ariel Sharon</charseq>
+      </name>
+      <name NAME="Sharon">
+        <charseq START="3134" END="3139">Sharon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-42-0">
+      <extent>
+        <charseq START="1431" END="1450">his
+security cabinet</charseq>
+      </extent>
+      <head>
+        <charseq START="1444" END="1450">cabinet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-43" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-43-0">
+      <extent>
+        <charseq START="1481" END="1484">bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="1481" END="1484">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-43-1">
+      <extent>
+        <charseq START="3054" END="3057">bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="3054" END="3057">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-44" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-44-0">
+      <extent>
+        <charseq START="1495" END="1507">Israeli media</charseq>
+      </extent>
+      <head>
+        <charseq START="1503" END="1507">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-45-0" ROLE="GPE">
+      <extent>
+        <charseq START="1614" END="1617">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1614" END="1617">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="1614" END="1617">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-46" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-46-0" ROLE="GPE">
+      <extent>
+        <charseq START="1710" END="1715">Hebron</charseq>
+      </extent>
+      <head>
+        <charseq START="1710" END="1715">Hebron</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-46-1" ROLE="GPE">
+      <extent>
+        <charseq START="1679" END="1715">the
+southern West Bank town of Hebron</charseq>
+      </extent>
+      <head>
+        <charseq START="1702" END="1705">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-46-2" ROLE="GPE">
+      <extent>
+        <charseq START="2113" END="2118">Hebron</charseq>
+      </extent>
+      <head>
+        <charseq START="2113" END="2118">Hebron</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-46-3" ROLE="GPE">
+      <extent>
+        <charseq START="2241" END="2246">Hebron</charseq>
+      </extent>
+      <head>
+        <charseq START="2241" END="2246">Hebron</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hebron">
+        <charseq START="1710" END="1715">Hebron</charseq>
+      </name>
+      <name NAME="Hebron">
+        <charseq START="2113" END="2118">Hebron</charseq>
+      </name>
+      <name NAME="Hebron">
+        <charseq START="2241" END="2246">Hebron</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-47" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-47-0">
+      <extent>
+        <charseq START="1692" END="1700">West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="1692" END="1700">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-47-1">
+      <extent>
+        <charseq START="5347" END="5359">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="5351" END="5359">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="West Bank">
+        <charseq START="1692" END="1700">West Bank</charseq>
+      </name>
+      <name NAME="West Bank">
+        <charseq START="5351" END="5359">West Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-48-0">
+      <extent>
+        <charseq START="1751" END="1791">20-year-old Mahmoud Hamadan Salim Qawasmi</charseq>
+      </extent>
+      <head>
+        <charseq START="1763" END="1791">Mahmoud Hamadan Salim Qawasmi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-48-1">
+      <extent>
+        <charseq START="2125" END="2139">Mahmoud Qawasmi</charseq>
+      </extent>
+      <head>
+        <charseq START="2125" END="2139">Mahmoud Qawasmi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-48-2">
+      <extent>
+        <charseq START="2275" END="2277">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2275" END="2277">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-48-3">
+      <extent>
+        <charseq START="2305" END="2311">Qawasmi</charseq>
+      </extent>
+      <head>
+        <charseq START="2305" END="2311">Qawasmi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mahmoud Hamadan Salim Qawasmi">
+        <charseq START="1763" END="1791">Mahmoud Hamadan Salim Qawasmi</charseq>
+      </name>
+      <name NAME="Mahmoud Qawasmi">
+        <charseq START="2125" END="2139">Mahmoud Qawasmi</charseq>
+      </name>
+      <name NAME="Qawasmi">
+        <charseq START="2305" END="2311">Qawasmi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-49" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-49-0">
+      <extent>
+        <charseq START="1981" END="2002">the World Trade
+Centre</charseq>
+      </extent>
+      <head>
+        <charseq START="1985" END="2002">World Trade
+Centre</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="World Trade Centre">
+        <charseq START="1985" END="2002">World Trade
+Centre</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-50" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-50-0" ROLE="GPE">
+      <extent>
+        <charseq START="2007" END="2014">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="2007" END="2014">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-50-1" ROLE="GPE">
+      <extent>
+        <charseq START="2017" END="2018">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2017" END="2018">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="New York">
+        <charseq START="2007" END="2014">New York</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-51-0">
+      <extent>
+        <charseq START="2027" END="2040">Israeli police</charseq>
+      </extent>
+      <head>
+        <charseq START="2035" END="2040">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-52-0">
+      <extent>
+        <charseq START="2090" END="2108">Palestinian sources</charseq>
+      </extent>
+      <head>
+        <charseq START="2102" END="2108">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-53-0">
+      <extent>
+        <charseq START="2145" END="2165">a 21-year-old
+student</charseq>
+      </extent>
+      <head>
+        <charseq START="2159" END="2165">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-54" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-54-0">
+      <extent>
+        <charseq START="2181" END="2211">the Islamic radical group Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="2207" END="2211">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-54-1">
+      <extent>
+        <charseq START="2201" END="2205">group</charseq>
+      </extent>
+      <head>
+        <charseq START="2201" END="2205">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-54-2">
+      <extent>
+        <charseq START="2398" END="2402">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="2398" END="2402">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-54-3">
+      <extent>
+        <charseq START="4681" END="4685">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4681" END="4685">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-54-4">
+      <extent>
+        <charseq START="4754" END="4758">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4754" END="4758">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-54-5">
+      <extent>
+        <charseq START="4778" END="4780">its</charseq>
+      </extent>
+      <head>
+        <charseq START="4778" END="4780">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hamas">
+        <charseq START="2207" END="2211">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="2398" END="2402">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="4681" END="4685">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="4754" END="4758">Hamas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-55-0">
+      <extent>
+        <charseq START="2215" END="2228">Israeli forces</charseq>
+      </extent>
+      <head>
+        <charseq START="2223" END="2228">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-56" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-56-0" ROLE="GPE">
+      <extent>
+        <charseq START="2250" END="2258">Al-Sheikh</charseq>
+      </extent>
+      <head>
+        <charseq START="2250" END="2258">Al-Sheikh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-56-1" ROLE="GPE">
+      <extent>
+        <charseq START="2241" END="2267">Hebron&apos;s Al-Sheikh district</charseq>
+      </extent>
+      <head>
+        <charseq START="2260" END="2267">district</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-56-2" ROLE="GPE">
+      <extent>
+        <charseq START="2353" END="2356">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2353" END="2356">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Al-Sheikh">
+        <charseq START="2250" END="2258">Al-Sheikh</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-57-0">
+      <extent>
+        <charseq START="2275" END="2284">his
+family</charseq>
+      </extent>
+      <head>
+        <charseq START="2279" END="2284">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-58-0">
+      <extent>
+        <charseq START="2305" END="2321">Qawasmi&apos;s brother</charseq>
+      </extent>
+      <head>
+        <charseq START="2315" END="2321">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-59-0">
+      <extent>
+        <charseq START="2327" END="2332">father</charseq>
+      </extent>
+      <head>
+        <charseq START="2327" END="2332">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-60" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-60-0">
+      <extent>
+        <charseq START="2408" END="2429">another hardline group</charseq>
+      </extent>
+      <head>
+        <charseq START="2425" END="2429">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-61" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-61-0">
+      <extent>
+        <charseq START="2432" END="2444">Islamic Jihad</charseq>
+      </extent>
+      <head>
+        <charseq START="2432" END="2444">Islamic Jihad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Islamic Jihad">
+        <charseq START="2432" END="2444">Islamic Jihad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-62" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-62-0">
+      <extent>
+        <charseq START="2505" END="2508">army</charseq>
+      </extent>
+      <head>
+        <charseq START="2505" END="2508">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-63-0">
+      <extent>
+        <charseq START="2743" END="2751">civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="2743" END="2751">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-64-0">
+      <extent>
+        <charseq START="2794" END="2831">information minister Yasser Abed Rabbo</charseq>
+      </extent>
+      <head>
+        <charseq START="2815" END="2831">Yasser Abed Rabbo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-64-1">
+      <extent>
+        <charseq START="2806" END="2813">minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2806" END="2813">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yasser Abed Rabbo">
+        <charseq START="2815" END="2831">Yasser Abed Rabbo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-65-0">
+      <extent>
+        <charseq START="2835" END="2860">The Palestinian leadership</charseq>
+      </extent>
+      <head>
+        <charseq START="2851" END="2860">leadership</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-66" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-66-0" ROLE="GPE">
+      <extent>
+        <charseq START="2908" END="2926">Israel&apos;s government</charseq>
+      </extent>
+      <head>
+        <charseq START="2917" END="2926">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-67-0">
+      <extent>
+        <charseq START="3009" END="3020">Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="3009" END="3020">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinians">
+        <charseq START="3009" END="3020">Palestinians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-68" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-68-0" ROLE="GPE">
+      <extent>
+        <charseq START="3151" END="3180">the most right-wing
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="3171" END="3180">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-68-1" ROLE="GPE">
+      <extent>
+        <charseq START="3370" END="3379">government</charseq>
+      </extent>
+      <head>
+        <charseq START="3370" END="3379">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-69" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-69-0">
+      <extent>
+        <charseq START="3264" END="3294">two Palestinian suicide bombers</charseq>
+      </extent>
+      <head>
+        <charseq START="3288" END="3294">bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-70" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-70-0">
+      <extent>
+        <charseq START="3318" END="3333">central Tel Aviv</charseq>
+      </extent>
+      <head>
+        <charseq START="3326" END="3333">Tel Aviv</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-71-0">
+      <extent>
+        <charseq START="3344" END="3358">23 other people</charseq>
+      </extent>
+      <head>
+        <charseq START="3353" END="3358">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-71-1">
+      <extent>
+        <charseq START="3548" END="3549">He</charseq>
+      </extent>
+      <head>
+        <charseq START="3548" END="3549">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-71-2">
+      <extent>
+        <charseq START="3814" END="3816">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3814" END="3816">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-71-3">
+      <extent>
+        <charseq START="3889" END="3890">He</charseq>
+      </extent>
+      <head>
+        <charseq START="3889" END="3890">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-72-0">
+      <extent>
+        <charseq START="3362" END="3400">Israeli government spokesman Avi Pazner</charseq>
+      </extent>
+      <head>
+        <charseq START="3391" END="3400">Avi Pazner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-72-1">
+      <extent>
+        <charseq START="3381" END="3389">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="3381" END="3389">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Avi Pazner">
+        <charseq START="3391" END="3400">Avi Pazner</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-73" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-73-0" ROLE="GPE">
+      <extent>
+        <charseq START="3464" END="3479">the Jewish state</charseq>
+      </extent>
+      <head>
+        <charseq START="3475" END="3479">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-73-1" ROLE="GPE">
+      <extent>
+        <charseq START="4735" END="4750">the
+Jewish state</charseq>
+      </extent>
+      <head>
+        <charseq START="4746" END="4750">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-74" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-74-0">
+      <extent>
+        <charseq START="3517" END="3544">the terrorist organisations&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="3531" END="3543">organisations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-75" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-75-0">
+      <extent>
+        <charseq START="3521" END="3529">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="3521" END="3529">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-76" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-76-0">
+      <extent>
+        <charseq START="3687" END="3710">President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="3697" END="3710">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-76-1">
+      <extent>
+        <charseq START="3687" END="3695">President</charseq>
+      </extent>
+      <head>
+        <charseq START="3687" END="3695">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="3697" END="3710">George W. Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-77" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-77-0">
+      <extent>
+        <charseq START="3737" END="3745">innocents</charseq>
+      </extent>
+      <head>
+        <charseq START="3737" END="3745">innocents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-78" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-78-0">
+      <extent>
+        <charseq START="3759" END="3769">White House</charseq>
+      </extent>
+      <head>
+        <charseq START="3759" END="3769">White House</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="White House">
+        <charseq START="3759" END="3769">White House</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-79-0">
+      <extent>
+        <charseq START="3759" END="3793">White House spokesman Ari Fleischer</charseq>
+      </extent>
+      <head>
+        <charseq START="3781" END="3793">Ari Fleischer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-79-1">
+      <extent>
+        <charseq START="3771" END="3779">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="3771" END="3779">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ari Fleischer">
+        <charseq START="3781" END="3793">Ari Fleischer</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-80" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-80-0">
+      <extent>
+        <charseq START="3829" END="3842">the terrorists</charseq>
+      </extent>
+      <head>
+        <charseq START="3833" END="3842">terrorists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-81" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-81-0">
+      <extent>
+        <charseq START="3937" END="3951">the Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="3941" END="3951">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Middle East">
+        <charseq START="3941" END="3951">Middle East</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-82" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-82-0" ROLE="GPE">
+      <extent>
+        <charseq START="3956" END="3957">EU</charseq>
+      </extent>
+      <head>
+        <charseq START="3956" END="3957">EU</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="EU">
+        <charseq START="3956" END="3957">EU</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-83-0">
+      <extent>
+        <charseq START="3982" END="3994">Javier Solana</charseq>
+      </extent>
+      <head>
+        <charseq START="3982" END="3994">Javier Solana</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-83-1">
+      <extent>
+        <charseq START="4034" END="4035">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4034" END="4035">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Javier Solana">
+        <charseq START="3982" END="3994">Javier Solana</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-84-0">
+      <extent>
+        <charseq START="4089" END="4106">too
+many civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="4098" END="4106">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-85" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-85-0" ROLE="GPE">
+      <extent>
+        <charseq START="4157" END="4162">London</charseq>
+      </extent>
+      <head>
+        <charseq START="4157" END="4162">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="London">
+        <charseq START="4157" END="4162">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-86" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-86-0">
+      <extent>
+        <charseq START="4165" END="4175">a spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="4167" END="4175">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-86-1">
+      <extent>
+        <charseq START="4266" END="4278">The spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="4270" END="4278">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-86-2">
+      <extent>
+        <charseq START="4291" END="4292">he</charseq>
+      </extent>
+      <head>
+        <charseq START="4291" END="4292">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-87-0">
+      <extent>
+        <charseq START="4181" END="4206">the British prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="4199" END="4206">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-88" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-88-0" ROLE="GPE">
+      <extent>
+        <charseq START="4185" END="4191">British</charseq>
+      </extent>
+      <head>
+        <charseq START="4185" END="4191">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="4185" END="4191">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-89" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-89-0">
+      <extent>
+        <charseq START="4213" END="4224">Tony Blair
+&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="4213" END="4222">Tony Blair</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tony Blair">
+        <charseq START="4213" END="4222">Tony Blair</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-90" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-90-0" ROLE="GPE">
+      <extent>
+        <charseq START="4319" END="4327">all sides</charseq>
+      </extent>
+      <head>
+        <charseq START="4323" END="4327">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-90-1" ROLE="GPE">
+      <extent>
+        <charseq START="4340" END="4343">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4340" END="4343">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-91" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-91-0">
+      <extent>
+        <charseq START="4578" END="4591">Israeli forces</charseq>
+      </extent>
+      <head>
+        <charseq START="4586" END="4591">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-92" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-92-0">
+      <extent>
+        <charseq START="4619" END="4632">a refugee camp</charseq>
+      </extent>
+      <head>
+        <charseq START="4629" END="4632">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-93" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-93-0">
+      <extent>
+        <charseq START="4660" END="4685">a founding
+member of Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4671" END="4676">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-94" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-94-0">
+      <extent>
+        <charseq START="4912" END="4917">Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="4912" END="4917">Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Arafat">
+        <charseq START="4912" END="4917">Arafat</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-95" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-95-0">
+      <extent>
+        <charseq START="4912" END="4934">Arafat&apos;s administration</charseq>
+      </extent>
+      <head>
+        <charseq START="4921" END="4934">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-96" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-96-0">
+      <extent>
+        <charseq START="4938" END="4965">Palestinian chief negotiator</charseq>
+      </extent>
+      <head>
+        <charseq START="4956" END="4965">negotiator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-97" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-97-0">
+      <extent>
+        <charseq START="4967" END="4977">Saeb Erakat</charseq>
+      </extent>
+      <head>
+        <charseq START="4967" END="4977">Saeb Erakat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saeb Erakat">
+        <charseq START="4967" END="4977">Saeb Erakat</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-98" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-98-0">
+      <extent>
+        <charseq START="5055" END="5066">Eight people</charseq>
+      </extent>
+      <head>
+        <charseq START="5061" END="5066">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-99" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-99-0">
+      <extent>
+        <charseq START="5079" END="5094">a pregnant woman</charseq>
+      </extent>
+      <head>
+        <charseq START="5090" END="5094">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-100" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-100-0">
+      <extent>
+        <charseq START="5100" END="5118">a 13-year-old child</charseq>
+      </extent>
+      <head>
+        <charseq START="5114" END="5118">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-101" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-101-0" ROLE="GPE">
+      <extent>
+        <charseq START="5165" END="5170">US-led</charseq>
+      </extent>
+      <head>
+        <charseq START="5165" END="5170">US-led</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US-led">
+        <charseq START="5165" END="5170">US-led</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-102" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-102-0">
+      <extent>
+        <charseq START="5232" END="5245">Israeli troops</charseq>
+      </extent>
+      <head>
+        <charseq START="5240" END="5245">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-103" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-103-0">
+      <extent>
+        <charseq START="5320" END="5340">the edge of Gaza City</charseq>
+      </extent>
+      <head>
+        <charseq START="5324" END="5327">edge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-104" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-104-0" ROLE="GPE">
+      <extent>
+        <charseq START="5332" END="5340">Gaza City</charseq>
+      </extent>
+      <head>
+        <charseq START="5332" END="5340">Gaza City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gaza City">
+        <charseq START="5332" END="5340">Gaza City</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-105" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-105-0">
+      <extent>
+        <charseq START="5362" END="5394">an eight-year-old Palestinian boy</charseq>
+      </extent>
+      <head>
+        <charseq START="5392" END="5394">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-105-1">
+      <extent>
+        <charseq START="5407" END="5409">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5407" END="5409">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-106" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-106-0">
+      <extent>
+        <charseq START="5407" END="5417">his
+brother</charseq>
+      </extent>
+      <head>
+        <charseq START="5411" END="5417">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-107" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-107-0">
+      <extent>
+        <charseq START="5423" END="5430">a sister</charseq>
+      </extent>
+      <head>
+        <charseq START="5425" END="5430">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-108" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-108-0" ROLE="GPE">
+      <extent>
+        <charseq START="5482" END="5520">a village north of the town of Ramallah</charseq>
+      </extent>
+      <head>
+        <charseq START="5492" END="5496">north</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-109" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-109-0" ROLE="GPE">
+      <extent>
+        <charseq START="5484" END="5490">village</charseq>
+      </extent>
+      <head>
+        <charseq START="5484" END="5490">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-110" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030305.0918-110-0" ROLE="GPE">
+      <extent>
+        <charseq START="5513" END="5520">Ramallah</charseq>
+      </extent>
+      <head>
+        <charseq START="5513" END="5520">Ramallah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030305.0918-110-1" ROLE="GPE">
+      <extent>
+        <charseq START="5523" END="5527">their</charseq>
+      </extent>
+      <head>
+        <charseq START="5523" END="5527">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ramallah">
+        <charseq START="5513" END="5520">Ramallah</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030305.0918-111" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030305.0918-111-0">
+      <extent>
+        <charseq START="5523" END="5540">their elder sister</charseq>
+      </extent>
+      <head>
+        <charseq START="5535" END="5540">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030305.0918-V20" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030305.0918-V20-1">
+      <extent>
+        <charseq START="3436" END="3452">very grave attack</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030305.0918-T0" VAL="2003-03-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030305</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T1" VAL="2003-03-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T1-1">
+      <extent>
+        <charseq START="139" END="145">March 5</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T2" VAL="2003-03-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T2-1">
+      <extent>
+        <charseq START="207" END="215">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T3" VAL="2003-03-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T3-1">
+      <extent>
+        <charseq START="1210" END="1218">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T4" VAL="2001-09">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T4-1">
+      <extent>
+        <charseq START="1951" END="1964">September 2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T5" VAL="PXW">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T5-1">
+      <extent>
+        <charseq START="2539" END="2550">recent weeks</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T6" VAL="2003-03-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T6-1">
+      <extent>
+        <charseq START="2763" END="2767">today</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T7" VAL="2003-02">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T7-1">
+      <extent>
+        <charseq START="3025" END="3032">February</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T8" VAL="2003-01-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T8-1">
+      <extent>
+        <charseq START="3086" END="3094">January 5</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T9" VAL="2003-01">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T9-1">
+      <extent>
+        <charseq START="3248" END="3254">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T10" VAL="PXW">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T10-1">
+      <extent>
+        <charseq START="4122" END="4131">last weeks</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T11" VAL="PXD">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T11-1">
+      <extent>
+        <charseq START="4141" END="4149">last days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T12" VAL="P2D">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T12-1">
+      <extent>
+        <charseq START="4563" END="4570">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T13" VAL="2003-03-03">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T13-1">
+      <extent>
+        <charseq START="5135" END="5140">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T14" VAL="2003-03-04">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T14-1">
+      <extent>
+        <charseq START="5223" END="5229">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T15" VAL="2003-03-05">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T15-1">
+      <extent>
+        <charseq START="5450" END="5458">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030305.0918-T16" VAL="P2M">
+    <timex2_mention ID="AFP_ENG_20030305.0918-T16-1">
+      <extent>
+        <charseq START="332" END="349">exactly two months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030305.0918-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R1-1">
+      <extent>
+        <charseq START="124" END="136">HAIFA, Israel</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="124" END="128">HAIFA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="131" END="136">Israel</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R2-1">
+      <extent>
+        <charseq START="256" END="268">a
+student bus</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="258" END="264">student</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="256" END="268">a
+student bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R3-1">
+      <extent>
+        <charseq START="256" END="298">a
+student bus in the northern town of Haifa</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="273" END="298">the northern town of Haifa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="256" END="268">a
+student bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R4-1">
+      <extent>
+        <charseq START="384" END="396">Israeli tanks</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="384" END="390">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="384" END="396">Israeli tanks</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-13" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-14" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R5-1">
+      <extent>
+        <charseq START="496" END="512">the Jabaliya area</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="496" END="512">the Jabaliya area</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="500" END="507">Jabaliya</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R6-1">
+      <extent>
+        <charseq START="515" END="542">Palestinian security sources</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="515" END="542">Palestinian security sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="515" END="525">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-17" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R7-1">
+      <extent>
+        <charseq START="551" END="577">Palestinian medical sources</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="551" END="577">Palestinian medical sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="551" END="561">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R8" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R8-1">
+      <extent>
+        <charseq START="584" END="636">60-year-old Mohammed al-Biyari was
+killed in his home</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="584" END="613">60-year-old Mohammed al-Biyari</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="629" END="636">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R9-1">
+      <extent>
+        <charseq START="629" END="636">his home</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="629" END="631">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="629" END="636">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R10" TYPE="PHYS" SUBTYPE="Near">
+    <relation_argument REFID="AFP_ENG_20030305.0918-19" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R10-1">
+      <extent>
+        <charseq START="629" END="663">his home near Jabaliya refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="629" END="636">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="643" END="663">Jabaliya refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-21" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-14" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R11-1">
+      <extent>
+        <charseq START="643" END="658">Jabaliya refugee</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="652" END="658">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="643" END="650">Jabaliya</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-14" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R12-1">
+      <extent>
+        <charseq START="643" END="663">Jabaliya refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="643" END="650">Jabaliya</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="643" END="663">Jabaliya refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-21" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R13-1">
+      <extent>
+        <charseq START="643" END="663">Jabaliya refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="652" END="658">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="643" END="663">Jabaliya refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-26" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-27" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R14-1">
+      <extent>
+        <charseq START="760" END="790">a house inside
+the refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="760" END="766">a house</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="775" END="790">the refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R15" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-21" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-27" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R15-1">
+      <extent>
+        <charseq START="775" END="790">the refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="779" END="785">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="775" END="790">the refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-28" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R16-1">
+      <extent>
+        <charseq START="833" END="860">Palestinian
+security sources</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-28-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="833" END="860">Palestinian
+security sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="833" END="843">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R17" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-30" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R17-1">
+      <extent>
+        <charseq START="921" END="933">the Haifa bus</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="925" END="929">Haifa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-30-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="921" END="933">the Haifa bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="AFP_ENG_20030305.0918-R17-2">
+      <extent>
+        <charseq START="1655" END="1667">the Haifa bus</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="1659" END="1663">Haifa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-30-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1655" END="1667">the Haifa bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="AFP_ENG_20030305.0918-R17-3">
+      <extent>
+        <charseq START="3655" END="3667">the Haifa bus</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-7" ROLE="Arg-1">
+          <extent>
+            <charseq START="3659" END="3663">Haifa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-30-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="3655" END="3667">the Haifa bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R18" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030305.0918-35" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-36" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R18-1">
+      <extent>
+        <charseq START="1128" END="1166">a residential
+area and Haifa university</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-35-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1128" END="1166">a residential
+area and Haifa university</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-36-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1142" END="1145">area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R19" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-35" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R19-1">
+      <extent>
+        <charseq START="1128" END="1166">a residential
+area and Haifa university</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="1151" END="1155">Haifa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-35-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1128" END="1166">a residential
+area and Haifa university</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R20" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="AFP_ENG_20030305.0918-31" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-42" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R20-1">
+      <extent>
+        <charseq START="1431" END="1450">his
+security cabinet</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-31-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1431" END="1433">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-42-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1431" END="1450">his
+security cabinet</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R21" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030305.0918-44" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R21-1">
+      <extent>
+        <charseq START="1495" END="1507">Israeli media</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-44-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1495" END="1507">Israeli media</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="1495" END="1501">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R22" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R22-1">
+      <extent>
+        <charseq START="1621" END="1650">The Palestinian suicide bomber</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-5-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1621" END="1650">The Palestinian suicide bomber</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1625" END="1635">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R23" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-30" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R23-1">
+      <extent>
+        <charseq START="1621" END="1667">The Palestinian suicide bomber on the Haifa bus</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-5-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1621" END="1650">The Palestinian suicide bomber</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-30-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1655" END="1667">the Haifa bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R24" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R24-1">
+      <extent>
+        <charseq START="1621" END="1715">The Palestinian suicide bomber on the Haifa bus came from the
+southern West Bank town of Hebron</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-5-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1621" END="1650">The Palestinian suicide bomber</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-46-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1679" END="1715">the
+southern West Bank town of Hebron</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R25" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-47" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R25-1">
+      <extent>
+        <charseq START="1679" END="1715">the
+southern West Bank town of Hebron</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-46-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1679" END="1715">the
+southern West Bank town of Hebron</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-47-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1692" END="1700">West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R26" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-49" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-50" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R26-1">
+      <extent>
+        <charseq START="1981" END="2014">the World Trade
+Centre in New York</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-49-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1981" END="2002">the World Trade
+Centre</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-50-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2007" END="2014">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R27" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-51" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R27-1">
+      <extent>
+        <charseq START="2027" END="2040">Israeli police</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-51-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2027" END="2040">Israeli police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="2027" END="2033">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R28" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-52" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R28-1">
+      <extent>
+        <charseq START="2090" END="2108">Palestinian sources</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-52-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2090" END="2108">Palestinian sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="2090" END="2100">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R29" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-52" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R29-1">
+      <extent>
+        <charseq START="2090" END="2118">Palestinian sources in Hebron</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-52-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2090" END="2108">Palestinian sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-46-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="2113" END="2118">Hebron</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R30" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-53" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-54" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R30-1">
+      <extent>
+        <charseq START="2145" END="2211">a 21-year-old
+student with links to the Islamic radical group Hamas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-53-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2145" END="2165">a 21-year-old
+student</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-54-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2181" END="2211">the Islamic radical group Hamas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R31" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-55" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R31-1">
+      <extent>
+        <charseq START="2215" END="2228">Israeli forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2215" END="2228">Israeli forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="2215" END="2221">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R32" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-55" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R32-1">
+      <extent>
+        <charseq START="2215" END="2246">Israeli forces moved into Hebron</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2215" END="2228">Israeli forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-46-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="2241" END="2246">Hebron</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R33" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-55" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-56" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R33-1">
+      <extent>
+        <charseq START="2215" END="2267">Israeli forces moved into Hebron&apos;s Al-Sheikh district</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2215" END="2228">Israeli forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-56-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2241" END="2267">Hebron&apos;s Al-Sheikh district</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R34" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-56" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R34-1">
+      <extent>
+        <charseq START="2241" END="2267">Hebron&apos;s Al-Sheikh district</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-46-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="2241" END="2246">Hebron</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-56-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2241" END="2267">Hebron&apos;s Al-Sheikh district</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R35" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030305.0918-48" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-57" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R35-1">
+      <extent>
+        <charseq START="2275" END="2284">his
+family</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-48-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="2275" END="2277">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-57-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2275" END="2284">his
+family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R36" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030305.0918-48" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-58" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R36-1">
+      <extent>
+        <charseq START="2305" END="2321">Qawasmi&apos;s brother</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-48-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="2305" END="2311">Qawasmi</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-58-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2305" END="2321">Qawasmi&apos;s brother</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R37" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030305.0918-62" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R37-1">
+      <extent>
+        <charseq START="2497" END="2508">Israeli army</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-62-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2505" END="2508">army</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="2497" END="2503">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R38" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-65" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R38-1">
+      <extent>
+        <charseq START="2835" END="2860">The Palestinian leadership</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-65-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2835" END="2860">The Palestinian leadership</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="2839" END="2849">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R39" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-69" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R39-1">
+      <extent>
+        <charseq START="3264" END="3294">two Palestinian suicide bombers</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-69-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3264" END="3294">two Palestinian suicide bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="3268" END="3278">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R40" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-69" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-70" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R40-1">
+      <extent>
+        <charseq START="3264" END="3333">two Palestinian suicide bombers blew
+themselves up in central Tel Aviv</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-69-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3264" END="3294">two Palestinian suicide bombers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-70-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3318" END="3333">central Tel Aviv</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R41" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-72" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R41-1">
+      <extent>
+        <charseq START="3362" END="3400">Israeli government spokesman Avi Pazner</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3362" END="3400">Israeli government spokesman Avi Pazner</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-13" ROLE="Arg-2">
+          <extent>
+            <charseq START="3362" END="3368">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R42" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-72" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-68" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R42-1">
+      <extent>
+        <charseq START="3362" END="3400">Israeli government spokesman Avi Pazner</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3362" END="3400">Israeli government spokesman Avi Pazner</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-68-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3370" END="3379">government</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R43" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="AFP_ENG_20030305.0918-75" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-74" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R43-1">
+      <extent>
+        <charseq START="3517" END="3544">the terrorist organisations&quot;</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-75-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3521" END="3529">terrorist</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-74-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3517" END="3544">the terrorist organisations&quot;</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R44" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-77" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R44-1">
+      <extent>
+        <charseq START="3737" END="3755">innocents in
+Israel</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-77-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3737" END="3745">innocents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-15" ROLE="Arg-2">
+          <extent>
+            <charseq START="3750" END="3755">Israel</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R45" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-79" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-78" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R45-1">
+      <extent>
+        <charseq START="3759" END="3793">White House spokesman Ari Fleischer</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-79-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3759" END="3793">White House spokesman Ari Fleischer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-78-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3759" END="3769">White House</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R46" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-86" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-85" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R46-1">
+      <extent>
+        <charseq START="4157" END="4175">London, a spokesman</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-86-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4165" END="4175">a spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-85-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4157" END="4162">London</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R47" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-87" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-88" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R47-1">
+      <extent>
+        <charseq START="4181" END="4206">the British prime minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-87-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4181" END="4206">the British prime minister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-88-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4185" END="4191">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R48" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-91" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R48-1">
+      <extent>
+        <charseq START="4578" END="4591">Israeli forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-91-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4578" END="4591">Israeli forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-17" ROLE="Arg-2">
+          <extent>
+            <charseq START="4578" END="4584">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R49" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-91" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-92" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R49-1">
+      <extent>
+        <charseq START="4578" END="4632">Israeli forces staged a
+bloody raid into a refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-91-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4578" END="4591">Israeli forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-92-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4619" END="4632">a refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R50" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030305.0918-21" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-92" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R50-1">
+      <extent>
+        <charseq START="4619" END="4632">a refugee camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-21-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="4621" END="4627">refugee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-92-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4619" END="4632">a refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R51" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-92" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R51-1">
+      <extent>
+        <charseq START="4619" END="4685">a refugee camp in central Gaza targeting a founding
+member of Hamas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-92-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4619" END="4632">a refugee camp</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-10-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="4637" END="4685">central Gaza targeting a founding
+member of Hamas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R52" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030305.0918-93" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-54" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R52-1">
+      <extent>
+        <charseq START="4660" END="4685">a founding
+member of Hamas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-93-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4660" END="4685">a founding
+member of Hamas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-54-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="4681" END="4685">Hamas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R53" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="AFP_ENG_20030305.0918-94" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-95" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R53-1">
+      <extent>
+        <charseq START="4912" END="4934">Arafat&apos;s administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-94-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4912" END="4917">Arafat</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-95-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4912" END="4934">Arafat&apos;s administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R54" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-96" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R54-1">
+      <extent>
+        <charseq START="4938" END="4965">Palestinian chief negotiator</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-96-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4938" END="4965">Palestinian chief negotiator</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-11" ROLE="Arg-2">
+          <extent>
+            <charseq START="4938" END="4948">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R55" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030305.0918-102" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R55-1">
+      <extent>
+        <charseq START="5232" END="5245">Israeli troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-102-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5232" END="5245">Israeli troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-2-20" ROLE="Arg-2">
+          <extent>
+            <charseq START="5232" END="5238">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R56" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-103" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-104" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R56-1">
+      <extent>
+        <charseq START="5320" END="5340">the edge of Gaza City</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-103-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5320" END="5340">the edge of Gaza City</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-104-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5332" END="5340">Gaza City</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R57" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-105" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R57-1">
+      <extent>
+        <charseq START="5362" END="5394">an eight-year-old Palestinian boy</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-105-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5362" END="5394">an eight-year-old Palestinian boy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-15-13" ROLE="Arg-2">
+          <extent>
+            <charseq START="5380" END="5390">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R58" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030305.0918-105" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-106" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R58-1">
+      <extent>
+        <charseq START="5407" END="5417">his
+brother</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-105-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5407" END="5409">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-106-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5407" END="5417">his
+brother</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R59" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030305.0918-108" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-109" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R59-1">
+      <extent>
+        <charseq START="5482" END="5520">a village north of the town of Ramallah</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-108-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5482" END="5520">a village north of the town of Ramallah</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-109-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5484" END="5490">village</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R60" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-108" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R60-1">
+      <extent>
+        <charseq START="5482" END="5520">a village north of the town of Ramallah</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="5501" END="5508">the town</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-108-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5482" END="5520">a village north of the town of Ramallah</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R61" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-110" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R61-1">
+      <extent>
+        <charseq START="5501" END="5520">the town of Ramallah</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-1-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="5501" END="5508">the town</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-110-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5513" END="5520">Ramallah</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030305.0918-R62" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030305.0918-111" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030305.0918-110" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030305.0918-R62-1">
+      <extent>
+        <charseq START="5523" END="5540">their elder sister</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-111-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5523" END="5540">their elder sister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030305.0918-110-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5523" END="5527">their</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030305.0918-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-83" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T10" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-84" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-71" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-70" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-69" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T2" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-4" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Agent"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV1-1">
+      <extent>
+        <charseq START="155" END="180">Fifteen people were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="175" END="180">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-4-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV1-2">
+      <extent>
+        <charseq START="222" END="228">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="222" END="228">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-0" ROLE="Victim"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV1-3">
+      <extent>
+        <charseq START="1637" END="1643">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1637" END="1643">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-15-3" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-2" ROLE="Victim"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV1-4">
+      <extent>
+        <charseq START="3280" END="3286">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3280" END="3286">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-70-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-69-0" ROLE="Victim"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV1-5">
+      <extent>
+        <charseq START="3336" END="3358">killing 23 other people</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3336" END="3342">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-71-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-70-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV1-6">
+      <extent>
+        <charseq START="4108" END="4113">killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4108" END="4113">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-83-1" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T10-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-16" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-84-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV2" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T2" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV2-1">
+      <extent>
+        <charseq START="199" END="205">wounded</charseq>
+      </extent>
+      <anchor>
+        <charseq START="199" END="205">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-6" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T16" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T2" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV4-1">
+      <extent>
+        <charseq START="237" END="248">blew himself</charseq>
+      </extent>
+      <anchor>
+        <charseq START="237" END="240">blew</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-1" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV4-2">
+      <extent>
+        <charseq START="311" END="327">bombing in
+Israel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="311" END="317">bombing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-1" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-6-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T16-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-18" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-19" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV6-1">
+      <extent>
+        <charseq START="584" END="636">60-year-old Mohammed al-Biyari was
+killed in his home</charseq>
+      </extent>
+      <anchor>
+        <charseq START="619" END="624">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-18-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-19-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV7" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-20" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV7-1">
+      <extent>
+        <charseq START="696" END="702">wounded</charseq>
+      </extent>
+      <anchor>
+        <charseq START="696" END="702">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-20-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-25" ROLE="Destination"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-24" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV8-1">
+      <extent>
+        <charseq START="722" END="740">landed in farmlands</charseq>
+      </extent>
+      <anchor>
+        <charseq START="722" END="727">landed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-25-0" ROLE="Destination"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-24-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-26" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-24" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-27" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV9-1">
+      <extent>
+        <charseq START="756" END="758">hit</charseq>
+      </extent>
+      <anchor>
+        <charseq START="756" END="758">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-26-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-24-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-27-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030305.0918-EV10-1">
+      <extent>
+        <charseq START="821" END="830">casualties</charseq>
+      </extent>
+      <anchor>
+        <charseq START="821" END="830">casualties</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-29" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV11-1">
+      <extent>
+        <charseq START="911" END="916">killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="911" END="916">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-1-3" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-29-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-1" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-30" ROLE="Instrument"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV12-1">
+      <extent>
+        <charseq START="935" END="941">bombing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="935" END="941">bombing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-1-3" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-30-0" ROLE="Instrument"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV13" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-37" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-38" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV13-1">
+      <extent>
+        <charseq START="1179" END="1185">injured</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1179" END="1185">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-37-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-38-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-45" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-43" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-10" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV14-1">
+      <extent>
+        <charseq START="1486" END="1491">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1486" END="1491">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-43-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-10-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV14-2">
+      <extent>
+        <charseq START="1607" END="1617">war on Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1607" END="1609">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-45-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Origin"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-30" ROLE="Vehicle"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV17-1">
+      <extent>
+        <charseq START="1669" END="1715">came from the
+southern West Bank town of Hebron</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1669" END="1672">came</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-46-1" ROLE="Origin"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-30-2" ROLE="Vehicle"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-2" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV18" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-5" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-46" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV18-1">
+      <extent>
+        <charseq START="1737" END="1746">naming him</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1737" END="1742">naming</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-5-3" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-46-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV19" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030305.0918-EV19-1">
+      <extent>
+        <charseq START="1868" END="1873">letter</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1868" END="1873">letter</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV20" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-50" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV20-1">
+      <extent>
+        <charseq START="1919" END="1925">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1919" END="1925">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-50-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV21" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-T4" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-50" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV21-1">
+      <extent>
+        <charseq START="1927" END="1932">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1927" END="1932">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T4-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-50-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV22" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-55" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-56" ROLE="Destination"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV22-1">
+      <extent>
+        <charseq START="2215" END="2234">Israeli forces moved</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2230" END="2234">moved</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-55-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-56-1" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV23" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-55" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-58" ROLE="Person"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV23-1">
+      <extent>
+        <charseq START="2296" END="2303">arrested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2296" END="2303">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-55-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-58-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV24" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-59" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV24-1">
+      <extent>
+        <charseq START="2344" END="2350">bombing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2344" END="2350">bombing</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-59-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV25" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-72" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-69" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T9" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-70" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-62" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-60" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV25-1">
+      <extent>
+        <charseq START="2456" END="2460">blast</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2456" END="2460">blast</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-60-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T5-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV25-2">
+      <extent>
+        <charseq START="2510" END="2514">raids</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2510" END="2514">raids</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-62-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-8" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV25-3">
+      <extent>
+        <charseq START="2598" END="2603">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2598" END="2603">attack</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV25-4">
+      <extent>
+        <charseq START="3256" END="3294">attack, two Palestinian suicide bombers</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3256" END="3261">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-69-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T9-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-70-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV25-5">
+      <extent>
+        <charseq START="3447" END="3452">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3447" END="3452">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-72-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV28" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030305.0918-EV28-1">
+      <extent>
+        <charseq START="2698" END="2702">death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2698" END="2702">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV29" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-63" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T6" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV29-1">
+      <extent>
+        <charseq START="2727" END="2751">attacks against civilians</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2727" END="2733">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-63-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T6-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV29-2">
+      <extent>
+        <charseq START="2771" END="2776">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2771" END="2776">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-63-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T6-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV31" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-69" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-71" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T9" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-70" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-65" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV31-1">
+      <extent>
+        <charseq START="2871" END="2876">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2871" END="2876">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-65-0" ROLE="Attacker"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV31-2">
+      <extent>
+        <charseq START="3264" END="3299">two Palestinian suicide bombers blew</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3296" END="3299">blew</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-69-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-71-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T9-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-70-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV32" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-T7" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-67" ROLE="Victim"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV32-1">
+      <extent>
+        <charseq START="2996" END="3001">deaths</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2996" END="3001">deaths</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T7-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-67-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV33" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-T8" ROLE="Time-Starting"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-43" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV33-1">
+      <extent>
+        <charseq START="3059" END="3064">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3059" END="3064">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T8-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-43-1" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-11" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV34" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-68" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T8" ROLE="Time-After"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-41" ROLE="Person"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV34-1">
+      <extent>
+        <charseq START="3141" END="3149">appointed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3141" END="3149">appointed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-68-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T8-1" ROLE="Time-After"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-41-2" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV39" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030305.0918-EV39-1">
+      <extent>
+        <charseq START="3427" END="3431">blast</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3427" END="3431">blast</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV41" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-74" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-V20" ROLE="Crime"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV41-1">
+      <extent>
+        <charseq START="3502" END="3544">action against the terrorist organisations&quot;</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3502" END="3507">action</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-74-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-V20-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV42" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-77" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-76" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-30" ROLE="Target"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV42-1">
+      <extent>
+        <charseq START="3642" END="3648">attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3642" END="3648">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-30-3" ROLE="Target"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV42-2">
+      <extent>
+        <charseq START="3673" END="3677">blown</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3673" END="3677">blown</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-30-3" ROLE="Target"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV42-3">
+      <extent>
+        <charseq START="3727" END="3755">attack on innocents in
+Israel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3727" END="3732">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-77-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-15" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-76-0" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV45" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-83" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV45-1">
+      <extent>
+        <charseq START="4017" END="4022">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4017" END="4022">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-83-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-16" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV47" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030305.0918-EV47-1">
+      <extent>
+        <charseq START="4371" END="4378">violence</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4371" END="4378">violence</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV47-2">
+      <extent>
+        <charseq START="5044" END="5051">violence</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5044" END="5051">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV48" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-30" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-91" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-92" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV48-1">
+      <extent>
+        <charseq START="4546" END="4551">attack</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4546" END="4551">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-30-4" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-91-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-92-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV49" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-10" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV49-1">
+      <extent>
+        <charseq START="4710" END="4716">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4710" END="4716">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-10-3" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV50" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-54" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-93" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-92" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-10" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV50-1">
+      <extent>
+        <charseq START="4650" END="4658">targeting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4650" END="4658">targeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-93-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-10-3" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV50-2">
+      <extent>
+        <charseq START="4718" END="4725">bombings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4718" END="4725">bombings</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-93-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-92-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030305.0918-EV50-3">
+      <extent>
+        <charseq START="4782" END="4788">attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4782" END="4788">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-54-5" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-18" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV53" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-15" ROLE="Entity"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV53-1">
+      <extent>
+        <charseq START="4869" END="4888">Palestinian meetings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4881" END="4888">meetings</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-15-10" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV55" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-100" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-100" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-99" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T13" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-10" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV55-1">
+      <extent>
+        <charseq START="5079" END="5130">a pregnant woman and a 13-year-old child were
+killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5125" END="5130">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-100-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-100-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-99-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T13-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-10-4" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV56" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-101" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T13" ROLE="Time-Starting"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV56-1">
+      <extent>
+        <charseq START="5186" END="5190">calls</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5186" END="5190">calls</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-101-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T13-1" ROLE="Time-Starting"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV57" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-102" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T14" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-103" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV57-1">
+      <extent>
+        <charseq START="5232" END="5250">Israeli troops shot</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5247" END="5250">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-102-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T14-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-103-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV58" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-107" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-T15" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-108" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV58-1">
+      <extent>
+        <charseq START="5423" END="5443">a sister were wounded</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5437" END="5443">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-107-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-21" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-T15-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-108-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030305.0918-EV59" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030305.0918-2" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030305.0918-108" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030305.0918-EV59-1">
+      <extent>
+        <charseq START="5471" END="5477">gunfire</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5471" END="5477">gunfire</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-2-21" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030305.0918-108-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

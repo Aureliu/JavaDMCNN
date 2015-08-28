@@ -1,0 +1,3694 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030504.0448.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030504.0448">
+  <entity ID="APW_ENG_20030504.0448-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="163" END="171">JERUSALEM</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="171">JERUSALEM</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="5895" END="5908">east Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="5900" END="5908">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="5914" END="5918">their</charseq>
+      </extent>
+      <head>
+        <charseq START="5914" END="5918">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="5933" END="5934">it</charseq>
+      </extent>
+      <head>
+        <charseq START="5933" END="5934">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="JERUSALEM">
+        <charseq START="163" END="171">JERUSALEM</charseq>
+      </name>
+      <name NAME="Jerusalem">
+        <charseq START="5900" END="5908">Jerusalem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-2-0">
+      <extent>
+        <charseq START="174" END="175">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="175">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="174" END="175">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-3" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-3-0">
+      <extent>
+        <charseq START="201" END="209">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="209">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="228" END="233">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="233">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="810" END="815">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="815">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="1272" END="1277">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1272" END="1277">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="1492" END="1497">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1492" END="1497">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="1847" END="1852">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1847" END="1852">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="1855" END="1858">They</charseq>
+      </extent>
+      <head>
+        <charseq START="1855" END="1858">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-6" ROLE="GPE">
+      <extent>
+        <charseq START="1936" END="1941">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1936" END="1941">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-7" ROLE="GPE">
+      <extent>
+        <charseq START="2218" END="2223">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2218" END="2223">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-8" ROLE="GPE">
+      <extent>
+        <charseq START="2236" END="2241">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2236" END="2241">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-9" ROLE="GPE">
+      <extent>
+        <charseq START="2328" END="2333">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2328" END="2333">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-10" ROLE="GPE">
+      <extent>
+        <charseq START="2640" END="2645">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2640" END="2645">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-11" ROLE="GPE">
+      <extent>
+        <charseq START="2929" END="2934">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2929" END="2934">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-12" ROLE="GPE">
+      <extent>
+        <charseq START="3113" END="3119">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3113" END="3119">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-13" ROLE="GPE">
+      <extent>
+        <charseq START="3416" END="3421">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3416" END="3421">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-4-14" ROLE="GPE">
+      <extent>
+        <charseq START="3427" END="3431">their</charseq>
+      </extent>
+      <head>
+        <charseq START="3427" END="3431">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-15" ROLE="GPE">
+      <extent>
+        <charseq START="3493" END="3507">mightier Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3502" END="3507">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-16" ROLE="GPE">
+      <extent>
+        <charseq START="3652" END="3658">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3652" END="3658">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-17" ROLE="GPE">
+      <extent>
+        <charseq START="4010" END="4015">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4010" END="4015">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-18" ROLE="GPE">
+      <extent>
+        <charseq START="4122" END="4128">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="4122" END="4128">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-19" ROLE="GPE">
+      <extent>
+        <charseq START="4328" END="4333">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4328" END="4333">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-4-20" ROLE="GPE">
+      <extent>
+        <charseq START="4354" END="4355">it</charseq>
+      </extent>
+      <head>
+        <charseq START="4354" END="4355">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-4-21" ROLE="GPE">
+      <extent>
+        <charseq START="4403" END="4404">it</charseq>
+      </extent>
+      <head>
+        <charseq START="4403" END="4404">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-22" ROLE="GPE">
+      <extent>
+        <charseq START="4599" END="4604">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4599" END="4604">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-4-23" ROLE="GPE">
+      <extent>
+        <charseq START="4699" END="4700">it</charseq>
+      </extent>
+      <head>
+        <charseq START="4699" END="4700">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-24" ROLE="GPE">
+      <extent>
+        <charseq START="5666" END="5671">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="5666" END="5671">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-25" ROLE="GPE">
+      <extent>
+        <charseq START="5729" END="5734">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="5729" END="5734">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-4-26" ROLE="GPE">
+      <extent>
+        <charseq START="5750" END="5770">a vulnerable 12 miles</charseq>
+      </extent>
+      <head>
+        <charseq START="5766" END="5770">miles</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-4-27" ROLE="GPE">
+      <extent>
+        <charseq START="5780" END="5782">its</charseq>
+      </extent>
+      <head>
+        <charseq START="5780" END="5782">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-4-28" ROLE="GPE">
+      <extent>
+        <charseq START="6244" END="6249">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="6244" END="6249">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-4-29" ROLE="GPE">
+      <extent>
+        <charseq START="6258" END="6264">a state</charseq>
+      </extent>
+      <head>
+        <charseq START="6260" END="6264">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-4-30" ROLE="GPE">
+      <extent>
+        <charseq START="6361" END="6374">a Jewish state</charseq>
+      </extent>
+      <head>
+        <charseq START="6370" END="6374">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israel">
+        <charseq START="228" END="233">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="810" END="815">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="1272" END="1277">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="1492" END="1497">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="1847" END="1852">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="1936" END="1941">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2218" END="2223">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2236" END="2241">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2328" END="2333">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2640" END="2645">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="2929" END="2934">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3113" END="3119">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3416" END="3421">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3502" END="3507">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3652" END="3658">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4010" END="4015">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="4122" END="4128">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4328" END="4333">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4599" END="4604">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="5666" END="5671">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="5729" END="5734">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="6244" END="6249">Israel</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-0">
+      <extent>
+        <charseq START="239" END="254">the
+Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="254">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-5-1">
+      <extent>
+        <charseq START="259" END="268">the latest</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="268">latest</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-2">
+      <extent>
+        <charseq START="1228" END="1262">some Palestinians
+of their uprising</charseq>
+      </extent>
+      <head>
+        <charseq START="1233" END="1244">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-5-3">
+      <extent>
+        <charseq START="1249" END="1253">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1249" END="1253">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-4">
+      <extent>
+        <charseq START="1502" END="1555">the Palestinians who must make the first concrete move</charseq>
+      </extent>
+      <head>
+        <charseq START="1506" END="1517">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-5">
+      <extent>
+        <charseq START="3173" END="3184">Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="3173" END="3184">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-5-6">
+      <extent>
+        <charseq START="3195" END="3198">them</charseq>
+      </extent>
+      <head>
+        <charseq START="3195" END="3198">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-7">
+      <extent>
+        <charseq START="5588" END="5603">The Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="5592" END="5603">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-8">
+      <extent>
+        <charseq START="5873" END="5888">The Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="5877" END="5888">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-5-9">
+      <extent>
+        <charseq START="6101" END="6116">the Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="6105" END="6116">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-5-10">
+      <extent>
+        <charseq START="6288" END="6292">their</charseq>
+      </extent>
+      <head>
+        <charseq START="6288" END="6292">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinians">
+        <charseq START="243" END="254">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="1233" END="1244">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="1506" END="1517">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="3173" END="3184">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="5592" END="5603">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="5877" END="5888">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="6105" END="6116">Palestinians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-6" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-6-0">
+      <extent>
+        <charseq START="306" END="320">the
+Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="320">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-6-1">
+      <extent>
+        <charseq START="1187" END="1201">the Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="1191" END="1201">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-6-2">
+      <extent>
+        <charseq START="2530" END="2544">the Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="2534" END="2544">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Middle East">
+        <charseq START="310" END="320">Middle East</charseq>
+      </name>
+      <name NAME="Middle East">
+        <charseq START="1191" END="1201">Middle East</charseq>
+      </name>
+      <name NAME="Middle East">
+        <charseq START="2534" END="2544">Middle East</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="466" END="469">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="469">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="595" END="611">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="611">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-2" ROLE="GPE">
+      <extent>
+        <charseq START="877" END="880">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="877" END="880">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-3" ROLE="GPE">
+      <extent>
+        <charseq START="939" END="946">American</charseq>
+      </extent>
+      <head>
+        <charseq START="939" END="946">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-4" ROLE="GPE">
+      <extent>
+        <charseq START="1169" END="1176">American</charseq>
+      </extent>
+      <head>
+        <charseq START="1169" END="1176">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-5" ROLE="GPE">
+      <extent>
+        <charseq START="2047" END="2054">American</charseq>
+      </extent>
+      <head>
+        <charseq START="2047" END="2054">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-6" ROLE="GPE">
+      <extent>
+        <charseq START="2380" END="2383">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="2380" END="2383">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-7-7" ROLE="GPE">
+      <extent>
+        <charseq START="5375" END="5391">the
+United States</charseq>
+      </extent>
+      <head>
+        <charseq START="5379" END="5391">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="466" END="469">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="599" END="611">United States</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="877" END="880">U.S.</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="939" END="946">American</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="1169" END="1176">American</charseq>
+      </name>
+      <name NAME="American">
+        <charseq START="2047" END="2054">American</charseq>
+      </name>
+      <name NAME="U.S.">
+        <charseq START="2380" END="2383">U.S.</charseq>
+      </name>
+      <name NAME="United States">
+        <charseq START="5379" END="5391">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-8-0">
+      <extent>
+        <charseq START="484" END="493">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="493">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-8-1">
+      <extent>
+        <charseq START="501" END="503">its</charseq>
+      </extent>
+      <head>
+        <charseq START="501" END="503">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-8-2">
+      <extent>
+        <charseq START="2618" END="2627">the
+region</charseq>
+      </extent>
+      <head>
+        <charseq START="2622" END="2627">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-9-0">
+      <extent>
+        <charseq START="547" END="552">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="552">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-9-1">
+      <extent>
+        <charseq START="4638" END="4643">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="4638" END="4643">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="557" END="567">nearby Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="567">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="2740" END="2743">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="2740" END="2743">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="564" END="567">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="2740" END="2743">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-11-0">
+      <extent>
+        <charseq START="626" END="645">the global
+community</charseq>
+      </extent>
+      <head>
+        <charseq START="637" END="645">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-12-0">
+      <extent>
+        <charseq START="651" END="668">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="655" END="668">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United Nations">
+        <charseq START="655" END="668">United Nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-13" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-13-0">
+      <extent>
+        <charseq START="671" END="688">the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="688">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European Union">
+        <charseq START="675" END="688">European Union</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="694" END="699">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="694" END="699">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="694" END="699">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="759" END="769">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="759" END="769">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-15-1" ROLE="GPE">
+      <extent>
+        <charseq START="757" END="775">a Palestinian
+state</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="775">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-15-2" ROLE="GPE">
+      <extent>
+        <charseq START="1017" END="1023">a state</charseq>
+      </extent>
+      <head>
+        <charseq START="1019" END="1023">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-3" ROLE="GPE">
+      <extent>
+        <charseq START="1032" END="1040">Palestine</charseq>
+      </extent>
+      <head>
+        <charseq START="1032" END="1040">Palestine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-4" ROLE="GPE">
+      <extent>
+        <charseq START="1671" END="1681">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1671" END="1681">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-5" ROLE="GPE">
+      <extent>
+        <charseq START="2773" END="2783">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2773" END="2783">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-6" ROLE="GPE">
+      <extent>
+        <charseq START="3685" END="3695">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3685" END="3695">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-7" ROLE="GPE">
+      <extent>
+        <charseq START="3943" END="3953">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3943" END="3953">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-8" ROLE="GPE">
+      <extent>
+        <charseq START="4208" END="4232">the Palestinian Authority</charseq>
+      </extent>
+      <head>
+        <charseq START="4212" END="4232">Palestinian Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-15-9" ROLE="GPE">
+      <extent>
+        <charseq START="4275" END="4278">them</charseq>
+      </extent>
+      <head>
+        <charseq START="4275" END="4278">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-10" ROLE="GPE">
+      <extent>
+        <charseq START="4531" END="4541">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4531" END="4541">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-15-11" ROLE="GPE">
+      <extent>
+        <charseq START="4529" END="4547">a Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="4543" END="4547">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-12" ROLE="GPE">
+      <extent>
+        <charseq START="4667" END="4677">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4667" END="4677">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-13" ROLE="GPE">
+      <extent>
+        <charseq START="5044" END="5054">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5044" END="5054">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-15-14" ROLE="GPE">
+      <extent>
+        <charseq START="5042" END="5060">a Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="5056" END="5060">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-15" ROLE="GPE">
+      <extent>
+        <charseq START="5181" END="5191">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5181" END="5191">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-16" ROLE="GPE">
+      <extent>
+        <charseq START="5348" END="5358">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5348" END="5358">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-17" ROLE="GPE">
+      <extent>
+        <charseq START="5705" END="5722">historic
+Palestine</charseq>
+      </extent>
+      <head>
+        <charseq START="5714" END="5722">Palestine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-15-18" ROLE="GPE">
+      <extent>
+        <charseq START="6156" END="6166">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="6156" END="6166">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian">
+        <charseq START="759" END="769">Palestinian</charseq>
+      </name>
+      <name NAME="Palestine">
+        <charseq START="1032" END="1040">Palestine</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1671" END="1681">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2773" END="2783">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3685" END="3695">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3943" END="3953">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian Authority">
+        <charseq START="4212" END="4232">Palestinian Authority</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4531" END="4541">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4667" END="4677">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="5044" END="5054">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="5181" END="5191">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="5348" END="5358">Palestinian</charseq>
+      </name>
+      <name NAME="Palestine">
+        <charseq START="5714" END="5722">Palestine</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="6156" END="6166">Palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-16-0">
+      <extent>
+        <charseq START="780" END="792">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="784" END="792">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-16-1">
+      <extent>
+        <charseq START="3379" END="3391">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="3383" END="3391">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-16-2">
+      <extent>
+        <charseq START="3762" END="3774">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="3766" END="3774">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="West Bank">
+        <charseq START="784" END="792">West Bank</charseq>
+      </name>
+      <name NAME="West Bank">
+        <charseq START="3383" END="3391">West Bank</charseq>
+      </name>
+      <name NAME="West Bank">
+        <charseq START="3766" END="3774">West Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-17" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-17-0">
+      <extent>
+        <charseq START="798" END="801">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="801">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-17-1">
+      <extent>
+        <charseq START="3133" END="3136">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="3133" END="3136">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-17-2">
+      <extent>
+        <charseq START="3780" END="3783">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="3780" END="3783">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-17-3">
+      <extent>
+        <charseq START="5648" END="5651">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="5648" END="5651">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gaza">
+        <charseq START="798" END="801">Gaza</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="3133" END="3136">Gaza</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="3780" END="3783">Gaza</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="5648" END="5651">Gaza</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-18-0">
+      <extent>
+        <charseq START="855" END="905">the administration of U.S. President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="872">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-18-1">
+      <extent>
+        <charseq START="1588" END="1610">the Bush administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1597" END="1610">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-18-2">
+      <extent>
+        <charseq START="1632" END="1634">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1632" END="1634">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-18-3">
+      <extent>
+        <charseq START="1649" END="1650">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1650">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-18-4">
+      <extent>
+        <charseq START="1891" END="1919">the Eisenhower administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1906" END="1919">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-18-5">
+      <extent>
+        <charseq START="2433" END="2455">the Bush
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="2442" END="2455">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-19-0">
+      <extent>
+        <charseq START="877" END="905">U.S. President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="892" END="905">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-19-1">
+      <extent>
+        <charseq START="882" END="890">President</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="890">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-19-2">
+      <extent>
+        <charseq START="1592" END="1595">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1592" END="1595">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-19-3">
+      <extent>
+        <charseq START="2437" END="2440">Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="2437" END="2440">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-19-4">
+      <extent>
+        <charseq START="2577" END="2589">The president</charseq>
+      </extent>
+      <head>
+        <charseq START="2581" END="2589">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="892" END="905">George W. Bush</charseq>
+      </name>
+      <name NAME="Bush">
+        <charseq START="1592" END="1595">Bush</charseq>
+      </name>
+      <name NAME="Bush">
+        <charseq START="2437" END="2440">Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-20-0">
+      <extent>
+        <charseq START="1131" END="1144">Saddam Hussein</charseq>
+      </extent>
+      <head>
+        <charseq START="1131" END="1144">Saddam Hussein</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Saddam Hussein">
+        <charseq START="1131" END="1144">Saddam Hussein</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-21" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-21-0">
+      <extent>
+        <charseq START="1285" END="1303">Tel Aviv University</charseq>
+      </extent>
+      <head>
+        <charseq START="1285" END="1303">Tel Aviv University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tel Aviv University">
+        <charseq START="1285" END="1303">Tel Aviv University</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-22-0">
+      <extent>
+        <charseq START="1285" END="1329">Tel Aviv University strategic
+affairs analyst</charseq>
+      </extent>
+      <head>
+        <charseq START="1323" END="1329">analyst</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-23-0">
+      <extent>
+        <charseq START="1331" END="1350">Bruce Maddy-Weitzman</charseq>
+      </extent>
+      <head>
+        <charseq START="1331" END="1350">Bruce Maddy-Weitzman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bruce Maddy-Weitzman">
+        <charseq START="1331" END="1350">Bruce Maddy-Weitzman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-24-0">
+      <extent>
+        <charseq START="1392" END="1399">starters</charseq>
+      </extent>
+      <head>
+        <charseq START="1392" END="1399">starters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1402" END="1414">the two sides</charseq>
+      </extent>
+      <head>
+        <charseq START="1410" END="1414">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-26-0">
+      <extent>
+        <charseq START="1671" END="1702">Palestinian leader Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1702">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-26-1">
+      <extent>
+        <charseq START="1683" END="1688">leader</charseq>
+      </extent>
+      <head>
+        <charseq START="1683" END="1688">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-26-2">
+      <extent>
+        <charseq START="5577" END="5582">Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="5577" END="5582">Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yasser Arafat">
+        <charseq START="1690" END="1702">Yasser Arafat</charseq>
+      </name>
+      <name NAME="Arafat">
+        <charseq START="5577" END="5582">Arafat</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-27-0">
+      <extent>
+        <charseq START="1758" END="1770">Mahmoud Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="1758" END="1770">Mahmoud Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-27-1">
+      <extent>
+        <charseq START="3212" END="3216">Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="3212" END="3216">Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-27-2">
+      <extent>
+        <charseq START="3222" END="3224">his</charseq>
+      </extent>
+      <head>
+        <charseq START="3222" END="3224">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-27-3">
+      <extent>
+        <charseq START="5541" END="5545">Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="5541" END="5545">Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mahmoud Abbas">
+        <charseq START="1758" END="1770">Mahmoud Abbas</charseq>
+      </name>
+      <name NAME="Abbas">
+        <charseq START="3212" END="3216">Abbas</charseq>
+      </name>
+      <name NAME="Abbas">
+        <charseq START="5541" END="5545">Abbas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-28-0">
+      <extent>
+        <charseq START="1895" END="1904">Eisenhower</charseq>
+      </extent>
+      <head>
+        <charseq START="1895" END="1904">Eisenhower</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Eisenhower">
+        <charseq START="1895" END="1904">Eisenhower</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-29" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-29-0">
+      <extent>
+        <charseq START="1953" END="1968">the Sinai Desert</charseq>
+      </extent>
+      <head>
+        <charseq START="1957" END="1968">Sinai Desert</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sinai Desert">
+        <charseq START="1957" END="1968">Sinai Desert</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-30-0" ROLE="GPE">
+      <extent>
+        <charseq START="1973" END="1977">Egypt</charseq>
+      </extent>
+      <head>
+        <charseq START="1973" END="1977">Egypt</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-30-1" ROLE="GPE">
+      <extent>
+        <charseq START="2017" END="2020">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2017" END="2020">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-30-2" ROLE="GPE">
+      <extent>
+        <charseq START="2229" END="2233">Egypt</charseq>
+      </extent>
+      <head>
+        <charseq START="2229" END="2233">Egypt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Egypt">
+        <charseq START="1973" END="1977">Egypt</charseq>
+      </name>
+      <name NAME="Egypt">
+        <charseq START="2229" END="2233">Egypt</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-31" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-31-0">
+      <extent>
+        <charseq START="2041" END="2064">Every American president</charseq>
+      </extent>
+      <head>
+        <charseq START="2056" END="2064">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-32-0">
+      <extent>
+        <charseq START="2132" END="2143">Jimmy Carter</charseq>
+      </extent>
+      <head>
+        <charseq START="2132" END="2143">Jimmy Carter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jimmy Carter">
+        <charseq START="2132" END="2143">Jimmy Carter</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-33-0">
+      <extent>
+        <charseq START="2146" END="2157">Bill Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="2146" END="2157">Bill Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bill Clinton">
+        <charseq START="2146" END="2157">Bill Clinton</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="2247" END="2252">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="2247" END="2252">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan">
+        <charseq START="2247" END="2252">Jordan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-35-0">
+      <extent>
+        <charseq START="2259" END="2269">most others</charseq>
+      </extent>
+      <head>
+        <charseq START="2264" END="2269">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-35-1">
+      <extent>
+        <charseq START="2275" END="2279">their</charseq>
+      </extent>
+      <head>
+        <charseq START="2275" END="2279">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-36" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-36-0">
+      <extent>
+        <charseq START="2328" END="2370">Israel&apos;s Yediot Ahronot newspaper published</charseq>
+      </extent>
+      <head>
+        <charseq START="2352" END="2360">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-37" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-37-0">
+      <extent>
+        <charseq START="2337" END="2350">Yediot Ahronot</charseq>
+      </extent>
+      <head>
+        <charseq START="2337" END="2350">Yediot Ahronot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yediot Ahronot">
+        <charseq START="2337" END="2350">Yediot Ahronot</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-38-0">
+      <extent>
+        <charseq START="2380" END="2426">U.S. National Security Adviser Condoleezza Rice</charseq>
+      </extent>
+      <head>
+        <charseq START="2411" END="2426">Condoleezza Rice</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-38-1">
+      <extent>
+        <charseq START="2549" END="2551">she</charseq>
+      </extent>
+      <head>
+        <charseq START="2549" END="2551">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Condoleezza Rice">
+        <charseq START="2411" END="2426">Condoleezza Rice</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-39" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-39-0">
+      <extent>
+        <charseq START="2385" END="2409">National Security Adviser</charseq>
+      </extent>
+      <head>
+        <charseq START="2385" END="2409">National Security Adviser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="National Security Adviser">
+        <charseq START="2385" END="2409">National Security Adviser</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-40-0" ROLE="GPE">
+      <extent>
+        <charseq START="2698" END="2706">the sides</charseq>
+      </extent>
+      <head>
+        <charseq START="2702" END="2706">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-40-1" ROLE="GPE">
+      <extent>
+        <charseq START="5418" END="5426">the sides</charseq>
+      </extent>
+      <head>
+        <charseq START="5422" END="5426">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-40-2" ROLE="GPE">
+      <extent>
+        <charseq START="5464" END="5467">they</charseq>
+      </extent>
+      <head>
+        <charseq START="5464" END="5467">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-41-0">
+      <extent>
+        <charseq START="2771" END="2798">a Palestinian prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2791" END="2798">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-42-0">
+      <extent>
+        <charseq START="2943" END="2957">three militants</charseq>
+      </extent>
+      <head>
+        <charseq START="2949" END="2957">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-42-1">
+      <extent>
+        <charseq START="3151" END="3159">militants</charseq>
+      </extent>
+      <head>
+        <charseq START="3151" END="3159">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-43-0">
+      <extent>
+        <charseq START="2963" END="2973">a bystander</charseq>
+      </extent>
+      <head>
+        <charseq START="2965" END="2973">bystander</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-44-0">
+      <extent>
+        <charseq START="3024" END="3039">a suicide bomber</charseq>
+      </extent>
+      <head>
+        <charseq START="3034" END="3039">bomber</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-45-0">
+      <extent>
+        <charseq START="3048" END="3057">a
+waitress</charseq>
+      </extent>
+      <head>
+        <charseq START="3050" END="3057">waitress</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-46-0">
+      <extent>
+        <charseq START="3063" END="3075">two musicians</charseq>
+      </extent>
+      <head>
+        <charseq START="3067" END="3075">musicians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-47" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-47-0">
+      <extent>
+        <charseq START="3080" END="3093">a Tel Aviv pub</charseq>
+      </extent>
+      <head>
+        <charseq START="3091" END="3093">pub</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-48-0" ROLE="GPE">
+      <extent>
+        <charseq START="3082" END="3089">Tel Aviv</charseq>
+      </extent>
+      <head>
+        <charseq START="3082" END="3089">Tel Aviv</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tel Aviv">
+        <charseq START="3082" END="3089">Tel Aviv</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-49" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-49-0">
+      <extent>
+        <charseq START="3109" END="3124">the
+Israeli army</charseq>
+      </extent>
+      <head>
+        <charseq START="3121" END="3124">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-50-0">
+      <extent>
+        <charseq START="3200" END="3208">civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="3200" END="3208">civilians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-51-0">
+      <extent>
+        <charseq START="3222" END="3242">his security minister</charseq>
+      </extent>
+      <head>
+        <charseq START="3235" END="3242">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-52-0">
+      <extent>
+        <charseq START="3245" END="3259">Mohammed Dahlan</charseq>
+      </extent>
+      <head>
+        <charseq START="3245" END="3259">Mohammed Dahlan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammed Dahlan">
+        <charseq START="3245" END="3259">Mohammed Dahlan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-53-0">
+      <extent>
+        <charseq START="3295" END="3333">force militants who reject the road map</charseq>
+      </extent>
+      <head>
+        <charseq START="3301" END="3309">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-53-1">
+      <extent>
+        <charseq START="3347" END="3351">their</charseq>
+      </extent>
+      <head>
+        <charseq START="3347" END="3351">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-53-2">
+      <extent>
+        <charseq START="3364" END="3368">their</charseq>
+      </extent>
+      <head>
+        <charseq START="3364" END="3368">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-53-3">
+      <extent>
+        <charseq START="3536" END="3544">militants</charseq>
+      </extent>
+      <head>
+        <charseq START="3536" END="3544">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-54" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-54-0">
+      <extent>
+        <charseq START="3347" END="3356">their arms</charseq>
+      </extent>
+      <head>
+        <charseq START="3353" END="3356">arms</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-55" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-55-0">
+      <extent>
+        <charseq START="3364" END="3374">their bases</charseq>
+      </extent>
+      <head>
+        <charseq START="3370" END="3374">bases</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-56" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-56-0">
+      <extent>
+        <charseq START="3370" END="3374">bases</charseq>
+      </extent>
+      <head>
+        <charseq START="3370" END="3374">bases</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-57-0">
+      <extent>
+        <charseq START="3427" END="3440">their officers</charseq>
+      </extent>
+      <head>
+        <charseq START="3433" END="3440">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-58" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-58-0" ROLE="GPE">
+      <extent>
+        <charseq START="3740" END="3757">Jewish
+settlements</charseq>
+      </extent>
+      <head>
+        <charseq START="3747" END="3757">settlements</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-59" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-59-0">
+      <extent>
+        <charseq START="3809" END="3832">dozens
+of outposts built</charseq>
+      </extent>
+      <head>
+        <charseq START="3809" END="3814">dozens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-60" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-60-0">
+      <extent>
+        <charseq START="3819" END="3826">outposts</charseq>
+      </extent>
+      <head>
+        <charseq START="3819" END="3826">outposts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-61-0">
+      <extent>
+        <charseq START="3888" END="3914">Prime Minister Ariel Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="3903" END="3914">Ariel Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-61-1">
+      <extent>
+        <charseq START="3888" END="3901">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="3888" END="3901">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-61-2">
+      <extent>
+        <charseq START="4959" END="4964">Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="4959" END="4964">Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ariel Sharon">
+        <charseq START="3903" END="3914">Ariel Sharon</charseq>
+      </name>
+      <name NAME="Sharon">
+        <charseq START="4959" END="4964">Sharon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-62" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-62-0" ROLE="GPE">
+      <extent>
+        <charseq START="3888" END="3935">Prime Minister Ariel Sharon&apos;s rightist coalition</charseq>
+      </extent>
+      <head>
+        <charseq START="3927" END="3935">coalition</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-63-0">
+      <extent>
+        <charseq START="3939" END="3964">The Palestinian leadership</charseq>
+      </extent>
+      <head>
+        <charseq START="3955" END="3964">leadership</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-64-0">
+      <extent>
+        <charseq START="4146" END="4166">the Islamic militants</charseq>
+      </extent>
+      <head>
+        <charseq START="4158" END="4166">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-64-1">
+      <extent>
+        <charseq START="4874" END="4882">militants</charseq>
+      </extent>
+      <head>
+        <charseq START="4874" END="4882">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-65" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-65-0">
+      <extent>
+        <charseq START="4150" END="4156">Islamic</charseq>
+      </extent>
+      <head>
+        <charseq START="4150" END="4156">Islamic</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Islamic">
+        <charseq START="4150" END="4156">Islamic</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-66-0">
+      <extent>
+        <charseq START="4450" END="4475">Phase II, which could come</charseq>
+      </extent>
+      <head>
+        <charseq START="4450" END="4457">Phase II</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-66-1">
+      <extent>
+        <charseq START="5000" END="5001">he</charseq>
+      </extent>
+      <head>
+        <charseq START="5000" END="5001">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-66-2">
+      <extent>
+        <charseq START="5088" END="5090">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5088" END="5090">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-66-3">
+      <extent>
+        <charseq START="5133" END="5135">his</charseq>
+      </extent>
+      <head>
+        <charseq START="5133" END="5135">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-66-4">
+      <extent>
+        <charseq START="5261" END="5262">he</charseq>
+      </extent>
+      <head>
+        <charseq START="5261" END="5262">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Phase II">
+        <charseq START="4450" END="4457">Phase II</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-67" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-67-0">
+      <extent>
+        <charseq START="4556" END="4574">provisional borders</charseq>
+      </extent>
+      <head>
+        <charseq START="4568" END="4574">borders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-68" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-68-0">
+      <extent>
+        <charseq START="4751" END="4792">a more contiguous and manageable
+territory</charseq>
+      </extent>
+      <head>
+        <charseq START="4784" END="4792">territory</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-69" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-69-0" ROLE="GPE">
+      <extent>
+        <charseq START="4819" END="4840">Palestinian-controlled</charseq>
+      </extent>
+      <head>
+        <charseq START="4819" END="4840">Palestinian-controlled</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian-controlled">
+        <charseq START="4819" END="4840">Palestinian-controlled</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-70" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-70-0">
+      <extent>
+        <charseq START="4819" END="4846">Palestinian-controlled areas</charseq>
+      </extent>
+      <head>
+        <charseq START="4842" END="4846">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-71" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-71-0" ROLE="GPE">
+      <extent>
+        <charseq START="4928" END="4955">long-established settlements</charseq>
+      </extent>
+      <head>
+        <charseq START="4945" END="4955">settlements</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-72-0">
+      <extent>
+        <charseq START="5034" END="5040">midwife</charseq>
+      </extent>
+      <head>
+        <charseq START="5034" END="5040">midwife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-73" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-73-0">
+      <extent>
+        <charseq START="5109" END="5127">the Jewish settlers</charseq>
+      </extent>
+      <head>
+        <charseq START="5120" END="5127">settlers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-74-0">
+      <extent>
+        <charseq START="5181" END="5214">Palestinian analyst Khalil Shikaki</charseq>
+      </extent>
+      <head>
+        <charseq START="5201" END="5214">Khalil Shikaki</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-74-1">
+      <extent>
+        <charseq START="5193" END="5199">analyst</charseq>
+      </extent>
+      <head>
+        <charseq START="5193" END="5199">analyst</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Khalil Shikaki">
+        <charseq START="5201" END="5214">Khalil Shikaki</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-75" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-75-0">
+      <extent>
+        <charseq START="5293" END="5312">international forces</charseq>
+      </extent>
+      <head>
+        <charseq START="5307" END="5312">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-76" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-76-0">
+      <extent>
+        <charseq START="5344" END="5364">the Palestinian areas</charseq>
+      </extent>
+      <head>
+        <charseq START="5360" END="5364">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-77" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-77-0">
+      <extent>
+        <charseq START="5453" END="5461">Phase III</charseq>
+      </extent>
+      <head>
+        <charseq START="5453" END="5461">Phase III</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Phase III">
+        <charseq START="5453" END="5461">Phase III</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-78" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-78-0">
+      <extent>
+        <charseq START="5623" END="5642">all of the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="5623" END="5625">all</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-78-1">
+      <extent>
+        <charseq START="5630" END="5642">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="5634" END="5642">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="West Bank">
+        <charseq START="5634" END="5642">West Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-79" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-79-0">
+      <extent>
+        <charseq START="5828" END="5842">dovish Israelis</charseq>
+      </extent>
+      <head>
+        <charseq START="5835" END="5842">Israelis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-79-1">
+      <extent>
+        <charseq START="6275" END="6282">Israelis</charseq>
+      </extent>
+      <head>
+        <charseq START="6275" END="6282">Israelis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israelis">
+        <charseq START="5835" END="5842">Israelis</charseq>
+      </name>
+      <name NAME="Israelis">
+        <charseq START="6275" END="6282">Israelis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-80" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-80-0" ROLE="GPE">
+      <extent>
+        <charseq START="5914" END="5926">their capital</charseq>
+      </extent>
+      <head>
+        <charseq START="5920" END="5926">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-81-0">
+      <extent>
+        <charseq START="6005" END="6020">the
+hilltop Jews</charseq>
+      </extent>
+      <head>
+        <charseq START="6017" END="6020">Jews</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-82" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-82-0">
+      <extent>
+        <charseq START="6027" END="6042">the Temple Mount</charseq>
+      </extent>
+      <head>
+        <charseq START="6031" END="6042">Temple Mount</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Temple Mount">
+        <charseq START="6031" END="6042">Temple Mount</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030504.0448-83-0">
+      <extent>
+        <charseq START="6056" END="6073">the Haram-a-Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="6060" END="6073">Haram-a-Sharif</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Haram-a-Sharif">
+        <charseq START="6060" END="6073">Haram-a-Sharif</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-84-0">
+      <extent>
+        <charseq START="6141" END="6175">some
+4 million Palestinian refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="6168" END="6175">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-84-1">
+      <extent>
+        <charseq START="6181" END="6185">their</charseq>
+      </extent>
+      <head>
+        <charseq START="6181" END="6185">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-85" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-85-0">
+      <extent>
+        <charseq START="6181" END="6197">their descendants</charseq>
+      </extent>
+      <head>
+        <charseq START="6187" END="6197">descendants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-86" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-86-0">
+      <extent>
+        <charseq START="6210" END="6214">homes</charseq>
+      </extent>
+      <head>
+        <charseq START="6210" END="6214">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-86-1">
+      <extent>
+        <charseq START="6229" END="6232">they</charseq>
+      </extent>
+      <head>
+        <charseq START="6229" END="6232">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-87" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-87-0" ROLE="GPE">
+      <extent>
+        <charseq START="6288" END="6300">their country</charseq>
+      </extent>
+      <head>
+        <charseq START="6294" END="6300">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030504.0448-87-1" ROLE="GPE">
+      <extent>
+        <charseq START="6307" END="6309">its</charseq>
+      </extent>
+      <head>
+        <charseq START="6307" END="6309">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030504.0448-88" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030504.0448-88-0">
+      <extent>
+        <charseq START="6307" END="6335">its 5 million Jewish citizens</charseq>
+      </extent>
+      <head>
+        <charseq START="6328" END="6335">citizens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="APW_ENG_20030504.0448-V8" TYPE="Job-Title">
+    <value_mention ID="APW_ENG_20030504.0448-V8-1">
+      <extent>
+        <charseq START="1742" END="1755">prime minister</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="APW_ENG_20030504.0448-T0" VAL="2003-05-04">
+    <timex2_mention ID="APW_ENG_20030504.0448-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030504</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T1" VAL="1967">
+    <timex2_mention ID="APW_ENG_20030504.0448-T1-1">
+      <extent>
+        <charseq START="833" END="836">1967</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T2" VAL="P35Y">
+    <timex2_mention ID="APW_ENG_20030504.0448-T2-1">
+      <extent>
+        <charseq START="927" END="934">35 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T3" VAL="PXM">
+    <timex2_mention ID="APW_ENG_20030504.0448-T3-1">
+      <extent>
+        <charseq START="1044" END="1056">Recent months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T4" VAL="2003-W17">
+    <timex2_mention ID="APW_ENG_20030504.0448-T4-1">
+      <extent>
+        <charseq START="1465" END="1473">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T5" VAL="1956">
+    <timex2_mention ID="APW_ENG_20030504.0448-T5-1">
+      <extent>
+        <charseq START="1881" END="1884">1956</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T6" VAL="2003-05-04">
+    <timex2_mention ID="APW_ENG_20030504.0448-T6-1">
+      <extent>
+        <charseq START="2035" END="2037">now</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T7" VAL="2003-05-02">
+    <timex2_mention ID="APW_ENG_20030504.0448-T7-1">
+      <extent>
+        <charseq START="2372" END="2377">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T8" VAL="2003-W18">
+    <timex2_mention ID="APW_ENG_20030504.0448-T8-1">
+      <extent>
+        <charseq START="2834" END="2842">this week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T9" VAL="2003-04-29">
+    <timex2_mention ID="APW_ENG_20030504.0448-T9-1">
+      <extent>
+        <charseq START="2920" END="2926">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T10" VAL="2003-04-30">
+    <timex2_mention ID="APW_ENG_20030504.0448-T10-1">
+      <extent>
+        <charseq START="3005" END="3013">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T11" VAL="2003-05-01">
+    <timex2_mention ID="APW_ENG_20030504.0448-T11-1">
+      <extent>
+        <charseq START="3099" END="3106">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T12" VAL="2001">
+    <timex2_mention ID="APW_ENG_20030504.0448-T12-1">
+      <extent>
+        <charseq START="3840" END="3843">2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030504.0448-T13" VAL="1948">
+    <timex2_mention ID="APW_ENG_20030504.0448-T13-1">
+      <extent>
+        <charseq START="6269" END="6272">1948</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030504.0448-R1" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-9" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-10" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R1-1">
+      <extent>
+        <charseq START="547" END="567">troops in nearby Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="547" END="552">troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="557" END="567">nearby Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R2" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R2-1">
+      <extent>
+        <charseq START="626" END="668">the global
+community  _  the United Nations</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="626" END="645">the global
+community</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="651" END="668">the United Nations</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-16" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R3-1">
+      <extent>
+        <charseq START="757" END="792">a Palestinian
+state in the West Bank</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="757" END="775">a Palestinian
+state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="780" END="792">the West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R4-1">
+      <extent>
+        <charseq START="877" END="890">U.S. President</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="882" END="890">President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-7-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="877" END="880">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-21" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R5-1">
+      <extent>
+        <charseq START="1285" END="1329">Tel Aviv University strategic
+affairs analyst</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1285" END="1329">Tel Aviv University strategic
+affairs analyst</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1285" END="1303">Tel Aviv University</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R6" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-19" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R6-1">
+      <extent>
+        <charseq START="1588" END="1610">the Bush administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-19-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1592" END="1595">Bush</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1588" END="1610">the Bush administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="APW_ENG_20030504.0448-R6-2">
+      <extent>
+        <charseq START="2433" END="2455">the Bush
+administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-19-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="2437" END="2440">Bush</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-18-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="2433" END="2455">the Bush
+administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R7" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-26" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R7-1">
+      <extent>
+        <charseq START="1671" END="1688">Palestinian leader</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-26-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1683" END="1688">leader</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1671" END="1681">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R8" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-28" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R8-1">
+      <extent>
+        <charseq START="1891" END="1919">the Eisenhower administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-28-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1895" END="1904">Eisenhower</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-18-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1891" END="1919">the Eisenhower administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-30" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-29" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R9-1">
+      <extent>
+        <charseq START="1953" END="1977">the Sinai Desert to Egypt</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1973" END="1977">Egypt</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-29-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1953" END="1968">the Sinai Desert</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-31" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R10-1">
+      <extent>
+        <charseq START="2041" END="2064">Every American president</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-31-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2041" END="2064">Every American president</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-7-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="2047" END="2054">American</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="APW_ENG_20030504.0448-36" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R11-1">
+      <extent>
+        <charseq START="2328" END="2370">Israel&apos;s Yediot Ahronot newspaper published</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-36-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2328" END="2370">Israel&apos;s Yediot Ahronot newspaper published</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-4-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="2328" END="2333">Israel</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R12" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030504.0448-39" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R12-1">
+      <extent>
+        <charseq START="2380" END="2409">U.S. National Security Adviser</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-39-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2385" END="2409">National Security Adviser</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-7-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="2380" END="2383">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R13" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-38" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-7" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R13-1">
+      <extent>
+        <charseq START="2380" END="2426">U.S. National Security Adviser Condoleezza Rice</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-38-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2380" END="2426">U.S. National Security Adviser Condoleezza Rice</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-7-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="2380" END="2383">U.S.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R14" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-38" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-39" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R14-1">
+      <extent>
+        <charseq START="2380" END="2426">U.S. National Security Adviser Condoleezza Rice</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-38-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2380" END="2426">U.S. National Security Adviser Condoleezza Rice</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-39-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2385" END="2409">National Security Adviser</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R15" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-8" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R15-1">
+      <extent>
+        <charseq START="2618" END="2645">the
+region, including Israel</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-4-10" ROLE="Arg-1">
+          <extent>
+            <charseq START="2640" END="2645">Israel</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="2618" END="2627">the
+region</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R16" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-41" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R16-1">
+      <extent>
+        <charseq START="2771" END="2798">a Palestinian prime minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-41-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2771" END="2798">a Palestinian prime minister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-5" ROLE="Arg-2">
+          <extent>
+            <charseq START="2773" END="2783">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R17" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-44" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-47" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R17-1">
+      <extent>
+        <charseq START="3024" END="3093">a suicide bomber killed a
+waitress and two musicians in a Tel Aviv pub</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-44-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3024" END="3039">a suicide bomber</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-47-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3080" END="3093">a Tel Aviv pub</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R18" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-45" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-47" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R18-1">
+      <extent>
+        <charseq START="3048" END="3093">a
+waitress and two musicians in a Tel Aviv pub</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3048" END="3057">a
+waitress</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-47-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3080" END="3093">a Tel Aviv pub</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R19" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-46" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-47" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R19-1">
+      <extent>
+        <charseq START="3063" END="3093">two musicians in a Tel Aviv pub</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-46-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3063" END="3075">two musicians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-47-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3080" END="3093">a Tel Aviv pub</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R20" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-47" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-48" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R20-1">
+      <extent>
+        <charseq START="3080" END="3093">a Tel Aviv pub</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-47-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3080" END="3093">a Tel Aviv pub</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-48-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3082" END="3089">Tel Aviv</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R21" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="APW_ENG_20030504.0448-49" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R21-1">
+      <extent>
+        <charseq START="3109" END="3124">the
+Israeli army</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-49-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3109" END="3124">the
+Israeli army</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-4-12" ROLE="Arg-2">
+          <extent>
+            <charseq START="3113" END="3119">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R22" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="APW_ENG_20030504.0448-27" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-51" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R22-1">
+      <extent>
+        <charseq START="3222" END="3242">his security minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-27-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="3222" END="3224">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-51-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3222" END="3242">his security minister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R23" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030504.0448-53" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-54" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R23-1">
+      <extent>
+        <charseq START="3347" END="3356">their arms</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-53-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3347" END="3351">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-54-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3347" END="3356">their arms</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R24" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030504.0448-53" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-55" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R24-1">
+      <extent>
+        <charseq START="3364" END="3374">their bases</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-53-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="3364" END="3368">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-55-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3364" END="3374">their bases</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R25" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-55" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-16" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R25-1">
+      <extent>
+        <charseq START="3364" END="3391">their bases in the West Bank</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-55-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3364" END="3374">their bases</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3379" END="3391">the West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R26" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030504.0448-57" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-4" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R26-1">
+      <extent>
+        <charseq START="3427" END="3440">their officers</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-57-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3427" END="3440">their officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-4-14" ROLE="Arg-2">
+          <extent>
+            <charseq START="3427" END="3431">their</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R27" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-58" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-16" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R27-1">
+      <extent>
+        <charseq START="3740" END="3774">Jewish
+settlements in the West Bank</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-58-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3740" END="3757">Jewish
+settlements</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-16-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="3762" END="3774">the West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R28" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-59" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-60" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R28-1">
+      <extent>
+        <charseq START="3809" END="3832">dozens
+of outposts built</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-59-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3809" END="3832">dozens
+of outposts built</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-60-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3819" END="3826">outposts</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R29" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-61" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-62" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R29-1">
+      <extent>
+        <charseq START="3888" END="3935">Prime Minister Ariel Sharon&apos;s rightist coalition</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-61-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3888" END="3914">Prime Minister Ariel Sharon</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-62-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3888" END="3935">Prime Minister Ariel Sharon&apos;s rightist coalition</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R30" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-63" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R30-1">
+      <extent>
+        <charseq START="3939" END="3964">The Palestinian leadership</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-63-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3939" END="3964">The Palestinian leadership</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="3943" END="3953">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R31" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-64" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-65" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R31-1">
+      <extent>
+        <charseq START="4146" END="4166">the Islamic militants</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-64-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4146" END="4166">the Islamic militants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-65-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4150" END="4156">Islamic</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R32" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-70" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-69" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R32-1">
+      <extent>
+        <charseq START="4819" END="4846">Palestinian-controlled areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-70-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4819" END="4846">Palestinian-controlled areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-69-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4819" END="4840">Palestinian-controlled</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R33" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-72" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R33-1">
+      <extent>
+        <charseq START="5034" END="5060">midwife a Palestinian state</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5034" END="5040">midwife</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-14" ROLE="Arg-2">
+          <extent>
+            <charseq START="5042" END="5060">a Palestinian state</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R34" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030504.0448-74" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R34-1">
+      <extent>
+        <charseq START="5181" END="5199">Palestinian analyst</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-74-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5193" END="5199">analyst</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-15" ROLE="Arg-2">
+          <extent>
+            <charseq START="5181" END="5191">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R35" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-74" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R35-1">
+      <extent>
+        <charseq START="5181" END="5214">Palestinian analyst Khalil Shikaki</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-74-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5181" END="5214">Palestinian analyst Khalil Shikaki</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-15" ROLE="Arg-2">
+          <extent>
+            <charseq START="5181" END="5191">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R36" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-75" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-76" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R36-1">
+      <extent>
+        <charseq START="5293" END="5364">international forces
+taking over and administering the Palestinian areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-75-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5293" END="5312">international forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-76-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5344" END="5364">the Palestinian areas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R37" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-76" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R37-1">
+      <extent>
+        <charseq START="5344" END="5364">the Palestinian areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-76-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="5344" END="5364">the Palestinian areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-16" ROLE="Arg-2">
+          <extent>
+            <charseq START="5348" END="5358">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R38" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-78" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R38-1">
+      <extent>
+        <charseq START="5588" END="5642">The Palestinians insist on getting all of the West Bank</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-5-7" ROLE="Arg-1">
+          <extent>
+            <charseq START="5588" END="5603">The Palestinians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-78-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5623" END="5642">all of the West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R39" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-1" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R39-1">
+      <extent>
+        <charseq START="5873" END="5908">The Palestinians want east Jerusalem</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-5-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="5873" END="5888">The Palestinians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5895" END="5908">east Jerusalem</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R40" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-80" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R40-1">
+      <extent>
+        <charseq START="5873" END="5926">The Palestinians want east Jerusalem for their capital</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-5-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="5873" END="5888">The Palestinians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-80-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5914" END="5926">their capital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R41" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-80" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R41-2">
+      <extent>
+        <charseq START="5914" END="5926">their capital</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-1-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="5914" END="5918">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-80-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="5914" END="5926">their capital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R42" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030504.0448-81" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-82" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R42-1">
+      <extent>
+        <charseq START="6005" END="6042">the
+hilltop Jews call the Temple Mount</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-81-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="6005" END="6020">the
+hilltop Jews</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-82-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="6027" END="6042">the Temple Mount</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R43" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030504.0448-84" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R43-1">
+      <extent>
+        <charseq START="6141" END="6175">some
+4 million Palestinian refugees</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-84-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="6141" END="6175">some
+4 million Palestinian refugees</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-18" ROLE="Arg-2">
+          <extent>
+            <charseq START="6156" END="6166">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R44" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="APW_ENG_20030504.0448-84" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-85" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R44-1">
+      <extent>
+        <charseq START="6181" END="6197">their descendants</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-84-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6181" END="6185">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-85-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="6181" END="6197">their descendants</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R45" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="APW_ENG_20030504.0448-5" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-87" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R45-1">
+      <extent>
+        <charseq START="6288" END="6300">their country</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-5-10" ROLE="Arg-1">
+          <extent>
+            <charseq START="6288" END="6292">their</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-87-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="6288" END="6300">their country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R46" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030504.0448-88" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-87" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R46-1">
+      <extent>
+        <charseq START="6307" END="6335">its 5 million Jewish citizens</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-88-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="6307" END="6335">its 5 million Jewish citizens</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-87-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6307" END="6309">its</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R47" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-13" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R47-1">
+      <extent>
+        <charseq START="626" END="688">the global
+community  _  the United Nations, the European Union</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="626" END="645">the global
+community</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="671" END="688">the European Union</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R48" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="APW_ENG_20030504.0448-11" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-14" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R48-1">
+      <extent>
+        <charseq START="626" END="699">the global
+community  _  the United Nations, the European Union and Russia</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-11-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="626" END="645">the global
+community</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-14-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="694" END="699">Russia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R49" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-15" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R49-1">
+      <extent>
+        <charseq START="757" END="801">a Palestinian
+state in the West Bank and Gaza</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="757" END="775">a Palestinian
+state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="798" END="801">Gaza</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030504.0448-R50" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030504.0448-58" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030504.0448-17" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030504.0448-R50-1">
+      <extent>
+        <charseq START="3740" END="3783">Jewish
+settlements in the West Bank and Gaza</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-58-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3740" END="3757">Jewish
+settlements</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030504.0448-17-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="3780" END="3783">Gaza</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030504.0448-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-T1" ROLE="Time-Holds"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV1-1">
+      <extent>
+        <charseq START="838" END="840">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="838" END="840">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-T1-1" ROLE="Time-Holds"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-4" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV2-1">
+      <extent>
+        <charseq START="1255" END="1262">uprising</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1255" END="1262">uprising</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-4-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-V8" ROLE="Position"/>
+    <event_argument REFID="APW_ENG_20030504.0448-27" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV3-1">
+      <extent>
+        <charseq START="1732" END="1740">appointed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1732" END="1740">appointed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-V8-1" ROLE="Position"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-27-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-10" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV4-1">
+      <extent>
+        <charseq START="2109" END="2116">conflict</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2109" END="2116">conflict</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030504.0448-EV4-2">
+      <extent>
+        <charseq START="2740" END="2747">Iraq war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2745" END="2747">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-10-1" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030504.0448-EV4-3">
+      <extent>
+        <charseq START="2808" END="2815">violence</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2808" END="2815">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV5" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-4" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV5-1">
+      <extent>
+        <charseq START="2651" END="2655">seize</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2651" END="2655">seize</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-4-10" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV7" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-41" ROLE="Person"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV7-1">
+      <extent>
+        <charseq START="2757" END="2766">appointing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2757" END="2766">appointing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-41-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-T10" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030504.0448-47" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030504.0448-44" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030504.0448-4" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030504.0448-42" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030504.0448-T9" ROLE="Time-Within"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV9-1">
+      <extent>
+        <charseq START="2929" END="2957">Israel killed three militants</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2936" END="2941">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-4-11" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-42-0" ROLE="Victim"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-T9-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030504.0448-EV9-2">
+      <extent>
+        <charseq START="3026" END="3032">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3026" END="3032">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-T10-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-47-0" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-44-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-44" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030504.0448-45" ROLE="Victim"/>
+    <event_argument REFID="APW_ENG_20030504.0448-T10" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030504.0448-47" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV11-1">
+      <extent>
+        <charseq START="3024" END="3057">a suicide bomber killed a
+waitress</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3041" END="3046">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-44-0" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-45-0" ROLE="Victim"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-T10-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-47-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-49" ROLE="Attacker"/>
+    <event_argument REFID="APW_ENG_20030504.0448-T11" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030504.0448-17" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV12-1">
+      <extent>
+        <charseq START="3126" END="3131">raided</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3126" END="3131">raided</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-49-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-T11-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-17-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-T11" ROLE="Time-Within"/>
+    <event_argument REFID="APW_ENG_20030504.0448-17" ROLE="Place"/>
+    <event_argument REFID="APW_ENG_20030504.0448-5" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV13-1">
+      <extent>
+        <charseq START="3162" END="3168">killing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3162" END="3168">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-T11-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-17-1" ROLE="Place"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-5-5" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV14" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-16" ROLE="Origin"/>
+    <event_argument REFID="APW_ENG_20030504.0448-4" ROLE="Destination"/>
+    <event_argument REFID="APW_ENG_20030504.0448-57" ROLE="Artifact"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV14-1">
+      <extent>
+        <charseq START="3459" END="3464">travel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3459" END="3464">travel</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-16-1" ROLE="Origin"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-4-13" ROLE="Destination"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-57-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV15" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-4" ROLE="Agent"/>
+    <event_argument REFID="APW_ENG_20030504.0448-53" ROLE="Victim"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV15-1">
+      <extent>
+        <charseq START="3518" END="3524">killing</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3518" END="3524">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-4-15" ROLE="Agent"/>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-53-3" ROLE="Victim"/>
+    </event_mention>
+    <event_mention ID="APW_ENG_20030504.0448-EV15-2">
+      <extent>
+        <charseq START="3598" END="3604">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3598" END="3604">suicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV17" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030504.0448-EV17-1">
+      <extent>
+        <charseq START="3606" END="3613">bombings</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3606" END="3613">bombings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV18" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030504.0448-EV18-1">
+      <extent>
+        <charseq START="3794" END="3804">dismantling</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3794" END="3804">dismantling</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV19" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030504.0448-EV19-1">
+      <extent>
+        <charseq START="4044" END="4047">call</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4044" END="4047">call</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV20" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030504.0448-EV20-1">
+      <extent>
+        <charseq START="4916" END="4926">dismantling</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4916" END="4926">dismantling</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV21" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-40" ROLE="Destination"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV21-1">
+      <extent>
+        <charseq START="5436" END="5441">arrive</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5436" END="5441">arrive</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-40-1" ROLE="Destination"/>
+    </event_mention>
+  </event>
+  <event ID="APW_ENG_20030504.0448-EV22" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="APW_ENG_20030504.0448-87" ROLE="Place"/>
+    <event_mention ID="APW_ENG_20030504.0448-EV22-1">
+      <extent>
+        <charseq START="6343" END="6347">cease</charseq>
+      </extent>
+      <anchor>
+        <charseq START="6343" END="6347">cease</charseq>
+      </anchor>
+      <event_mention_argument REFID="APW_ENG_20030504.0448-87-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

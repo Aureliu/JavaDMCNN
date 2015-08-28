@@ -1,0 +1,2 @@
+#!/bin/tcsh
+ace $JET_HOME/props/ace11chunker.properties example/sgmlist example/sgm/ example/out/

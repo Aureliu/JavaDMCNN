@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Learn ACE Relations</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Learn ACE Relations<br>
+</font></font></h1>
+<font color="#000000">Learn ACE Relations uses one or more APF files to
+train the Ace Relation pattern file which is used by the Ace relation
+tagger.&nbsp; It is
+invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+AceJet.LearnAceRelations </span></font></big><font
+ style="font-style: italic;" color="#000000">propertyFile patternFile
+year (directory filelist)+</font>
+</div>
+<br>
+where<br>
+<dl>
+  <dt style="font-style: italic;">propertyFile</dt>
+  <dd>Jet properties file</dd>
+  <dt style="font-style: italic;">patternFile</dt>
+  <dd>the generated relation pattern file</dd>
+  <dt style="font-style: italic;">year</dt>
+  <dd>either 2004 or 2005, specifying the format of the APF files</dd>
+  <dt style="font-style: italic;">directory</dt>
+  <dd>the path of the directory containing <span
+ style="font-style: italic;">both</span> the text and APF files for the
+documents</dd>
+  <dt style="font-style: italic;">fileList<br>
+  </dt>
+  <dd>a list of the documents to be processed, one document <i>doc</i>
+per line<br>
+(for document <i>doc</i>, the text file is assumed to be <span
+ style="font-style: italic;">doc</span>.<span
+ style="font-family: monospace;">sgm</span> and the APF file <span
+ style="font-style: italic;">doc</span><span
+ style="font-family: monospace;">.apf.xml</span>)</dd>
+</dl>
+<h3 style="color: rgb(0, 0, 238);">Pattern File</h3>
+Each line in the pattern file represents a single training instance ...
+a pair of entities which may or may not correspond to an ACE relation.
+The line has the form<br>
+<br>
+<div style="text-align: center;">order type1 subtype1 head1 [ syntax :
+chunks ] type2 subtype2 head2
+--&gt; rtype rsubtype
+<br>
+<div style="text-align: left;"><br>
+where
+</div>
+</div>
+<dl>
+  <dt>order</dt>
+  <dd>is either 'arg1-arg2' or 'arg2-arg1', indicating the
+correspondence between the surface order and the argument order</dd>
+  <dt>type1</dt>
+  <dd>the entity type of the first argument</dd>
+  <dt>subtype1</dt>
+  <dd>the entity subtype of the first argument</dd>
+  <dt>head1</dt>
+  <dd>the head of the first argument (however, if a name, the entity
+type of the name)</dd>
+  <dt>syntax</dt>
+  <dd>the syntactic relation between the arguments, or '0' if none</dd>
+  <dt>chunks</dt>
+  <dd>the heads of the sequence of noun groups and other constituents
+between the first and second arguments</dd>
+  <dt>type2</dt>
+  <dd>the entity type of the second argument</dd>
+  <dt>subtype2</dt>
+  <dd>the entity subtype of the second argument</dd>
+  <dt>head2</dt>
+  <dd>the head of the second argument (however, if a name, the entity
+type of the name)</dd>
+  <dt>rtype</dt>
+  <dd>the type of the relation, or '0' if no relation</dd>
+  <dt>rsubtype</dt>
+  <dd>the subtype of the relation</dd>
+</dl>
+</body>
+</html>

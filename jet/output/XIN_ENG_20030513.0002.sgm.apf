@@ -1,0 +1,864 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030513.0002.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030513.0002">
+  <entity ID="XIN_ENG_20030513.0002-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="104" END="109">BOGOTA</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="109">BOGOTA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="BOGOTA">
+        <charseq START="104" END="109">BOGOTA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-2-0">
+      <extent>
+        <charseq START="120" END="125">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="125">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="120" END="125">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-3-0">
+      <extent>
+        <charseq START="129" END="170">The Revolutionary Armed Forces of Colombia</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="158">Revolutionary Armed Forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Revolutionary Armed Forces">
+        <charseq START="133" END="158">Revolutionary Armed Forces</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-4-0" ROLE="GPE">
+      <extent>
+        <charseq START="163" END="170">Colombia</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="170">Colombia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="1126" END="1133">Colombia</charseq>
+      </extent>
+      <head>
+        <charseq START="1126" END="1133">Colombia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Colombia">
+        <charseq START="163" END="170">Colombia</charseq>
+      </name>
+      <name NAME="Colombia">
+        <charseq START="1126" END="1133">Colombia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-5-0">
+      <extent>
+        <charseq START="173" END="176">FARC</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="176">FARC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030513.0002-5-1">
+      <extent>
+        <charseq START="196" END="197">it</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="197">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-5-2">
+      <extent>
+        <charseq START="313" END="320">The FARC</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="320">FARC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-5-3">
+      <extent>
+        <charseq START="506" END="509">FARC</charseq>
+      </extent>
+      <head>
+        <charseq START="506" END="509">FARC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-5-4">
+      <extent>
+        <charseq START="596" END="603">the FARC</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="603">FARC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030513.0002-5-5">
+      <extent>
+        <charseq START="645" END="648">them</charseq>
+      </extent>
+      <head>
+        <charseq START="645" END="648">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-5-6">
+      <extent>
+        <charseq START="1071" END="1092">The 17,000-strong FARC</charseq>
+      </extent>
+      <head>
+        <charseq START="1089" END="1092">FARC</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030513.0002-5-7">
+      <extent>
+        <charseq START="1229" END="1230">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1229" END="1230">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="FARC">
+        <charseq START="173" END="176">FARC</charseq>
+      </name>
+      <name NAME="FARC">
+        <charseq START="317" END="320">FARC</charseq>
+      </name>
+      <name NAME="FARC">
+        <charseq START="506" END="509">FARC</charseq>
+      </name>
+      <name NAME="FARC">
+        <charseq START="600" END="603">FARC</charseq>
+      </name>
+      <name NAME="FARC">
+        <charseq START="1089" END="1092">FARC</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-6-0">
+      <extent>
+        <charseq START="224" END="232">prisoners</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="232">prisoners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-7-0" ROLE="GPE">
+      <extent>
+        <charseq START="239" END="252">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="252">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-7-1" ROLE="GPE">
+      <extent>
+        <charseq START="445" END="458">the
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="458">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-7-2" ROLE="GPE">
+      <extent>
+        <charseq START="1168" END="1181">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1181">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-8-0">
+      <extent>
+        <charseq START="275" END="285">10 hostages</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="285">hostages</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-9-0">
+      <extent>
+        <charseq START="295" END="309">the rebel group</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="309">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-10-0">
+      <extent>
+        <charseq START="345" END="368">more than 70 politicians</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="368">politicians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-11-0">
+      <extent>
+        <charseq START="371" END="378">soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="371" END="378">soldiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-12-0">
+      <extent>
+        <charseq START="384" END="392">policemen</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="392">policemen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-13-0">
+      <extent>
+        <charseq START="413" END="440">nearly 500 rebels imprisoned</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="429">rebels</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-14-0">
+      <extent>
+        <charseq START="466" END="475">Luis Devia</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="475">Luis Devia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Luis Devia">
+        <charseq START="466" END="475">Luis Devia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-15-0">
+      <extent>
+        <charseq START="492" END="501">Raul Reyes</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="501">Raul Reyes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-15-1">
+      <extent>
+        <charseq START="783" END="787">Reyes</charseq>
+      </extent>
+      <head>
+        <charseq START="783" END="787">Reyes</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030513.0002-15-2">
+      <extent>
+        <charseq START="797" END="799">his</charseq>
+      </extent>
+      <head>
+        <charseq START="797" END="799">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030513.0002-15-3">
+      <extent>
+        <charseq START="1060" END="1061">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1061">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Raul Reyes">
+        <charseq START="492" END="501">Raul Reyes</charseq>
+      </name>
+      <name NAME="Reyes">
+        <charseq START="783" END="787">Reyes</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-16-0">
+      <extent>
+        <charseq START="504" END="516">a FARC leader</charseq>
+      </extent>
+      <head>
+        <charseq START="511" END="516">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-17-0">
+      <extent>
+        <charseq START="576" END="591">10 hostages held</charseq>
+      </extent>
+      <head>
+        <charseq START="579" END="586">hostages</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-18-0">
+      <extent>
+        <charseq START="653" END="660">the army</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="660">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="army">
+        <charseq START="657" END="660">army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-19-0">
+      <extent>
+        <charseq START="664" END="674">The victims</charseq>
+      </extent>
+      <head>
+        <charseq START="668" END="674">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-19-1">
+      <extent>
+        <charseq START="681" END="716">Antioquia Governor Guillermo Gaviria</charseq>
+      </extent>
+      <head>
+        <charseq START="700" END="716">Guillermo Gaviria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-19-2">
+      <extent>
+        <charseq START="691" END="698">Governor</charseq>
+      </extent>
+      <head>
+        <charseq START="691" END="698">Governor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Guillermo Gaviria">
+        <charseq START="700" END="716">Guillermo Gaviria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="681" END="689">Antioquia</charseq>
+      </extent>
+      <head>
+        <charseq START="681" END="689">Antioquia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Antioquia">
+        <charseq START="681" END="689">Antioquia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-21-0">
+      <extent>
+        <charseq START="719" END="760">former Defense
+Minister Gilberto Echeverry</charseq>
+      </extent>
+      <head>
+        <charseq START="743" END="760">Gilberto Echeverry</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-21-1">
+      <extent>
+        <charseq START="734" END="741">Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="734" END="741">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gilberto Echeverry">
+        <charseq START="743" END="760">Gilberto Echeverry</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030513.0002-22-0">
+      <extent>
+        <charseq START="726" END="732">Defense</charseq>
+      </extent>
+      <head>
+        <charseq START="726" END="732">Defense</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Defense">
+        <charseq START="726" END="732">Defense</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-23-0">
+      <extent>
+        <charseq START="766" END="779">eight soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="772" END="779">soldiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-24-0">
+      <extent>
+        <charseq START="817" END="832">&quot;guerrilla units</charseq>
+      </extent>
+      <head>
+        <charseq START="828" END="832">units</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-25-0">
+      <extent>
+        <charseq START="919" END="933">their prisoners</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="933">prisoners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-26-0">
+      <extent>
+        <charseq START="938" END="947">The rebels</charseq>
+      </extent>
+      <head>
+        <charseq START="942" END="947">rebels</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-27-0">
+      <extent>
+        <charseq START="983" END="995">its prisoners</charseq>
+      </extent>
+      <head>
+        <charseq START="987" END="995">prisoners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-28" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-28-0">
+      <extent>
+        <charseq START="1017" END="1021">enemy</charseq>
+      </extent>
+      <head>
+        <charseq START="1017" END="1021">enemy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-29-0">
+      <extent>
+        <charseq START="1017" END="1028">enemy forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1023" END="1028">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-30-0">
+      <extent>
+        <charseq START="1095" END="1121">the largest guerrilla force</charseq>
+      </extent>
+      <head>
+        <charseq START="1117" END="1121">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030513.0002-31-0">
+      <extent>
+        <charseq START="1215" END="1221">400,000</charseq>
+      </extent>
+      <head>
+        <charseq START="1215" END="1221">400,000</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-32-0">
+      <extent>
+        <charseq START="1261" END="1268">hostages</charseq>
+      </extent>
+      <head>
+        <charseq START="1261" END="1268">hostages</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030513.0002-33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030513.0002-33-0">
+      <extent>
+        <charseq START="1280" END="1294">three Americans</charseq>
+      </extent>
+      <head>
+        <charseq START="1286" END="1294">Americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030513.0002-V3" TYPE="Job-Title">
+    <value_mention ID="XIN_ENG_20030513.0002-V3-1">
+      <extent>
+        <charseq START="734" END="741">Minister</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030513.0002-T0" VAL="2003-05-13">
+    <timex2_mention ID="XIN_ENG_20030513.0002-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030513</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030513.0002-T1" VAL="2003-05-12">
+    <timex2_mention ID="XIN_ENG_20030513.0002-T1-1">
+      <extent>
+        <charseq START="112" END="117">May 12</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030513.0002-T2" VAL="2003-05-12">
+    <timex2_mention ID="XIN_ENG_20030513.0002-T2-1">
+      <extent>
+        <charseq START="184" END="189">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030513.0002-T3" VAL="2003-05-05">
+    <timex2_mention ID="XIN_ENG_20030513.0002-T3-1">
+      <extent>
+        <charseq START="569" END="573">May 5</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030513.0002-T4" VAL="P40Y">
+    <timex2_mention ID="XIN_ENG_20030513.0002-T4-1">
+      <extent>
+        <charseq START="1197" END="1204">40 years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030513.0002-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="XIN_ENG_20030513.0002-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030513.0002-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030513.0002-R1-1">
+      <extent>
+        <charseq START="129" END="170">The Revolutionary Armed Forces of Colombia</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="129" END="170">The Revolutionary Armed Forces of Colombia</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="163" END="170">Colombia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030513.0002-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030513.0002-6" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030513.0002-7" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030513.0002-R2-1">
+      <extent>
+        <charseq START="224" END="252">prisoners with the government</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="224" END="232">prisoners</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-7-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="239" END="252">the government</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030513.0002-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030513.0002-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030513.0002-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030513.0002-R3-1">
+      <extent>
+        <charseq START="504" END="516">a FARC leader</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="504" END="516">a FARC leader</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-5-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="506" END="509">FARC</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030513.0002-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030513.0002-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030513.0002-20" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030513.0002-R4-1">
+      <extent>
+        <charseq START="681" END="698">Antioquia Governor</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-19-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="691" END="698">Governor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="681" END="689">Antioquia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030513.0002-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030513.0002-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030513.0002-20" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030513.0002-R5-1">
+      <extent>
+        <charseq START="681" END="716">Antioquia Governor Guillermo Gaviria</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="681" END="716">Antioquia Governor Guillermo Gaviria</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="681" END="689">Antioquia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030513.0002-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="XIN_ENG_20030513.0002-30" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030513.0002-4" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030513.0002-R6-1">
+      <extent>
+        <charseq START="1095" END="1133">the largest guerrilla force in Colombia</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-30-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1095" END="1121">the largest guerrilla force</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030513.0002-4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1126" END="1133">Colombia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030513.0002-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-8" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-9" ROLE="Agent"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-T2" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV1-1">
+      <extent>
+        <charseq START="266" END="285">death of 10 hostages</charseq>
+      </extent>
+      <anchor>
+        <charseq START="266" END="270">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-8-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-9-0" ROLE="Agent"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="XIN_ENG_20030513.0002-EV2-1">
+      <extent>
+        <charseq START="431" END="440">imprisoned</charseq>
+      </extent>
+      <anchor>
+        <charseq START="431" END="440">imprisoned</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV3" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-15" ROLE="Entity"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-12" ROLE="Entity"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV3-1">
+      <extent>
+        <charseq START="524" END="529">letter</charseq>
+      </extent>
+      <anchor>
+        <charseq START="524" END="529">letter</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-12-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030513.0002-EV3-2">
+      <extent>
+        <charseq START="797" END="806">his letter</charseq>
+      </extent>
+      <anchor>
+        <charseq START="801" END="806">letter</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-15-2" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-12" ROLE="Artifact"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV4-1">
+      <extent>
+        <charseq START="531" END="534">sent</charseq>
+      </extent>
+      <anchor>
+        <charseq START="531" END="534">sent</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-12-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-5" ROLE="Agent"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-5" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-T3" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV5-1">
+      <extent>
+        <charseq START="596" END="615">the FARC were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="610" END="615">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-5-4" ROLE="Agent"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-5-4" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV6" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-21" ROLE="Person"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-22" ROLE="Entity"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-V3" ROLE="Position"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV6-1">
+      <extent>
+        <charseq START="719" END="741">former Defense
+Minister</charseq>
+      </extent>
+      <anchor>
+        <charseq START="719" END="724">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-21-1" ROLE="Person"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-22-0" ROLE="Entity"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-V3-1" ROLE="Position"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-27" ROLE="Artifact"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-29" ROLE="Agent"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV8-1">
+      <extent>
+        <charseq START="983" END="1007">its prisoners to be
+taken</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1003" END="1007">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-27-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-29-0" ROLE="Agent"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030513.0002-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030513.0002-7" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030513.0002-4" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030513.0002-EV9-1">
+      <extent>
+        <charseq START="1156" END="1181">war against the government</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1156" END="1158">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-7-2" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030513.0002-4-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

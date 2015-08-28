@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Sentence Splitter</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+<body text="#000000" bgcolor="#fff0f0" link="#ff0000" vlink="#800080"
+ alink="#0000ff">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Sentence Splitter</font></font></h1>
+<div style="margin-left: 40px;"><br>
+</div>
+<table style="text-align: left; width: 400px;" border="1"
+ cellspacing="2" cellpadding="2">
+  <tbody>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">action
+name<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;"><span
+ style="font-family: monospace;">sentenceSplit</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">resources
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;"><span
+ style="font-style: italic;">none</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;">properties<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153); width: 100px;"><span
+ style="font-style: italic;">none</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);">annotations
+required<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);"><span
+ style="font-style: italic;">none</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);">annotations
+added<br>
+      </td>
+      <td
+ style="vertical-align: top; background-color: rgb(153, 255, 153);"><span
+ style="font-family: monospace;">sentence</span><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+The sentence splitter uses a detailed set of hand-coded rules (adapted
+from Sekine's OAK system) to divide a span of text into
+sentences.&nbsp; It adds <span style="font-family: monospace;"><span
+ style="font-weight: bold;">sentence</span> </span>annotations
+spanning each sentence.<br>
+<br>
+A question mark or exclamation mark always ends a sentence.&nbsp; A
+period followed by an upper-case letter generally ends a sentence, but
+there are a number of exceptions.&nbsp; For example, if the period is
+part of an abbreviated title ("Mr.", "Gen.", ...), it does not end a
+sentence.&nbsp; A period following a single capitalized letter is
+assumed to be a person's initial, and is not considered the end of a
+sentence.<br>
+<font color="#000000"></font><br>
+&nbsp;
+</body>
+</html>

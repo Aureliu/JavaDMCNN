@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Jet Annotators</title>
+  <meta content="Ralph Grishman" name="author">
+</head>
+<body style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);"
+ link="#ff0000" vlink="#800080" alink="#0000ff">
+<h2>
+<font face="Arial Alternative"><font color="#3333ff">Jet Tools:&nbsp;
+Annotators
+and Resources</font></font></h2>
+The analysis of a document in Jet is performed by a set of <i>tools. </i>Most
+of these tools are <i>annotators</i>:&nbsp; each annotator adds a set
+of
+annotations to the document.&nbsp; Many of these annotators use
+linguistic
+resources to perform their task;&nbsp; for example, the parser uses a
+grammar;&nbsp;
+the pattern matcher uses a pattern set.&nbsp; These resources are
+described
+along with the annotators which use them.&nbsp; The annotators
+currently
+implemented in Jet are
+<br>
+&nbsp;
+<br>
+&nbsp;
+<center>
+<table border="3" cellpadding="8" cols="3" width="100%"
+ bgcolor="#ccffff">
+  <tbody>
+    <tr>
+      <td>
+      <center><b><font size="+1">tool</font></b></center>
+      </td>
+      <td>
+      <center><b><font size="+1">function</font></b></center>
+      </td>
+      <td>
+      <center><b><font size="+1">linguistic resource</font></b></center>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="tokenizer.html">Tokenizer</a></td>
+      <td>divides a text into tokens</td>
+      <td><strike>&nbsp;</strike></td>
+    </tr>
+    <tr>
+      <td><a href="sentenceSplitter.html">Sentence Splitter</a></td>
+      <td>divides a text into sentences</td>
+      <td><strike>&nbsp;</strike></td>
+    </tr>
+    <tr>
+      <td><a href="lexicon.html">Lexicon Lookup</a></td>
+      <td>looks up definitions of words in a dictionary</td>
+      <td>lexicon</td>
+    </tr>
+    <tr>
+      <td><a href="POStagger.html">Part-of-speech Tagger</a></td>
+      <td>assigns parts of speech to words in context</td>
+      <td>HMM of part-of-speech sequences</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><a href="nameTagger.html">Name
+Tagger</a><br>
+      </td>
+      <td style="vertical-align: top;">tags names, dates, times, ...<br>
+      </td>
+      <td style="vertical-align: top;">HMM of names<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><a href="chunker.html">Noun
+group Chunker</a><br>
+      </td>
+      <td style="vertical-align: top;">tags noun groups<br>
+      </td>
+      <td style="vertical-align: top;">Maxent model of noun groups<br>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="parser.html">Parser</a> or <a href="statParser.html">Statistical
+Parser<br>
+      </a></td>
+      <td>determines syntactic structure</td>
+      <td>grammar</td>
+    </tr>
+    <tr>
+      <td><a href="patterns.html">Pattern Matcher</a></td>
+      <td>identifies structure through regular expression pattern
+matching</td>
+      <td>pattern set and <a href="concepts.html">concept hierarchy</a></td>
+    </tr>
+    <tr>
+      <td><a href="refres.html">Reference Resolver</a></td>
+      <td>resolves anaphoric references</td>
+      <td><strike>&nbsp;</strike></td>
+    </tr>
+    <tr>
+      <td>Scorer</td>
+      <td>scores performance against standard</td>
+      <td><strike>&nbsp;</strike></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</body>
+</html>

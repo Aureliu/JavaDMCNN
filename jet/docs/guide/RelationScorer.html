@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Score ACE Relations</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Score ACE Relations<br>
+</font></font></h1>
+<font color="#000000">
+RelationScorer implements a simple scoring metric for ACE 2004 and 2005
+relation mentions.  A relation mention is considered correct if
+its two arguments align with those of a relation in the key and the 
+relation has the correct type (subtypes are ignored).  An entity in
+the key is aligned with an entity in the response if the ends of
+the heads of the entitities are the same.  If the particular relation
+is symmetric, a relation mention in the key will match one with
+reversed arguments in the system response.<br><br>
+It is invoked by<br> <br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+AceJet.RelationScorer </span></font>
+<font style="font-style: italic;" color="#000000">
+docList textDirectory textExtension 
+responseDirectory responseExtension keyDirectory keyExtension [year]");
+</big></font>
+</div>
+<br>
+where<br>
+<dl>
+  <dt style="font-style: italic;">docList</dt> 
+  <dd>file containing list of document file names, one per line <br>
+  <dt style="font-style: italic;">textDirectory</dt>  
+  <dd>directory containing text files for documents <br>
+  <dt style="font-style: italic;">textExtension</dt>  
+  <dd>file extension for text files <br>
+  <dt style="font-style: italic;">responseDirectory</dt>  
+  <dd>directory containing APF files to be scored <br>
+  <dt style="font-style: italic;">responseExtension</dt>  
+  <dd>file extension for APF files to be scored <br>
+  <dt style="font-style: italic;">keyDirectory</dt>  
+  <dd>directory containing APF keys <br>
+  <dt style="font-style: italic;">keyExtension</dt>  
+  <dd>file extension for APF keys <br>
+  <dt style="font-style: italic;">year</dt>  
+  <dd>2004 or 2005, indicating which APF file format and relation inventory is used (default is 2005) <br>
+</dl>
+If one line in the docList file is <i>d</i>, the program will
+compare the APF files
+responseDirectory/<i>d</i>.responseExtension and
+ keyDirectory/<i>d</i>.keyExtension.
+</body>
+</html>

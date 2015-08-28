@@ -1,0 +1,7 @@
+ENAMEX TYPE PERSON       person
+ENAMEX TYPE ORGANIZATION organization
+ENAMEX TYPE GPE          gpe
+ENAMEX TYPE LOCATION     location
+ENAMEX TYPE FACILITY     facility
+ENAMEX TYPE VEH          vehicle
+ENAMEX TYPE WEA          weapon

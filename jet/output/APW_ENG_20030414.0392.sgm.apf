@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="APW_ENG_20030414.0392.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="APW_ENG_20030414.0392">
+  <entity ID="APW_ENG_20030414.0392-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="117" END="122">PRAGUE</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="122">PRAGUE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="PRAGUE">
+        <charseq START="117" END="122">PRAGUE</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="125" END="138">Czech Republic</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="138">Czech Republic</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="1154" END="1158">Czech</charseq>
+      </extent>
+      <head>
+        <charseq START="1154" END="1158">Czech</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Czech Republic">
+        <charseq START="125" END="138">Czech Republic</charseq>
+      </name>
+      <name NAME="Czech">
+        <charseq START="1154" END="1158">Czech</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-3-0">
+      <extent>
+        <charseq START="141" END="142">AP</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="142">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AP">
+        <charseq START="141" END="142">AP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-4" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-4-0">
+      <extent>
+        <charseq START="146" END="177">The troubled nuclear power plant</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="177">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-4-1">
+      <extent>
+        <charseq START="382" END="386">plant</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="386">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-4-2">
+      <extent>
+        <charseq START="462" END="470">The plant</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="470">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="182" END="188">Temelin</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="188">Temelin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="580" END="586">Temelin</charseq>
+      </extent>
+      <head>
+        <charseq START="580" END="586">Temelin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Temelin">
+        <charseq START="182" END="188">Temelin</charseq>
+      </name>
+      <name NAME="Temelin">
+        <charseq START="580" END="586">Temelin</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-6-0">
+      <extent>
+        <charseq START="215" END="231">state authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="231">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-7-0">
+      <extent>
+        <charseq START="285" END="299">Pavel Pitterman</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="299">Pavel Pitterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pavel Pitterman">
+        <charseq START="285" END="299">Pavel Pitterman</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-8-0">
+      <extent>
+        <charseq START="302" END="314">the spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="314">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030414.0392-8-1">
+      <extent>
+        <charseq START="362" END="364">his</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="364">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-8-2">
+      <extent>
+        <charseq START="558" END="570">The spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="570">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-9-0">
+      <extent>
+        <charseq START="320" END="354">the State Office for Nuclear
+Safety</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="354">State Office for Nuclear
+Safety</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="State Office for Nuclear Safety">
+        <charseq START="324" END="354">State Office for Nuclear
+Safety</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-10-0">
+      <extent>
+        <charseq START="418" END="442">newer 1,000-megawatt unit</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="442">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-11-0">
+      <extent>
+        <charseq START="462" END="498">The plant&apos;s first
+1,000-megawatt unit</charseq>
+      </extent>
+      <head>
+        <charseq START="495" END="498">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-12" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-12-0">
+      <extent>
+        <charseq START="576" END="592">the Temelin plant</charseq>
+      </extent>
+      <head>
+        <charseq START="588" END="592">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-12-1">
+      <extent>
+        <charseq START="767" END="775">The plant</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="775">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-12-2">
+      <extent>
+        <charseq START="1097" END="1105">the plant</charseq>
+      </extent>
+      <head>
+        <charseq START="1101" END="1105">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-12-3">
+      <extent>
+        <charseq START="1179" END="1187">the plant</charseq>
+      </extent>
+      <head>
+        <charseq START="1183" END="1187">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-12-4">
+      <extent>
+        <charseq START="1199" END="1207">The plant</charseq>
+      </extent>
+      <head>
+        <charseq START="1203" END="1207">plant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-13-0">
+      <extent>
+        <charseq START="595" END="607">Milan Nebesar</charseq>
+      </extent>
+      <head>
+        <charseq START="595" END="607">Milan Nebesar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Milan Nebesar">
+        <charseq START="595" END="607">Milan Nebesar</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-14-0">
+      <extent>
+        <charseq START="669" END="683">the second unit</charseq>
+      </extent>
+      <head>
+        <charseq START="680" END="683">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-14-1">
+      <extent>
+        <charseq START="704" END="711">the unit</charseq>
+      </extent>
+      <head>
+        <charseq START="708" END="711">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="787" END="793">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="793">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russian">
+        <charseq START="787" END="793">Russian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-16-0" ROLE="GPE">
+      <extent>
+        <charseq START="820" END="823">U.S.</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="823">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="U.S.">
+        <charseq START="820" END="823">U.S.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-17" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-17-0">
+      <extent>
+        <charseq START="978" END="996">the Austrian border</charseq>
+      </extent>
+      <head>
+        <charseq START="991" END="996">border</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="APW_ENG_20030414.0392-17-1">
+      <extent>
+        <charseq START="999" END="1000">it</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1000">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-18-0" ROLE="GPE">
+      <extent>
+        <charseq START="982" END="989">Austrian</charseq>
+      </extent>
+      <head>
+        <charseq START="982" END="989">Austrian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="APW_ENG_20030414.0392-18-1" ROLE="GPE">
+      <extent>
+        <charseq START="1071" END="1089">non-nuclear Austria</charseq>
+      </extent>
+      <head>
+        <charseq START="1083" END="1089">Austria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Austrian">
+        <charseq START="982" END="989">Austrian</charseq>
+      </name>
+      <name NAME="Austria">
+        <charseq START="1083" END="1089">Austria</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-19-0">
+      <extent>
+        <charseq START="1011" END="1030">a source of friction</charseq>
+      </extent>
+      <head>
+        <charseq START="1013" END="1018">source</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="1040" END="1056">the two countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1048" END="1056">countries</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-21-0">
+      <extent>
+        <charseq START="1060" END="1066">Critics</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1066">Critics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-22-0">
+      <extent>
+        <charseq START="1154" END="1170">Czech authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="1160" END="1170">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="APW_ENG_20030414.0392-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="APW_ENG_20030414.0392-23-0">
+      <extent>
+        <charseq START="1199" END="1220">The plant&apos;s first unit</charseq>
+      </extent>
+      <head>
+        <charseq START="1217" END="1220">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <timex2 ID="APW_ENG_20030414.0392-T0" VAL="2003-04-14">
+    <timex2_mention ID="APW_ENG_20030414.0392-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030414</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030414.0392-T1" VAL="2003-04-14">
+    <timex2_mention ID="APW_ENG_20030414.0392-T1-1">
+      <extent>
+        <charseq START="233" END="238">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030414.0392-T2" VAL="2003-04-11">
+    <timex2_mention ID="APW_ENG_20030414.0392-T2-1">
+      <extent>
+        <charseq START="758" END="763">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030414.0392-T3" VAL="2000-11">
+    <timex2_mention ID="APW_ENG_20030414.0392-T3-1">
+      <extent>
+        <charseq START="915" END="927">November 2000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030414.0392-T4" VAL="P2M">
+    <timex2_mention ID="APW_ENG_20030414.0392-T4-1">
+      <extent>
+        <charseq START="1285" END="1294">two months</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="APW_ENG_20030414.0392-T5" VAL="2003">
+    <timex2_mention ID="APW_ENG_20030414.0392-T5-1">
+      <extent>
+        <charseq START="1394" END="1397">2003</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="APW_ENG_20030414.0392-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030414.0392-1" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R1-1">
+      <extent>
+        <charseq START="117" END="138">PRAGUE, Czech Republic</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-1-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="117" END="122">PRAGUE</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-2-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="125" END="138">Czech Republic</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030414.0392-4" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R2-1">
+      <extent>
+        <charseq START="146" END="188">The troubled nuclear power plant in Temelin</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="146" END="177">The troubled nuclear power plant</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="182" END="188">Temelin</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030414.0392-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-9" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R3-1">
+      <extent>
+        <charseq START="302" END="354">the spokesman for the State Office for Nuclear
+Safety</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="302" END="314">the spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="320" END="354">the State Office for Nuclear
+Safety</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030414.0392-8" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R4-1">
+      <extent>
+        <charseq START="558" END="592">The spokesman for the Temelin plant</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-8-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="558" END="570">The spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="576" END="592">the Temelin plant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030414.0392-12" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-5" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R5-1">
+      <extent>
+        <charseq START="576" END="592">the Temelin plant</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-12-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="576" END="592">the Temelin plant</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="580" END="586">Temelin</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030414.0392-13" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R6-1">
+      <extent>
+        <charseq START="576" END="607">the Temelin plant, Milan Nebesar</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="595" END="607">Milan Nebesar</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="576" END="592">the Temelin plant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="APW_ENG_20030414.0392-17" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R7-1">
+      <extent>
+        <charseq START="978" END="996">the Austrian border</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="978" END="996">the Austrian border</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="982" END="989">Austrian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R8" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030414.0392-21" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-18" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R8-1">
+      <extent>
+        <charseq START="1060" END="1089">Critics in non-nuclear Austria</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-21-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1060" END="1066">Critics</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1071" END="1089">non-nuclear Austria</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R9" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="APW_ENG_20030414.0392-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-2" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R9-1">
+      <extent>
+        <charseq START="1154" END="1170">Czech authorities</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1154" END="1170">Czech authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1154" END="1158">Czech</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R10" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="APW_ENG_20030414.0392-22" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R10-1">
+      <extent>
+        <charseq START="1154" END="1187">Czech authorities insist the plant</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1154" END="1170">Czech authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-12-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1179" END="1187">the plant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="APW_ENG_20030414.0392-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="APW_ENG_20030414.0392-23" ROLE="Arg-1" />
+    <relation_argument REFID="APW_ENG_20030414.0392-12" ROLE="Arg-2" />
+      <relation_mention ID="APW_ENG_20030414.0392-R11-1">
+      <extent>
+        <charseq START="1199" END="1220">The plant&apos;s first unit</charseq>
+      </extent>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1199" END="1220">The plant&apos;s first unit</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="APW_ENG_20030414.0392-12-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1199" END="1207">The plant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="APW_ENG_20030414.0392-EV1" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="APW_ENG_20030414.0392-EV1-1">
+      <extent>
+        <charseq START="632" END="636">trial</charseq>
+      </extent>
+      <anchor>
+        <charseq START="632" END="636">trial</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

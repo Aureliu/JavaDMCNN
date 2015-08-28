@@ -1,0 +1,3513 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030617.0720.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030617.0720">
+  <entity ID="AFP_ENG_20030617.0720-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="51" END="52">US</charseq>
+      </extent>
+      <head>
+        <charseq START="51" END="52">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="401" END="402">US</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="402">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="686" END="687">US</charseq>
+      </extent>
+      <head>
+        <charseq START="686" END="687">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1518" END="1519">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1518" END="1519">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="51" END="52">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="401" END="402">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="686" END="687">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="1518" END="1519">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-2-0">
+      <extent>
+        <charseq START="54" END="58">envoy</charseq>
+      </extent>
+      <head>
+        <charseq START="54" END="58">envoy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-3-0">
+      <extent>
+        <charseq START="66" END="77">Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="66" END="77">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-3-1">
+      <extent>
+        <charseq START="4178" END="4193">The Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="4182" END="4193">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-3-2">
+      <extent>
+        <charseq START="4205" END="4208">they</charseq>
+      </extent>
+      <head>
+        <charseq START="4205" END="4208">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinians">
+        <charseq START="66" END="77">Palestinians</charseq>
+      </name>
+      <name NAME="Palestinians">
+        <charseq START="4182" END="4193">Palestinians</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-0" ROLE="LOC">
+      <extent>
+        <charseq START="82" END="87">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="87">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-1" ROLE="GPE">
+      <extent>
+        <charseq START="364" END="369">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="369">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-2" ROLE="GPE">
+      <extent>
+        <charseq START="500" END="506">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="506">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-3" ROLE="GPE">
+      <extent>
+        <charseq START="585" END="591">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="585" END="591">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-4" ROLE="GPE">
+      <extent>
+        <charseq START="890" END="896">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="890" END="896">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-5" ROLE="GPE">
+      <extent>
+        <charseq START="1062" END="1068">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1062" END="1068">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-6" ROLE="GPE">
+      <extent>
+        <charseq START="1737" END="1743">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1737" END="1743">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-7" ROLE="GPE">
+      <extent>
+        <charseq START="2807" END="2813">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="2807" END="2813">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-8" ROLE="GPE">
+      <extent>
+        <charseq START="3080" END="3086">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3080" END="3086">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-9" ROLE="GPE">
+      <extent>
+        <charseq START="3322" END="3327">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3322" END="3327">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-10" ROLE="GPE">
+      <extent>
+        <charseq START="3405" END="3411">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3405" END="3411">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-11" ROLE="GPE">
+      <extent>
+        <charseq START="3889" END="3894">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="3889" END="3894">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-12" ROLE="GPE">
+      <extent>
+        <charseq START="3930" END="3936">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="3930" END="3936">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-13" ROLE="GPE">
+      <extent>
+        <charseq START="4012" END="4018">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="4012" END="4018">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-14" ROLE="GPE">
+      <extent>
+        <charseq START="4274" END="4280">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="4274" END="4280">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-15" ROLE="GPE">
+      <extent>
+        <charseq START="4290" END="4295">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4290" END="4295">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-16" ROLE="GPE">
+      <extent>
+        <charseq START="4452" END="4457">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4452" END="4457">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-17" ROLE="GPE">
+      <extent>
+        <charseq START="4580" END="4586">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="4580" END="4586">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-18" ROLE="GPE">
+      <extent>
+        <charseq START="4596" END="4601">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="4596" END="4601">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-4-19" ROLE="GPE">
+      <extent>
+        <charseq START="5109" END="5114">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="5109" END="5114">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israel">
+        <charseq START="82" END="87">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="364" END="369">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="500" END="506">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="585" END="591">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="890" END="896">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="1062" END="1068">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="1737" END="1743">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="2807" END="2813">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3080" END="3086">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3322" END="3327">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3405" END="3411">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="3889" END="3894">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="3930" END="3936">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="4012" END="4018">Israeli</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="4274" END="4280">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4290" END="4295">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4452" END="4457">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="4580" END="4586">Israeli</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="4596" END="4601">Israel</charseq>
+      </name>
+      <name NAME="Israel">
+        <charseq START="5109" END="5114">Israel</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-5-0">
+      <extent>
+        <charseq START="108" END="113">Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="113">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-5-1">
+      <extent>
+        <charseq START="417" END="434">State Colin Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="434">Colin Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-5-2">
+      <extent>
+        <charseq START="940" END="945">Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="940" END="945">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-5-3">
+      <extent>
+        <charseq START="1088" END="1093">Powell</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1093">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-5-4">
+      <extent>
+        <charseq START="1157" END="1159">His</charseq>
+      </extent>
+      <head>
+        <charseq START="1157" END="1159">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-5-5">
+      <extent>
+        <charseq START="1235" END="1248">Powell, who is</charseq>
+      </extent>
+      <head>
+        <charseq START="1235" END="1240">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-5-6">
+      <extent>
+        <charseq START="1491" END="1493">His</charseq>
+      </extent>
+      <head>
+        <charseq START="1491" END="1493">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Powell">
+        <charseq START="108" END="113">Powell</charseq>
+      </name>
+      <name NAME="Colin Powell">
+        <charseq START="423" END="434">Colin Powell</charseq>
+      </name>
+      <name NAME="Powell">
+        <charseq START="940" END="945">Powell</charseq>
+      </name>
+      <name NAME="Powell">
+        <charseq START="1088" END="1093">Powell</charseq>
+      </name>
+      <name NAME="Powell">
+        <charseq START="1235" END="1240">Powell</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-6-0">
+      <extent>
+        <charseq START="125" END="139">Jean-Marc Mojon</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="139">Jean-Marc Mojon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-6-1">
+      <extent>
+        <charseq START="264" END="266">his</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="266">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jean-Marc Mojon">
+        <charseq START="125" END="139">Jean-Marc Mojon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-7-0">
+      <extent>
+        <charseq START="145" END="152">PICTURES</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="152">PICTURES</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="PICTURES">
+        <charseq START="145" END="152">PICTURES</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="193" END="201">GAZA CITY</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="201">GAZA CITY</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="2172" END="2180">Gaza City</charseq>
+      </extent>
+      <head>
+        <charseq START="2172" END="2180">Gaza City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="GAZA CITY">
+        <charseq START="193" END="201">GAZA CITY</charseq>
+      </name>
+      <name NAME="Gaza City">
+        <charseq START="2172" END="2180">Gaza City</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-9-0">
+      <extent>
+        <charseq START="213" END="215">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="215">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-9-1">
+      <extent>
+        <charseq START="3848" END="3850">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="3848" END="3850">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="213" END="215">AFP</charseq>
+      </name>
+      <name NAME="AFP">
+        <charseq START="3848" END="3850">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="220" END="229">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="229">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="4500" END="4509">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="4500" END="4509">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-10-2" ROLE="GPE">
+      <extent>
+        <charseq START="4709" END="4718">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="4709" END="4718">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Washington">
+        <charseq START="220" END="229">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="4500" END="4509">Washington</charseq>
+      </name>
+      <name NAME="Washington">
+        <charseq START="4709" END="4718">Washington</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-11" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-11-0">
+      <extent>
+        <charseq START="233" END="243">Middle East</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="243">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Middle East">
+        <charseq START="233" END="243">Middle East</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-0" ROLE="GPE">
+      <extent>
+        <charseq START="287" END="297">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="297">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-1" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="522">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="522">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-2" ROLE="GPE">
+      <extent>
+        <charseq START="630" END="640">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="630" END="640">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-3" ROLE="GPE">
+      <extent>
+        <charseq START="762" END="772">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="772">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-4" ROLE="GPE">
+      <extent>
+        <charseq START="1116" END="1126">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1116" END="1126">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-5" ROLE="GPE">
+      <extent>
+        <charseq START="1680" END="1690">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1680" END="1690">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-12-6" ROLE="GPE">
+      <extent>
+        <charseq START="1678" END="1696">a Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="1692" END="1696">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-7" ROLE="GPE">
+      <extent>
+        <charseq START="1813" END="1823">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1813" END="1823">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-8" ROLE="GPE">
+      <extent>
+        <charseq START="2052" END="2062">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2052" END="2062">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-9" ROLE="GPE">
+      <extent>
+        <charseq START="2148" END="2158">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2148" END="2158">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-10" ROLE="GPE">
+      <extent>
+        <charseq START="2310" END="2320">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2310" END="2320">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-11" ROLE="GPE">
+      <extent>
+        <charseq START="2536" END="2546">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2536" END="2546">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-12" ROLE="GPE">
+      <extent>
+        <charseq START="3333" END="3343">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3333" END="3343">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-13" ROLE="GPE">
+      <extent>
+        <charseq START="3422" END="3432">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3422" END="3432">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-14" ROLE="GPE">
+      <extent>
+        <charseq START="3631" END="3641">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3631" END="3641">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-15" ROLE="GPE">
+      <extent>
+        <charseq START="3815" END="3825">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="3815" END="3825">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-16" ROLE="GPE">
+      <extent>
+        <charseq START="4099" END="4109">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4099" END="4109">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-17" ROLE="GPE">
+      <extent>
+        <charseq START="4349" END="4359">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4349" END="4359">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-18" ROLE="GPE">
+      <extent>
+        <charseq START="4646" END="4656">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="4646" END="4656">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-12-19" ROLE="GPE">
+      <extent>
+        <charseq START="5128" END="5138">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5128" END="5138">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian">
+        <charseq START="287" END="297">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="512" END="522">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="630" END="640">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="762" END="772">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1116" END="1126">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1680" END="1690">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="1813" END="1823">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2052" END="2062">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2148" END="2158">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2310" END="2320">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="2536" END="2546">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3333" END="3343">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3422" END="3432">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3631" END="3641">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="3815" END="3825">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4099" END="4109">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4349" END="4359">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="4646" END="4656">Palestinian</charseq>
+      </name>
+      <name NAME="Palestinian">
+        <charseq START="5128" END="5138">Palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-13-0">
+      <extent>
+        <charseq START="287" END="305">Palestinian leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="305">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-14-0">
+      <extent>
+        <charseq START="404" END="421">Secretary of State</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="421">Secretary of State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-15-0">
+      <extent>
+        <charseq START="448" END="464">Islamic militants</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="464">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-16-0">
+      <extent>
+        <charseq START="500" END="532">Israeli
+and Palestinian officials</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="532">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-17-0">
+      <extent>
+        <charseq START="585" END="598">Israeli troops</charseq>
+      </extent>
+      <head>
+        <charseq START="593" END="598">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-18-0">
+      <extent>
+        <charseq START="605" END="627">selected occupied areas</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="627">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-19-0">
+      <extent>
+        <charseq START="630" END="650">Palestinian officials</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="650">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="659" END="668">Both sides</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="668">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-21-0">
+      <extent>
+        <charseq START="824" END="847">President George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="847">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-21-1">
+      <extent>
+        <charseq START="824" END="832">President</charseq>
+      </extent>
+      <head>
+        <charseq START="824" END="832">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-21-2">
+      <extent>
+        <charseq START="5009" END="5021">the
+president</charseq>
+      </extent>
+      <head>
+        <charseq START="5013" END="5021">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="George W. Bush">
+        <charseq START="834" END="847">George W. Bush</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-22-0" ROLE="GPE">
+      <extent>
+        <charseq START="871" END="875">Aqaba</charseq>
+      </extent>
+      <head>
+        <charseq START="871" END="875">Aqaba</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Aqaba">
+        <charseq START="871" END="875">Aqaba</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-23-0" ROLE="GPE">
+      <extent>
+        <charseq START="878" END="883">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="878" END="883">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-23-1" ROLE="GPE">
+      <extent>
+        <charseq START="1314" END="1319">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="1314" END="1319">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jordan">
+        <charseq START="878" END="883">Jordan</charseq>
+      </name>
+      <name NAME="Jordan">
+        <charseq START="1314" END="1319">Jordan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-24-0">
+      <extent>
+        <charseq START="887" END="923">An Israeli foreign ministry spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="923">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-25-0">
+      <extent>
+        <charseq START="906" END="913">ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="906" END="913">ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-26-0">
+      <extent>
+        <charseq START="982" END="1008">Prime Minister Ariel Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1008">Ariel Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-26-1">
+      <extent>
+        <charseq START="982" END="995">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="982" END="995">Prime Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-26-2">
+      <extent>
+        <charseq START="3111" END="3116">Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="3111" END="3116">Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-26-3">
+      <extent>
+        <charseq START="4412" END="4417">Sharon</charseq>
+      </extent>
+      <head>
+        <charseq START="4412" END="4417">Sharon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ariel Sharon">
+        <charseq START="997" END="1008">Ariel Sharon</charseq>
+      </name>
+      <name NAME="Sharon">
+        <charseq START="3111" END="3116">Sharon</charseq>
+      </name>
+      <name NAME="Sharon">
+        <charseq START="4412" END="4417">Sharon</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-27-0">
+      <extent>
+        <charseq START="1014" END="1043">Foreign Minister Silvan Shalom</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1043">Silvan Shalom</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-27-1">
+      <extent>
+        <charseq START="1014" END="1029">Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1014" END="1029">Foreign Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Silvan Shalom">
+        <charseq START="1031" END="1043">Silvan Shalom</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-28-0">
+      <extent>
+        <charseq START="1143" END="1154">Mahmud Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="1143" END="1154">Mahmud Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-28-1">
+      <extent>
+        <charseq START="1799" END="1803">Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="1799" END="1803">Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-28-2">
+      <extent>
+        <charseq START="2102" END="2106">Abbas</charseq>
+      </extent>
+      <head>
+        <charseq START="2102" END="2106">Abbas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-28-3">
+      <extent>
+        <charseq START="2213" END="2215">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2213" END="2215">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-28-4">
+      <extent>
+        <charseq START="2337" END="2339">His</charseq>
+      </extent>
+      <head>
+        <charseq START="2337" END="2339">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mahmud Abbas">
+        <charseq START="1143" END="1154">Mahmud Abbas</charseq>
+      </name>
+      <name NAME="Abbas">
+        <charseq START="1799" END="1803">Abbas</charseq>
+      </name>
+      <name NAME="Abbas">
+        <charseq START="2102" END="2106">Abbas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-29-0">
+      <extent>
+        <charseq START="1157" END="1180">His information minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1173" END="1180">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-30-0">
+      <extent>
+        <charseq START="1183" END="1191">Nabil Amr</charseq>
+      </extent>
+      <head>
+        <charseq START="1183" END="1191">Nabil Amr</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nabil Amr">
+        <charseq START="1183" END="1191">Nabil Amr</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-31-0" ROLE="GPE">
+      <extent>
+        <charseq START="1263" END="1270">Cambodia</charseq>
+      </extent>
+      <head>
+        <charseq START="1263" END="1270">Cambodia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Cambodia">
+        <charseq START="1263" END="1270">Cambodia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-32" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-32-0">
+      <extent>
+        <charseq START="1341" END="1364">the World Economic Forum</charseq>
+      </extent>
+      <head>
+        <charseq START="1345" END="1364">World Economic Forum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="World Economic Forum">
+        <charseq START="1345" END="1364">World Economic Forum</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-33-0" ROLE="GPE">
+      <extent>
+        <charseq START="1408" END="1440">quartet&quot; that drafted the
+roadmap</charseq>
+      </extent>
+      <head>
+        <charseq START="1408" END="1414">quartet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-34-0" ROLE="GPE">
+      <extent>
+        <charseq START="1443" END="1448">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1443" END="1448">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Russia">
+        <charseq START="1443" END="1448">Russia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-35" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-35-0">
+      <extent>
+        <charseq START="1451" END="1468">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1468">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United Nations">
+        <charseq START="1455" END="1468">United Nations</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-36" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-36-0" ROLE="GPE">
+      <extent>
+        <charseq START="1474" END="1487">European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="1474" END="1487">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="European Union">
+        <charseq START="1474" END="1487">European Union</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-37-0">
+      <extent>
+        <charseq START="1511" END="1538">senior US diplomat John Wolf</charseq>
+      </extent>
+      <head>
+        <charseq START="1530" END="1538">John Wolf</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-37-1">
+      <extent>
+        <charseq START="1521" END="1528">diplomat</charseq>
+      </extent>
+      <head>
+        <charseq START="1521" END="1528">diplomat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-37-2">
+      <extent>
+        <charseq START="1708" END="1726">Wolf, who conferred</charseq>
+      </extent>
+      <head>
+        <charseq START="1708" END="1711">Wolf</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Wolf">
+        <charseq START="1530" END="1538">John Wolf</charseq>
+      </name>
+      <name NAME="Wolf">
+        <charseq START="1708" END="1711">Wolf</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-38-0">
+      <extent>
+        <charseq START="1733" END="1751">top Israeli leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="1745" END="1751">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-39-0">
+      <extent>
+        <charseq START="1806" END="1854">senior Palestinian security chief
+Mohammed Dahlan</charseq>
+      </extent>
+      <head>
+        <charseq START="1840" END="1854">Mohammed Dahlan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-39-1">
+      <extent>
+        <charseq START="1834" END="1838">chief</charseq>
+      </extent>
+      <head>
+        <charseq START="1834" END="1838">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-39-2">
+      <extent>
+        <charseq START="3470" END="3475">Dahlan</charseq>
+      </extent>
+      <head>
+        <charseq START="3470" END="3475">Dahlan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammed Dahlan">
+        <charseq START="1840" END="1854">Mohammed Dahlan</charseq>
+      </name>
+      <name NAME="Dahlan">
+        <charseq START="3470" END="3475">Dahlan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-40-0">
+      <extent>
+        <charseq START="1861" END="1873">Amin al-Hindi</charseq>
+      </extent>
+      <head>
+        <charseq START="1861" END="1873">Amin al-Hindi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Amin al-Hindi">
+        <charseq START="1861" END="1873">Amin al-Hindi</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-41" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-41-0">
+      <extent>
+        <charseq START="1983" END="2017">a senior team of Egyptian mediators</charseq>
+      </extent>
+      <head>
+        <charseq START="1992" END="1995">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-42-0" ROLE="GPE">
+      <extent>
+        <charseq START="2000" END="2007">Egyptian</charseq>
+      </extent>
+      <head>
+        <charseq START="2000" END="2007">Egyptian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-42-1" ROLE="GPE">
+      <extent>
+        <charseq START="2477" END="2484">Egyptian</charseq>
+      </extent>
+      <head>
+        <charseq START="2477" END="2484">Egyptian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-42-2" ROLE="GPE">
+      <extent>
+        <charseq START="2966" END="2973">Egyptian</charseq>
+      </extent>
+      <head>
+        <charseq START="2966" END="2973">Egyptian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Egyptian">
+        <charseq START="2000" END="2007">Egyptian</charseq>
+      </name>
+      <name NAME="Egyptian">
+        <charseq START="2477" END="2484">Egyptian</charseq>
+      </name>
+      <name NAME="Egyptian">
+        <charseq START="2966" END="2973">Egyptian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-43-0" ROLE="GPE">
+      <extent>
+        <charseq START="2000" END="2017">Egyptian mediators</charseq>
+      </extent>
+      <head>
+        <charseq START="2009" END="2017">mediators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-44-0">
+      <extent>
+        <charseq START="2052" END="2072">Palestinian militants</charseq>
+      </extent>
+      <head>
+        <charseq START="2064" END="2072">militants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-45-0">
+      <extent>
+        <charseq START="2136" END="2167">all 13 main Palestinian factions</charseq>
+      </extent>
+      <head>
+        <charseq START="2160" END="2167">factions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-46" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-46-0">
+      <extent>
+        <charseq START="2285" END="2289">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="2285" END="2289">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-46-1">
+      <extent>
+        <charseq START="2910" END="2914">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="2910" END="2914">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-46-2">
+      <extent>
+        <charseq START="4560" END="4564">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4560" END="4564">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-46-3">
+      <extent>
+        <charseq START="4874" END="4878">Hamas</charseq>
+      </extent>
+      <head>
+        <charseq START="4874" END="4878">Hamas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Hamas">
+        <charseq START="2285" END="2289">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="2910" END="2914">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="4560" END="4564">Hamas</charseq>
+      </name>
+      <name NAME="Hamas">
+        <charseq START="4874" END="4878">Hamas</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-47" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-47-0">
+      <extent>
+        <charseq START="2295" END="2307">Islamic
+Jihad</charseq>
+      </extent>
+      <head>
+        <charseq START="2295" END="2307">Islamic
+Jihad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Islamic Jihad">
+        <charseq START="2295" END="2307">Islamic
+Jihad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-48-0">
+      <extent>
+        <charseq START="2310" END="2328">Palestinian sources</charseq>
+      </extent>
+      <head>
+        <charseq START="2322" END="2328">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-49-0">
+      <extent>
+        <charseq START="2337" END="2356">His culture minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2349" END="2356">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-50-0">
+      <extent>
+        <charseq START="2359" END="2370">Ziad Abu Amr</charseq>
+      </extent>
+      <head>
+        <charseq START="2359" END="2370">Ziad Abu Amr</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ziad Abu Amr">
+        <charseq START="2359" END="2370">Ziad Abu Amr</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-51-0" ROLE="GPE">
+      <extent>
+        <charseq START="2378" END="2391">the government</charseq>
+      </extent>
+      <head>
+        <charseq START="2382" END="2391">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-51-1" ROLE="GPE">
+      <extent>
+        <charseq START="4533" END="4546">the
+government</charseq>
+      </extent>
+      <head>
+        <charseq START="4537" END="4546">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-52" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-52-0">
+      <extent>
+        <charseq START="2464" END="2473">any
+party&quot;</charseq>
+      </extent>
+      <head>
+        <charseq START="2468" END="2472">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-53-0">
+      <extent>
+        <charseq START="2477" END="2513">Egyptian Foreign Minister Ahmed Maher</charseq>
+      </extent>
+      <head>
+        <charseq START="2503" END="2513">Ahmed Maher</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-53-1">
+      <extent>
+        <charseq START="2486" END="2501">Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2486" END="2501">Foreign Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ahmed Maher">
+        <charseq START="2503" END="2513">Ahmed Maher</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-54" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-54-0">
+      <extent>
+        <charseq START="2532" END="2555">the
+Palestinian factions</charseq>
+      </extent>
+      <head>
+        <charseq START="2548" END="2555">factions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-55-0">
+      <extent>
+        <charseq START="2577" END="2585">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="2577" END="2585">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-56-0">
+      <extent>
+        <charseq START="2807" END="2820">Israeli troops</charseq>
+      </extent>
+      <head>
+        <charseq START="2815" END="2820">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-57" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-57-0">
+      <extent>
+        <charseq START="2827" END="2849">parts of the Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="2827" END="2831">parts</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-58" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-58-0">
+      <extent>
+        <charseq START="2836" END="2849">the Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="2840" END="2849">Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-58-1">
+      <extent>
+        <charseq START="3539" END="3552">the Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="3543" END="3552">Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-58-2">
+      <extent>
+        <charseq START="3733" END="3755">the northern Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="3746" END="3755">Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-58-3">
+      <extent>
+        <charseq START="4036" END="4048">northern Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="4045" END="4048">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-58-4">
+      <extent>
+        <charseq START="4405" END="4408">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="4405" END="4408">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gaza Strip">
+        <charseq START="2840" END="2849">Gaza Strip</charseq>
+      </name>
+      <name NAME="Gaza Strip">
+        <charseq START="3543" END="3552">Gaza Strip</charseq>
+      </name>
+      <name NAME="Gaza Strip">
+        <charseq START="3746" END="3755">Gaza Strip</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="4045" END="4048">Gaza</charseq>
+      </name>
+      <name NAME="Gaza">
+        <charseq START="4405" END="4408">Gaza</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-59" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-59-0" ROLE="GPE">
+      <extent>
+        <charseq START="2885" END="2893">Bethlehem</charseq>
+      </extent>
+      <head>
+        <charseq START="2885" END="2893">Bethlehem</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-59-1" ROLE="GPE">
+      <extent>
+        <charseq START="2863" END="2893">the West Bank town of
+Bethlehem</charseq>
+      </extent>
+      <head>
+        <charseq START="2877" END="2880">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Bethlehem">
+        <charseq START="2885" END="2893">Bethlehem</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-60" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-60-0">
+      <extent>
+        <charseq START="2867" END="2875">West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="2867" END="2875">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="West Bank">
+        <charseq START="2867" END="2875">West Bank</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-61-0">
+      <extent>
+        <charseq START="2901" END="2921">a senior Hamas leader</charseq>
+      </extent>
+      <head>
+        <charseq START="2916" END="2921">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-62" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-62-0">
+      <extent>
+        <charseq START="2957" END="2984">a senior
+Egyptian delegation</charseq>
+      </extent>
+      <head>
+        <charseq START="2975" END="2984">delegation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-63" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-63-0">
+      <extent>
+        <charseq START="3162" END="3171">parliament</charseq>
+      </extent>
+      <head>
+        <charseq START="3162" END="3171">parliament</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030617.0720-63-1">
+      <extent>
+        <charseq START="3176" END="3178">its</charseq>
+      </extent>
+      <head>
+        <charseq START="3176" END="3178">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="parliament">
+        <charseq START="3162" END="3171">parliament</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-64-0">
+      <extent>
+        <charseq START="3322" END="3353">Israel and Palestinian officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3345" END="3353">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-65-0">
+      <extent>
+        <charseq START="3422" END="3442">Palestinian officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3434" END="3442">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-66" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-66-0">
+      <extent>
+        <charseq START="3451" END="3463">The officials</charseq>
+      </extent>
+      <head>
+        <charseq START="3455" END="3463">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-67-0">
+      <extent>
+        <charseq START="3481" END="3509">General Abdelrazak al-Majaida</charseq>
+      </extent>
+      <head>
+        <charseq START="3489" END="3509">Abdelrazak al-Majaida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-67-1">
+      <extent>
+        <charseq START="3481" END="3487">General</charseq>
+      </extent>
+      <head>
+        <charseq START="3481" END="3487">General</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Abdelrazak al-Majaida">
+        <charseq START="3489" END="3509">Abdelrazak al-Majaida</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-68-0">
+      <extent>
+        <charseq START="3586" END="3595">Amos Gilad</charseq>
+      </extent>
+      <head>
+        <charseq START="3586" END="3595">Amos Gilad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Amos Gilad">
+        <charseq START="3586" END="3595">Amos Gilad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-69-0">
+      <extent>
+        <charseq START="3598" END="3622">coordinator of activities</charseq>
+      </extent>
+      <head>
+        <charseq START="3598" END="3608">coordinator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-70" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-70-0" ROLE="GPE">
+      <extent>
+        <charseq START="3627" END="3653">the Palestinian territories</charseq>
+      </extent>
+      <head>
+        <charseq START="3643" END="3653">territories</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-71-0">
+      <extent>
+        <charseq START="3668" END="3679">the Israelis</charseq>
+      </extent>
+      <head>
+        <charseq START="3672" END="3679">Israelis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israelis">
+        <charseq START="3672" END="3679">Israelis</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-72" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-72-0">
+      <extent>
+        <charseq START="3712" END="3728">the Erez
+crossing</charseq>
+      </extent>
+      <head>
+        <charseq START="3721" END="3728">crossing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-73" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-73-0" ROLE="GPE">
+      <extent>
+        <charseq START="3716" END="3719">Erez</charseq>
+      </extent>
+      <head>
+        <charseq START="3716" END="3719">Erez</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Erez">
+        <charseq START="3716" END="3719">Erez</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-74-0">
+      <extent>
+        <charseq START="3806" END="3841">A senior Palestinian security source</charseq>
+      </extent>
+      <head>
+        <charseq START="3836" END="3841">source</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-75" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-75-0">
+      <extent>
+        <charseq START="3930" END="3959">Israeli defence sources quoted</charseq>
+      </extent>
+      <head>
+        <charseq START="3946" END="3952">sources</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-76" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-76-0">
+      <extent>
+        <charseq START="3964" END="3967">army</charseq>
+      </extent>
+      <head>
+        <charseq START="3964" END="3967">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="army">
+        <charseq START="3964" END="3967">army</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-77" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-77-0" ROLE="GPE">
+      <extent>
+        <charseq START="3985" END="3997">the two sides</charseq>
+      </extent>
+      <head>
+        <charseq START="3993" END="3997">sides</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-78" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-78-0">
+      <extent>
+        <charseq START="4095" END="4125">the Palestinian security forces</charseq>
+      </extent>
+      <head>
+        <charseq START="4120" END="4125">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-79" TYPE="LOC" SUBTYPE="Region-General" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-79-0">
+      <extent>
+        <charseq START="4251" END="4269">any areas evacuated</charseq>
+      </extent>
+      <head>
+        <charseq START="4255" END="4259">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-80-0">
+      <extent>
+        <charseq START="4274" END="4287">Israeli forces</charseq>
+      </extent>
+      <head>
+        <charseq START="4282" END="4287">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-81" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-81-0">
+      <extent>
+        <charseq START="4349" END="4366">Palestinian groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4361" END="4366">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-82" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-82-0">
+      <extent>
+        <charseq START="4385" END="4390">rocket</charseq>
+      </extent>
+      <head>
+        <charseq START="4385" END="4390">rocket</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-83-0">
+      <extent>
+        <charseq START="4412" END="4434">Sharon&apos;s chief of staff</charseq>
+      </extent>
+      <head>
+        <charseq START="4421" END="4425">chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-84-0">
+      <extent>
+        <charseq START="4430" END="4434">staff</charseq>
+      </extent>
+      <head>
+        <charseq START="4430" END="4434">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-85" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-85-0">
+      <extent>
+        <charseq START="4580" END="4592">Israeli media</charseq>
+      </extent>
+      <head>
+        <charseq START="4588" END="4592">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-86" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-86-0">
+      <extent>
+        <charseq START="4646" END="4663">Palestinian groups</charseq>
+      </extent>
+      <head>
+        <charseq START="4658" END="4663">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-87-0">
+      <extent>
+        <charseq START="4797" END="4841">US State Department spokesman Richard Boucher</charseq>
+      </extent>
+      <head>
+        <charseq START="4827" END="4841">Richard Boucher</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-87-1">
+      <extent>
+        <charseq START="4817" END="4825">spokesman</charseq>
+      </extent>
+      <head>
+        <charseq START="4817" END="4825">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-87-2">
+      <extent>
+        <charseq START="5083" END="5089">Boucher</charseq>
+      </extent>
+      <head>
+        <charseq START="5083" END="5089">Boucher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Richard Boucher">
+        <charseq START="4827" END="4841">Richard Boucher</charseq>
+      </name>
+      <name NAME="Boucher">
+        <charseq START="5083" END="5089">Boucher</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-88" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-88-0">
+      <extent>
+        <charseq START="4884" END="4913">other militant groups that
+are</charseq>
+      </extent>
+      <head>
+        <charseq START="4899" END="4904">groups</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-89" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-89-0">
+      <extent>
+        <charseq START="5158" END="5172">top
+Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="5162" END="5172">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030617.0720-89-1">
+      <extent>
+        <charseq START="5158" END="5160">top</charseq>
+      </extent>
+      <head>
+        <charseq START="5158" END="5160">top</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Palestinian">
+        <charseq START="5162" END="5172">Palestinian</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030617.0720-90" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030617.0720-90-0">
+      <extent>
+        <charseq START="5174" END="5197">militant Marwan Barghuti</charseq>
+      </extent>
+      <head>
+        <charseq START="5183" END="5197">Marwan Barghuti</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Marwan Barghuti">
+        <charseq START="5183" END="5197">Marwan Barghuti</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030617.0720-V16" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030617.0720-V16-1">
+      <extent>
+        <charseq START="4229" END="4246">charge of security</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030617.0720-V21" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030617.0720-V21-1">
+      <extent>
+        <charseq START="5223" END="5228">murder</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030617.0720-T0" VAL="2003-06-17">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030617</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T1" VAL="2003-06-17">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T1-1">
+      <extent>
+        <charseq START="204" END="210">June 17</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T2" VAL="2003-06-17">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T2-1">
+      <extent>
+        <charseq START="307" END="313">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T3" VAL="2003-W25">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T3-1">
+      <extent>
+        <charseq START="388" END="396">this
+week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T4" VAL="2003-06-04">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T4-1">
+      <extent>
+        <charseq START="854" END="859">June 4</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T5" VAL="2003-06-13">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T5-1">
+      <extent>
+        <charseq START="960" END="965">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T6" VAL="2003-06-15">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T6-1">
+      <extent>
+        <charseq START="1304" END="1309">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T7" VAL="2005">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T7-1">
+      <extent>
+        <charseq START="1701" END="1704">2005</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T8" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T8-1">
+      <extent>
+        <charseq START="1753" END="1758">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T9" VAL="PT3H">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T9-1">
+      <extent>
+        <charseq START="1769" END="1779">three
+hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T10" VAL="2003-06-17">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T10-1">
+      <extent>
+        <charseq START="1786" END="1792">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T11" VAL="2003-W24">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T11-1">
+      <extent>
+        <charseq START="2677" END="2685">last week</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T12" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T12-1">
+      <extent>
+        <charseq START="2720" END="2725">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T13" VAL="P2D">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T13-1">
+      <extent>
+        <charseq START="2934" END="2941">two days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T14" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T14-1">
+      <extent>
+        <charseq START="3146" END="3151">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T15" VAL="2003-06-17">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T15-1">
+      <extent>
+        <charseq START="3359" END="3365">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T16" VAL="PXD">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T16-1">
+      <extent>
+        <charseq START="4164" END="4174">coming days</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T17" VAL="2003-06-17">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T17-1">
+      <extent>
+        <charseq START="4514" END="4520">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T18" VAL="2003-06-16">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T18-1">
+      <extent>
+        <charseq START="4848" END="4853">Monday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030617.0720-T19" VAL="PT48H">
+    <timex2_mention ID="AFP_ENG_20030617.0720-T19-1">
+      <extent>
+        <charseq START="5253" END="5260">48 hours</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030617.0720-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-2" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R1-1">
+      <extent>
+        <charseq START="51" END="58">US envoy</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-2-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="54" END="58">envoy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-1-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="51" END="52">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-13" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R2-1">
+      <extent>
+        <charseq START="287" END="305">Palestinian leaders</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-13-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="287" END="305">Palestinian leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="287" END="297">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R3-1">
+      <extent>
+        <charseq START="500" END="532">Israeli
+and Palestinian officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="500" END="532">Israeli
+and Palestinian officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="500" END="506">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R4" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R4-1">
+      <extent>
+        <charseq START="500" END="532">Israeli
+and Palestinian officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="500" END="532">Israeli
+and Palestinian officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="512" END="522">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-17" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R5-1">
+      <extent>
+        <charseq START="585" END="598">Israeli troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="585" END="598">Israeli troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="585" END="591">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030617.0720-17" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-18" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R6-1">
+      <extent>
+        <charseq START="585" END="627">Israeli troops from selected occupied areas</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="585" END="598">Israeli troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="605" END="627">selected occupied areas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R7" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-19" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R7-1">
+      <extent>
+        <charseq START="630" END="650">Palestinian officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="630" END="650">Palestinian officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="630" END="640">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030617.0720-25" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R8-1">
+      <extent>
+        <charseq START="890" END="913">Israeli foreign ministry</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="906" END="913">ministry</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="890" END="896">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R9" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-24" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R9-1">
+      <extent>
+        <charseq START="887" END="923">An Israeli foreign ministry spokesman</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="887" END="923">An Israeli foreign ministry spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="890" END="896">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-24" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-25" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R10-1">
+      <extent>
+        <charseq START="887" END="923">An Israeli foreign ministry spokesman</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-24-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="887" END="923">An Israeli foreign ministry spokesman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-25-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="906" END="913">ministry</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R11" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="AFP_ENG_20030617.0720-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-29" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R11-1">
+      <extent>
+        <charseq START="1157" END="1180">His information minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-5-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="1157" END="1159">His</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-29-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1157" END="1180">His information minister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R12" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-37" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-1" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R12-1">
+      <extent>
+        <charseq START="1518" END="1528">US diplomat</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-37-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1521" END="1528">diplomat</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-1-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1518" END="1519">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-38" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R13-1">
+      <extent>
+        <charseq START="1733" END="1751">top Israeli leaders</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-38-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1733" END="1751">top Israeli leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-6" ROLE="Arg-2">
+          <extent>
+            <charseq START="1737" END="1743">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R14" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-39" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R14-1">
+      <extent>
+        <charseq START="1806" END="1854">senior Palestinian security chief
+Mohammed Dahlan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-39-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1806" END="1854">senior Palestinian security chief
+Mohammed Dahlan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="1813" END="1823">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R15" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030617.0720-41" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-43" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R15-1">
+      <extent>
+        <charseq START="1983" END="2017">a senior team of Egyptian mediators</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-41-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1983" END="2017">a senior team of Egyptian mediators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-43-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2000" END="2017">Egyptian mediators</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-44" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R16-1">
+      <extent>
+        <charseq START="2052" END="2072">Palestinian militants</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-44-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2052" END="2072">Palestinian militants</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-8" ROLE="Arg-2">
+          <extent>
+            <charseq START="2052" END="2062">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R17" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-45" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R17-1">
+      <extent>
+        <charseq START="2136" END="2167">all 13 main Palestinian factions</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2136" END="2167">all 13 main Palestinian factions</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="2148" END="2158">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R18" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030617.0720-45" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R18-1">
+      <extent>
+        <charseq START="2136" END="2180">all 13 main Palestinian factions in
+Gaza City</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-45-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2136" END="2167">all 13 main Palestinian factions</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2172" END="2180">Gaza City</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R19" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-48" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R19-1">
+      <extent>
+        <charseq START="2310" END="2328">Palestinian sources</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-48-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2310" END="2328">Palestinian sources</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-10" ROLE="Arg-2">
+          <extent>
+            <charseq START="2310" END="2320">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R20" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="AFP_ENG_20030617.0720-28" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-49" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R20-1">
+      <extent>
+        <charseq START="2337" END="2356">His culture minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-28-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="2337" END="2339">His</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-49-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2337" END="2356">His culture minister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R21" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-53" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-42" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R21-1">
+      <extent>
+        <charseq START="2477" END="2501">Egyptian Foreign Minister</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-53-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2486" END="2501">Foreign Minister</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-42-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2477" END="2484">Egyptian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R22" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-54" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R22-1">
+      <extent>
+        <charseq START="2532" END="2555">the
+Palestinian factions</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-54-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2532" END="2555">the
+Palestinian factions</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-11" ROLE="Arg-2">
+          <extent>
+            <charseq START="2536" END="2546">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R23" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-56" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R23-1">
+      <extent>
+        <charseq START="2807" END="2820">Israeli troops</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-56-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2807" END="2820">Israeli troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-7" ROLE="Arg-2">
+          <extent>
+            <charseq START="2807" END="2813">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R24" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030617.0720-56" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-57" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R24-1">
+      <extent>
+        <charseq START="2807" END="2849">Israeli troops
+from parts of the Gaza Strip</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-56-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2807" END="2820">Israeli troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-57-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2827" END="2849">parts of the Gaza Strip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R25" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030617.0720-56" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R25-1">
+      <extent>
+        <charseq START="2807" END="2849">Israeli troops
+from parts of the Gaza Strip</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-56-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2807" END="2820">Israeli troops</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-58-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2836" END="2849">the Gaza Strip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R26" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030617.0720-57" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R26-1">
+      <extent>
+        <charseq START="2827" END="2849">parts of the Gaza Strip</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-57-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2827" END="2849">parts of the Gaza Strip</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-58-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2836" END="2849">the Gaza Strip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R27" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030617.0720-59" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-60" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R27-1">
+      <extent>
+        <charseq START="2863" END="2893">the West Bank town of
+Bethlehem</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-59-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2863" END="2893">the West Bank town of
+Bethlehem</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-60-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="2867" END="2875">West Bank</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R28" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-61" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-46" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R28-1">
+      <extent>
+        <charseq START="2901" END="2921">a senior Hamas leader</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-61-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2901" END="2921">a senior Hamas leader</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-46-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2910" END="2914">Hamas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R29" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-62" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-42" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R29-1">
+      <extent>
+        <charseq START="2957" END="2984">a senior
+Egyptian delegation</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-62-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="2957" END="2984">a senior
+Egyptian delegation</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-42-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="2966" END="2973">Egyptian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R30" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-64" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R30-1">
+      <extent>
+        <charseq START="3322" END="3353">Israel and Palestinian officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-64-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3322" END="3353">Israel and Palestinian officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-9" ROLE="Arg-2">
+          <extent>
+            <charseq START="3322" END="3327">Israel</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R31" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-64" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R31-1">
+      <extent>
+        <charseq START="3322" END="3353">Israel and Palestinian officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-64-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3322" END="3353">Israel and Palestinian officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-12" ROLE="Arg-2">
+          <extent>
+            <charseq START="3333" END="3343">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R32" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-65" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R32-1">
+      <extent>
+        <charseq START="3422" END="3442">Palestinian officials</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-65-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3422" END="3442">Palestinian officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-13" ROLE="Arg-2">
+          <extent>
+            <charseq START="3422" END="3432">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R33" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030617.0720-70" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R33-1">
+      <extent>
+        <charseq START="3627" END="3653">the Palestinian territories</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-70-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3627" END="3653">the Palestinian territories</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-14" ROLE="Arg-2">
+          <extent>
+            <charseq START="3631" END="3641">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R34" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="AFP_ENG_20030617.0720-73" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-72" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R34-1">
+      <extent>
+        <charseq START="3712" END="3728">the Erez
+crossing</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-73-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3716" END="3719">Erez</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-72-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="3712" END="3728">the Erez
+crossing</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R35" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030617.0720-72" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R35-1">
+      <extent>
+        <charseq START="3712" END="3755">the Erez
+crossing in the northern Gaza Strip</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-72-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3712" END="3728">the Erez
+crossing</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-58-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="3733" END="3755">the northern Gaza Strip</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R36" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-74" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R36-1">
+      <extent>
+        <charseq START="3806" END="3841">A senior Palestinian security source</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-74-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3806" END="3841">A senior Palestinian security source</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-15" ROLE="Arg-2">
+          <extent>
+            <charseq START="3815" END="3825">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R37" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030617.0720-75" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R37-1">
+      <extent>
+        <charseq START="3930" END="3959">Israeli defence sources quoted</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-75-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="3930" END="3959">Israeli defence sources quoted</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-12" ROLE="Arg-2">
+          <extent>
+            <charseq START="3930" END="3936">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R38" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-78" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R38-1">
+      <extent>
+        <charseq START="4095" END="4125">the Palestinian security forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-78-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4095" END="4125">the Palestinian security forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-16" ROLE="Arg-2">
+          <extent>
+            <charseq START="4099" END="4109">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R39" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030617.0720-80" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R39-1">
+      <extent>
+        <charseq START="4274" END="4287">Israeli forces</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-80-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4274" END="4287">Israeli forces</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-14" ROLE="Arg-2">
+          <extent>
+            <charseq START="4274" END="4280">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R40" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030617.0720-81" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R40-1">
+      <extent>
+        <charseq START="4349" END="4366">Palestinian groups</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-81-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4349" END="4366">Palestinian groups</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-17" ROLE="Arg-2">
+          <extent>
+            <charseq START="4349" END="4359">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R41" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030617.0720-26" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-83" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R41-1">
+      <extent>
+        <charseq START="4412" END="4434">Sharon&apos;s chief of staff</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-26-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="4412" END="4417">Sharon</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-83-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4412" END="4434">Sharon&apos;s chief of staff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R42" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030617.0720-83" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-84" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R42-1">
+      <extent>
+        <charseq START="4412" END="4434">Sharon&apos;s chief of staff</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-83-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4412" END="4434">Sharon&apos;s chief of staff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-84-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="4430" END="4434">staff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R43" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030617.0720-85" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R43-1">
+      <extent>
+        <charseq START="4580" END="4592">Israeli media</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-85-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4580" END="4592">Israeli media</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-4-17" ROLE="Arg-2">
+          <extent>
+            <charseq START="4580" END="4586">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030617.0720-R44" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030617.0720-86" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030617.0720-R44-1">
+      <extent>
+        <charseq START="4646" END="4663">Palestinian groups</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-86-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="4646" END="4663">Palestinian groups</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030617.0720-12-18" ROLE="Arg-2">
+          <extent>
+            <charseq START="4646" END="4656">Palestinian</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030617.0720-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Destination"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-5" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV1-1">
+      <extent>
+        <charseq START="115" END="119">visit</charseq>
+      </extent>
+      <anchor>
+        <charseq START="115" END="119">visit</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-4-0" ROLE="Destination"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-5-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-74" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-71" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-62" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-55" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-44" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-13" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-T2" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-6" ROLE="Entity"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-1">
+      <extent>
+        <charseq START="264" END="280">his first meeting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="274" END="280">meeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-6-1" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-2">
+      <extent>
+        <charseq START="342" END="346">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="342" END="346">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-13-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-3">
+      <extent>
+        <charseq START="1948" END="1952">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1948" END="1952">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-44-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-4">
+      <extent>
+        <charseq START="2520" END="2524">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2520" END="2524">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-55-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-5">
+      <extent>
+        <charseq START="2946" END="2984">talks with a senior
+Egyptian delegation</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2946" END="2950">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-62-0" ROLE="Entity"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-6">
+      <extent>
+        <charseq START="3688" END="3692">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3688" END="3692">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-71-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-58-2" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV2-7">
+      <extent>
+        <charseq START="3856" END="3862">meeting</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3856" END="3862">meeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-74-0" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-14" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV4-1">
+      <extent>
+        <charseq START="382" END="386">visit</charseq>
+      </extent>
+      <anchor>
+        <charseq START="382" END="386">visit</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-4-1" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-14-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-17" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-18" ROLE="Origin"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV5-1">
+      <extent>
+        <charseq START="571" END="627">withdrawal of Israeli troops from selected occupied areas</charseq>
+      </extent>
+      <anchor>
+        <charseq START="571" END="580">withdrawal</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-17-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-18-0" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-12" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV6-1">
+      <extent>
+        <charseq START="733" END="740">violence</charseq>
+      </extent>
+      <anchor>
+        <charseq START="733" END="740">violence</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV6-2">
+      <extent>
+        <charseq START="762" END="781">Palestinian uprising</charseq>
+      </extent>
+      <anchor>
+        <charseq START="774" END="781">uprising</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-12-3" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV8" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-22" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-23" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-T4" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV8-1">
+      <extent>
+        <charseq START="861" END="875">summit in Aqaba</charseq>
+      </extent>
+      <anchor>
+        <charseq START="861" END="866">summit</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-22-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-23-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV9" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-26" ROLE="Entity"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV9-1">
+      <extent>
+        <charseq START="960" END="995">Friday for talks with Prime Minister</charseq>
+      </extent>
+      <anchor>
+        <charseq START="971" END="975">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-26-1" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-30" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV10-1">
+      <extent>
+        <charseq START="1207" END="1211">visit</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1207" END="1211">visit</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-30-0" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV11" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-23" ROLE="Origin"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-T6" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-5" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV11-1">
+      <extent>
+        <charseq START="1277" END="1282">flying</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1277" END="1282">flying</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-23-1" ROLE="Origin"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-5-5" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV12" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-1" ROLE="Destination"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-5" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV12-1">
+      <extent>
+        <charseq START="1495" END="1501">travels</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1495" END="1501">travels</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-1-3" ROLE="Destination"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-5-6" ROLE="Artifact"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-T11" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV15-1">
+      <extent>
+        <charseq START="2636" END="2643">violence</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2636" END="2643">violence</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T11-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV16" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-T12" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV16-1">
+      <extent>
+        <charseq START="2763" END="2767">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2763" END="2767">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T12-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-56" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-57" ROLE="Origin"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV17-1">
+      <extent>
+        <charseq START="2793" END="2849">withdrawal of Israeli troops
+from parts of the Gaza Strip</charseq>
+      </extent>
+      <anchor>
+        <charseq START="2793" END="2802">withdrawal</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-56-0" ROLE="Artifact"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-57-0" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV19" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030617.0720-EV19-1">
+      <extent>
+        <charseq START="3057" END="3063">attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3057" END="3063">attacks</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV20" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_mention ID="AFP_ENG_20030617.0720-EV20-1">
+      <extent>
+        <charseq START="3234" END="3241">conflict</charseq>
+      </extent>
+      <anchor>
+        <charseq START="3234" END="3241">conflict</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV23" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-4" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Origin"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV23-1">
+      <extent>
+        <charseq START="4012" END="4029">Israeli withdrawal</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4020" END="4029">withdrawal</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-4-13" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-58-3" ROLE="Origin"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV24" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-78" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV24-1">
+      <extent>
+        <charseq START="4056" END="4063">takeover</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4056" END="4063">takeover</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-78-0" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-58-3" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV25" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-3" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-V16" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-79" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV25-1">
+      <extent>
+        <charseq START="4229" END="4234">charge</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4229" END="4234">charge</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-3-1" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-V16-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-79-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV26" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-79" ROLE="Destination"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-80" ROLE="Agent"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV26-1">
+      <extent>
+        <charseq START="4261" END="4269">evacuated</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4261" END="4269">evacuated</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-79-0" ROLE="Destination"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-80-0" ROLE="Agent"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV27" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-81" ROLE="Attacker"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-82" ROLE="Instrument"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-58" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV27-1">
+      <extent>
+        <charseq START="4378" END="4383">launch</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4378" END="4383">launch</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-81-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-82-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-58-4" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030617.0720-EV27-2">
+      <extent>
+        <charseq START="4392" END="4398">attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="4392" END="4398">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-81-0" ROLE="Attacker"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-82-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-58-4" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV29" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-87" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV29-1">
+      <extent>
+        <charseq START="5073" END="5079">attacks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5073" END="5079">attacks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-87-2" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030617.0720-EV30" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030617.0720-V21" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-T19" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030617.0720-90" ROLE="Defendant"/>
+    <event_mention ID="AFP_ENG_20030617.0720-EV30-1">
+      <extent>
+        <charseq START="5213" END="5228">trial for murder</charseq>
+      </extent>
+      <anchor>
+        <charseq START="5213" END="5217">trial</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-V21-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-T19-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030617.0720-90-0" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

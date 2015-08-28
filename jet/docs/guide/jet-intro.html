@@ -1,0 +1,294 @@
+<!DOCTYPE HTML PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="Author" content="Ralph Grishman">
+  <title>An Introduction to Jet</title>
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h1>An Introduction to Jet:  Interactive Use</h4>
+
+<p>
+Jet can be used in two ways ... processing individual documents 
+interactively for instructional and development purposes, and 
+processing large volumes of text for data mining.  This tutorial
+section provides an introduction to Jet using its interactive capabilities.  
+All of the sample property files and language resources are provided 
+as part of the standard Jet distribution.
+</p>
+
+<h2>1. Getting Started: Parsing Sentences with a Simple Grammar</h2>
+<p>
+We will begin by parsing a few sentences with a very simple grammar.
+Each sentence goes through 3 stages of processing: tokenization;
+dictionary look-up; and parsing. Two 'resource files' are
+involved: a grammar and a lexicon. Jet's operation is controlled
+by a properties file; the Jet properties file must specify
+the resource file names, and the processing steps for each sentence
+(tokenization is automatic for sentences entered from the console):
+<blockquote>
+<tt>Jet.dataPath&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= </tt><i>directory with grammars and dictionaries</i> <br>
+  <tt>Grammar.fileName&nbsp;&nbsp;&nbsp;&nbsp; = </tt><i>grammar file
+name</i> <br>
+  <tt>EnglishLex.fileName1 = </tt><i>dictionary file name</i> <br>
+  <tt>processSentence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = lexLookup, parse<br>
+  </tt>
+</blockquote>
+The Jet distribution includes a grammar, '<tt>grammar1.txt</tt>',
+a dictionary, '<tt>tiny1.dict</tt>', and a properties file 
+'<tt>tinyParse.jet</tt>', shown here:
+<blockquote>
+<tt>Jet.dataPath&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = data <br>
+  Grammar.fileName&nbsp;&nbsp;&nbsp;&nbsp; = grammar1.txt <br>
+  EnglishLex.fileName1 = tiny1.dict <br>
+  processSentence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = lexLookup, parse<br>
+</tt>
+</blockquote>
+After
+installing Jet, type <tt>jet</tt> into a command window,
+select&nbsp;<span style="font-family: monospace;">tinyParse.jet</span>
+as your properties file, and you are ready to go.  
+<p>
+Note that resource files are generally loaded from the directory
+specified by <tt>Jet.dataPath</tt> (in this case, directory <tt>data</tt>)
+relative to the Jet home directory. To use a file from your own
+current directory, prefix the file name with "<tt>./</tt>".
+For example, if you put a copy of the dictionary in your local directory
+you would change the third line to 
+<tt>EnglishLex.fileName1 = ./tiny1.dict</tt>
+
+</p>
+
+<h4> Resource file formats</h4>
+The resource files (grammar and lexicon) are free format:&nbsp; spaces,
+tabs, and newlines may be used freely.&nbsp; Definitions in the grammar
+and lexicon must end with semicolons (;).&nbsp; Java-style comments
+(both // and /* ... */) are allowed.
+
+<h4>Format of the lexicon:</h4>
+Each word which appears in a sentence must be defined in the lexicon,
+or the parser will fail.&nbsp; Each definition has the form
+<blockquote><i>word</i><tt>,, cat = </tt><i>part-of-speech</i>;</blockquote>
+where <i>part-of-speech</i> is some pre-terminal symbol in the
+grammar.  For example,
+<blockquote><tt>my,,&nbsp; cat = art;</tt> <br>
+  <tt>old,,&nbsp; cat = adj;</tt> <br>
+  <tt>cat,,&nbsp; cat = n;</tt> <br>
+  <tt>cats,, cat = n;</tt> <br>
+  <tt>chases,, cat = v;</tt> <br>
+  <tt>mouse,, cat = n;</tt> <br>
+  <tt>mice,, cat = n;</tt></blockquote>
+
+<h4>Format of the grammar:</h4>
+The grammar consists of a set of definitions, where each definition has
+the form
+<blockquote>symbol := element element ... | element element ... | ... ;</blockquote>
+and each element is either a non-terminal symbol (defined elsewhere in
+the grammar), a pre-terminal symbol (defined in the lexicon), or a string
+(enclose in double quotes).&nbsp; For example,
+<blockquote><tt>sentence :=&nbsp; np vp;</tt> <br>
+  <tt>np&nbsp; :=&nbsp; n | art n | art adj n;</tt> <br>
+  <tt>vp&nbsp; :=&nbsp; v | v np | v np "to" np;</tt></blockquote>
+Note that this grammar does not include a sentence endmark (period),
+so the sentences you type in should not include a period.
+
+<h4> Jet Console</h4>
+Sentences will be entered, and results displayed, using the Jet
+console.&nbsp;
+At the bottom, the console contains a single line for entering
+sentences.&nbsp;
+The main part of the console is a scrolling text window which displays
+system output.&nbsp; At top are the Jet menus.&nbsp; The Parser menu
+allows you to select the parser to be used:
+<ul>
+  <li>a top-down, backtracking recognizer (which does not produce a parse tree)</li>
+  <li>a top-down, backtracking parser</li>
+  <li>a bottom-up ('immediate-constituent analyzer') parser</li>
+  <li>a chart parser<br>
+  </li>
+</ul>
+It allows you to turn a parser trace on or off (the trace is displayed
+in the console).&nbsp; It also allows you to display a parse as a tree
+diagram.
+
+<h4>Parser traces</h4>
+<p>
+The top-down parser operates with a goal stack.&nbsp; It produces the message
+"looking for <i>x</i>" when it removes <i>x</i> (a symbol or string) from
+the goal stack (and then tries to satisfy this goal, by either looking
+for an instance of <i>x</i> as the next word in the sentence, or by expanding
+<i>x</i> using its definition), and the message "found <i>x</i>" when it is has
+succeeded in building a node of type <i>x</i>.&nbsp; The bottom-up
+parser produces the message "adding node <i>x</i>" when it has succeeded in 
+building a node of type <i>x</i>.
+</p>
+
+<h2>2. Part-of-speech tagging</h2>
+
+The second tagger we will try is a part-of-speech tagger
+(<tt>tagPOS</tt> command).  Part-of-speech
+tagging is provided in Jet using a bigram HMM (Hidden Markov Model);
+Jet includes (in the <tt>data</tt> directory) an HMM trained on 
+most of the Penn TreeBank.  To run with just the POS tagger, select the
+<tt>tagPOS.jet</tt> properties file:
+<blockquote><tt># JET properties file for POS tagging</tt><br>
+  <tt>Jet.dataPath&nbsp;&nbsp;&nbsp;&nbsp; = data</tt><br>
+  <tt>Tags.fileName&nbsp;&nbsp;&nbsp; = pos_hmm.txt</tt><br>
+  <tt>processSentence&nbsp; = tagPOS</tt><br>
+</blockquote>
+To see the results of the tagger, on the "tagger" menu, turn on the 
+"POS tagger trace".
+
+<h2>3. Name tagging and Document Processing</h2>
+
+Next we will try the named entity tagger.  Several name taggers are
+provided in Jet, including one based on an HMM, one based on an MEMM
+(Maximum Entropy Markov Model), and one based on lists and hand-coded
+patterns.  Several HMM data files are provided;  the simplest is
+one trained on the original named entity file, from MUC6.  To run
+with this tagger, select the <tt>tagNames.jet</tt> properties file:
+<blockquote>
+  <tt># JET properties file for name tagging</tt><br>
+  <tt>Jet.dataPath&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = data</tt><br>
+  <tt>NameTags.fileName&nbsp;&nbsp; = MUCnameHMM.txt</tt><br>
+  <tt>processSentence&nbsp;&nbsp;&nbsp;&nbsp; = tagNames</tt><br>
+</blockquote>
+
+In addition to handling individual sentences from the console, Jet is able
+to process complete documents.
+Each document should begin with the line <tt>&lt;DOC></tt>and end with
+the line <tt>&lt;/DOC></tt>. A file can contain one or more documents.
+The portion of the document to be processed by Jet must be enclosed in
+<tt>&lt;TEXT></tt> and <tt>&lt;/TEXT></tt> tags;&nbsp; anything outside
+of these tags is ignored.
+
+<h4> Jet Properties for Document Processing</h4>
+
+<p>
+The name of the file containing the document(s) to be processed is specified
+in the Jet properties file as
+<blockquote>
+<tt>JetTest.fileName1&nbsp;&nbsp;&nbsp; = ./article.txt</tt>
+</blockquote>
+(assuming here that the file is in your local directory).
+If several files are to be processed, they can be specified as fileName1,
+fileName2, etc.). The document is segmented into sentences and each
+sentence is processed (as specified by the processSentence properties).
+When  a document is read from a file, tokenization is <i>not</i>
+automatic;  the <tt>tokenize</tt> command must be explicitly included,
+generally as the first command in <tt>processSentence</tt>.
+When the document is complete, if the properties file contains a line of
+the form
+<blockquote>
+<tt>WriteSGML.type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = ENAMEX</tt>
+</blockquote>
+the all annotations of the specified type (in this case, <i>ENAMEX</i>)
+are converted to SGML tags and the resulting document is written to a file
+whose name is computed by adding "<tt>response-</tt>" to the front of the
+input document file name (so in the example above, the output would be
+written to <tt>response-article.txt</tt>).
+</p>
+
+<p>
+The tools menu on the Jet console contains a menu item "Process Documents".&nbsp;
+Selecting this item causes all the document files to be processed.&nbsp;
+Traces are written to the Console.
+
+<h4>Viewing Tagged Documents</h4>
+
+<p>
+The results of all the linguistic analysis are recorded as a set of
+<i>annotations</i> on the document.  Once multiple annotation types
+are involved, traces are no longer convenient for examining the
+results, so Jet also provides a <i>document viewer</i>.  Selecting
+"Process Documents and View Annotated Documents" causes Jet to
+create a document viewer window for each document it processes.
+</p>
+<p>
+The document viewer has 3 panes:  the Annotated Document (the
+largest pane), with the list of annotation types to its left and
+a pane for displaying individual annotations below.  If a type
+is selected from the type list, portions of the document tagged
+with that type of annotation are highlihted.  Selecting any portion 
+of the document by dragging the mouse causes all annotations within
+the selected region to be listed in the Annotations pane.
+</p>
+
+<h2>4. Pattern language</h2>
+
+<p>
+Jet includes a <a href="patterns.html">pattern language</a>
+which allows the developer to write regular expressions stated
+in terms of specific tokens and annotations, and to add
+new annotations to the document.  Patterns are organized 
+into pattern sets; having several sets allows annotation
+structures to be built up in stages.  We will begin with
+one pattern set, <i>chunks</i>, designed to recognize noun groups
+and verb groups.&nbsp; These pattern sets are invoked
+from the Jet properties file by specifying a processing step of the
+form <tt>pat(</tt><i>pattern-set</i><tt>)</tt>;&nbsp; in this 
+case, <tt>pat(chunks)</tt>.<br>
+</p>
+A properties file (<tt>chunk.jet</tt>) to run the noun/verb group chunk
+patterns is
+<blockquote>
+<tt>
+# JET properties file to run chunk patterns <br>
+Jet.dataPath&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = data <br>
+Tags.fileName&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= pos_hmm.txt <br>
+Pattern.fileName1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = chunkPatterns.txt <br>
+processSentence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = tagJet,
+pat(chunks)
+</tt>
+</blockquote>
+<p>
+Note that <tt>tagJet</tt>assigns <a href="JetPOS.html">Jet
+part-of-speech tags</a>, as listed in the Jet documentation.&nbsp;
+These are the tags which must be used with these patterns.<br>
+</p>
+<p>
+Two simple traces are provided for pattern matching (on the <b>pattern</b>
+menu).&nbsp; The <tt>Pattern Match Trace</tt> prints a message every
+time a (complete) pattern matches.&nbsp; If several patterns match, only one
+will be applied (the one spanning the most tokens;&nbsp; among those
+spanning the same tokens, the pattern appearing first in the
+file);&nbsp; this is shown by the <tt>Pattern Apply Trace</tt>.<br>
+</p>
+
+<h2>5. Coreference</h2>
+
+<p>
+The final example in our introduction involves reference resolution.
+Reference resolution takes the set of (entity) mentions in a document
+-- principally the noun phrases -- and groups coreferential mentions
+to form entities.  In the example, reference resolution is applied
+to the output of the chunk patterns, which form noun groups.
+The properties file, <tt>resolve.jet</tt>, is as follows:
+<blockquote>
+<tt>
+# JET properties file to run reference resolution on file 'article.txt'<br>
+Jet.dataPath&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = data <br>
+JetTest.fileName1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = ./article.txt<br>
+Tags.fileName&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= pos_hmm.txt <br>
+NameTags.fileName&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+= MUCnameHMM.txt <br>
+Pattern.fileName1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = chunkPatterns.txt <br>
+processSentence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 
+tokenize, tagJet, tagNames, pat(chunks), resolve
+</tt>
+</blockquote>
+</p>
+<p>
+If you have selected "Process Documents and View Annotated
+Docments" <i>and</i> the processed document includes
+<tt>entity</tt> annotations, then -- in addition to the standard
+document viewer -- Jet will display an entity viewer, showing all
+the entity mentions and how they have been linked.
+</p>
+
+</body>
+</html>

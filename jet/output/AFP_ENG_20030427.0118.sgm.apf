@@ -1,0 +1,1148 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030427.0118.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030427.0118">
+  <entity ID="AFP_ENG_20030427.0118-1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="110" END="115">MULTAN</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="115">MULTAN</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MULTAN">
+        <charseq START="110" END="115">MULTAN</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-2-0" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="125">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="125">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-2-1" ROLE="GPE">
+      <extent>
+        <charseq START="146" END="154">Pakistani</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="154">Pakistani</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-2-2" ROLE="GPE">
+      <extent>
+        <charseq START="1253" END="1261">Pakistani</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1261">Pakistani</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-2-3" ROLE="GPE">
+      <extent>
+        <charseq START="1424" END="1431">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1431">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Pakistan">
+        <charseq START="118" END="125">Pakistan</charseq>
+      </name>
+      <name NAME="Pakistani">
+        <charseq START="146" END="154">Pakistani</charseq>
+      </name>
+      <name NAME="Pakistani">
+        <charseq START="1253" END="1261">Pakistani</charseq>
+      </name>
+      <name NAME="Pakistan">
+        <charseq START="1424" END="1431">Pakistan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-3-0">
+      <extent>
+        <charseq START="138" END="140">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="140">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="138" END="140">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-4-0">
+      <extent>
+        <charseq START="144" END="160">A Pakistani court</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="160">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="173" END="178">Punjab</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="178">Punjab</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="165" END="187">central Punjab province</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="187">province</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Punjab">
+        <charseq START="173" END="178">Punjab</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-6-0">
+      <extent>
+        <charseq START="203" END="217">a
+Christian man</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="217">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-7-0">
+      <extent>
+        <charseq START="268" END="273">police</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="273">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-8-0">
+      <extent>
+        <charseq START="289" END="306">Judge Shahid Rafiq</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="306">Shahid Rafiq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-8-1">
+      <extent>
+        <charseq START="289" END="293">Judge</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="293">Judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-8-2">
+      <extent>
+        <charseq START="529" END="537">the judge</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="537">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-8-3">
+      <extent>
+        <charseq START="973" END="981">the judge</charseq>
+      </extent>
+      <head>
+        <charseq START="977" END="981">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Shahid Rafiq">
+        <charseq START="295" END="306">Shahid Rafiq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-9-0">
+      <extent>
+        <charseq START="312" END="329">the district court</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="329">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-9-1">
+      <extent>
+        <charseq START="940" END="946">a court</charseq>
+      </extent>
+      <head>
+        <charseq START="942" END="946">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="357" END="366">Faisalabad</charseq>
+      </extent>
+      <head>
+        <charseq START="357" END="366">Faisalabad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="334" END="366">the industrial city of
+Faisalabad</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="352">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-10-2" ROLE="GPE">
+      <extent>
+        <charseq START="707" END="716">Faisalabad</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="716">Faisalabad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-10-3" ROLE="GPE">
+      <extent>
+        <charseq START="757" END="764">the
+city</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="764">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-10-4" ROLE="GPE">
+      <extent>
+        <charseq START="823" END="832">Faisalabad</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="832">Faisalabad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Faisalabad">
+        <charseq START="357" END="366">Faisalabad</charseq>
+      </name>
+      <name NAME="Faisalabad">
+        <charseq START="707" END="716">Faisalabad</charseq>
+      </name>
+      <name NAME="Faisalabad">
+        <charseq START="823" END="832">Faisalabad</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-11-0">
+      <extent>
+        <charseq START="375" END="386">Ranjha Masih</charseq>
+      </extent>
+      <head>
+        <charseq START="375" END="386">Ranjha Masih</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-11-1">
+      <extent>
+        <charseq START="552" END="557">Ranjha</charseq>
+      </extent>
+      <head>
+        <charseq START="552" END="557">Ranjha</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-11-2">
+      <extent>
+        <charseq START="626" END="631">Ranjha</charseq>
+      </extent>
+      <head>
+        <charseq START="626" END="631">Ranjha</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ranjha Masih">
+        <charseq START="375" END="386">Ranjha Masih</charseq>
+      </name>
+      <name NAME="Ranjha">
+        <charseq START="552" END="557">Ranjha</charseq>
+      </name>
+      <name NAME="Ranjha">
+        <charseq START="626" END="631">Ranjha</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-12-0">
+      <extent>
+        <charseq START="448" END="479">the minority Christian community</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="479">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-13-0">
+      <extent>
+        <charseq START="452" END="459">minority</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="459">minority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-14-0" ROLE="GPE">
+      <extent>
+        <charseq START="601" END="602">US</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="602">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="601" END="602">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-15-0">
+      <extent>
+        <charseq START="768" END="773">bishop</charseq>
+      </extent>
+      <head>
+        <charseq START="768" END="773">bishop</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-16-0">
+      <extent>
+        <charseq START="823" END="888">Faisalabad&apos;s Catholic Bishop John Joseph, who had been campaigning</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="862">John Joseph</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030427.0118-16-1">
+      <extent>
+        <charseq START="912" END="918">himself</charseq>
+      </extent>
+      <head>
+        <charseq START="912" END="918">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="John Joseph">
+        <charseq START="852" END="862">John Joseph</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-17" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="951" END="966">Sahiwal
+district</charseq>
+      </extent>
+      <head>
+        <charseq START="951" END="966">Sahiwal
+district</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sahiwal district">
+        <charseq START="951" END="966">Sahiwal
+district</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-18-0">
+      <extent>
+        <charseq START="993" END="1012">Christian Ayub Masih</charseq>
+      </extent>
+      <head>
+        <charseq START="1003" END="1012">Ayub Masih</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-18-1">
+      <extent>
+        <charseq START="1038" END="1047">Ayub Masih</charseq>
+      </extent>
+      <head>
+        <charseq START="1038" END="1047">Ayub Masih</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-18-2">
+      <extent>
+        <charseq START="1296" END="1321">Ayub Masih, who had
+denied</charseq>
+      </extent>
+      <head>
+        <charseq START="1296" END="1305">Ayub Masih</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Ayub Masih">
+        <charseq START="1003" END="1012">Ayub Masih</charseq>
+      </name>
+      <name NAME="Ayub Masih">
+        <charseq START="1038" END="1047">Ayub Masih</charseq>
+      </name>
+      <name NAME="Ayub Masih">
+        <charseq START="1296" END="1305">Ayub Masih</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-19-0" ROLE="GPE">
+      <extent>
+        <charseq START="1108" END="1114">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1108" END="1114">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="1108" END="1114">British</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-20-0">
+      <extent>
+        <charseq START="1108" END="1136">British author Salman Rushdie</charseq>
+      </extent>
+      <head>
+        <charseq START="1123" END="1136">Salman Rushdie</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-20-1">
+      <extent>
+        <charseq START="1116" END="1121">author</charseq>
+      </extent>
+      <head>
+        <charseq START="1116" END="1121">author</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-20-2">
+      <extent>
+        <charseq START="1218" END="1227">the author</charseq>
+      </extent>
+      <head>
+        <charseq START="1222" END="1227">author</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Salman Rushdie">
+        <charseq START="1123" END="1136">Salman Rushdie</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-21-0">
+      <extent>
+        <charseq START="1183" END="1204">radical Mulsim clerics</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1204">clerics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-22-0">
+      <extent>
+        <charseq START="1249" END="1275">The Pakistani supreme court</charseq>
+      </extent>
+      <head>
+        <charseq START="1271" END="1275">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-23-0">
+      <extent>
+        <charseq START="1358" END="1378">the Prophet Mohammad.</charseq>
+      </extent>
+      <head>
+        <charseq START="1370" END="1378">Mohammad.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Mohammad.">
+        <charseq START="1370" END="1378">Mohammad.</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-24" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-24-0">
+      <extent>
+        <charseq START="1454" END="1473">no blasphemy convict</charseq>
+      </extent>
+      <head>
+        <charseq START="1467" END="1473">convict</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-25-0" ROLE="GPE">
+      <extent>
+        <charseq START="1501" END="1511">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1505" END="1511">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-26-0">
+      <extent>
+        <charseq START="1515" END="1540">Christian rights activists</charseq>
+      </extent>
+      <head>
+        <charseq START="1532" END="1540">activists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030427.0118-27-0">
+      <extent>
+        <charseq START="1586" END="1626">late military dictator General Zia-ul Haq</charseq>
+      </extent>
+      <head>
+        <charseq START="1617" END="1626">Zia-ul Haq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-27-1">
+      <extent>
+        <charseq START="1609" END="1615">General</charseq>
+      </extent>
+      <head>
+        <charseq START="1609" END="1615">General</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Zia-ul Haq">
+        <charseq START="1617" END="1626">Zia-ul Haq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-28-0">
+      <extent>
+        <charseq START="1600" END="1607">dictator</charseq>
+      </extent>
+      <head>
+        <charseq START="1600" END="1607">dictator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030427.0118-29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030427.0118-29-0">
+      <extent>
+        <charseq START="1667" END="1676">Christians</charseq>
+      </extent>
+      <head>
+        <charseq START="1667" END="1676">Christians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030427.0118-V1" TYPE="Sentence ">
+    <value_mention ID="AFP_ENG_20030427.0118-V1-1">
+      <extent>
+        <charseq START="222" END="225">life</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V3" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030427.0118-V3-1">
+      <extent>
+        <charseq START="246" END="254">blasphemy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V4" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030427.0118-V4-1">
+      <extent>
+        <charseq START="807" END="815">blasphemy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V6" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030427.0118-V6-1">
+      <extent>
+        <charseq START="1381" END="1389">Blasphemy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V7" TYPE="Crime">
+    <value_mention ID="AFP_ENG_20030427.0118-V7-1">
+      <extent>
+        <charseq START="1457" END="1465">blasphemy</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V11" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030427.0118-V11-1">
+      <extent>
+        <charseq START="576" END="588">50,000 rupees</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V12" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030427.0118-V12-1">
+      <extent>
+        <charseq START="591" END="610">about 870 US dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030427.0118-V15" TYPE="Sentence ">
+    <value_mention ID="AFP_ENG_20030427.0118-V15-1">
+      <extent>
+        <charseq START="1408" END="1412">death</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030427.0118-T0" VAL="2003-04-27">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030427</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T1" VAL="2003-04-27">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T1-1">
+      <extent>
+        <charseq START="128" END="135">April 27</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T2" VAL="2003-04-27">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T2-1">
+      <extent>
+        <charseq START="280" END="285">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T3" VAL="1998">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T3-1">
+      <extent>
+        <charseq START="484" END="487">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T4" VAL="2003-04-26">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T4-1">
+      <extent>
+        <charseq START="519" END="526">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T5" VAL="1985">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T5-1">
+      <extent>
+        <charseq START="802" END="805">1985</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T6" VAL="1998">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T6-1">
+      <extent>
+        <charseq START="1031" END="1034">1998</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T7" VAL="1996">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T7-1">
+      <extent>
+        <charseq START="1064" END="1067">1996</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030427.0118-T8" VAL="2002">
+    <timex2_mention ID="AFP_ENG_20030427.0118-T8-1">
+      <extent>
+        <charseq START="1277" END="1285">last year</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030427.0118-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030427.0118-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R1-1">
+      <extent>
+        <charseq START="144" END="160">A Pakistani court</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="144" END="160">A Pakistani court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="146" END="154">Pakistani</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030427.0118-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R2-1">
+      <extent>
+        <charseq START="144" END="187">A Pakistani court in central Punjab province</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-4-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="144" END="160">A Pakistani court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="165" END="187">central Punjab province</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030427.0118-8" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-9" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R3-1">
+      <extent>
+        <charseq START="289" END="329">Judge Shahid Rafiq, of the district court</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="289" END="306">Judge Shahid Rafiq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="312" END="329">the district court</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R4" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030427.0118-8" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R4-1">
+      <extent>
+        <charseq START="289" END="366">Judge Shahid Rafiq, of the district court in the industrial city of
+Faisalabad</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="289" END="306">Judge Shahid Rafiq</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="334" END="366">the industrial city of
+Faisalabad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030427.0118-9" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R5-1">
+      <extent>
+        <charseq START="312" END="366">the district court in the industrial city of
+Faisalabad</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="312" END="329">the district court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="334" END="366">the industrial city of
+Faisalabad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R6" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030427.0118-11" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R6-1">
+      <extent>
+        <charseq START="626" END="716">Ranjha was accused of tearing down a billboard carrying verses from
+the Koran in Faisalabad</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-11-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="626" END="631">Ranjha</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-10-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="707" END="716">Faisalabad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R7" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030427.0118-16" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R7-1">
+      <extent>
+        <charseq START="823" END="888">Faisalabad&apos;s Catholic Bishop John Joseph, who had been campaigning</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="823" END="888">Faisalabad&apos;s Catholic Bishop John Joseph, who had been campaigning</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-10-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="823" END="832">Faisalabad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030427.0118-9" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-17" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R8-1">
+      <extent>
+        <charseq START="940" END="966">a court in Sahiwal
+district</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="940" END="946">a court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="951" END="966">Sahiwal
+district</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030427.0118-20" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R9-1">
+      <extent>
+        <charseq START="1108" END="1136">British author Salman Rushdie</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1108" END="1136">British author Salman Rushdie</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1108" END="1114">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030427.0118-22" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-2" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R10-1">
+      <extent>
+        <charseq START="1249" END="1275">The Pakistani supreme court</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1249" END="1275">The Pakistani supreme court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-2-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1253" END="1261">Pakistani</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030427.0118-R11" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="AFP_ENG_20030427.0118-28" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030427.0118-27" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030427.0118-R11-1">
+      <extent>
+        <charseq START="1586" END="1626">late military dictator General Zia-ul Haq</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-28-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1600" END="1607">dictator</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030427.0118-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1586" END="1626">late military dictator General Zia-ul Haq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030427.0118-EV1" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-5" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-4" ROLE="Adjudicator"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-T2" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-6" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V3" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V1" ROLE="Sentence"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV1-1">
+      <extent>
+        <charseq START="144" END="201">A Pakistani court in central Punjab province has sentenced</charseq>
+      </extent>
+      <anchor>
+        <charseq START="193" END="201">sentenced</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-5-1" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-4-0" ROLE="Adjudicator"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-6-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V3-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V1-1" ROLE="Sentence"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV2" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-6" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V3" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-4" ROLE="Adjudicator"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV2-1">
+      <extent>
+        <charseq START="256" END="265">conviction</charseq>
+      </extent>
+      <anchor>
+        <charseq START="256" END="265">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-6-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V3-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-4-0" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV3" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-12" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-T3" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV3-1">
+      <extent>
+        <charseq START="431" END="437">protest</charseq>
+      </extent>
+      <anchor>
+        <charseq START="431" END="437">protest</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030427.0118-EV3-2">
+      <extent>
+        <charseq START="439" END="487">rally by the minority Christian community in 1998</charseq>
+      </extent>
+      <anchor>
+        <charseq START="439" END="443">rally</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-12-0" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV5" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-11" ROLE="Giver"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V11" ROLE="Money"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-T4" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV5-1">
+      <extent>
+        <charseq START="552" END="564">Ranjha
+to pay</charseq>
+      </extent>
+      <anchor>
+        <charseq START="562" END="564">pay</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-11-1" ROLE="Giver"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V11-1" ROLE="Money"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV6" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-V11" ROLE="Money"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V12" ROLE="Money"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-11" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-T4" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV6-1">
+      <extent>
+        <charseq START="568" END="610">fine of 50,000 rupees (about 870 US dollars</charseq>
+      </extent>
+      <anchor>
+        <charseq START="568" END="571">fine</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V11-1" ROLE="Money"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V12-1" ROLE="Money"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-11-1" ROLE="Entity"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T4-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV7" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-11" ROLE="Defendant"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V4" ROLE="Crime"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV7-1">
+      <extent>
+        <charseq START="626" END="643">Ranjha was accused</charseq>
+      </extent>
+      <anchor>
+        <charseq START="637" END="643">accused</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-11-2" ROLE="Defendant"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V4-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV8" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V4" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-10" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV8-1">
+      <extent>
+        <charseq START="737" END="749">demonstration</charseq>
+      </extent>
+      <anchor>
+        <charseq START="737" END="749">demonstration</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V4-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-10-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-15" ROLE="Victim"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-15" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-T5" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V4" ROLE="Crime"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV9-1">
+      <extent>
+        <charseq START="768" END="791">bishop committed suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="785" END="791">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-15-0" ROLE="Victim"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-15-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T5-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V4-1" ROLE="Crime"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-16" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-T6" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-17" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV10-1">
+      <extent>
+        <charseq START="907" END="918">shot himself</charseq>
+      </extent>
+      <anchor>
+        <charseq START="907" END="910">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-16-1" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-17-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV11" TYPE="Justice" SUBTYPE="Acquit" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-T8" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-22" ROLE="Adjudicator"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-18" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-2" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV11-1">
+      <extent>
+        <charseq START="1287" END="1294">aquitted</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1287" END="1294">aquitted</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-T8-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-22-0" ROLE="Adjudicator"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-18-2" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-2-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV12" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-V6" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V15" ROLE="Sentence"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV12-1">
+      <extent>
+        <charseq START="1381" END="1412">Blasphemy is punishable by death</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1394" END="1403">punishable</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V6-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V15-1" ROLE="Sentence"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030427.0118-EV13" TYPE="Justice" SUBTYPE="Execute" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030427.0118-V7" ROLE="Crime"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-25" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-24" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-2" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030427.0118-V6" ROLE="Crime"/>
+    <event_mention ID="AFP_ENG_20030427.0118-EV13-1">
+      <extent>
+        <charseq START="1408" END="1431">death under the Pakistan</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1408" END="1412">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-2-3" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V6-1" ROLE="Crime"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030427.0118-EV13-2">
+      <extent>
+        <charseq START="1457" END="1511">blasphemy convict has ever been executed in the country</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1489" END="1496">executed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-V7-1" ROLE="Crime"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-25-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030427.0118-24-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

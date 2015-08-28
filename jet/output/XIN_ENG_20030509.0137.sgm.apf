@@ -1,0 +1,1048 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030509.0137.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030509.0137">
+  <entity ID="XIN_ENG_20030509.0137-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="119" END="124">LONDON</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="124">LONDON</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-1-1" ROLE="GPE">
+      <extent>
+        <charseq START="303" END="308">London</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="308">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-1-2" ROLE="GPE">
+      <extent>
+        <charseq START="1077" END="1082">London</charseq>
+      </extent>
+      <head>
+        <charseq START="1077" END="1082">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-1-3" ROLE="GPE">
+      <extent>
+        <charseq START="1223" END="1228">London</charseq>
+      </extent>
+      <head>
+        <charseq START="1223" END="1228">London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="LONDON">
+        <charseq START="119" END="124">LONDON</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="303" END="308">London</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="1077" END="1082">London</charseq>
+      </name>
+      <name NAME="London">
+        <charseq START="1223" END="1228">London</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-2-0">
+      <extent>
+        <charseq START="134" END="139">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="139">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="134" END="139">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-3-0">
+      <extent>
+        <charseq START="143" END="192">Three family members of British Muslim Omar Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="162">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-4-0">
+      <extent>
+        <charseq START="149" END="154">family</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="154">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-5-0" ROLE="GPE">
+      <extent>
+        <charseq START="167" END="173">British</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="173">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-5-1" ROLE="GPE">
+      <extent>
+        <charseq START="1129" END="1135">British</charseq>
+      </extent>
+      <head>
+        <charseq START="1129" END="1135">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-5-2" ROLE="GPE">
+      <extent>
+        <charseq START="1202" END="1216">central England</charseq>
+      </extent>
+      <head>
+        <charseq START="1210" END="1216">England</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="British">
+        <charseq START="167" END="173">British</charseq>
+      </name>
+      <name NAME="British">
+        <charseq START="1129" END="1135">British</charseq>
+      </name>
+      <name NAME="England">
+        <charseq START="1210" END="1216">England</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-6-0">
+      <extent>
+        <charseq START="167" END="192">British Muslim Omar Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="192">Muslim Omar Sharif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-6-1">
+      <extent>
+        <charseq START="370" END="375">Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="370" END="375">Sharif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030509.0137-6-2">
+      <extent>
+        <charseq START="935" END="941">himself</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="941">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Muslim Omar Sharif">
+        <charseq START="175" END="192">Muslim Omar Sharif</charseq>
+      </name>
+      <name NAME="Sharif">
+        <charseq START="370" END="375">Sharif</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-7" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-7-0">
+      <extent>
+        <charseq START="234" END="237">bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="237">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="249" END="254">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="254">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="841" END="847">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="841" END="847">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Israel">
+        <charseq START="249" END="254">Israel</charseq>
+      </name>
+      <name NAME="Israeli">
+        <charseq START="841" END="847">Israeli</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-9-0">
+      <extent>
+        <charseq START="301" END="314">a London court</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="314">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-9-1">
+      <extent>
+        <charseq START="506" END="514">the
+court</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="514">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-10-0">
+      <extent>
+        <charseq START="370" END="403">Sharif&apos;s wife Tahari Shad Tabussum</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="403">Tahari Shad Tabussum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tahari Shad Tabussum">
+        <charseq START="384" END="403">Tahari Shad Tabussum</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-11-0">
+      <extent>
+        <charseq START="379" END="382">wife</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="382">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-12-0">
+      <extent>
+        <charseq START="410" END="437">brother Zahid Hussain Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="418" END="437">Zahid Hussain Sharif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-12-1">
+      <extent>
+        <charseq START="410" END="416">brother</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="416">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Zahid Hussain Sharif">
+        <charseq START="418" END="437">Zahid Hussain Sharif</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-13-0">
+      <extent>
+        <charseq START="448" END="467">sister Paveen Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="467">Paveen Sharif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-13-1">
+      <extent>
+        <charseq START="448" END="453">sister</charseq>
+      </extent>
+      <head>
+        <charseq START="448" END="453">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-13-2">
+      <extent>
+        <charseq START="713" END="722">The sister</charseq>
+      </extent>
+      <head>
+        <charseq START="717" END="722">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-13-3">
+      <extent>
+        <charseq START="874" END="879">Sharif</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="879">Sharif</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Paveen Sharif">
+        <charseq START="455" END="467">Paveen Sharif</charseq>
+      </name>
+      <name NAME="Sharif">
+        <charseq START="874" END="879">Sharif</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-14-0">
+      <extent>
+        <charseq START="841" END="859">Israeli authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="859">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="891" END="895">Derby</charseq>
+      </extent>
+      <head>
+        <charseq START="891" END="895">Derby</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Derby">
+        <charseq START="891" END="895">Derby</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-16-0">
+      <extent>
+        <charseq START="963" END="976">a Tel Aviv bar</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="976">bar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-17-0" ROLE="GPE">
+      <extent>
+        <charseq START="965" END="972">Tel Aviv</charseq>
+      </extent>
+      <head>
+        <charseq START="965" END="972">Tel Aviv</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Tel Aviv">
+        <charseq START="965" END="972">Tel Aviv</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-18-0">
+      <extent>
+        <charseq START="980" END="991">Three people</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="991">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-19-0">
+      <extent>
+        <charseq START="1047" END="1065">Asif Muhammad Hanif</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1065">Asif Muhammad Hanif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030509.0137-19-1">
+      <extent>
+        <charseq START="1118" END="1120">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1120">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Asif Muhammad Hanif">
+        <charseq START="1047" END="1065">Asif Muhammad Hanif</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-20" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-20-0">
+      <extent>
+        <charseq START="1085" END="1113">detonated explosives strapped</charseq>
+      </extent>
+      <head>
+        <charseq START="1095" END="1104">explosives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-21-0">
+      <extent>
+        <charseq START="1118" END="1125">his body</charseq>
+      </extent>
+      <head>
+        <charseq START="1122" END="1125">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-22-0">
+      <extent>
+        <charseq START="1129" END="1163">British anti-terror police arrested</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1154">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-23-0">
+      <extent>
+        <charseq START="1165" END="1174">six people</charseq>
+      </extent>
+      <head>
+        <charseq START="1169" END="1174">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030509.0137-24-0" ROLE="GPE">
+      <extent>
+        <charseq START="1190" END="1199">Derbyshire</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1199">Derbyshire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Derbyshire">
+        <charseq START="1190" END="1199">Derbyshire</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-25-0">
+      <extent>
+        <charseq START="1263" END="1269">two men</charseq>
+      </extent>
+      <head>
+        <charseq START="1267" END="1269">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030509.0137-26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030509.0137-26-0">
+      <extent>
+        <charseq START="1275" END="1283">one woman</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1283">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030509.0137-V1" TYPE="Crime">
+    <value_mention ID="XIN_ENG_20030509.0137-V1-1">
+      <extent>
+        <charseq START="213" END="244">the April 30 suicide bomb attack</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="XIN_ENG_20030509.0137-V4" TYPE="Crime">
+    <value_mention ID="XIN_ENG_20030509.0137-V4-1">
+      <extent>
+        <charseq START="1321" END="1326">charge</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030509.0137-T0" VAL="2003-05-09">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030509</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030509.0137-T1" VAL="2003-05-09">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T1-1">
+      <extent>
+        <charseq START="127" END="131">May 9</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030509.0137-T2" VAL="2003-04-30">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T2-1">
+      <extent>
+        <charseq START="217" END="224">April 30</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030509.0137-T3" VAL="2003-05-09">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T3-1">
+      <extent>
+        <charseq START="319" END="324">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030509.0137-T4" VAL="2003-05-08">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T4-1">
+      <extent>
+        <charseq START="571" END="578">Thursday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030509.0137-T5" VAL="2000">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T5-1">
+      <extent>
+        <charseq START="618" END="621">2000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030509.0137-T6" VAL="2003-05-02">
+    <timex2_mention ID="XIN_ENG_20030509.0137-T6-1">
+      <extent>
+        <charseq START="1233" END="1237">May 2</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030509.0137-R1" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="XIN_ENG_20030509.0137-3" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R1-1">
+      <extent>
+        <charseq START="143" END="192">Three family members of British Muslim Omar Sharif</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="143" END="192">Three family members of British Muslim Omar Sharif</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="167" END="192">British Muslim Omar Sharif</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030509.0137-6" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R2-1">
+      <extent>
+        <charseq START="167" END="192">British Muslim Omar Sharif</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-6-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="167" END="192">British Muslim Omar Sharif</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="167" END="173">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="XIN_ENG_20030509.0137-9" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R3-1">
+      <extent>
+        <charseq START="301" END="314">a London court</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="301" END="314">a London court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="303" END="308">London</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R4" TYPE="PER-SOC" SUBTYPE="Family">
+    <relation_argument REFID="XIN_ENG_20030509.0137-6" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-10" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R4-1">
+      <extent>
+        <charseq START="370" END="403">Sharif&apos;s wife Tahari Shad Tabussum</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="370" END="375">Sharif</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-10-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="370" END="403">Sharif&apos;s wife Tahari Shad Tabussum</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030509.0137-14" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-8" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R5-1">
+      <extent>
+        <charseq START="841" END="859">Israeli authorities</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-14-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="841" END="859">Israeli authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="841" END="847">Israeli</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030509.0137-13" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-15" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R6-1">
+      <extent>
+        <charseq START="874" END="895">Sharif, 27, from Derby</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-13-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="874" END="879">Sharif</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-15-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="891" END="895">Derby</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R7" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030509.0137-13" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R7-1">
+      <extent>
+        <charseq START="874" END="976">Sharif, 27, from Derby, was on the
+run after failing to blow himself up in the attack on a Tel Aviv bar</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-13-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="874" END="879">Sharif</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="963" END="976">a Tel Aviv bar</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030509.0137-16" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-17" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R8-1">
+      <extent>
+        <charseq START="963" END="976">a Tel Aviv bar</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-16-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="963" END="976">a Tel Aviv bar</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-17-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="965" END="972">Tel Aviv</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="XIN_ENG_20030509.0137-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R9-1">
+      <extent>
+        <charseq START="1047" END="1082">Asif Muhammad Hanif, 21, from London</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1047" END="1065">Asif Muhammad Hanif</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-1-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1077" END="1082">London</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-20" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R10-1">
+      <extent>
+        <charseq START="1077" END="1113">London, detonated explosives strapped</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-1-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="1077" END="1082">London</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1085" END="1113">detonated explosives strapped</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R11" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="XIN_ENG_20030509.0137-19" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-21" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R11-1">
+      <extent>
+        <charseq START="1118" END="1125">his body</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1118" END="1120">his</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1118" END="1125">his body</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R12" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030509.0137-22" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R12-1">
+      <extent>
+        <charseq START="1129" END="1163">British anti-terror police arrested</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1129" END="1163">British anti-terror police arrested</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1129" END="1135">British</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R13" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030509.0137-23" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-24" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R13-1">
+      <extent>
+        <charseq START="1165" END="1199">six people altogether in
+Derbyshire</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1165" END="1174">six people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-24-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1190" END="1199">Derbyshire</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R14" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030509.0137-23" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R14-1">
+      <extent>
+        <charseq START="1165" END="1228">six people altogether in
+Derbyshire, central England, and London</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1165" END="1174">six people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-1-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="1223" END="1228">London</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030509.0137-R15" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030509.0137-23" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030509.0137-5" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030509.0137-R15-1">
+      <extent>
+        <charseq START="1165" END="1216">six people altogether in
+Derbyshire, central England</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-23-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1165" END="1174">six people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030509.0137-5-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="1202" END="1216">central England</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030509.0137-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-T2" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-7" ROLE="Instrument"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-8" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-3" ROLE="Victim"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV1-1">
+      <extent>
+        <charseq START="226" END="232">suicide</charseq>
+      </extent>
+      <anchor>
+        <charseq START="226" END="232">suicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-7-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-8-0" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-3-0" ROLE="Victim"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-6" ROLE="Target"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-13" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-8" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-3" ROLE="Target"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-T2" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-7" ROLE="Instrument"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV2-1">
+      <extent>
+        <charseq START="239" END="254">attack in Israel</charseq>
+      </extent>
+      <anchor>
+        <charseq START="239" END="244">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-8-0" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-3-0" ROLE="Target"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-7-0" ROLE="Instrument"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030509.0137-EV2-2">
+      <extent>
+        <charseq START="930" END="941">blow himself</charseq>
+      </extent>
+      <anchor>
+        <charseq START="930" END="933">blow</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-6-2" ROLE="Target"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-13-3" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-T3" ROLE="Time-Starting"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-V1" ROLE="Crime"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-8" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV3-1">
+      <extent>
+        <charseq START="274" END="280">custody</charseq>
+      </extent>
+      <anchor>
+        <charseq START="274" END="280">custody</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-T3-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-V1-1" ROLE="Crime"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-8-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV4" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-T3" ROLE="Time-Before"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-8" ROLE="Defendant"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-V1" ROLE="Crime"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-9" ROLE="Adjudicator"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV4-1">
+      <extent>
+        <charseq START="249" END="337">Israel, were remanded in custody
+after appearing in a London court on Friday with charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="331" END="337">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-T3-1" ROLE="Time-Before"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-1-1" ROLE="Place"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-8-0" ROLE="Defendant"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-V1-1" ROLE="Crime"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-9-0" ROLE="Adjudicator"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-T2" ROLE="Time-Within"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV5-1">
+      <extent>
+        <charseq START="362" END="366">blast</charseq>
+      </extent>
+      <anchor>
+        <charseq START="362" END="366">blast</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-T2-1" ROLE="Time-Within"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-16" ROLE="Target"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-13" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-17" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV7-1">
+      <extent>
+        <charseq START="953" END="976">attack on a Tel Aviv bar</charseq>
+      </extent>
+      <anchor>
+        <charseq START="953" END="958">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-16-0" ROLE="Target"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-13-3" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-17-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-18" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-20" ROLE="Instrument"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV8-1">
+      <extent>
+        <charseq START="980" END="1003">Three people were killed</charseq>
+      </extent>
+      <anchor>
+        <charseq START="998" END="1003">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-18-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-20-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-1-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV9" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-18" ROLE="Victim"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-20" ROLE="Instrument"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV9-1">
+      <extent>
+        <charseq START="980" END="1024">Three people were killed and about 50 injured</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1018" END="1024">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-18-0" ROLE="Victim"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-20-0" ROLE="Instrument"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-1-2" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-1" ROLE="Attacker"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-18" ROLE="Target"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-20" ROLE="Instrument"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV10-1">
+      <extent>
+        <charseq START="1077" END="1093">London, detonated</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1085" END="1093">detonated</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-1-2" ROLE="Attacker"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-18-0" ROLE="Target"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-20-0" ROLE="Instrument"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV11" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-22" ROLE="Agent"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-T6" ROLE="Time-Within"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-23" ROLE="Person"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-24" ROLE="Place"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV11-1">
+      <extent>
+        <charseq START="1129" END="1163">British anti-terror police arrested</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1156" END="1163">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-22-0" ROLE="Agent"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-T6-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-23-0" ROLE="Person"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-24-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV12" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-V4" ROLE="Crime"/>
+    <event_argument REFID="XIN_ENG_20030509.0137-26" ROLE="Person"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV12-1">
+      <extent>
+        <charseq START="1304" END="1311">released</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1304" END="1311">released</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-V4-1" ROLE="Crime"/>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-26-0" ROLE="Person"/>
+    </event_mention>
+  </event>
+  <event ID="XIN_ENG_20030509.0137-EV13" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030509.0137-26" ROLE="Defendant"/>
+    <event_mention ID="XIN_ENG_20030509.0137-EV13-1">
+      <extent>
+        <charseq START="1321" END="1326">charge</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1321" END="1326">charge</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030509.0137-26-0" ROLE="Defendant"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="XIN_ENG_20030523.0202.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="XIN_ENG_20030523.0202">
+  <entity ID="XIN_ENG_20030523.0202-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="123">MANILA</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="123">MANILA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="MANILA">
+        <charseq START="118" END="123">MANILA</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-2-0">
+      <extent>
+        <charseq START="134" END="139">Xinhua</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="139">Xinhua</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Xinhua">
+        <charseq START="134" END="139">Xinhua</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-3-0">
+      <extent>
+        <charseq START="143" END="176">The Philippine Presidential Palace</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="176">Philippine Presidential Palace</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-3-1">
+      <extent>
+        <charseq START="552" END="561">the Palace</charseq>
+      </extent>
+      <head>
+        <charseq START="556" END="561">Palace</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Philippine Presidential Palace">
+        <charseq START="147" END="176">Philippine Presidential Palace</charseq>
+      </name>
+      <name NAME="Palace">
+        <charseq START="556" END="561">Palace</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-4-0">
+      <extent>
+        <charseq START="212" END="225">deposed leader</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="225">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-5-0">
+      <extent>
+        <charseq START="227" END="240">Joseph Estrada</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="240">Joseph Estrada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030523.0202-5-1">
+      <extent>
+        <charseq START="255" END="256">he</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="256">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-5-2">
+      <extent>
+        <charseq START="355" END="361">Estrada</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="361">Estrada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-5-3">
+      <extent>
+        <charseq START="602" END="608">Estrada</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="608">Estrada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030523.0202-5-4">
+      <extent>
+        <charseq START="704" END="706">him</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="706">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="XIN_ENG_20030523.0202-5-5">
+      <extent>
+        <charseq START="745" END="746">he</charseq>
+      </extent>
+      <head>
+        <charseq START="745" END="746">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-5-6">
+      <extent>
+        <charseq START="821" END="827">Estrada</charseq>
+      </extent>
+      <head>
+        <charseq START="821" END="827">Estrada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-5-7">
+      <extent>
+        <charseq START="1107" END="1113">Estrada</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1113">Estrada</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-5-8">
+      <extent>
+        <charseq START="1183" END="1189">Estrada</charseq>
+      </extent>
+      <head>
+        <charseq START="1183" END="1189">Estrada</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Joseph Estrada">
+        <charseq START="227" END="240">Joseph Estrada</charseq>
+      </name>
+      <name NAME="Estrada">
+        <charseq START="355" END="361">Estrada</charseq>
+      </name>
+      <name NAME="Estrada">
+        <charseq START="602" END="608">Estrada</charseq>
+      </name>
+      <name NAME="Estrada">
+        <charseq START="821" END="827">Estrada</charseq>
+      </name>
+      <name NAME="Estrada">
+        <charseq START="1107" END="1113">Estrada</charseq>
+      </name>
+      <name NAME="Estrada">
+        <charseq START="1183" END="1189">Estrada</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="268" END="278">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="272" END="278">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-7-0">
+      <extent>
+        <charseq START="268" END="301">the country&apos;s
+legitimate president</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="301">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-8-0">
+      <extent>
+        <charseq START="327" END="348">Staff Rigoberto Tiglao</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="348">Rigoberto Tiglao</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-8-1">
+      <extent>
+        <charseq START="578" END="583">Tiglao</charseq>
+      </extent>
+      <head>
+        <charseq START="578" END="583">Tiglao</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Rigoberto Tiglao">
+        <charseq START="333" END="348">Rigoberto Tiglao</charseq>
+      </name>
+      <name NAME="Tiglao">
+        <charseq START="578" END="583">Tiglao</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-9-0">
+      <extent>
+        <charseq START="355" END="368">Estrada&apos;s camp</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="368">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-10-0">
+      <extent>
+        <charseq START="420" END="452">President Gloria
+Macapagal-Arroyo</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="452">Gloria
+Macapagal-Arroyo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-10-1">
+      <extent>
+        <charseq START="420" END="428">President</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="428">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-10-2">
+      <extent>
+        <charseq START="758" END="770">the president</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="770">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-10-3">
+      <extent>
+        <charseq START="891" END="896">Arroyo</charseq>
+      </extent>
+      <head>
+        <charseq START="891" END="896">Arroyo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Gloria Macapagal-Arroyo">
+        <charseq START="430" END="452">Gloria
+Macapagal-Arroyo</charseq>
+      </name>
+      <name NAME="Arroyo">
+        <charseq START="891" END="896">Arroyo</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-11-0">
+      <extent>
+        <charseq START="420" END="469">President Gloria
+Macapagal-Arroyo&apos;s administration</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="469">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-12-0">
+      <extent>
+        <charseq START="501" END="517">the
+Supreme Court</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="517">Supreme Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Supreme Court">
+        <charseq START="505" END="517">Supreme Court</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-13-0">
+      <extent>
+        <charseq START="621" END="640">the anti-graft court</charseq>
+      </extent>
+      <head>
+        <charseq START="636" END="640">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-13-1">
+      <extent>
+        <charseq START="785" END="793">the court</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="793">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-14-0">
+      <extent>
+        <charseq START="643" END="659">the
+Sandiganbayan</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="659">Sandiganbayan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-14-1">
+      <extent>
+        <charseq START="1009" END="1025">the Sandiganbayan</charseq>
+      </extent>
+      <head>
+        <charseq START="1013" END="1025">Sandiganbayan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-14-2">
+      <extent>
+        <charseq START="1029" END="1062">The Sandiganbayan Special Division</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1062">Sandiganbayan Special Division</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Sandiganbayan">
+        <charseq START="647" END="659">Sandiganbayan</charseq>
+      </name>
+      <name NAME="Sandiganbayan">
+        <charseq START="1013" END="1025">Sandiganbayan</charseq>
+      </name>
+      <name NAME="Sandiganbayan Special Division">
+        <charseq START="1033" END="1062">Sandiganbayan Special Division</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-15-0" ROLE="GPE">
+      <extent>
+        <charseq START="677" END="686">government</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="686">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-16-0">
+      <extent>
+        <charseq START="821" END="848">Estrada&apos;s lawyer Alan
+Paguia</charseq>
+      </extent>
+      <head>
+        <charseq START="838" END="848">Alan
+Paguia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Alan Paguia">
+        <charseq START="838" END="848">Alan
+Paguia</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-17-0">
+      <extent>
+        <charseq START="831" END="836">lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="831" END="836">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-18-0">
+      <extent>
+        <charseq START="887" END="911">the Arroyo administration</charseq>
+      </extent>
+      <head>
+        <charseq START="898" END="911">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="XIN_ENG_20030523.0202-19-0">
+      <extent>
+        <charseq START="944" END="955">the tribunal</charseq>
+      </extent>
+      <head>
+        <charseq START="948" END="955">tribunal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-20-0">
+      <extent>
+        <charseq START="1302" END="1337">the Veterans
+Memorial Medical Center</charseq>
+      </extent>
+      <head>
+        <charseq START="1306" END="1337">Veterans
+Memorial Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Veterans Memorial Medical Center">
+        <charseq START="1306" END="1337">Veterans
+Memorial Medical Center</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="XIN_ENG_20030523.0202-21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="XIN_ENG_20030523.0202-21-0" ROLE="GPE">
+      <extent>
+        <charseq START="1342" END="1353">Metro Manila</charseq>
+      </extent>
+      <head>
+        <charseq START="1342" END="1353">Metro Manila</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Metro Manila">
+        <charseq START="1342" END="1353">Metro Manila</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="XIN_ENG_20030523.0202-V4" TYPE="Crime">
+    <value_mention ID="XIN_ENG_20030523.0202-V4-1">
+      <extent>
+        <charseq START="673" END="694">the government charges</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="XIN_ENG_20030523.0202-V6" TYPE="Crime">
+    <value_mention ID="XIN_ENG_20030523.0202-V6-1">
+      <extent>
+        <charseq START="1358" END="1372">plunder charges</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="XIN_ENG_20030523.0202-T0" VAL="2003-05-23">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030523</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T1" VAL="2003-05-23">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T1-1">
+      <extent>
+        <charseq START="126" END="131">May 23</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T2" VAL="2003-05-23">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T2-1">
+      <extent>
+        <charseq START="178" END="183">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T3" VAL="2003-05-23">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T3-1">
+      <extent>
+        <charseq START="1064" END="1069">Friday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T4" VAL="2003-06-16">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T4-1">
+      <extent>
+        <charseq START="1081" END="1087">June 16</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T5" VAL="2003-06-02">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T5-1">
+      <extent>
+        <charseq START="1174" END="1179">June 2</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T6" VAL="2001-01">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T6-1">
+      <extent>
+        <charseq START="1246" END="1257">January 2001</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="XIN_ENG_20030523.0202-T7" VAL="P2Y">
+    <timex2_mention ID="XIN_ENG_20030523.0202-T7-1">
+      <extent>
+        <charseq START="1289" END="1297">two years</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="XIN_ENG_20030523.0202-R1" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030523.0202-7" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-6" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R1-1">
+      <extent>
+        <charseq START="268" END="301">the country&apos;s
+legitimate president</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="268" END="301">the country&apos;s
+legitimate president</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="268" END="278">the country</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R2" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030523.0202-8" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R2-1">
+      <extent>
+        <charseq START="327" END="368">Staff Rigoberto Tiglao said Estrada&apos;s camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-8-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="327" END="348">Staff Rigoberto Tiglao</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="355" END="368">Estrada&apos;s camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer">
+    <relation_argument REFID="XIN_ENG_20030523.0202-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-9" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R3-1">
+      <extent>
+        <charseq START="355" END="368">Estrada&apos;s camp</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-5-2" ROLE="Arg-1">
+          <extent>
+            <charseq START="355" END="361">Estrada</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-9-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="355" END="368">Estrada&apos;s camp</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R4" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="XIN_ENG_20030523.0202-10" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-11" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R4-1">
+      <extent>
+        <charseq START="420" END="469">President Gloria
+Macapagal-Arroyo&apos;s administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-10-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="420" END="452">President Gloria
+Macapagal-Arroyo</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-11-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="420" END="469">President Gloria
+Macapagal-Arroyo&apos;s administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="XIN_ENG_20030523.0202-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-13" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R5-1">
+      <extent>
+        <charseq START="602" END="640">Estrada petitioned the anti-graft court</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-5-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="602" END="608">Estrada</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-13-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="621" END="640">the anti-graft court</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R6" TYPE="PER-SOC" SUBTYPE="Business">
+    <relation_argument REFID="XIN_ENG_20030523.0202-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-16" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R6-1">
+      <extent>
+        <charseq START="821" END="848">Estrada&apos;s lawyer Alan
+Paguia</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-5-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="821" END="827">Estrada</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-16-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="821" END="848">Estrada&apos;s lawyer Alan
+Paguia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R7" TYPE="ORG-AFF" SUBTYPE="Membership">
+    <relation_argument REFID="XIN_ENG_20030523.0202-10" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-18" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R7-1">
+      <extent>
+        <charseq START="887" END="911">the Arroyo administration</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-10-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="891" END="896">Arroyo</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="887" END="911">the Arroyo administration</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R8" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="XIN_ENG_20030523.0202-5" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-20" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R8-1">
+      <extent>
+        <charseq START="1183" END="1337">Estrada, who was ousted in a military-backed popular revolt in
+January 2001, has been detained for almost two years at the Veterans
+Memorial Medical Center</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-5-8" ROLE="Arg-1">
+          <extent>
+            <charseq START="1183" END="1189">Estrada</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1302" END="1337">the Veterans
+Memorial Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="XIN_ENG_20030523.0202-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="XIN_ENG_20030523.0202-20" ROLE="Arg-1" />
+    <relation_argument REFID="XIN_ENG_20030523.0202-21" ROLE="Arg-2" />
+      <relation_mention ID="XIN_ENG_20030523.0202-R9-1">
+      <extent>
+        <charseq START="1302" END="1353">the Veterans
+Memorial Medical Center in Metro Manila</charseq>
+      </extent>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-20-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1302" END="1337">the Veterans
+Memorial Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="XIN_ENG_20030523.0202-21-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1342" END="1353">Metro Manila</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="XIN_ENG_20030523.0202-EV1" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="XIN_ENG_20030523.0202-V6" ROLE="Crime"/>
+    <event_argument REFID="XIN_ENG_20030523.0202-21" ROLE="Place"/>
+    <event_argument REFID="XIN_ENG_20030523.0202-5" ROLE="Defendant"/>
+    <event_argument REFID="XIN_ENG_20030523.0202-V4" ROLE="Crime"/>
+    <event_argument REFID="XIN_ENG_20030523.0202-15" ROLE="Prosecutor"/>
+    <event_mention ID="XIN_ENG_20030523.0202-EV1-1">
+      <extent>
+        <charseq START="688" END="706">charges against him</charseq>
+      </extent>
+      <anchor>
+        <charseq START="688" END="694">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030523.0202-5-4" ROLE="Defendant"/>
+      <event_mention_argument REFID="XIN_ENG_20030523.0202-V4-1" ROLE="Crime"/>
+      <event_mention_argument REFID="XIN_ENG_20030523.0202-15-0" ROLE="Prosecutor"/>
+    </event_mention>
+    <event_mention ID="XIN_ENG_20030523.0202-EV1-2">
+      <extent>
+        <charseq START="1366" END="1372">charges</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1366" END="1372">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="XIN_ENG_20030523.0202-V6-1" ROLE="Crime"/>
+      <event_mention_argument REFID="XIN_ENG_20030523.0202-21-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,855 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030330.0211.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030330.0211">
+  <entity ID="AFP_ENG_20030330.0211-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="111" END="115">TOKYO</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="115">TOKYO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="TOKYO">
+        <charseq START="111" END="115">TOKYO</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-2-0">
+      <extent>
+        <charseq START="128" END="130">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="130">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="128" END="130">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-3-0">
+      <extent>
+        <charseq START="134" END="170">Some 2,500 mainly university students</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="170">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-4" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-4-0">
+      <extent>
+        <charseq START="152" END="161">university</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="161">university</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-5-0">
+      <extent>
+        <charseq START="179" END="191">a human chain</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="191">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-5-1">
+      <extent>
+        <charseq START="706" END="720">the human
+chain</charseq>
+      </extent>
+      <head>
+        <charseq START="716" END="720">chain</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-6-0" ROLE="GPE">
+      <extent>
+        <charseq START="196" END="203">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="203">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-6-1" ROLE="GPE">
+      <extent>
+        <charseq START="853" END="857">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="853" END="857">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-6-2" ROLE="GPE">
+      <extent>
+        <charseq START="1105" END="1109">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1105" END="1109">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-6-3" ROLE="GPE">
+      <extent>
+        <charseq START="1186" END="1190">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1186" END="1190">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japanese">
+        <charseq START="196" END="203">Japanese</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="853" END="857">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="1105" END="1109">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="1186" END="1190">Japan</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-7-0">
+      <extent>
+        <charseq START="196" END="235">Japanese characters spelling out &quot;No War</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="214">characters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="241" END="245">Osaka</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="245">Osaka</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Osaka">
+        <charseq START="241" END="245">Osaka</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-9-0" ROLE="GPE">
+      <extent>
+        <charseq START="288" END="293">US-led</charseq>
+      </extent>
+      <head>
+        <charseq START="288" END="293">US-led</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US-led">
+        <charseq START="288" END="293">US-led</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-10-0" ROLE="GPE">
+      <extent>
+        <charseq START="316" END="319">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="319">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-10-1" ROLE="GPE">
+      <extent>
+        <charseq START="992" END="995">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="995">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Iraq">
+        <charseq START="316" END="319">Iraq</charseq>
+      </name>
+      <name NAME="Iraq">
+        <charseq START="992" END="995">Iraq</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-11-0">
+      <extent>
+        <charseq START="353" END="363">Miyako Fuji</charseq>
+      </extent>
+      <head>
+        <charseq START="353" END="363">Miyako Fuji</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Miyako Fuji">
+        <charseq START="353" END="363">Miyako Fuji</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030330.0211-12-0">
+      <extent>
+        <charseq START="370" END="398">one of the rally&apos;s
+organisers</charseq>
+      </extent>
+      <head>
+        <charseq START="370" END="372">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-13-0">
+      <extent>
+        <charseq START="377" END="398">the rally&apos;s
+organisers</charseq>
+      </extent>
+      <head>
+        <charseq START="389" END="398">organisers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-14-0">
+      <extent>
+        <charseq START="405" END="420">Jiji news agency</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="420">Jiji news agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-14-1">
+      <extent>
+        <charseq START="748" END="751">Jiji</charseq>
+      </extent>
+      <head>
+        <charseq START="748" END="751">Jiji</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jiji news agency">
+        <charseq START="405" END="420">Jiji news agency</charseq>
+      </name>
+      <name NAME="Jiji">
+        <charseq START="748" END="751">Jiji</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-15-0">
+      <extent>
+        <charseq START="478" END="507">individuals who oppose the war</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="488">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-16-0">
+      <extent>
+        <charseq START="512" END="535">Protesters, who exceeded</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="521">Protesters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030330.0211-17-0">
+      <extent>
+        <charseq START="541" END="554">2,000 expected</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="545">2,000</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-18" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-18-0">
+      <extent>
+        <charseq START="570" END="577">the park</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="577">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-19-0">
+      <extent>
+        <charseq START="582" END="593">Osaka Castle</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="593">Osaka Castle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Osaka Castle">
+        <charseq START="582" END="593">Osaka Castle</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-20-0" ROLE="GPE">
+      <extent>
+        <charseq START="598" END="605">the city</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="605">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-21-0">
+      <extent>
+        <charseq START="792" END="797">others</charseq>
+      </extent>
+      <head>
+        <charseq START="792" END="797">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-22-0">
+      <extent>
+        <charseq START="830" END="844">peace activists</charseq>
+      </extent>
+      <head>
+        <charseq START="836" END="844">activists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-23-0">
+      <extent>
+        <charseq START="898" END="914">Kyodo news agency</charseq>
+      </extent>
+      <head>
+        <charseq START="898" END="914">Kyodo news agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Kyodo news agency">
+        <charseq START="898" END="914">Kyodo news agency</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030330.0211-24-0">
+      <extent>
+        <charseq START="935" END="959">78 of 100
+people surveyed</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="936">78</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-25-0">
+      <extent>
+        <charseq START="941" END="950">100
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="945" END="950">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030330.0211-26-0">
+      <extent>
+        <charseq START="1018" END="1029">1,846 adults</charseq>
+      </extent>
+      <head>
+        <charseq START="1024" END="1029">adults</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-27-0">
+      <extent>
+        <charseq START="1034" END="1072">the leading Yomiuri newspaper
+published</charseq>
+      </extent>
+      <head>
+        <charseq START="1046" END="1062">Yomiuri newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Yomiuri newspaper">
+        <charseq START="1046" END="1062">Yomiuri newspaper</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030330.0211-28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030330.0211-28-0" ROLE="GPE">
+      <extent>
+        <charseq START="1139" END="1155">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1143" END="1155">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="United States">
+        <charseq START="1143" END="1155">United States</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030330.0211-V1" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="AFP_ENG_20030330.0211-V1-1">
+      <extent>
+        <charseq START="1089" END="1098">64 percent</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030330.0211-V2" TYPE="Numeric" SUBTYPE="Percent ">
+    <value_mention ID="AFP_ENG_20030330.0211-V2-1">
+      <extent>
+        <charseq START="1163" END="1190">only 12 percent saying Japan</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030330.0211-T0" VAL="2003-03-30">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030330</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T1" VAL="2003-03-30">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T1-1">
+      <extent>
+        <charseq START="118" END="125">March 30</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T2" VAL="2500">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T2-1">
+      <extent>
+        <charseq START="139" END="143">2,500</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T3" VAL="2003-03-30">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T3-1">
+      <extent>
+        <charseq START="250" END="255">Sunday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T4" VAL="2000">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T4-1">
+      <extent>
+        <charseq START="541" END="545">2,000</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T5" VAL="2003-03-30T06:00Z">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T5-1">
+      <extent>
+        <charseq START="737" END="744">0600 GMT</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T6" VAL="2003-01">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T6-1">
+      <extent>
+        <charseq START="865" END="871">January</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T7" VAL="2003-03-29">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T7-1">
+      <extent>
+        <charseq START="925" END="932">Saturday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030330.0211-T8" VAL="2003-03-25">
+    <timex2_mention ID="AFP_ENG_20030330.0211-T8-1">
+      <extent>
+        <charseq START="1074" END="1080">Tuesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030330.0211-R1" TYPE="ORG-AFF" SUBTYPE="Student-Alum">
+    <relation_argument REFID="AFP_ENG_20030330.0211-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R1-1">
+      <extent>
+        <charseq START="134" END="170">Some 2,500 mainly university students</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="134" END="170">Some 2,500 mainly university students</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-4-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="152" END="161">university</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R2" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030330.0211-3" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R2-1">
+      <extent>
+        <charseq START="134" END="191">Some 2,500 mainly university students formed a human chain</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-3-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="134" END="170">Some 2,500 mainly university students</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="179" END="191">a human chain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R3" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030330.0211-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-5" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R3-1">
+      <extent>
+        <charseq START="179" END="235">a human chain in
+Japanese characters spelling out &quot;No War</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="196" END="235">Japanese characters spelling out &quot;No War</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-5-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="179" END="191">a human chain</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity">
+    <relation_argument REFID="AFP_ENG_20030330.0211-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R4-1">
+      <extent>
+        <charseq START="196" END="235">Japanese characters spelling out &quot;No War</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="196" END="235">Japanese characters spelling out &quot;No War</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="196" END="203">Japanese</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R5" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030330.0211-17" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-18" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R5-1">
+      <extent>
+        <charseq START="541" END="577">2,000 expected to show up at the park</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-17-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="541" END="554">2,000 expected</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-18-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="570" END="577">the park</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030330.0211-18" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-19" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R6-1">
+      <extent>
+        <charseq START="570" END="593">the park at
+Osaka Castle</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-18-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="570" END="577">the park</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-19-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="582" END="593">Osaka Castle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical">
+    <relation_argument REFID="AFP_ENG_20030330.0211-19" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-20" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R7-1">
+      <extent>
+        <charseq START="582" END="605">Osaka Castle in the city</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-19-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="582" END="593">Osaka Castle</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-20-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="598" END="605">the city</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R8" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030330.0211-22" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R8-1">
+      <extent>
+        <charseq START="830" END="857">peace activists across Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-22-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="830" END="844">peace activists</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="853" END="857">Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R9" TYPE="PHYS" SUBTYPE="Located">
+    <relation_argument REFID="AFP_ENG_20030330.0211-25" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R9-1">
+      <extent>
+        <charseq START="941" END="995">100
+people surveyed opposed the military action in Iraq</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-25-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="941" END="950">100
+people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="992" END="995">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030330.0211-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030330.0211-26" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030330.0211-27" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030330.0211-R10-1">
+      <extent>
+        <charseq START="1018" END="1072">1,846 adults by the leading Yomiuri newspaper
+published</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-26-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="1018" END="1029">1,846 adults</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030330.0211-27-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="1034" END="1072">the leading Yomiuri newspaper
+published</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030330.0211-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-5" ROLE="Org"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-3" ROLE="Agent"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-T2" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-6" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV1-1">
+      <extent>
+        <charseq START="172" END="191">formed a human chain</charseq>
+      </extent>
+      <anchor>
+        <charseq START="172" END="177">formed</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-5-0" ROLE="Org"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-3-0" ROLE="Agent"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-T2-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-6-0" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030330.0211-EV2" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-12" ROLE="Entity"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-8" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV2-1">
+      <extent>
+        <charseq START="260" END="266">protest</charseq>
+      </extent>
+      <anchor>
+        <charseq START="260" END="266">protest</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-8-0" ROLE="Place"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030330.0211-EV2-2">
+      <extent>
+        <charseq START="381" END="385">rally</charseq>
+      </extent>
+      <anchor>
+        <charseq START="381" END="385">rally</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-12-0" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030330.0211-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-10" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-T3" ROLE="Time-Within"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV3-1">
+      <extent>
+        <charseq START="304" END="319">campaign in Iraq</charseq>
+      </extent>
+      <anchor>
+        <charseq START="304" END="311">campaign</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-10-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-T3-1" ROLE="Time-Within"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030330.0211-EV3-2">
+      <extent>
+        <charseq START="347" END="349">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="347" END="349">war</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030330.0211-EV3-3">
+      <extent>
+        <charseq START="505" END="507">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="505" END="507">war</charseq>
+      </anchor>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030330.0211-EV3-4">
+      <extent>
+        <charseq START="666" END="668">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="666" END="668">war</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030330.0211-EV8" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-5" ROLE="Org"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV8-1">
+      <extent>
+        <charseq START="698" END="720">forming the human
+chain</charseq>
+      </extent>
+      <anchor>
+        <charseq START="698" END="704">forming</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-5-1" ROLE="Org"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030330.0211-EV9" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-T6" ROLE="Time-Starting"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-6" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV9-1">
+      <extent>
+        <charseq START="764" END="770">protest</charseq>
+      </extent>
+      <anchor>
+        <charseq START="764" END="770">protest</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-T6-1" ROLE="Time-Starting"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-6-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030330.0211-EV10" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-T7" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-25" ROLE="Person"/>
+    <event_argument REFID="AFP_ENG_20030330.0211-10" ROLE="Place"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV10-1">
+      <extent>
+        <charseq START="916" END="923">released</charseq>
+      </extent>
+      <anchor>
+        <charseq START="916" END="923">released</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-T7-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-25-0" ROLE="Person"/>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-10-1" ROLE="Place"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030330.0211-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030330.0211-6" ROLE="Attacker"/>
+    <event_mention ID="AFP_ENG_20030330.0211-EV11-1">
+      <extent>
+        <charseq START="1223" END="1225">war</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1223" END="1225">war</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030330.0211-6-3" ROLE="Attacker"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

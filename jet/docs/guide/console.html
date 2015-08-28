@@ -1,0 +1,68 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>Jet console</title>
+</head>
+<body text="#000000" bgcolor="#FFF0F0" link="#FF0000" vlink="#800080" alink="#0000FF">
+
+<h2>
+<font face="Arial Alternative"><font color="#3333FF">Jet console</font></font></h2>
+Unless the Jet.batch parameter is set in the configuration
+file, Jet will create a console window on start-up.&nbsp; The console provide
+three functions:</font>
+<ul>
+<li>
+<b>sentence entry</b>:&nbsp; you can enter a sentence
+in the space at the bottom of the window;&nbsp; typing a return causes
+the sentence to be processed by Jet, using the processSentence script</font></li>
+
+<li>
+<b>system output</b>:&nbsp; most Jet output, including
+traces of parsing and pattern application, appear in the main window&nbsp;
+(in batch mode, this output is sent to standard output)</font></li>
+
+<li>
+<b>menu control</b>:&nbsp; various Jet operations
+can be performed using the console menus</font></li>
+</ul>
+The menus provide the following functions:
+<ul>
+<li>
+<b>file menu</b>:&nbsp; allows you to reload the grammar, lexicon, or pattern
+file;&nbsp; this is convenient if you want to edit one of these files and
+retry Jet without restarting the system.&nbsp; The file names are those
+specified in the configuration file;&nbsp; they cannot be changed through
+the menu.&nbsp; This menu also has an Exit item to terminate Jet.</li>
+
+<li>
+<b>parser menu</b>:&nbsp; allows you to choose one of the 4 parsers (top-down
+recognizer, top-down parser, bottom-up parser, and top-down chart parser);&nbsp;
+turn on and off the parser trace; and display one of the parse trees in
+graphical form</li>
+
+<li>
+<b>patterns menu</b>:&nbsp; allows you to display the original patterns,
+or the finite-state graph generated from the pattern sets;&nbsp; allows
+you to trace individual patterns and pattern application</li>
+
+<li>
+<b>tools menu</b>: lets you<br>
+<ul>
+<li>
+run the scoring program on two SGML-marked files
+<li>
+run the concept editor
+<li>
+process a set of documents using the <tt>processDocuments</tt> script
+<li>
+close all the Jet windows
+<li>
+change the colors associated with annotations in Document displays
+</ul>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,892 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFP_ENG_20030625.0057.sgm" SOURCE="newswire" TYPE="text" AUTHOR="NYU">
+<document DOCID="AFP_ENG_20030625.0057">
+  <entity ID="AFP_ENG_20030625.0057-1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-1-0" ROLE="LOC">
+      <extent>
+        <charseq START="107" END="111">TOKYO</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="111">TOKYO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="TOKYO">
+        <charseq START="107" END="111">TOKYO</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-2-0">
+      <extent>
+        <charseq START="123" END="125">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="125">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AFP">
+        <charseq START="123" END="125">AFP</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-3-0" ROLE="GPE">
+      <extent>
+        <charseq START="129" END="136">Major US</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="136">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-3-1" ROLE="GPE">
+      <extent>
+        <charseq START="129" END="133">Major</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="133">Major</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-3-2" ROLE="GPE">
+      <extent>
+        <charseq START="472" END="473">US</charseq>
+      </extent>
+      <head>
+        <charseq START="472" END="473">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-3-3" ROLE="GPE">
+      <extent>
+        <charseq START="749" END="750">US</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="750">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="US">
+        <charseq START="135" END="136">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="472" END="473">US</charseq>
+      </name>
+      <name NAME="US">
+        <charseq START="749" END="750">US</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-4-0">
+      <extent>
+        <charseq START="138" END="156">insurance group AIG</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="156">AIG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-4-1">
+      <extent>
+        <charseq START="148" END="152">group</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="152">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-4-2">
+      <extent>
+        <charseq START="330" END="362">American International Group Inc.</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="362">American International Group Inc.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-4-3">
+      <extent>
+        <charseq START="803" END="822">the AIG Tokyo office</charseq>
+      </extent>
+      <head>
+        <charseq START="807" END="822">AIG Tokyo office</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-4-4">
+      <extent>
+        <charseq START="911" END="913">AIG</charseq>
+      </extent>
+      <head>
+        <charseq START="911" END="913">AIG</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-4-5">
+      <extent>
+        <charseq START="978" END="1003">AIG Star life Insurance Co</charseq>
+      </extent>
+      <head>
+        <charseq START="978" END="1003">AIG Star life Insurance Co</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-4-6">
+      <extent>
+        <charseq START="1057" END="1059">AIG</charseq>
+      </extent>
+      <head>
+        <charseq START="1057" END="1059">AIG</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="AIG">
+        <charseq START="154" END="156">AIG</charseq>
+      </name>
+      <name NAME="American International Group Inc.">
+        <charseq START="330" END="362">American International Group Inc.</charseq>
+      </name>
+      <name NAME="AIG Tokyo office">
+        <charseq START="807" END="822">AIG Tokyo office</charseq>
+      </name>
+      <name NAME="AIG">
+        <charseq START="911" END="913">AIG</charseq>
+      </name>
+      <name NAME="AIG Star life Insurance Co">
+        <charseq START="978" END="1003">AIG Star life Insurance Co</charseq>
+      </name>
+      <name NAME="AIG">
+        <charseq START="1057" END="1059">AIG</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-5-0">
+      <extent>
+        <charseq START="202" END="208">General</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="208">General</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-5-1">
+      <extent>
+        <charseq START="765" END="771">General</charseq>
+      </extent>
+      <head>
+        <charseq START="765" END="771">General</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-6-0">
+      <extent>
+        <charseq START="202" END="217">General Electric</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="217">General Electric</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-6-1">
+      <extent>
+        <charseq START="467" END="468">GE</charseq>
+      </extent>
+      <head>
+        <charseq START="467" END="468">GE</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-6-2">
+      <extent>
+        <charseq START="749" END="783">US conglomerate General Electric Co</charseq>
+      </extent>
+      <head>
+        <charseq START="765" END="783">General Electric Co</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-6-3">
+      <extent>
+        <charseq START="752" END="763">conglomerate</charseq>
+      </extent>
+      <head>
+        <charseq START="752" END="763">conglomerate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="General Electric">
+        <charseq START="202" END="217">General Electric</charseq>
+      </name>
+      <name NAME="GE">
+        <charseq START="467" END="468">GE</charseq>
+      </name>
+      <name NAME="General Electric Co">
+        <charseq START="765" END="783">General Electric Co</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-7-0">
+      <extent>
+        <charseq START="202" END="247">General Electric&apos;s Japanese life insurance arm</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="247">arm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-8-0" ROLE="GPE">
+      <extent>
+        <charseq START="269" END="273">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="273">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-8-1" ROLE="GPE">
+      <extent>
+        <charseq START="717" END="724">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="717" END="724">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-8-2" ROLE="GPE">
+      <extent>
+        <charseq START="946" END="972">Japan following
+Alico Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="950">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-8-3" ROLE="GPE">
+      <extent>
+        <charseq START="962" END="972">Alico Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="968" END="972">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-8-4" ROLE="GPE">
+      <extent>
+        <charseq START="1104" END="1108">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1104" END="1108">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="PRO" ID="AFP_ENG_20030625.0057-8-5" ROLE="GPE">
+      <extent>
+        <charseq START="1145" END="1146">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1145" END="1146">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-8-6" ROLE="GPE">
+      <extent>
+        <charseq START="1161" END="1168">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="1161" END="1168">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Japan">
+        <charseq START="269" END="273">Japan</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="717" END="724">Japanese</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="946" END="950">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="968" END="972">Japan</charseq>
+      </name>
+      <name NAME="Japan">
+        <charseq START="1104" END="1108">Japan</charseq>
+      </name>
+      <name NAME="Japanese">
+        <charseq START="1161" END="1168">Japanese</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-9-0">
+      <extent>
+        <charseq START="269" END="302">Japan&apos;s sixth largest life insurer</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="302">insurer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-10-0">
+      <extent>
+        <charseq START="399" END="422">GE Edison Life Insurance</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="422">GE Edison Life Insurance</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-10-1">
+      <extent>
+        <charseq START="674" END="700">GE Edison Life Insurance Co</charseq>
+      </extent>
+      <head>
+        <charseq START="674" END="700">GE Edison Life Insurance Co</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-10-2">
+      <extent>
+        <charseq START="827" END="835">GE Edison</charseq>
+      </extent>
+      <head>
+        <charseq START="827" END="835">GE Edison</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-10-3">
+      <extent>
+        <charseq START="892" END="900">GE Edison</charseq>
+      </extent>
+      <head>
+        <charseq START="892" END="900">GE Edison</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-10-4">
+      <extent>
+        <charseq START="911" END="941">AIG&apos;s third life insurance unit</charseq>
+      </extent>
+      <head>
+        <charseq START="938" END="941">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-10-5">
+      <extent>
+        <charseq START="1026" END="1034">GE Edison</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1034">GE Edison</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="GE Edison Life Insurance">
+        <charseq START="399" END="422">GE Edison Life Insurance</charseq>
+      </name>
+      <name NAME="GE Edison Life Insurance Co">
+        <charseq START="674" END="700">GE Edison Life Insurance Co</charseq>
+      </name>
+      <name NAME="GE Edison">
+        <charseq START="827" END="835">GE Edison</charseq>
+      </name>
+      <name NAME="GE Edison">
+        <charseq START="892" END="900">GE Edison</charseq>
+      </name>
+      <name NAME="GE Edison">
+        <charseq START="1026" END="1034">GE Edison</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-11" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-11-0">
+      <extent>
+        <charseq START="475" END="477">car</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="477">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-12-0">
+      <extent>
+        <charseq START="608" END="654">the business daily Nihon Keizai and news agency</charseq>
+      </extent>
+      <head>
+        <charseq START="649" END="654">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-13-0">
+      <extent>
+        <charseq START="627" END="638">Nihon Keizai</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="638">Nihon Keizai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Nihon Keizai">
+        <charseq START="627" END="638">Nihon Keizai</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+    <entity_mention TYPE="NAM" ID="AFP_ENG_20030625.0057-14-0">
+      <extent>
+        <charseq START="656" END="665">Jiji Press</charseq>
+      </extent>
+      <head>
+        <charseq START="656" END="665">Jiji Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name NAME="Jiji Press">
+        <charseq START="656" END="665">Jiji Press</charseq>
+      </name>
+    </entity_attributes>
+  </entity>
+  <entity ID="AFP_ENG_20030625.0057-15" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+    <entity_mention TYPE="NOM" ID="AFP_ENG_20030625.0057-15-0">
+      <extent>
+        <charseq START="787" END="798">No officials</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="798">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <value ID="AFP_ENG_20030625.0057-V7" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030625.0057-V7-1">
+      <extent>
+        <charseq START="569" END="583">300 billion yen</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030625.0057-V8" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030625.0057-V8-1">
+      <extent>
+        <charseq START="586" END="604">2.5 billion
+dollars</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <value ID="AFP_ENG_20030625.0057-V9" TYPE="Numeric" SUBTYPE="Money">
+    <value_mention ID="AFP_ENG_20030625.0057-V9-1">
+      <extent>
+        <charseq START="1113" END="1134">about 1.1 trillion yen</charseq>
+      </extent>
+    </value_mention>
+  </value>
+  <timex2 ID="AFP_ENG_20030625.0057-T0" VAL="2003-06-25">
+    <timex2_mention ID="AFP_ENG_20030625.0057-T0-1">
+      <extent>
+        <charseq START="39" END="46">20030625</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030625.0057-T1" VAL="2003-06-25">
+    <timex2_mention ID="AFP_ENG_20030625.0057-T1-1">
+      <extent>
+        <charseq START="114" END="120">June 25</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030625.0057-T2" VAL="2003-06-25">
+    <timex2_mention ID="AFP_ENG_20030625.0057-T2-1">
+      <extent>
+        <charseq START="318" END="326">Wednesday</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <timex2 ID="AFP_ENG_20030625.0057-T3" VAL="2003-09">
+    <timex2_mention ID="AFP_ENG_20030625.0057-T3-1">
+      <extent>
+        <charseq START="438" END="446">September</charseq>
+      </extent>
+    </timex2_mention>
+  </timex2>
+  <relation ID="AFP_ENG_20030625.0057-R1" TYPE="ORG-AFF" SUBTYPE="Ownership">
+    <relation_argument REFID="AFP_ENG_20030625.0057-5" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R1-1">
+      <extent>
+        <charseq START="202" END="217">General Electric</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-5-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="202" END="208">General</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="202" END="217">General Electric</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="AFP_ENG_20030625.0057-R1-2">
+      <extent>
+        <charseq START="749" END="783">US conglomerate General Electric Co</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="765" END="771">General</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-6-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="749" END="783">US conglomerate General Electric Co</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030625.0057-7" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-6" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R2-1">
+      <extent>
+        <charseq START="202" END="247">General Electric&apos;s Japanese life insurance arm</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-7-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="202" END="247">General Electric&apos;s Japanese life insurance arm</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-6-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="202" END="217">General Electric</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030625.0057-9" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R3-1">
+      <extent>
+        <charseq START="269" END="302">Japan&apos;s sixth largest life insurer</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-9-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="269" END="302">Japan&apos;s sixth largest life insurer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-0" ROLE="Arg-2">
+          <extent>
+            <charseq START="269" END="273">Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030625.0057-6" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-3" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R4-1">
+      <extent>
+        <charseq START="749" END="763">US conglomerate</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-6-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="752" END="763">conglomerate</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-3-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="749" END="750">US</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R5" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030625.0057-15" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R5-1">
+      <extent>
+        <charseq START="787" END="822">No officials at the AIG Tokyo office</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="787" END="798">No officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-4-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="803" END="822">the AIG Tokyo office</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R6-1">
+      <extent>
+        <charseq START="911" END="941">AIG&apos;s third life insurance unit</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-10-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="911" END="941">AIG&apos;s third life insurance unit</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-4-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="911" END="913">AIG</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R7-1">
+      <extent>
+        <charseq START="911" END="972">AIG&apos;s third life insurance unit in Japan following
+Alico Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-4-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="911" END="913">AIG</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="946" END="972">Japan following
+Alico Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="AFP_ENG_20030625.0057-R7-3">
+      <extent>
+        <charseq START="962" END="1003">Alico Japan and AIG Star life Insurance Co</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-4-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="978" END="1003">AIG Star life Insurance Co</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-3" ROLE="Arg-2">
+          <extent>
+            <charseq START="962" END="972">Alico Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+      <relation_mention ID="AFP_ENG_20030625.0057-R7-4">
+      <extent>
+        <charseq START="1057" END="1108">AIG&apos;s annual life
+insurance premium revenue in Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-4-6" ROLE="Arg-1">
+          <extent>
+            <charseq START="1057" END="1059">AIG</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="1104" END="1108">Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R8-1">
+      <extent>
+        <charseq START="911" END="972">AIG&apos;s third life insurance unit in Japan following
+Alico Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-10-4" ROLE="Arg-1">
+          <extent>
+            <charseq START="911" END="941">AIG&apos;s third life insurance unit</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="946" END="972">Japan following
+Alico Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R9-1">
+      <extent>
+        <charseq START="911" END="1003">AIG&apos;s third life insurance unit in Japan following
+Alico Japan and AIG Star life Insurance Co</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-4-5" ROLE="Arg-1">
+          <extent>
+            <charseq START="978" END="1003">AIG Star life Insurance Co</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-10-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="911" END="941">AIG&apos;s third life insurance unit</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R10" TYPE="ORG-AFF" SUBTYPE="Employment">
+    <relation_argument REFID="AFP_ENG_20030625.0057-15" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R10-1">
+      <extent>
+        <charseq START="787" END="835">No officials at the AIG Tokyo office or GE Edison</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-15-0" ROLE="Arg-1">
+          <extent>
+            <charseq START="787" END="798">No officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-10-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="827" END="835">GE Edison</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R11" TYPE="PART-WHOLE" SUBTYPE="Subsidiary">
+    <relation_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R11-1">
+      <extent>
+        <charseq START="911" END="972">AIG&apos;s third life insurance unit in Japan following
+Alico Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="962" END="972">Alico Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-10-4" ROLE="Arg-2">
+          <extent>
+            <charseq START="911" END="941">AIG&apos;s third life insurance unit</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="AFP_ENG_20030625.0057-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location">
+    <relation_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Arg-1" />
+    <relation_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Arg-2" />
+      <relation_mention ID="AFP_ENG_20030625.0057-R12-1">
+      <extent>
+        <charseq START="946" END="972">Japan following
+Alico Japan</charseq>
+      </extent>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-3" ROLE="Arg-1">
+          <extent>
+            <charseq START="962" END="972">Alico Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="AFP_ENG_20030625.0057-8-2" ROLE="Arg-2">
+          <extent>
+            <charseq START="946" END="972">Japan following
+Alico Japan</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="AFP_ENG_20030625.0057-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Entity"/>
+    <event_mention ID="AFP_ENG_20030625.0057-EV1-1">
+      <extent>
+        <charseq START="183" END="187">talks</charseq>
+      </extent>
+      <anchor>
+        <charseq START="183" END="187">talks</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-4-0" ROLE="Entity"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030625.0057-EV2" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-7" ROLE="Seller"/>
+    <event_mention ID="AFP_ENG_20030625.0057-EV2-1">
+      <extent>
+        <charseq START="138" END="195">insurance group AIG is in the final stage of talks to take</charseq>
+      </extent>
+      <anchor>
+        <charseq START="192" END="195">take</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-4-0" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-7-0" ROLE="Seller"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030625.0057-EV3" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030625.0057-9" ROLE="Org"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-8" ROLE="Place"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Agent"/>
+    <event_mention ID="AFP_ENG_20030625.0057-EV3-1">
+      <extent>
+        <charseq START="262" END="302">create Japan&apos;s sixth largest life insurer</charseq>
+      </extent>
+      <anchor>
+        <charseq START="262" END="267">create</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-9-0" ROLE="Org"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-8-0" ROLE="Place"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-4-0" ROLE="Agent"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030625.0057-EV4" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030625.0057-V7" ROLE="Price"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-12" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-T3" ROLE="Time-Before"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-11" ROLE="Target"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Buyer"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-6" ROLE="Seller"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-T3" ROLE="Time-Within"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Artifact"/>
+    <event_mention ID="AFP_ENG_20030625.0057-EV4-1">
+      <extent>
+        <charseq START="377" END="383">acquire</charseq>
+      </extent>
+      <anchor>
+        <charseq START="377" END="383">acquire</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-T3-1" ROLE="Time-Within"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-4-2" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-6-1" ROLE="Seller"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-10-0" ROLE="Artifact"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030625.0057-EV4-2">
+      <extent>
+        <charseq START="438" END="460">September and also take</charseq>
+      </extent>
+      <anchor>
+        <charseq START="457" END="460">take</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-T3-1" ROLE="Time-Before"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-11-0" ROLE="Target"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-4-2" ROLE="Buyer"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-6-1" ROLE="Seller"/>
+    </event_mention>
+    <event_mention ID="AFP_ENG_20030625.0057-EV4-3">
+      <extent>
+        <charseq START="539" END="583">purchase cost is estimated at 300 billion yen</charseq>
+      </extent>
+      <anchor>
+        <charseq START="539" END="546">purchase</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-V7-1" ROLE="Price"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-12-0" ROLE="Buyer"/>
+    </event_mention>
+  </event>
+  <event ID="AFP_ENG_20030625.0057-EV7" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+    <event_argument REFID="AFP_ENG_20030625.0057-10" ROLE="Artifact"/>
+    <event_argument REFID="AFP_ENG_20030625.0057-4" ROLE="Buyer"/>
+    <event_mention ID="AFP_ENG_20030625.0057-EV7-1">
+      <extent>
+        <charseq START="1011" END="1059">acquisition of GE Edison is expected to boost AIG</charseq>
+      </extent>
+      <anchor>
+        <charseq START="1011" END="1021">acquisition</charseq>
+      </anchor>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-10-5" ROLE="Artifact"/>
+      <event_mention_argument REFID="AFP_ENG_20030625.0057-4-6" ROLE="Buyer"/>
+    </event_mention>
+  </event>
+</document>
+</source_file>

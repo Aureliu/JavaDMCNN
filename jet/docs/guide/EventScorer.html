@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Score ACE Events</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1>
+<font face="Arial Alternative"><font color="#3333ff">Score ACE Events<br>
+</font></font></h1>
+<font color="#000000">
+EventScorer implements Heng Ji's 3 event metrics, as defined in
+Refining Event Extraction [Ji and Grishman, ACL 2008].  The
+three metrics are trigger labeling, argument identification,
+and argument role labeling.  These metrics are applied at the
+<i>event mention</i> level (not the event level).
+It is invoked by<br> <br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+AceJet.EventScorer </span></font></big>
+<font style="font-style: italic;" color="#000000">
+docList textDirectory textExtension 
+systemApfDirectory systemApfExtension keyApfDirectory keyApfExtension");
+</font>
+</div>
+<br>
+where<br>
+<dl>
+  <dt style="font-style: italic;">docList</dt> 
+  <dd>file containing list of document file names, one per line <br>
+  <dt style="font-style: italic;">textDirectory</dt>  
+  <dd>directory containing text files for documents <br>
+  <dt style="font-style: italic;">textExtension</dt>  
+  <dd>file extension for text files <br>
+  <dt style="font-style: italic;">systemApfDirectory</dt>  
+  <dd>directory containing APF files to be scored <br>
+  <dt style="font-style: italic;">systemApfExtension</dt>  
+  <dd>file extension for APF files to be scored <br>
+  <dt style="font-style: italic;">keyApfDirectory</dt>  
+  <dd>directory containing APF keys <br>
+  <dt style="font-style: italic;">keyApfExtension</dt>  
+  <dd>file extension for APF keys <br>
+</dl>
+If one line in the docList file is <i>d</i>, the program will
+compare the APF files
+systemApfDirectory/<i>d</i>.systemApfExtension and
+ keyApfDirectory/<i>d</i>.keyApfExtension.
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="GENERATOR"
+ content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+  <title>Name Tagger scoring</title>
+</head>
+<body alink="#0000ff" vlink="#800080" link="#ff0000"
+ style="background-color: rgb(255, 240, 240); color: rgb(0, 0, 0);">
+<h1><font face="Arial Alternative"><font color="#3333ff">Name
+Tagger scoring<br>
+</font></font></h1>
+<font color="#000000">This utility can be used either to score a set of
+files which have already been tagged by a name tagger, or to both tag a
+set of files and then immediately score them.&nbsp; The key file should
+have in-line XML name tags.&nbsp; The utility is invoked by<br>
+<br>
+</font>
+<div style="margin-left: 40px;"><big><font style="font-weight: bold;"
+ color="#000000"><span style="font-family: monospace;">xjet
+Jet.Scorer.NEScorer </span></font></big><font
+ style="font-style: italic;" color="#000000">test-directory
+test-file-list key-directory key-file-list [order tagger-model] tag<sub>1</sub>
+tag<sub>2</sub> ...</font>
+</div>
+<br>
+with arguments as follows:<br>
+<dl>
+  <dt style="font-style: italic;">test-directory</dt>
+  <dd>directory containing test files</dd>
+  <dt style="font-style: italic;">test-file-list</dt>
+  <dd>a file containing a list of test files, one per line</dd>
+  <dt style="font-style: italic;">key-directory</dt>
+  <dd>directory containing key files</dd>
+  <dt style="font-style: italic;">key-file-list</dt>
+  <dd>a file containing a list of key files, one per line<br>
+(test-file-list and key-file-list should be the same length</dd>
+</dl>
+The following two arguments should be included in order to <i>both</i>
+tag the test documents and then score them.
+<dl>
+  <dt style="font-style: italic;">order</dt>
+  <dd>either "unigram" or "bigram", indicating what emission
+probabilities should be used</dd>
+  <dt style="font-style: italic;">tagger-model</dt>
+  <dd>file containing HMM model for name tagging</dd>
+</dl>
+<dl>
+  <dt style="font-style: italic;">tag<sub>i</sub></dt>
+  <dd>a tag to be scored (e.g., ENAMEX)<br>
+  </dd>
+</dl>
+The scorer reports scores for each document and for the entire
+collection.
+It reports both 'type' precision and recall, and 'attribute' precision
+and recall.
+The former reports on matches at the XML tag type (e.g., ENAMEX); the
+latter
+on matches at the feature level (e.g., PERSON vs. ORGANIZATION).
+</body>
+</html>

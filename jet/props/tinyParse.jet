@@ -1,0 +1,5 @@
+# JET properties file (class -- asgn #2)
+Jet.dataPath         = data
+Grammar.fileName     = grammar1.txt
+EnglishLex.fileName1 = tiny1.dict
+processSentence      = lexLookup, parse

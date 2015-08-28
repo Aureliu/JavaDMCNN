@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xml" href="annotation-style.xsl"?>
+<annotation-list>
+
+<annotation>
+	<type>
+		constit
+	</type>
+	<description>
+		a syntactic constituent
+	</description>
+	<annotator>
+		HMMTagger;  Retagger;  Lexicon; 
+		AddSyntacticRelations [for tree restructuring];
+		ParseTreeNode.makeParseAnnotations;
+		StatParser;  ExternalDocument [when reading POS-format files]
+	</annotator>
+	<feature>
+		<name>
+			cat
+		</name>
+		<value>
+			String
+		</value>
+		<description>
+			the category of the constituent, such as "np" or "s"
+			[required]
+		</description>
+	</feature>
+	<feature>
+		<name>
+			children
+		</name>
+		<value>
+			constit Annotation[]
+		</value>
+		<description>
+			the immediate constituents (in a parse tree)
+		</description>
+	</feature>
+	<feature>
+		<name>
+			apposite
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			for appositive constructions (NP, NP, such as "Fred, the baker"),
+			a feature of the first NP pointing to the second;  
+			assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			conj
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			for constructs of the form <i>NP1 conj NP2</i>, a feature of NP1
+			pointing to NP2;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			det
+		</name>
+		<value>
+			String
+		</value>
+		<description>
+			for NPs having a determiner, a feature on the NP with the determiner
+			String (e.g., "the") or "poss" if a possessive, or "q" if the first
+			word of the NP is a quantifier or quantifier phrase;  
+			assigned by AddSyntacticRelations.addDetRelation
+		</description>
+	</feature>
+	<feature>
+		<name>
+			headC
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			the head constituent (one of the immediate constituents)
+			[assigned by ParseTreeNode.makeParseAnnotations and by
+			AddSyntacticRelations when restructuring the parse tree]
+		</description>
+	</feature>
+	<feature>
+		<name>
+			host
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a link from a WHNP (relative clause) node to the NP node which 
+			dominates it;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			mainV
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a feature on S nodes pointing to the main verb of the clause;  
+			assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			mention
+		</name>
+		<value>
+			"true" or null
+		</value>
+		<description>
+			if true, indicated that the constituent is treated as a mention
+			(phrase to be resolved) by reference resolution;
+			assigned by Resolve.markMentions
+		</description>
+	</feature>
+	<feature>
+		<name>
+			nameMod**
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			if an NP includes a NAME left modifier, a feature on the NP
+			pointing to the NAME;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			object*
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a link from an S node, or the vp node of a reduced relative,
+			to its logical object;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			pa
+		</name>
+		<value>
+			a FeatureSet with features "head", "tense" [for verbs
+			and clauses], "number" [for nouns], and "voice" and 
+			"part" [for clauses]
+		</value>
+		<description>
+			provides the root form [head], tense and number information;
+			assigned by EnglishLex to open-class words (nouns, verbs, 
+			adjectives, and adverbs);  assigned to S nodes, giving the
+			head of the main verb, the tense (if tense), the voice ("passive"
+			for passive clauses), and the verbal particle ("part" feature), 
+			by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			p-obj**
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a link from a PP node to the object of the preposition;  
+			assigned by AddSyntacticRelations.addPObjRelation
+		</description>
+	</feature>
+	<feature>
+		<name>
+			pp
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a link from an S node to a PP node under the VP node;  
+			assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			<i>prep</i>
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a link from an S node to the object of a prepositional
+			modifier under the VP node, where <i>prep</i> =
+			{"of", "on", "in", "to", "by", "at", "through", "for", "with"};
+			assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			poss
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			for NPs with a possessive modifier, a feature on the NP pointing
+			to the possessive;  assigned by AddSyntacticRelations.addDetRelation
+		</description>
+	</feature>
+	<feature>
+		<name>
+			predComp
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			for constructs of the form <i>NP be/become X</i>, where <i>X</i>
+			is an NP, ADJ, VEN, or PP, a feature on the subject NP
+			pointing to <i>X</i>;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			preName**
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			for NPs with a NAME head immediately preceded by an N or TITLE
+			("President Bush"), a feature on the NP pointing to the
+			N or TITLE;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<feature>
+		<name>
+			subject*
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			a link from an S node, or the vp node of a reduced relative,
+			to its logical subject;  assigned by AddSyntacticRelations
+		</description>
+	</feature>
+	<table-note>
+	* The reciprocal relations (pointing in the reverse direction)
+	subject-1 and object-1 are added by Ace.tagReciprocalRelations.
+	<br/>
+	** The reciprocal relations nameMod-1, p-obj-1, and preName-1
+	are also added by AddSyntacticRelations.
+	</table-note>
+</annotation>
+
+<annotation>
+	<type>
+		dateline
+	</type>
+	<description>
+		text at beginning of news article saying where (and sometimes when)
+		the news story was filed
+	</description>
+	<annotator>
+		SpecialZoner
+	</annotator>
+</annotation>
+
+<annotation>
+	<type>
+		ENAMEX
+	</type>
+	<description>
+		names, as defined by the MUC or ACE standard.  Note:  this type
+		(and the other MUC types, NUMEX and TIMEX) are specified by
+		data files read when the HMM is created
+	</description>
+	<annotator>
+		HMMNameTagger
+	</annotator>
+</annotation>
+
+<annotation>
+	<type>
+		entity
+	</type>
+	<description>
+		a set of co-referring phrases
+	</description>
+	<annotator>
+		Resolve (and MaxEntResolve)
+	</annotator>
+	<feature>
+		<name>
+			ACEtype
+		</name>
+		<value>
+			"person", "organization", "location", ...
+		</value>
+		<description>
+			if the ACE entity type dictionary has been loaded, the
+			type according to that dictionary
+		</description>
+	</feature>
+	<feature>
+		<name>
+			gender
+		</name>
+		<value>
+			"male" or "female" or null
+		</value>
+		<description>
+			the gender of the entity, if it can be determined,
+			else null
+		</description>
+	</feature>
+	<feature>
+		<name>
+			human
+		</name>
+		<value>
+			"t" or null
+		</value>
+		<description>
+			"t" if entity is a person or set of people
+		</description>
+	</feature>
+	<feature>
+		<name>
+			lastMention
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			the most recent (last) mention of the entity
+		</description>
+	</feature>
+	<feature>
+		<name>
+			mentions
+		</name>
+		<value>
+			Vector of annotations
+		</value>
+		<description>
+			the set of mentions of this entity in this document
+		</description>
+	</feature>
+	<feature>
+		<name>
+			name
+		</name>
+		<value>
+			String[]
+		</value>
+		<description>
+			the name of the entity, if it has one
+		</description>
+	</feature>
+	<feature>
+		<name>
+			nameType
+		</name>
+		<value>
+			String
+		</value>
+		<description>
+			for entities with names, the type of the name, as assigned
+			by the name tagger
+		</description>
+	</feature>
+	<feature>
+		<name>
+			nameWithMods
+		</name>
+		<value>
+			String[]
+		</value>
+		<description>
+			for entities which include a mention with a name head,
+			the toknes of the complete mention, including modifiers
+		</description>
+	</feature>
+	<feature>
+		<name>
+			number
+		</name>
+		<value>
+			"singular" or "plural"
+		</value>
+	</feature>
+	<feature>
+		<name>
+			position
+		</name>
+		<value>
+			Integer
+		</value>
+		<description>
+			the position (character offset in the document) of the
+			most recent (last) mention of the entity
+		</description>
+	</feature>
+	<feature>
+		<name>
+			properAdjective
+		</name>
+		<value>
+			"true" or null
+		</value>
+		<description>
+			"true" if the only mention(s) of this entity are proper adjectives
+			(such as "French");  such entities cannot be referred to by
+			pronouns
+		</description>
+	</feature>
+</annotation>
+
+<annotation>
+	<type>
+		NE_INTERNAL
+	</type>
+	<description>
+		used internally by the Extended Named Entity tagger, erased on exit
+		from this annotator
+	</description>
+	<annotator>
+		NamedEntityUtil;  DictionaryTagger;  TransformRules
+	</annotator>
+</annotation>
+
+<annotation>
+	<type>
+		number
+	</type>
+	<description>
+		a numeric expression in the text
+	</description>
+	<annotator>
+		NumberAnnotator
+	</annotator>
+	<feature>
+		<name>
+			value
+		</name>
+		<value>
+			Integer
+		</value>
+		<description>
+			the value of the expression
+		</description>
+	</feature>
+</annotation>
+
+<annotation>
+	<type>
+		onoma
+	</type>
+	<description>
+		an item from a name dictionary (an "onomasticon")
+	</description>
+	<annotator>
+		Lexicon (using entries added to the dictionary by Gazetteer)
+	</annotator>
+	<feature>
+		<name>
+			type
+		</name>
+		<value>
+			String
+		</value>
+		<description>
+			the type of name ("country", "usstate", "region", ...)
+			as specified by the gazetteer
+		</description>
+	</feature>
+</annotation>
+
+<annotation>
+	<type>
+		sentence
+	</type>
+	<description>
+		a sentence
+	</description>
+	<annotator>
+		SentenceSplitter;
+		SpeechSplitter
+	</annotator>
+	<feature>
+		<name>
+			parse
+		</name>
+		<value>
+			constit Annotation
+		</value>
+		<description>
+			the root of the parse tree for this sentence
+		</description>
+		<featureAnnotator>
+			statParser
+		</featureAnnotator>
+	</feature>
+	<programmer-notes>
+	</programmer-notes>
+</annotation>
+
+<annotation>
+	<type>
+		tagger
+	</type>
+	<annotator>
+		HMMTagger
+	</annotator>
+	<description>
+		when part-of-speech tagging is done using the Jet POS categories,
+		the POS tagger first assigns Penn POS categories using the "tagger"
+		annotations
+	</description>
+	<feature>
+		<name>
+			cat
+		</name>
+		<value>
+			String
+		</value>
+		<description>
+			the (Penn) part of speech assigned by the tagger,
+			such as "NN" or "VBZ"
+		</description>
+	</feature>
+</annotation>
+
+<annotation>
+	<type>
+		textbreak
+	</type>
+	<description>
+		a portion of a document indicating a sentence break,
+		such as a blank line or horizonal rule
+	</description>
+	<annotator>
+		SpecialZoner
+	</annotator>
+</annotation>
+
+<annotation>
+	<type>
+		TIMEX2
+	</type>
+	<description>
+		a time expression
+	</description>
+	<annotator>
+		rules called by TimeAnnotator
+	</annotator>
+	<feature>
+		<name>
+			VAL
+		</name>
+		<value>
+			String
+		</value>
+		<description>
+			the normalized value of the time expression
+		</description>
+	</feature>
+</annotation>
+
+<annotation>
+	<type>
+		token
+	</type>
+	<description>
+		a token (word or punctuation) of the text, roughly corresponding to
+		Penn Tree Bank, but decomposing hyphenated items
+	</description>
+	<annotator>
+		Tokenizer;
+		ExternalDocument.posRead (for POS-format documents)
+	</annotator>
+	<feature>
+		<name>
+			case
+		</name>
+		<value>
+			{forcedCap, cap, null}
+		</value>
+		<description>
+			tokens beginning with an upper-case letter are marked "cap"
+			except if at the beginning of a sentence or preceded by a
+			quote or underscore they are marked "forceCap"
+		</description>
+	</feature>
+	<feature>
+		<name>
+			intvalue
+		</name>
+		<value>
+			{Integer, null}
+		</value>
+		<description>
+			the value of an integer token
+		</description>
+	</feature>
+</annotation>
+
+</annotation-list>
