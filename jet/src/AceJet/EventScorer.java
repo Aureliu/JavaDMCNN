@@ -93,7 +93,7 @@ public class EventScorer {
 	public static void scoreDocument (String docName) {
 
 		String textFileName = textDirectory + "/" + docName + "." + textExtension;
-		ExternalDocument doc = new ExternalDocument("sgml", textFileName);
+		ExternalDocument doc = new ExternalDocument("sgml", textFileName);	//creates a new external document associated with file 'fileName'.  The format of the file is given by 'format'.
 		doc.setAllTags(true);
 		doc.open();
 
@@ -109,7 +109,7 @@ public class EventScorer {
 		String keyApfFileName = keyApfDirectory + "/" + docName + "." + keyApfExtension;
 		readApf (textFileName, keyApfFileName, keyTriggers, keyArguments, keyRoles);
 
-		int docCorrectTriggers = sizeOfSetIntersection(systemTriggers, keyTriggers);
+		int docCorrectTriggers = sizeOfSetIntersection(systemTriggers, keyTriggers);	//same set is recorded.
 		int docSpuriousTriggers = sizeOfSetDifference(systemTriggers, keyTriggers);
 		int docMissingTriggers = sizeOfSetDifference(keyTriggers, systemTriggers);
 
@@ -136,16 +136,16 @@ public class EventScorer {
 
 	static void readApf (String textFileName, String apfFileName, 
 			Set<String> triggers, Set<String> arguments, Set<String> roles) {
-                AceDocument aceDoc = new AceDocument(textFileName, apfFileName);
-		for (AceEvent event : aceDoc.events) {
-			String eType = event.type + ":" + event.subtype;
-			for (AceEventMention mention : event.mentions) {
-				Span triggerSpan = mention.anchorJetExtent;
+        AceDocument aceDoc = new AceDocument(textFileName, apfFileName);	//very important.creat structure data of text based on text and annotation,
+		for (AceEvent event : aceDoc.events) {	// traverse event in aceDoc. just event, may include multiple event mention
+			String eType = event.type + ":" + event.subtype; //record type and subtype e.g, life.die:
+			for (AceEventMention mention : event.mentions) {	//traverse all event mention in event
+				Span triggerSpan = mention.anchorJetExtent;	//e.g., doc - null , end - 212 , start - 205
 				triggers.add(eType + ":" + triggerSpan);
 				for (AceEventMentionArgument argument : mention.arguments) {
 					AceMention arg = argument.value;
 // doesn't really get head
-					arguments.add(eType + ":" + arg.getJetHead());
+					arguments.add(eType + ":" + arg.getJetHead());	//return jetHead
 					roles.add(eType + ":" + argument.role + ":" + arg.getJetHead());
 				}
 			}

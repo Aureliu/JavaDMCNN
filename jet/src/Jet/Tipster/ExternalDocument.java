@@ -94,8 +94,8 @@ public class ExternalDocument extends Document {
 					StringBuffer fileText = new StringBuffer();		//store all text in filename
 					while((line = reader.readLine()) != null)
 						fileText.append(line + "\n");
-					String text = fileText.toString();
-					SGMLProcessor.allTags = allTags;
+					String text = fileText.toString();  //Store the converted text
+					SGMLProcessor.allTags = allTags;	
 					SGMLProcessor.emptyTags = emptyTags;
 					Document doc = SGMLProcessor.sgmlToDoc (this, text, SGMLtags);	//Because format.equals("sgml")
 					open = true;
