@@ -273,7 +273,10 @@ public class EventTagger {
 		}
 		return d;
 	}
-
+	
+	/**
+	 * v-mingdi
+	 */
 	private Annotation findContainingSentence (Document doc, Span span) {
 		Vector sentences = doc.annotationsOfType ("sentence");
 		if (sentences == null) {

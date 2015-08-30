@@ -24,6 +24,10 @@ import opennlp.model.*;
  *  contains top-level methods for training EventTagger.
  */
  
+/**
+ * v-mingdi
+ */
+
 public class TrainEventTagger {
 	
 	static final String eventFeatureFileName =  "eventFeatureFile.log";
