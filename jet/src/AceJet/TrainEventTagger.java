@@ -88,7 +88,7 @@ public class TrainEventTagger {
 		fileListTrain = args[1];
 		docDir = args[2];
 		if (!docDir.endsWith("/")) docDir += "/";
-		EventTagger.docDir = docDir;
+		EventTagger.docDir = docDir;	// docDir in EventTagger is static value
 		outputDir = args[3];
 		if (!outputDir.endsWith("/")) outputDir += "/";
 		EventTagger.glarfDir = null;
@@ -106,11 +106,11 @@ public class TrainEventTagger {
 		AceDocument.ace2005 = true;
 		// collect patterns and build argument models
 		EventTagger et = new EventTagger();
-		et.argFeatureWriter = new PrintStream (new FileOutputStream (outputDir + argFeatureFileName));
+		et.argFeatureWriter = new PrintStream (new FileOutputStream (outputDir + argFeatureFileName));	//../path/argFeatureHalfFile.log specify the file to record the parameters
 		et.roleFeatureWriter = new PrintStream (new FileOutputStream (outputDir + roleFeatureFileName));
 		System.out.println ("\n===== Acquiring patterns and training argument model. =====\n");
-		train (et, fileListTrain, 0);
-		train (et, fileListTrain, 1);
+		train (et, fileListTrain, 0);	//	FileListTrain is list of files to be processed.
+		train (et, fileListTrain, 1);	//	
 		et.report (outputDir + eventReportFile);
 		et.argFeatureWriter.close();
 		et.roleFeatureWriter.close();
@@ -118,7 +118,7 @@ public class TrainEventTagger {
 		buildClassifierModel(outputDir + roleFeatureFileName, outputDir + roleModelFileName);
 		et.save (outputDir + eventPatternFile);
 		System.out.println ("\n===== Training event model. =====\n");
-		trainEventModel (et);
+		trainEventModel (et);	//	The event model -- the classifier which decides whether to actually report an event.
 		System.out.println ("\n===== Training coreference model. =====\n");
 		trainCorefModel (et);
 	}
@@ -140,7 +140,7 @@ public class TrainEventTagger {
 		et.argFeatureWriter = new PrintStream (new FileOutputStream (outputDir + argFeatureHalfFileName));
 		et.roleFeatureWriter = new PrintStream (new FileOutputStream (outputDir + roleFeatureHalfFileName));
 		// train patterns on odd documents
-		train (et, fileListTrain, 0);
+		train (et, fileListTrain, 0);	//	trains an event tagger from a set of text and APF files.
 		train (et, fileListTrain, 1);
 		et.save (outputDir + halfEventPatternFile);
 		// build arg models (half) and load them
