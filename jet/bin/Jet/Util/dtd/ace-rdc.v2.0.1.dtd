@@ -1,0 +1,292 @@
+<!-- 
+			      A DTD for
+		     Reference Key Annotation of
+			   EDT Entities and
+			 RDC Relations in the
+			   ACE Evaluations
+
+			  John C. Henderson
+				MITRE
+                             2000-01-05
+
+v 1.1 Added versioning for semantic compatibility.
+      Added CHARSEQ in reponse to request from George Doddington.
+      Replaced ENTITY_NAME tag for encoding attribute with a general
+      ENTITY_ATTRIBUTES tag within which can be multiple attributes,
+      the only one of which we now have being NAME.
+
+v 1.2 Added extra attributes to SOURCE_FILE element, indicating source,
+      author and encoding.
+
+v 1.3 Added ROLE attribute under entity_mention and added GENERIC attribute
+      under entity_type.  Also added REFERENCE attribute to entity_mention
+      to indicate whether literal or intended.  Also changed ID attribute value
+      within document to CDATA (instead of ID)
+
+v 1.4 Added support for RDC relations, their attributes and mentions.
+      Also cleaned up and brought things up to date for EDT entities.
+      2002/03/24.  David Day.
+
+v 1.4.2 Removed rel_arg_role element, since this is now established within
+        SUBTYPE attribute on relation elements.  Added NA as valid value for
+        entity_mention REFERENCE attribute.
+        2002/05/01.  David Day.
+
+v 1.4.3 Changed all RELATION SUBTYPE values to use hyphens instead of underscore
+        characters in the case of multi-word phrases (e.g., "LOCATED-IN").
+        2002/05/28.  David Day.
+
+v 1.4.4 Modified RELATION element SUBTYPE attribute values: Added BASED-IN.
+        Removed NA from ENTITY_MENTION attribute values for ROLE and REFERENCE.
+        Instead of being REQUIRED these attributes are now IMPLIED (that is,
+        they are optional).
+
+v 2.0   SUBTYPE modifications:
+          Added:   CLIENT.
+          Changed: MEMBER-OF to MEMBER.
+          Removed: CONTAINED-IN.
+        VERSION modifications:
+          Changed: 1.4.4 to 2.0.
+        David; 2002-06-20.
+
+v 2.0.1 SUBTYPE modifications:
+		  Added: FROM
+				 BRANCH
+			     LOCATED-IN (LOCATED already existed; left both)
+		Robyn; 2002-06-28
+
+-->
+
+<!-- URI should be a unique identifier for the source file in question.
+     SOURCE is a more general indicator of the news source from whence
+       the source_file has been retrieved.  Likely values are CNN, APW,
+       NPR, etc.
+     TYPE indicates general class of signal (text, audio or image).
+     VERSION attribute is used to perform optionaly versioning by
+       matching against its value.
+     AUTHOR attribute value should indicate the organization and/or
+       person who produced the annotations contained in this file
+       (e.g., "Ramshaw/BBN", "Ferro/MITRE", etc.).
+     ENCODING indicates type-specific encoding standard being used
+       in source file, such as UTF-8 for text data, wav for speech
+       signals, etc.
+
+-->     
+
+<!ELEMENT source_file      (document)+>
+<!ATTLIST source_file
+                           URI      CDATA              #REQUIRED
+                           SOURCE   CDATA              #IMPLIED
+                           TYPE     (text|audio|image) #REQUIRED
+                           VERSION  (2.0)              #IMPLIED
+                           AUTHOR   CDATA              #IMPLIED
+                           ENCODING CDATA              #IMPLIED
+>
+
+
+<!-- By giving document ID the XML type ID (see entity), an implicit
+     promise is being made that there will be no duplicate document
+     IDs in a file.  CDATA will be used for now because IDREFs should
+     not be allowed to point to these DOCID ID's. --> 
+<!ELEMENT document         (entity*,relation*)>
+<!ATTLIST document
+                           DOCID CDATA #REQUIRED
+>
+
+
+<!-- ********************************************** -->
+<!-- Entities, their attributes and their mentions. -->
+<!-- ********************************************** -->
+
+
+<!ELEMENT entity           (entity_type,entity_mention+,entity_attributes*)>
+<!ATTLIST entity
+                           ID CDATA #REQUIRED
+>
+
+
+<!-- The entity type is allowed to be PERSON, ORGANIZATION, FACILITY
+     LOCATION, or GPE.  It is treated as parsed character data,
+     permitting multiple assignments and the possibility of dealing
+     with metonymy. -->
+
+
+
+
+
+<!ELEMENT entity_type      (#PCDATA)>
+<!ATTLIST entity_type
+                           GENERIC (TRUE|FALSE) #REQUIRED
+>
+
+
+<!-- XML is rather awkward in handling the polymorphic type
+     entity_attribute.  It would be preferrable to make two separate
+     elements,  one for TYPE and one for NAME attributes. -->
+
+<!ELEMENT entity_mention   (extent,head)>
+<!ATTLIST entity_mention
+                           ID        CDATA                    #REQUIRED
+                           TYPE      (NAME|NOMINAL|PRONOUN)   #REQUIRED
+			   ROLE      (PER|ORG|LOC|GPE|FAC)    #IMPLIED
+			   REFERENCE (LITERAL|INTENDED)       #IMPLIED
+>
+
+<!-- There may be new attributes introduced in the future.  We incorporate
+     additional attributes underneath the single entity_attributes tag.
+     The name indexes directly into a portion of the signal, using one
+     of the four indexing types. -->
+
+<!ELEMENT entity_attributes (name*)>
+
+<!ELEMENT name             (bblist|charspan|charseq|timespan)>
+
+
+<!-- The extent is the maximal subset of the signal permitted in
+     judging correctness, and the head is the minimal subset. -->
+
+<!ELEMENT extent           (bblist|charspan|charseq|timespan)>
+<!ELEMENT head             (bblist|charspan|charseq|timespan)>
+
+
+<!-- A list of bounding boxes is needed to describe wrapped words in
+     an image. -->
+
+<!ELEMENT bblist           (pixelboundingbox)+>
+
+
+<!-- Alternate habits for describing bounding boxes.
+     Both can be supported because the tags wrap the elements. 
+     (x1,y1) will presumably be upper left point and 
+     (x2,y2) will be lower right point (suggested by English
+     reading order). --> 
+
+<!ELEMENT pixelboundingbox (x1,((x2,y1,y2)|(y1,x2,y2)))>
+
+<!-- A character SPAN (charspan) is a pair of indices that wraps
+     the signal being annotated in text.   This means that the first
+     index points to the imaginary gap *before* the first character
+     and the second index points to the imaginary gap *after* the
+     final character in the span.
+
+     A character SEQUENCE (charseq) is a pair of indices pointing to
+     the first and last character of the text being annotated.  This
+     means that the first index points to the first character of the
+     text being annotated (which is the same as pointing to the
+     imaginary gap *before* the first character), and the second index
+     points to the last character in the annotated text (the imaginary
+     gap *before* the last character in the annotated text). -->
+
+<!ELEMENT charspan         (start,end)>
+<!ELEMENT charseq          (start,end)>
+<!ELEMENT timespan         (start,end)>
+
+
+<!-- Perhaps these next elements are better suited to life as
+     attributes of the previous elements.  This is  an artform, after
+     all.  The other version would be *equivalent*, which is all
+     anyone should ask. -->
+
+<!ELEMENT x1               (#PCDATA)>
+<!ELEMENT x2               (#PCDATA)>
+<!ELEMENT y1               (#PCDATA)>
+<!ELEMENT y2               (#PCDATA)>
+<!ELEMENT start            (#PCDATA)>
+<!ELEMENT end              (#PCDATA)>
+
+<!-- *********************************************** -->
+<!-- RELATIONS, their attributes and their mentions. -->
+<!-- *********************************************** -->
+
+<!--
+
+All relations are specified by the combination of their TYPE and their SUBTYPE.
+Valid TYPE/SUBTYPE pairs are specified in this comment, but are *not* validated
+via the XML DTD, which merely ensures that all values are of selected from the
+basic set of values.  Further type checking may come later.
+
+TYPE="AT" SUBTYPE="Based-In"
+TYPE="AT" SUBTYPE="Located"
+TYPE="AT" SUBTYPE="Residence"
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TYPE="NEAR" SUBTYPE="Relative-Location"
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TYPE="PART" SUBTYPE="Affiliate-Partner"
+TYPE="PART" SUBTYPE="Member"
+TYPE="PART" SUBTYPE="Other"
+TYPE="PART" SUBTYPE="Part-Of"
+TYPE="PART" SUBTYPE="Subsidiary"
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TYPE="ROLE" SUBTYPE="Affiliate-Partner"
+TYPE="ROLE" SUBTYPE="Citizen-Of"
+TYPE="ROLE" SUBTYPE="Client"
+TYPE="ROLE" SUBTYPE="Founder"
+TYPE="ROLE" SUBTYPE="General-Staff"
+TYPE="ROLE" SUBTYPE="Management"
+TYPE="ROLE" SUBTYPE="Member"
+TYPE="ROLE" SUBTYPE="Other"
+TYPE="ROLE" SUBTYPE="Owner"
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TYPE="SOC" SUBTYPE="Associate"
+TYPE="SOC" SUBTYPE="Grandparent"
+TYPE="SOC" SUBTYPE="Other-Personal"
+TYPE="SOC" SUBTYPE="Other-Professional"
+TYPE="SOC" SUBTYPE="Other-Relative"
+TYPE="SOC" SUBTYPE="Parent"
+TYPE="SOC" SUBTYPE="Sibling"
+TYPE="SOC" SUBTYPE="Spouse"
+
+And what about: CONTAINED-IN
+
+-->
+
+<!ELEMENT relation           (rel_entity_arg+,relation_mentions*)>
+<!ATTLIST relation           ID       CDATA                     #REQUIRED
+                             TYPE     (AT|ROLE|PART|SOC|NEAR)   #REQUIRED
+                             SUBTYPE  (LOCATED|LOCATED-IN|BASED-IN|RESIDENCE|PART-OF|MEMBER|SUBSIDIARY|BRANCH|AFFILIATE-PARTNER|OTHER|GENERAL-STAFF|CLIENT|MANAGEMENT|OWNER|FOUNDER|CITIZEN-OF|FROM|OTHER-PROFESSIONAL|PARENT|SIBLING|SPOUSE|GRANDPARENT|OTHER-RELATIVE|OTHER-PERSONAL|RELATIVE-LOCATION|ASSOCIATE) #REQUIRED
+                             CLASS    (EXPLICIT|IMPLICIT) #REQUIRED
+>
+
+<!-- Note: rel_entity_arg elements carry all their information within
+     their arguments, so they be "empty" (without any further xml
+     or PCDATA content).  -->
+
+<!ELEMENT rel_entity_arg   (#PCDATA)>
+<!ATTLIST rel_entity_arg   ENTITYID CDATA  #REQUIRED
+                           ARGNUM   CDATA  #REQUIRED
+>
+
+<!ELEMENT relation_mentions   (relation_mention+)>
+
+<!-- We assign an ID to each relation_mention, just in case we later need to
+     refer to these individually, in a way analogous to how entity_mention
+     elements are referred to by relation_mentions.
+-->
+
+<!ELEMENT relation_mention      (rel_mention_arg+,rel_mention_time*)>
+<!ATTLIST relation_mention      ID CDATA  #REQUIRED
+>
+
+<!ELEMENT rel_mention_arg       (#PCDATA)>
+<!ATTLIST rel_mention_arg       MENTIONID CDATA  #REQUIRED
+                                ARGNUM    CDATA  #REQUIRED
+>
+
+<!-- The rel_mention_time element may be of two basic types: VALUE or ANCHOR.
+     If type VALUE,  the two attributes that it must specify are VAL and MOD.
+     If type ANCHOR, the two attributes that it must specify are VAL and DIR.
+     In each case the source string of the time information should be specified
+     via the source element.
+
+-->
+
+<!ELEMENT rel_mention_time  (source*)>
+<!ATTLIST rel_mention_time
+                            TYPE  (VALUE|ANCHOR) #REQUIRED
+                            VAL   CDATA          #REQUIRED
+                            MOD   CDATA          #IMPLIED
+                            DIR   CDATA          #IMPLIED
+>
+
+<!ELEMENT source            (extent)>
+

@@ -1,0 +1,137 @@
+<!-- 
+
+A DTD for REFERENCE KEY annotation transfer in the ACE Pilot Study.
+
+John C. Henderson
+MITRE
+20000105
+
+v 1.1 Added versioning for semantic compatibility.
+      Added CHARSEQ in reponse to request from George Doddington.
+      Replaced ENTITY_NAME tag for encoding attribute with a general
+      ENTITY_ATTRIBUTES tag within which can be multiple attributes,
+      the only one of which we now have being NAME.
+v 1.2 Added extra attributes to SOURCE_FILE element, indicating source,
+      author and encoding.
+      -->
+
+<!-- URI should be a unique identifier for the source file in question.
+     SOURCE is a more general indicator of the news source from whence
+       the source_file has been retrieved.  Likely values are CNN, APW,
+       NPR, etc.
+     TYPE indicates general class of signal (text, audio or image).
+     VERSION attribute is used to perform optionaly versioning by
+       matching against its value.
+     AUTHOR attribute value should indicate the organization and/or
+       person who produced the annotations contained in this file
+       (e.g., "Ramshaw/BBN", "Ferro/MITRE", etc.).
+     ENCODING indicates type-specific encoding standard being used
+       in source file, such as UTF-8 for text data, wav for speech
+       signals, etc.
+     -->     
+
+<!ELEMENT source_file      (document)+>
+<!ATTLIST source_file
+                           URI      CDATA              #REQUIRED
+                           SOURCE   CDATA              #IMPLIED
+                           TYPE     (text|audio|image) #REQUIRED
+                           VERSION  (1.2)              #IMPLIED
+                           AUTHOR   CDATA              #IMPLIED
+                           ENCODING CDATA              #IMPLIED
+>
+
+
+<!-- By giving document ID the XML type ID (see entity), an implicit
+     promise is being made that there will be no duplicate document
+     IDs in a file.  CDATA will be used for now because IDREFs should
+     not be allowed to point to these DOCID ID's. --> 
+<!ELEMENT document         (entity)*>
+<!ATTLIST document
+                           DOCID CDATA #REQUIRED
+>
+
+
+<!ELEMENT entity           (entity_type,entity_mention+,entity_attributes*)>
+<!ATTLIST entity
+                           ID ID #REQUIRED
+>
+
+
+<!-- The entity type is allowed to be PERSON, ORGANIZATION, FACILITY
+     LOCATION, or GSP.  It is treated as parsed character data,
+     permitting multiple assignments and the possibility of dealing
+     with metonymy. -->
+
+<!ELEMENT entity_type      (#PCDATA)>
+
+
+<!-- XML is rather awkward in handling the polymorphic type
+     entity_attribute.  It would be preferrable to make two separate
+     elements,  one for TYPE and one for NAME attributes. -->
+
+<!ELEMENT entity_mention   (extent,head)>
+<!ATTLIST entity_mention
+                           TYPE (NAME|NOMINAL|PRONOUN) #REQUIRED
+>
+
+<!-- There may be new attributes introduced in the future.  We incorporate
+     additional attributes underneath the single entity_attributes tag.
+     The name indexes directly into a portion of the signal, using one
+     of the four indexing types. -->
+
+<!ELEMENT entity_attributes (name*)>
+
+<!ELEMENT name             (bblist|charspan|charseq|timespan)>
+
+
+<!-- The extent is the maximal subset of the signal permitted in
+     judging correctness, and the head is the minimal subset. -->
+
+<!ELEMENT extent           (bblist|charspan|charseq|timespan)>
+<!ELEMENT head             (bblist|charspan|charseq|timespan)>
+
+
+<!-- A list of bounding boxes is needed to describe wrapped words in
+     an image. -->
+
+<!ELEMENT bblist           (pixelboundingbox)+>
+
+
+<!-- Alternate habits for describing bounding boxes.
+     Both can be supported because the tags wrap the elements. 
+     (x1,y1) will presumably be upper left point and 
+     (x2,y2) will be lower right point (suggested by English
+     reading order). --> 
+
+<!ELEMENT pixelboundingbox (x1,((x2,y1,y2)|(y1,x2,y2)))>
+
+<!-- A character SPAN (charspan) is a pair of indices that wraps
+     the signal being annotated in text.   This means that the first
+     index points to the imaginary gap *before* the first character
+     and the second index points to the imaginary gap *after* the
+     final character in the span.
+
+     A character SEQUENCE (charseq) is a pair of indices pointing to
+     the first and last character of the text being annotated.  This
+     means that the first index points to the first character of the
+     text being annotated (which is the same as pointing to the
+     imaginary gap *before* the first character), and the second index
+     points to the last character in the annotated text (the imaginary
+     gap *before* the last character in the annotated text). -->
+
+<!ELEMENT charspan         (start,end)>
+<!ELEMENT charseq          (start,end)>
+<!ELEMENT timespan         (start,end)>
+
+
+<!-- Perhaps these next elements are better suited to life as
+     attributes of the previous elements.  This is  an artform, after
+     all.  The other version would be *equivalent*, which is all
+     anyone should ask. -->
+
+<!ELEMENT x1               (#PCDATA)>
+<!ELEMENT x2               (#PCDATA)>
+<!ELEMENT y1               (#PCDATA)>
+<!ELEMENT y2               (#PCDATA)>
+<!ELEMENT start            (#PCDATA)>
+<!ELEMENT end              (#PCDATA)>

@@ -1,0 +1,129 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>JET Patterns</title>
+</head>
+<body>
+The Pat package encapsulates the basic pattern application
+mechanism of Jet, sets of pattern/action rules which can be&nbsp; applied
+to a document to add or modify annotations on the document.&nbsp; The external
+form of the pattern language is described below;&nbsp; the classes used
+to encode these patterns are summarized <a href="doc-files/pattern classes.html">separately</a>.
+<h2>
+Pattern Language</h2>
+The external form of a pattern collection, as it appears on a file, is
+a sequence of pattern statements, where each pattern statement is terminated
+by a semicolon.&nbsp; The basic language has two statement types, a <i>pattern
+definition</i> statement and a <i>when</i> statement, which indicates the
+action to be performed when a pattern is matched.
+<h3>
+Pattern Definition</h3>
+A pattern definition has the form
+<blockquote>pattern-name : = option<sub>1</sub> | option<sub>2</sub> |
+... ;</blockquote>
+where where <i>pattern-name</i> is a sequence of letters beginning with
+a lower-case letter, and each option<sub>i</sub> is a sequence of repeated-pattern-elements
+separated by spaces.&nbsp; A repeated pattern element has one of the forms
+<blockquote>pattern-element
+<br>pattern-element ?
+<br>pattern-element *
+<br>pattern-element +</blockquote>
+to indicate exactly one, zero or one, zero or more, one or more instances
+of pattern-element.&nbsp; <i>Pattern-element</i> in turn may be
+<blockquote>a string:&nbsp; "quack"
+<br>an annotation:&nbsp; [type feature=value&nbsp; feature=value ...]
+<br>the name of another pattern
+<br>an alternation:&nbsp; ( option1 | option2 | ... )
+<br>as assignment pattern element:&nbsp; variable = value</blockquote>
+A string pattern element matches an annotation of type <b>token</b> spanning
+the specified string.&nbsp; An annotation pattern element matches an annotation
+which has the specified type and features (and may have additional features).
+<h3>
+Variables</h3>
+A variable name is a sequence of letters beginning with a capital letter.&nbsp;
+A variable may be bound in a pattern in two ways.&nbsp; An assignment pattern
+element
+<blockquote>variable = value</blockquote>
+binds <i>variable</i> to <i>value</i>.&nbsp; At present, the only values
+allowed are integers.&nbsp; A parenthesized pattern may be followed by
+a colon (:) and variable name
+<blockquote>(pattern ) : variable</blockquote>
+This binds the variable to the <i>span</i> of the document matched by the
+pattern.
+<h3>
+When Statements and Actions</h3>
+When statements associate patterns with sequences of actions.&nbsp; When
+the pattern is matched in a document, the associated actions are performed.&nbsp;
+The when statement has the form
+<blockquote><b>when</b> pattern-name, action<sub>1</sub>, action<sub>2</sub>,
+... ;</blockquote>
+At present, three actions are implemented:&nbsp; the <b>add</b> action,
+which adds an annotation, and <b>print</b> action, and the <b>write</b>
+action.
+<h4>
+<b>The</b> <b><u>add</u></b> action</h4>
+The <b>add</b> action adds an annotation to the text.&nbsp; It has the
+form
+<blockquote><b>add</b> [annotation-type feature=value feature=value ...]</blockquote>
+or
+<blockquote><b>add</b> [annotation-type feature=value feature=value ...]
+<b>over</b> variable</blockquote>
+In the first form, the span of the new annotation is the text matched by
+the pattern.&nbsp; In the second form, the variable must have been bound
+to a span as part of the pattern matching;&nbsp; this is used as the span
+of the new annotation.
+<h4>
+The <u>print</u> action</h4>
+The print action has the form
+<blockquote><b>print</b> stringExpression</blockquote>
+where stringExpression can be a string (enclosed in double quotes), a variable,
+or a sequence of two or more strings and variables separated by plus signs
+(+).&nbsp; A variable in a stringExpression should have been bound to a
+span or an annotation as part of the pattern matching process;&nbsp; the
+<b>print</b> action prints the text subsumed by that span or annotation.&nbsp;
+If the stringExpression contains two or more items, they are concatenated
+and the result printed together on a single line.&nbsp; The output is sent
+to the Jet console.
+<h4>
+The <u>write</u> action</h4>
+The write action has the form
+<blockquote><b>write</b> stringExpression</blockquote>
+It has the same semantics as the <b>print</b> action, except that the output
+is written to standard output.
+<h3>
+Pattern Sets and Pattern Matching Process</h3>
+The <b>when</b> statements are organized into <i>pattern sets</i>.&nbsp;
+The statement
+<blockquote><b>pattern set </b>name;</blockquote>
+indicates that all following when statements (until the next pattern set
+statment) belong to pattern set <i>name.</i> The basic 'top level' operation
+in Jet is the application of a pattern set to a sentence.<i></i>
+<p>The process begins by matching all patterns in the pattern set (i.e.,
+all patterns referenced by <b>when</b> statements in the pattern set) starting
+at the first token of the sentence.&nbsp; If several patterns match, we
+select the pattern which matches the longest portion of the text.&nbsp;
+If several patterns match the same (longest) portion, we select the pattern
+whose <b>when</b> statement appeared first in the pattern file.&nbsp; The
+actions associated with the selected pattern are then executed in sequence
+(if no pattern matches, no actions are performed).<i></i>
+<p>The starting point for pattern matching is then advanced and the process
+is repeated.&nbsp; If any of the actions created new annotations, the starting
+point is set to the maximum of thes end of the annotations.&nbsp; If no
+new annotation was created, the starting point is advanced by one token.&nbsp;
+The matching continues until the starting point reaches the end of the
+sentence.
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>

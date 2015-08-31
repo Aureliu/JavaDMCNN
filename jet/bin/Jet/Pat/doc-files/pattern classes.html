@@ -1,0 +1,100 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ralph Grishman">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en]C-CCK-MCD NSCPCD47  (Win95; I) [Netscape]">
+   <title>Pattern Classes</title>
+</head>
+<body>
+
+<h1>
+The Pattern Classes</h1>
+
+<h3>
+Overview:&nbsp; two representations of patterns</h3>
+A <b>PatternCollection</b> consists of a set of (named) patterns and a
+sequence of <b>PatternSets</b>.&nbsp; Each <b>PatternSet</b> consists in
+turn of a sequence of <b>PatternRules</b>.&nbsp; A <b>PatternRule</b> specifies
+a pattern to look for in the input text, and a sequence of <b>Actions</b>
+to be performed if this pattern is found.&nbsp; It has the structure
+<blockquote><b>when</b> pattern, action, action, ...</blockquote>
+The basic top-level pattern-matching operation in JET is the application
+of a <b>PatternSet</b> to a text segment, by the method PatternSet.apply().
+<p>There are two different representations used internally for patterns
+and rules.&nbsp; The first representation (the <i>pattern and rule</i>
+representation) corresponds closely to the structure of a pattern file:&nbsp;
+each pattern is represented separately as a sequence of pattern elements,
+and a pattern set is represented as a sequence of rules, where each rule
+consists of a pattern (name) and actions.&nbsp; This representation is
+used when the pattern file is being read in.&nbsp; It would also be suitable
+in the future if we provide some facility for editing patterns interactively.
+<p>Once the patterns have all be read in (or, in the future, after the
+patterns are modified), each pattern set is converted to a <i>pattern graph</i>.&nbsp;
+The graph is a representation of all the patterns in a <b>PatternSet</b>
+as a single directed graph.&nbsp; Optional elements, repeated elements,
+and references within one pattern to other patterns are "expanded" in the
+graph;&nbsp; this simplifies the process of pattern matching.&nbsp; More
+importantly, however, the graph is created with a view to graph optimizations
+which may be performed in the future.&nbsp; Identical arcs leading from
+a node can be merged into a single arc (this corresponds to identifying
+common pattern prefixes).&nbsp; In addition, if a large number of arcs
+leading from a single node match different strings, these can be reduced
+to a hash table to avoid sequential matching of the current token against
+each string..
+<h3>
+AtomicPatternElements</h3>
+<b>AtomicPatternElements</b> (an abstract class) are <b>PatternElements</b>
+which do not contain embedded references to other <b>PatternElements</b>.Examples
+are <b>TokenStringPatternElement</b> (which matches a particular string
+appearing as a token), <b>AnnotationPatternElement</b> (which matches an
+annotation on the document), and <b>IntegerPatternElement</b> (which matches
+an integer token).&nbsp; In the graph representation of the pattern set,
+each arc is labeled with an <b>AtomicPatternElement</b>.
+<h3>
+PatternElements</h3>
+In the <i>pattern and rule</i> representation, the patterns are represented
+as nested sets of <b>PatternElements</b>.&nbsp; <b>PatternElement</b> is
+the abstract class which includes both <b>AtomicPatternElements</b> (described
+just above) and various classes for composing pattern elements, such as
+<b>PatternRepetition</b>,
+<b>PatternSequence</b>,
+and <b>PatternAlternation</b>.&nbsp; For example, the pattern
+<blockquote><tt>p1 p2 | p3*</tt></blockquote>
+is represented as a <b>PatternAlternation</b> with two alternatives;&nbsp;&nbsp;
+the first alternative ("<tt>p1 p2</tt>") is a <b>PatternSequence</b> with
+two elements, <tt>p1</tt> and <tt>p2</tt>;&nbsp; while the second alternative
+("<tt>p3*</tt>") is a <b>PatternRepetition</b>.
+<p>Every class of <b>PatternElement</b> has a <tt>toGraph</tt> method for
+converting the element into a pattern graph.
+<h3>
+PatternGraphs</h3>
+A pattern graph consists of <b>PatternNodes</b> connected by <b>PatternArcs</b>.&nbsp;
+Associated with each PatternArc is an <b>AtomicPatternElement</b> -- the
+condition under which this arc may be traversed when matching the pattern
+graph against the text.&nbsp; PatternNodes are divided into <b>InternalPatternNodes</b>
+and <b>FinalPatternNodes</b>.&nbsp; <b>InternalPatternNodes</b> have outgoing
+edges (the alternative pattern elements to matched in the next step of
+pattern matching).&nbsp; <b>FinalPatternNodes</b> have sets of actions
+-- the actions to be performed if the pattern matching process successfully
+reaches this point.
+<p>Associated with <b>PatternNodes</b> is an <tt>eval</tt> method which
+matches the graph rooted at that node against the text.&nbsp; The <tt>eval</tt>
+method on a node invokes the eval method on each <b>PatternArc</b> leaving
+the node.&nbsp; The <tt>eval</tt> method on the arc invokes in turn the
+<tt>eval</tt>
+method on the <b>AtomicPatternElement</b> associated with the arc;&nbsp;
+the latter <tt>eval</tt> methods actually test the document (for the presence
+of a particular token, for example).
+<h3>
+Translating Repetitions</h3>
+In the pattern-and-rule representation, a repetition (A?, A+, or A*) is
+represented by a <b>PatternRepetition</b> object.&nbsp; This is translated
+into a graph structure.&nbsp; A* is translated into
+<br><img src="Astar.gif" height="139" width="239">
+<br>while A+ is translated into
+<br><img SRC="Aplus.gif" height="138" width="223">
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>
