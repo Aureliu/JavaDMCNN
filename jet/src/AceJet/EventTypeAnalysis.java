@@ -1,4 +1,5 @@
 package AceJet;
+
 //Author:       Mingxuan Di
 //Date:         AUgust 2015
 
@@ -10,7 +11,12 @@ import jxl.write.Number;
 import jxl.*;
 import jxl.write.biff.RowsExceededException;
 
-public class DataAnalysis {
+/**
+ *  EventTypeAnalysis implements the analysis of event subtype
+ *  in corpus 
+ */
+
+public class EventTypeAnalysis {
 	
 	static String textDirectory;
 	static String textExtension;

@@ -534,7 +534,7 @@ public class Document implements Serializable {
 		boolean collecting = false;
 
 		for (int i = start; i < end && i < text.length(); ++i) {
-			char c = text.charAt(i);
+			char c = text.charAt(i);	//@ Di whole text 
 			if (c == '<') {
 				collecting = true;
 				token = new StringBuffer();

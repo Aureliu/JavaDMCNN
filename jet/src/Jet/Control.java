@@ -52,7 +52,7 @@ public class Control {
 	public static void processDocument(Document doc, BufferedWriter writer, boolean viewable,
 			int docNo) throws IOException {
 
-		String script = JetTest.config.getProperty("processDocument");
+		String script = JetTest.config.getProperty("processDocument");	//The processDocument script is defined by default.
 		if (script == null || script.length() == 0) {
 			Console.println("*** System error: no processDocument script.");
 			return;
@@ -60,7 +60,7 @@ public class Control {
 		// if there is a name tagger, clear its cache
 		if (JetTest.nameTagger != null)
 			JetTest.nameTagger.newDocument();
-		applyScript(doc, new Span(0, doc.length()), script);
+		applyScript(doc, new Span(0, doc.length()), script);	// @Di length is the text in doc, excluding blank of paragraph
 		String type = JetTest.config.getProperty("WriteSGML.type");
 		if (type != null) {
 			System.out.println("Writing document " + docNo);
@@ -112,7 +112,7 @@ public class Control {
 					Console.println("*** No script for " + scriptName);
 					continue;
 				}
-				Vector zones = doc.annotationsOfType(zoneType, span);
+				Vector zones = doc.annotationsOfType(zoneType, span);	//@Di function, returns span of Type in span
 				if (zones == null) {
 					// Console.println("*** No annotations of type " + zoneType);
 					continue;
@@ -123,7 +123,7 @@ public class Control {
 				}
 			} else if (action.startsWith("tag(") && action.endsWith(")")) {
 				String tagName = action.substring(4, action.length() - 1).trim();
-				doc.annotateWithTag(tagName);
+				doc.annotateWithTag(tagName);//@ Di e.g., text
 			} else if (action.startsWith("shrink(") && action.endsWith(")")) {
 				String tagName = action.substring(7, action.length() - 1).trim();
 				doc.shrink(tagName);

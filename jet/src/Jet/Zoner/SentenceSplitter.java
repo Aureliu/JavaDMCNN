@@ -85,7 +85,9 @@ public class SentenceSplitter {
    *  not-sentence-ending abbreviation (such as a title) or a single capital
    *  letter.
    */
-
+  /**
+   * v-mingdi
+   */
   public static void split (Document doc, Span textSpan) {
     int start = textSpan.start();
     int end = textSpan.end();
@@ -122,7 +124,7 @@ public class SentenceSplitter {
         sentenceEnd = nextTokenStart;
         doc.annotate("sentence", new Span (sentenceStart, sentenceEnd), null);
         // System.out.println ("Sentence from " + sentenceStart + " to " + sentenceEnd);
-        sentenceStart = sentenceEnd;
+        sentenceStart = sentenceEnd;	//Iterator
         startOfSentence = true;
       } else {
       	startOfSentence = false;

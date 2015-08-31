@@ -3,8 +3,9 @@ package Jet_release;
 import java.io.IOException;
 
 import AceJet.Ace;
-import AceJet.DataAnalysis;
 import AceJet.EventScorer;
+import AceJet.EventTypeAnalysis;
+import AceJet.SentenceAnalysis;
 import AceJet.TrainEventTagger;
 
 public class Jet_release {
@@ -44,13 +45,26 @@ public class Jet_release {
 //        args[6] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
 //        args[7] = "apf.xml";
     	
-        args = new String[6];
-        args[0] = "-analysis";
-        args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
-        args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
-        args[3] = "sgm";    
-        args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
-        args[5] = "apf.xml";
+//        args = new String[6];
+//        args[0] = "-EventTypeAnalysis";
+//        args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//        args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//        args[3] = "sgm";    
+//        args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//        args[5] = "apf.xml";
+        
+		args = new String[6];
+		args[0] = "-SentenceAnalysis";
+		args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
+		args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
+		args[3] = "sgm";    
+		args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
+		args[5] = "apf.xml";      
+//      args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//      args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[3] = "sgm";    
+//      args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[5] = "apf.xml";
         
         if (args.length != 5 && args.length != 6 && args.length != 8) {
             PrintErrMsg();
@@ -79,12 +93,19 @@ public class Jet_release {
                 }
                 EventScorer.main(score_args);
                 break;
-            case "-analysis":
-                String[] analysis_args = new String[5];
+            case "-EventTypeAnalysis":
+                String[] EventTypeAnalysis_args = new String[5];
                 for (int i = 0; i < 5; i++) {
-                	analysis_args[i] = args[i + 1];
+                	EventTypeAnalysis_args[i] = args[i + 1];
                 }
-                DataAnalysis.main(analysis_args);
+                EventTypeAnalysis.main(EventTypeAnalysis_args);
+                break;
+            case "-SentenceAnalysis":
+                String[] SentenceAnalysis_args = new String[5];
+                for (int i = 0; i < 5; i++) {
+                	SentenceAnalysis_args[i] = args[i + 1];
+                }
+                SentenceAnalysis.main(SentenceAnalysis_args);
                 break;
             default:
                 PrintErrMsg();

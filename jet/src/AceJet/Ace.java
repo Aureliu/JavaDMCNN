@@ -311,7 +311,7 @@ public class Ace {
 		}
 		doc.setAllTags(true);// if true, all tags should be converted to annotations
 		// doc.setEmptyTags(new String[] {"W", "TURN"});
-		doc.open();
+		doc.open();	//initialize the doc
 		AceDocument aceDoc = processDocument (doc, currentDocId, currentDocFileName, currentDocPathBase);
 		String apfFileName = outputDir + currentDocPathBase + suffix;
 		PrintWriter apf = new PrintWriter(apfFileName, JetTest.encoding);
@@ -354,7 +354,7 @@ public class Ace {
 		if (doc.annotationsOfType("dateline") == null && 
 		    doc.annotationsOfType("textBreak") == null)
 			SpecialZoner.findSpecialZones (doc);
-		Control.processDocument (doc, null, docCount == -1, docCount);
+		Control.processDocument (doc, null, docCount == -1, docCount);	// some tag is added, e.g., sentence, token, 
 		if (parseDir != null && !parseDir.equals("-")) {
 			// read in parses
 			String parseFileName = parseDir + docPathBase + parseSuffix;
