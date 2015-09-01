@@ -45,25 +45,26 @@ public class Jet_release {
 //        args[6] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
 //        args[7] = "apf.xml";
     	
-//        args = new String[6];
-//        args[0] = "-EventTypeAnalysis";
-//        args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
-//        args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
-//        args[3] = "sgm";    
-//        args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
-//        args[5] = "apf.xml";
+//      args = new String[6];
+//      args[0] = "-EventTypeAnalysis";
+//      args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//      args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[3] = "sgm";    
+//      args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[5] = "apf.xml";
         
 		args = new String[6];
 		args[0] = "-SentenceAnalysis";
-		args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
-		args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
+		args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+		args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 		args[3] = "sgm";    
-		args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1";
-		args[5] = "apf.xml";      
-//      args[1] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
-//      args[2] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+		args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+		args[5] = "apf.xml";   
+    	
+//      args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//      args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 //      args[3] = "sgm";    
-//      args[4] = "D:\\WorkSpace\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 //      args[5] = "apf.xml";
         
         if (args.length != 5 && args.length != 6 && args.length != 8) {
