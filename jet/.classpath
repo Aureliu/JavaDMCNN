@@ -17,7 +17,6 @@
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.5.jar"/>
 	<classpathentry kind="lib" path="lib/trove.jar"/>
-	<classpathentry kind="lib" path="D:/GitHub/JavaDMCNN/jet/lib/jxl-2.6.12.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/jxl-2.6.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
