@@ -28,12 +28,12 @@ public class Jet_release {
 //        args[3] = "D:\\LDC2006D06\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
 //        args[4] = "C:\\Users\\v-lesha\\Documents\\NetBeansProjects\\RBET_release\\Trainout\\";
 
-        args = new String[5];
-        args[0] = "-test";
-        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
-        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
-        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
-        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
+//        args = new String[5];
+//        args[0] = "-test";
+//        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
+//        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
+//        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
+//        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
 
 //        args = new String[8];
 //        args[0] = "-score";
@@ -53,13 +53,13 @@ public class Jet_release {
 //      args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 //      args[5] = "apf.xml";
         
-//		args = new String[6];
-//		args[0] = "-SentenceAnalysis";
-//		args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
-//		args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
-//		args[3] = "sgm";    
-//		args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
-//		args[5] = "apf.xml";   
+		args = new String[6];
+		args[0] = "-SentenceAnalysis";
+		args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+		args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+		args[3] = "sgm";    
+		args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+		args[5] = "apf.xml";   
     	
 //      args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
 //      args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
