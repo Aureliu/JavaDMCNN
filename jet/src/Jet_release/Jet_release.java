@@ -28,12 +28,21 @@ public class Jet_release {
 //        args[3] = "D:\\LDC2006D06\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
 //        args[4] = "C:\\Users\\v-lesha\\Documents\\NetBeansProjects\\RBET_release\\Trainout\\";
 
+<<<<<<< HEAD
 //        args = new String[5];
 //        args[0] = "-test";
 //        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
 //        args[2] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
 //        args[3] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
 //        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
+=======
+        args = new String[5];
+        args[0] = "-test";
+        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
+        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
+        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
+        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
+>>>>>>> origin/master
 
 //        args = new String[8];
 //        args[0] = "-score";
@@ -47,14 +56,22 @@ public class Jet_release {
     	
 //      args = new String[6];
 //      args[0] = "-EventTypeAnalysis";
+<<<<<<< HEAD
 //      args[1] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
 //      args[2] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 //      args[3] = "sgm";    
 //      args[4] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+=======
+//      args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//      args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[3] = "sgm";    
+//      args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+>>>>>>> origin/master
 //      args[5] = "apf.xml";
         
 //		args = new String[6];
 //		args[0] = "-SentenceAnalysis";
+<<<<<<< HEAD
 //		args[1] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\test";
 //		args[2] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 //		args[3] = "sgm";    
@@ -65,6 +82,18 @@ public class Jet_release {
 //      args[2] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
 //      args[3] = "sgm";    
 //      args[4] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+=======
+//		args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//		args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//		args[3] = "sgm";    
+//		args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//		args[5] = "apf.xml";   
+    	
+//      args[1] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\ACE_List";
+//      args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+//      args[3] = "sgm";    
+//      args[4] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English";
+>>>>>>> origin/master
 //      args[5] = "apf.xml";
 		
 		args = new String[6];
