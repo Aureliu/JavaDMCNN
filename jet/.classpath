@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
@@ -23,6 +24,8 @@
 	<classpathentry kind="output" path="bin"/>
 </classpath>
 =======
+=======
+>>>>>>> f6b28bfdc2c39fe5de1d23a04fb0074720f573c6
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
@@ -46,4 +49,7 @@
 	<classpathentry kind="lib" path="lib/jxl-2.6.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+>>>>>>> f6b28bfdc2c39fe5de1d23a04fb0074720f573c6
