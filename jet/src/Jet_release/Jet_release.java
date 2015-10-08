@@ -36,12 +36,12 @@ public class Jet_release {
 //        args[3] = "D:\\Corpus\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
 //        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
 
-        args = new String[5];
-        args[0] = "-test";
-        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
-        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
-        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
-        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
+//        args = new String[5];
+//        args[0] = "-test";
+//        args[1] = "D:\\GitHub\\JavaDMCNN\\jet\\props\\ace11chunker.properties";
+//        args[2] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\Testfile.txt";
+//        args[3] = "D:\\Event Mention\\LDC2006D06\\Data\\LDC2006T06_Original\\data\\English\\nw\\fp1\\";
+//        args[4] = "D:\\GitHub\\JavaDMCNN\\jet\\output\\";
 
 
 //        args = new String[8];
